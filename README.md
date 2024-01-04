@@ -1,4 +1,6 @@
-This repo only contains the locales of Tabber Extension and Website. You can use this repo to contribute to the translation of Tabber. You can also use this repo to report bugs, issues, and feature requests.
+This repo only contains Tabber Extension and Website locales.
+You can use this repo to contribute to the translation of Tabber.
+You can also use this repo to report bugs, issues, and feature requests.
 
 ## What is Tabber?
 
