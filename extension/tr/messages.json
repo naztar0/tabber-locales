@@ -1,0 +1,608 @@
+{
+  "extension_name": {
+    "message": "Tabber - Sekme Düzenleyici"
+  },
+  "extension_description": {
+    "message": "Kullanılmayan sekmeleri organize gruplara ayırarak taramanızı basitleştirin"
+  },
+  "extension_default_title": {
+    "message": "Tabber – Nihai Sekme Organizasyon Çözümü"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "theme_light": {
+    "message": "Aydınlık"
+  },
+  "theme_dark": {
+    "message": "Karanlık"
+  },
+  "theme_system": {
+    "message": "Sistem"
+  },
+  "theme_color": {
+    "message": "Ana Renk"
+  },
+  "use_context_menu": {
+    "message": "Bağlam menüsünü kullan"
+  },
+  "double_click_to_restore": {
+    "message": "Geri yüklemek için çift tıklayın"
+  },
+  "close_tab_on_preserve": {
+    "message": "Saklarken sekmeyi kapat"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "Pasif sekmelerin önizlemelerini oluştur"
+  },
+  "make_preview_on_preserve": {
+    "message": "Saklarken önizleme yap"
+  },
+  "show_notification_on_preserve": {
+    "message": "Saklarken bildirim göster"
+  },
+  "delete_tab_on_restore": {
+    "message": "Geri yüklerken sekmeyi sil"
+  },
+  "add_new_tab_to_start": {
+    "message": "Başlangıçta yeni sekme ekle"
+  },
+  "add_new_tab_to_last_active_group": {
+    "message": "Son etkin gruba yeni bir sekme ekleyin"
+  },
+  "save_previews_to_cloud": {
+    "message": "Önizlemeleri buluta kaydet"
+  },
+  "disable_animations": {
+    "message": "Animasyonları devre dışı bırak"
+  },
+  "sites_whitelist": {
+    "message": "Site istisnaları"
+  },
+  "keyboard_shortcuts": {
+    "message": "Klavye kısayolları"
+  },
+  "home_page": {
+    "message": "Tabber | Ana Sayfa"
+  },
+  "preserve_all_tabs": {
+    "message": "Tüm sekmeleri sakla"
+  },
+  "restore_all_tabs": {
+    "message": "Tüm sekmeleri geri yükle"
+  },
+  "restore_all_tabs_by_group": {
+    "message": "Gruba göre"
+  },
+  "restore_all_tabs_by_window": {
+    "message": "Pencereye göre"
+  },
+  "restore_all_tabs_close_after_restore": {
+    "message": "Geri yükledikten sonra kapat"
+  },
+  "preserve_all_tabs_close_after_preserve": {
+    "message": "Sakladıktan sonra kapat"
+  },
+  "clear_all_data": {
+    "message": "Tüm verileri temizle"
+  },
+  "clear_all_data_confirm": {
+    "message": "Tüm verileri temizlemek istediğinizden emin misiniz?"
+  },
+  "clear_all_data_confirm_description": {
+    "message": "Bu, kaydedilmiş tüm sekmelerinizi ve gruplarınızı silecek. Bu işlem geri alınamaz."
+  },
+  "cancel": {
+    "message": "İptal"
+  },
+  "ok": {
+    "message": "Tamam"
+  },
+  "save": {
+    "message": "Kaydet"
+  },
+  "create": {
+    "message": "Oluştur"
+  },
+  "delete": {
+    "message": "Sil"
+  },
+  "restore": {
+    "message": "Geri Yükle"
+  },
+  "share": {
+    "message": "Paylaş"
+  },
+  "name": {
+    "message": "İsim"
+  },
+  "tabs": {
+    "message": "Sekmeler"
+  },
+  "show": {
+    "message": "Göster"
+  },
+  "other": {
+    "message": "Diğer"
+  },
+  "close": {
+    "message": "Kapat"
+  },
+  "allow": {
+    "message": "İzin ver"
+  },
+  "deny": {
+    "message": "Reddet"
+  },
+  "main_tab_group": {
+    "message": "Ana"
+  },
+  "tab_preserved": {
+    "message": "Sekme saklandı"
+  },
+  "tab_group_preserved": {
+    "message": "Sekme grubu saklandı"
+  },
+  "tab_preserved_message": {
+    "message": "«$1» saklandı"
+  },
+  "tab_group_preserved_message": {
+    "message": "«$1» grubu saklandı"
+  },
+  "preserve_tab": {
+    "message": "Sekme sakla"
+  },
+  "preserve_tab_group": {
+    "message": "Sekme grubu sakla"
+  },
+  "sign_in": {
+    "message": "Oturum aç"
+  },
+  "sign_up": {
+    "message": "Kayıt ol"
+  },
+  "sign_out": {
+    "message": "Oturumu kapat"
+  },
+  "signed_in_successfully": {
+    "message": "Başarıyla oturum açıldı"
+  },
+  "signed_out_successfully": {
+    "message": "Başarıyla oturum kapatıldı"
+  },
+  "open_tabber": {
+    "message": "Tabber'ı aç"
+  },
+  "home_page_title": {
+    "message": "Tabber"
+  },
+  "home_page_subtitle": {
+    "message": "Nihai Sekme Organizasyon Çözümü"
+  },
+  "home_page_description": {
+    "message": "Kullanılmayan sekmeleri sanal sekme gruplarına kaydederek ve tüm cihazlarla senkronize ederek taramanızı basitleştirin."
+  },
+  "home_page_watch_demo": {
+    "message": "Demo izle"
+  },
+  "home_page_scroll_down": {
+    "message": "Aşağı kaydır"
+  },
+  "no_preview_click_to_restore": {
+    "message": "Geri yüklemek için tıklayın"
+  },
+  "no_preview_double_click_to_restore": {
+    "message": "Geri yüklemek için çift tıklayın"
+  },
+  "no_preview_faq_q1": {
+    "message": "Bu sekmenin önizlemesi neden mevcut değil?"
+  },
+  "no_preview_faq_a1": {
+    "message": "Bu sekme, sekme grubu saklama işleminin bir parçası."
+  },
+  "no_preview_faq_a2": {
+    "message": "Saklama sırasında önizleme gösterme ayarları kapalı."
+  },
+  "no_preview_faq_a3": {
+    "message": "Sekme buluttan yüklendi ancak önizleme yerel olarak kaydedildi. Ayarlardan bulut önizleme kaydetmeyi etkinleştirebilirsiniz."
+  },
+  "no_preview_faq_a4": {
+    "message": "Bir şeyler ters gitti. Tarayıcıyı yeniden başlatın, sonra sekmeyi geri yükleyip tekrar saklayın. Bu da işe yaramazsa, ayarlardan bulut önizleme kaydetmeyi etkinleştirebilirsiniz."
+  },
+  "tutorial_preserve_tabs": {
+    "message": "Sekmeleri sakla"
+  },
+  "tutorial_via_context_menu": {
+    "message": "Bağlam menüsünü kullan"
+  },
+  "tutorial_open_in_new_tab": {
+    "message": "Yeni sekmede aç"
+  },
+  "tutorial_reload": {
+    "message": "Yeniden yükle"
+  },
+  "tutorial_view_page_source": {
+    "message": "Sayfa kaynağını görüntüle"
+  },
+  "tutorial_or": {
+    "message": "Veya"
+  },
+  "tutorial_via_extension_popup": {
+    "message": "Eklenti açılır penceresini kullan"
+  },
+  "tutorial_pin_extension": {
+    "message": "Eklentiyi sabitle →"
+  },
+  "tutorial_restore_tabs": {
+    "message": "Sekmeleri geri yükle"
+  },
+  "tutorial_click_on_content": {
+    "message": "İçeriğe tıklayın"
+  },
+  "tutorial_right_click_on_group": {
+    "message": "Gruba sağ tıklayın"
+  },
+  "tutorial_my_group": {
+    "message": "Benim grubum"
+  },
+  "tutorial_via_options_menu": {
+    "message": "Seçenekler menüsünü kullan"
+  },
+  "tutorial": {
+    "message": "Eğitim"
+  },
+  "finish": {
+    "message": "Tamamla"
+  },
+  "about": {
+    "message": "Hakkında"
+  },
+  "about_title": {
+    "message": "Tabber – Nihai Sekme Organizasyon Çözümü v$1"
+  },
+  "about_description": {
+    "message": "Kullanılmayan sekmeleri sanal sekme gruplarına kaydederek ve tüm cihazlarla senkronize ederek taramanızı basitleştirin.\nDaha fazla bilgi için %Tabber Hakkında sayfasını% ziyaret edin."
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
+  },
+  "plus_active": {
+    "message": "Aktif"
+  },
+  "plus_upgrade": {
+    "message": "Plus'a Yükselt"
+  },
+  "plus_description": {
+    "message": "Tabber Plus ile tarama deneyiminizi geliştirin. Sekme karmaşasına veda edin ve çevrimiçi çalışma şeklinizi dönüştürecek üretkenlik artırıcı araçların dünyasını keşfedin."
+  },
+  "plus_feature_title_1": {
+    "message": "Sınırsız Sekme Grupları"
+  },
+  "plus_feature_title_2": {
+    "message": "Akıllı Sekme Sıralama"
+  },
+  "plus_feature_title_3": {
+    "message": "Otomatik Bulut Senkronizasyonu"
+  },
+  "plus_feature_title_4": {
+    "message": "Tam Senkronizasyon Geçmişi"
+  },
+  "plus_feature_title_5": {
+    "message": "Öncelikli Destek"
+  },
+  "plus_feature_title_6": {
+    "message": "Özel Patreon Gönderileri"
+  },
+  "plus_feature_desc_1": {
+    "message": "Gruplayabileceğiniz sekme sayısında artık bir sınır yok."
+  },
+  "plus_feature_desc_2": {
+    "message": "Sekmelerinizi başlık, URL veya saklama tarihine göre otomatik olarak sıralayın."
+  },
+  "plus_feature_desc_3": {
+    "message": "Sekmeleriniz tüm cihazlarınızda otomatik olarak senkronize edilir."
+  },
+  "plus_feature_desc_4": {
+    "message": "Tam senkronizasyon geçmişinize erişin ve herhangi bir yedeği geri yükleyin."
+  },
+  "plus_feature_desc_5": {
+    "message": "Herhangi bir soru ve endişe hızla ele alınarak sorunsuz bir deneyim sağlanır."
+  },
+  "plus_feature_desc_6": {
+    "message": "Patreon'da özel gönderilere, anketlere erişin ve en son güncellemeler, ipuçları ve püf noktaları hakkında bilgi sahibi olun."
+  },
+  "plus_price": {
+    "message": "Sadece ayda $1"
+  },
+  "error": {
+    "message": "Hata"
+  },
+  "tab_group_limit": {
+    "message": "Daha fazla sekme grubu oluşturmak için Tabber Plus'a yükseltin"
+  },
+  "sync_to_cloud": {
+    "message": "Bulutla senkronize et"
+  },
+  "sign_in_to_sync": {
+    "message": "Sekmelerinizi bulutla senkronize etmek için oturum açın"
+  },
+  "sync_history": {
+    "message": "Senkronizasyon geçmişi"
+  },
+  "sync_success": {
+    "message": "Senkronizasyon başarılı"
+  },
+  "sync_error": {
+    "message": "Senkronizasyon hatası"
+  },
+  "file_upload_error": {
+    "message": "Dosya yükleme hatası"
+  },
+  "sign_in_to_save_previews": {
+    "message": "Önizlemeleri bulutta kaydetmek için oturum açın"
+  },
+  "sync_from_cloud": {
+    "message": "Buluttan senkronize et"
+  },
+  "sync_from_cloud_title": {
+    "message": "Buluttan sekmeleri senkronize et"
+  },
+  "sync_from_cloud_description": {
+    "message": "Bulutta kaydedilmiş sekmeleriniz var. Bunları mevcut sekmelerinizle birleştirebilir veya değiştirebilirsiniz. Birleştirme seçerseniz, mevcut sekmeleriniz bulut sekmeleriyle birleştirilir ve yinelenenler atlanır. Değiştirme seçerseniz, tüm mevcut sekmeleriniz kaybolur."
+  },
+  "sync_from_cloud_merge": {
+    "message": "Birleştir"
+  },
+  "sync_from_cloud_replace": {
+    "message": "Değiştir"
+  },
+  "sync_with_merge": {
+    "message": "Birleştirerek geri yükle"
+  },
+  "sync_with_replace": {
+    "message": "Değiştirerek geri yükle"
+  },
+  "all_tabs_preserved": {
+    "message": "Tüm sekmeler saklandı"
+  },
+  "all_tabs_preserved_message": {
+    "message": "Tüm sekmeler saklanmıştır"
+  },
+  "no_data": {
+    "message": "Veri yok"
+  },
+  "sort_tabs": {
+    "message": "Sekmeleri sırala"
+  },
+  "sort_tabs_by_title": {
+    "message": "Başlığa göre"
+  },
+  "sort_tabs_by_url": {
+    "message": "URL'ye göre"
+  },
+  "sort_tabs_by_date": {
+    "message": "Tarihe göre"
+  },
+  "sort_tabs_by_group": {
+    "message": "Gruplara göre dağıt"
+  },
+  "sort_tabs_asc": {
+    "message": "Artan"
+  },
+  "sort_tabs_desc": {
+    "message": "Azalan"
+  },
+  "sort_tabs_only_current_group": {
+    "message": "Yalnızca mevcut grup"
+  },
+  "search_tabs": {
+    "message": "Sekmeleri ara"
+  },
+  "restore_group_error": {
+    "message": "Sekme grubu oluşturulamıyor. Tarayıcınız bu özelliği desteklemiyor olabilir."
+  },
+  "capture_tab_error": {
+    "message": "Sekme yakalanamıyor. Gerekli izinler verilmemiş olabilir."
+  },
+  "invalid_regex": {
+    "message": "Geçersiz regex: $1"
+  },
+  "request_permission_title": {
+    "message": "Gerekli izin"
+  },
+  "request_permission_description": {
+    "message": "Tabber, tarayıcınızın sekmelerine erişim sağlamak için izniniz gerekiyor. Bu, sekmelerin önizlemelerini oluşturmak için gereklidir. Bu izni vermek istemiyorsanız, bu özellik devre dışı bırakılacaktır."
+  },
+  "tutorial_welcome_title": {
+    "message": "Merhaba"
+  },
+  "tutorial_welcome_description": {
+    "message": "Tabber kullanımı hakkında bir eğitim yapalım ve nasıl çalıştığını daha iyi anlayalım."
+  },
+  "tutorial_preserve_tab_title": {
+    "message": "İlk sekmeyi saklayalım!"
+  },
+  "tutorial_preserve_tab_description_1_1": {
+    "message": "1. Şu siteye gidin: "
+  },
+  "tutorial_preserve_tab_description_1_2": {
+    "message": " veya başka bir web sitesine."
+  },
+  "tutorial_preserve_tab_description_2": {
+    "message": "2. Tarayıcınızın sağ üst köşesindeki eklenti simgesine tıklayın YA DA sayfaya sağ tıklayın."
+  },
+  "tutorial_preserve_tab_description_3": {
+    "message": "3. 'Sekme sakla' seçeneğini seçin."
+  },
+  "tutorial_preserve_tab_description_4": {
+    "message": "4. Tabber'a geri dönün."
+  },
+  "tutorial_preserve_tab_description_5": {
+    "message": "5. Sakladığınız sekmeye tıklayın."
+  },
+  "tutorial_preserve_tab_description_6": {
+    "message": "6. Sekmeyi geri yüklemek için sadece sekmeye tıklayın."
+  },
+  "tutorial_preserve_tab_arrow": {
+    "message": "Eklentiyi araç çubuğuna sabitle"
+  },
+  "tutorial_create_tab_group_title": {
+    "message": "İlk sekmeler grubunuzu oluşturun!"
+  },
+  "tutorial_create_tab_group_description_1": {
+    "message": "1. '+' butonuna tıklayın."
+  },
+  "tutorial_create_tab_group_description_2": {
+    "message": "2. Sekme grubunuz için bir isim girin, bir renk seçin ve 'Oluştur' düğmesine tıklayın."
+  },
+  "tutorial_create_tab_group_description_3_1": {
+    "message": "3. Şu siteye gidin: "
+  },
+  "tutorial_create_tab_group_description_3_2": {
+    "message": " veya başka bir web sitesine ve saklayın."
+  },
+  "tutorial_create_tab_group_description_4": {
+    "message": "4. Tabber'a geri dönün."
+  },
+  "tutorial_create_tab_group_description_5": {
+    "message": "5. Oluşturduğunuz sekmeler grubuna sağ tıklayın ve 'Geri yükle' seçeneğini tıklayın."
+  },
+  "tutorial_create_tab_group_description_6": {
+    "message": "Tarayıcınız sekmeleri gruplama özelliğini destekliyorsa, grubun web sayfalarından birinde 'Sekme grubu sakla' seçeneğine tıklayarak tüm sekmeler grubunu saklayabilirsiniz."
+  },
+  "tutorial_create_tab_group_arrow": {
+    "message": "İşte buton!"
+  },
+  "tutorial_settings_title": {
+    "message": "Kendinize göre özelleştirin!"
+  },
+  "tutorial_settings_description_1": {
+    "message": "Ayarlar sayfasına gidin ve Tabber'ın görünümünü ve hissini isteğinize göre ayarlayın."
+  },
+  "tutorial_settings_description_2": {
+    "message": "Otomatik olarak sekmeleri korumak istiyorsanız «Otomatik koru» bölümüne göz atın."
+  },
+  "tutorial_settings_arrow": {
+    "message": "Tam burada!"
+  },
+  "tutorial_shortcuts_title": {
+    "message": "Pratik klavye kısayolları!"
+  },
+  "tutorial_shortcuts_description_1": {
+    "message": "Tabber sayfasında aşağıdaki klavye kısayollarını kullanabilirsiniz:"
+  },
+  "tutorial_shortcuts_description_2": {
+    "message": "1. Tam ekran modunda Tabber'ı açmak için «F11» veya «F» tuşlarına basın."
+  },
+  "tutorial_shortcuts_description_3": {
+    "message": "2. Sekmeleri aramak için «Ctrl + F» tuşlarına basın. (Çıkmak için «Esc»)"
+  },
+  "tutorial_shortcuts_description_4": {
+    "message": "Ayrıca kendi global kısayollarınızı ayarlayabilirsiniz."
+  },
+  "tutorial_sign_in_title": {
+    "message": "Artık sekmelerinizi kaybetmeyin!"
+  },
+  "tutorial_sign_in_description_1": {
+    "message": "Şimdi hesabınıza giriş yaparak bulut yedeklemelerini etkinleştirebilir, cihazlar arasında veri senkronizasyonunu sağlayabilir ve cihazınızın belleğini doldurmadan bulutta sekmelerin önizlemelerini kaydedebilirsiniz."
+  },
+  "tutorial_sign_in_description_2": {
+    "message": "Bu isteğe bağlıdır, giriş yapmadan da Tabber'ı kullanabilirsiniz."
+  },
+  "tutorial_sign_in_arrow_1": {
+    "message": "Giriş yapmak için buraya tıklayın!"
+  },
+  "tutorial_sign_in_arrow_2": {
+    "message": "Bulutta yedekleme kaydetmek için buraya tıklayın!"
+  },
+  "auto_preserve": {
+    "message": "Otomatik koru"
+  },
+  "auto_preserve_enabled": {
+    "message": "Etkin"
+  },
+  "auto_preserve_interval": {
+    "message": "Aralık"
+  },
+  "auto_preserve_no_preserve_pinned": {
+    "message": "Sabitle sekmeleri koruma"
+  },
+  "auto_preserve_no_preserve_audible": {
+    "message": "Ses çalan sekmeleri koruma"
+  },
+  "auto_preserve_no_preserve_with_unsaved_form": {
+    "message": "Kaydedilmemiş form girişleri olan sekmeleri koruma"
+  },
+  "auto_preserve_no_preserve_active": {
+    "message": "Etkin sekmesi koruma"
+  },
+  "auto_preserve_no_preserve_when_offline": {
+    "message": "Tarayıcı çevrimdışı olduğunda sekmeleri koruma"
+  },
+  "interval_1_min": {
+    "message": "1 dakika"
+  },
+  "interval_5_min": {
+    "message": "5 dakika"
+  },
+  "interval_10_min": {
+    "message": "10 dakika"
+  },
+  "interval_15_min": {
+    "message": "15 dakika"
+  },
+  "interval_30_min": {
+    "message": "30 dakika"
+  },
+  "interval_1_hour": {
+    "message": "1 saat"
+  },
+  "interval_2_hours": {
+    "message": "2 saat"
+  },
+  "interval_4_hours": {
+    "message": "4 saat"
+  },
+  "interval_6_hours": {
+    "message": "6 saat"
+  },
+  "interval_12_hours": {
+    "message": "12 saat"
+  },
+  "interval_1_day": {
+    "message": "1 gün"
+  },
+  "interval_2_days": {
+    "message": "2 gün"
+  },
+  "interval_3_days": {
+    "message": "3 gün"
+  },
+  "interval_1_week": {
+    "message": "1 hafta"
+  },
+  "interval_2_weeks": {
+    "message": "2 hafta"
+  },
+  "sites_whitelist_title": {
+    "message": "Bu web sitelerinden asla sekmeleri koruma"
+  },
+  "sites_whitelist_description": {
+    "message": "Her beyaz listeye almak istediğiniz sayfanın URL'sini yeni bir satıra ekleyin. Örneğin:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nAynı satırda birden fazla siteyi beyaz listeye almak için URL'nin bir kısmını belirleyebilirsiniz:\ngoogle.com\nAyrıca metni eğik çizgiler arasına alarak regex belirleyebilirsiniz:\n/^https:.*google\\.com/"
+  },
+  "share_tab_group_title": {
+    "message": "Sekme grubunu paylaş"
+  },
+  "share_tab_group_description": {
+    "message": "Bu sekme grubunu diğer insanlarla paylaşın. Bağlantıya sahip herkes bu gruptan herhangi bir sekmeyi görüntüleyebilir ve geri yükleyebilir. Sekmelerin önizlemesi yalnızca sizin için kullanılabilir.\nBu sekme grubunu güncellerseniz, değişiklikler bu gruba erişimi olan tüm kişilere uygulanacaktır.\nAyrıca bu sekme grubunu düzenlemelerine izin vermek için yazma izni ayarlayabilirsiniz."
+  },
+  "share_tab_group_write_permission": {
+    "message": "Yazma izni"
+  },
+  "share_tab_group_revoke_access": {
+    "message": "Erişimi geri al"
+  },
+  "sign_in_to_share": {
+    "message": "Sekme gruplarını paylaşmak için giriş yapın"
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "extension_name": {
+    "message": "Tabber - Організатор Вкладок"
+  },
+  "extension_description": {
+    "message": "Спростіть веб-серфинг, групуючи невикористані вкладки в організовані групи"
+  },
+  "extension_default_title": {
+    "message": "Tabber – Ультимативне Рішення для Організації Вкладок"
+  },
+  "theme": {
+    "message": "Тема"
+  },
+  "theme_light": {
+    "message": "Світла"
+  },
+  "theme_dark": {
+    "message": "Темна"
+  },
+  "theme_system": {
+    "message": "Системна"
+  },
+  "theme_color": {
+    "message": "Основний колір"
+  },
+  "use_context_menu": {
+    "message": "Використовувати контекстне меню"
+  },
+  "double_click_to_restore": {
+    "message": "Подвійний клік для відновлення"
+  },
+  "close_tab_on_preserve": {
+    "message": "Закрити вкладку при збереженні"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "Створювати прев'ю неактивних вкладок"
+  },
+  "make_preview_on_preserve": {
+    "message": "Створити прев'ю при збереженні"
+  },
+  "show_notification_on_preserve": {
+    "message": "Показати сповіщення при збереженні"
+  },
+  "delete_tab_on_restore": {
+    "message": "Видалити вкладку при відновленні"
+  },
+  "add_new_tab_to_start": {
+    "message": "Додавати нові вкладки на початок"
+  },
+  "add_new_tab_to_last_active_group": {
+    "message": "Додавати вкладки до останньої активної групи"
+  },
+  "save_previews_to_cloud": {
+    "message": "Зберегти прев'ю в хмарі"
+  },
+  "disable_animations": {
+    "message": "Вимкнути анімацію"
+  },
+  "sites_whitelist": {
+    "message": "Білий список сайтів"
+  },
+  "keyboard_shortcuts": {
+    "message": "Гарячі клавіші"
+  },
+  "home_page": {
+    "message": "Tabber | Домашня сторінка"
+  },
+  "preserve_all_tabs": {
+    "message": "Зберегти всі вкладки"
+  },
+  "restore_all_tabs": {
+    "message": "Відновити всі вкладки"
+  },
+  "restore_all_tabs_by_group": {
+    "message": "За групами"
+  },
+  "restore_all_tabs_by_window": {
+    "message": "За вікнами"
+  },
+  "restore_all_tabs_close_after_restore": {
+    "message": "Закрити після відновлення"
+  },
+  "preserve_all_tabs_close_after_preserve": {
+    "message": "Закрити після збереження"
+  },
+  "clear_all_data": {
+    "message": "Очистити всі дані"
+  },
+  "clear_all_data_confirm": {
+    "message": "Ви впевнені, що хочете очистити всі дані?"
+  },
+  "clear_all_data_confirm_description": {
+    "message": "Це видалить всі ваші збережені вкладки та групи. Цю дію не можна скасувати."
+  },
+  "cancel": {
+    "message": "Скасувати"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "save": {
+    "message": "Зберегти"
+  },
+  "create": {
+    "message": "Створити"
+  },
+  "delete": {
+    "message": "Видалити"
+  },
+  "restore": {
+    "message": "Відновити"
+  },
+  "share": {
+    "message": "Поділитися"
+  },
+  "name": {
+    "message": "Ім'я"
+  },
+  "tabs": {
+    "message": "Вкладки"
+  },
+  "show": {
+    "message": "Показати"
+  },
+  "other": {
+    "message": "Інше"
+  },
+  "close": {
+    "message": "Закрити"
+  },
+  "allow": {
+    "message": "Дозволити"
+  },
+  "deny": {
+    "message": "Відмовити"
+  },
+  "main_tab_group": {
+    "message": "Головна"
+  },
+  "tab_preserved": {
+    "message": "Вкладка збережена"
+  },
+  "tab_group_preserved": {
+    "message": "Група вкладок збережена"
+  },
+  "tab_preserved_message": {
+    "message": "«$1» була збережена"
+  },
+  "tab_group_preserved_message": {
+    "message": "Група «$1» була збережена"
+  },
+  "preserve_tab": {
+    "message": "Зберегти вкладку"
+  },
+  "preserve_tab_group": {
+    "message": "Зберегти групу вкладок"
+  },
+  "sign_in": {
+    "message": "Увійти"
+  },
+  "sign_up": {
+    "message": "Реєстрація"
+  },
+  "sign_out": {
+    "message": "Вийти"
+  },
+  "signed_in_successfully": {
+    "message": "Ви успішно увійшли"
+  },
+  "signed_out_successfully": {
+    "message": "Ви успішно вийшли"
+  },
+  "open_tabber": {
+    "message": "Відкрити Tabber"
+  },
+  "home_page_title": {
+    "message": "Tabber"
+  },
+  "home_page_subtitle": {
+    "message": "Ультимативне Рішення для Організації Вкладок"
+  },
+  "home_page_description": {
+    "message": "Спростіть веб-серфинг, зберігаючи невикористані вкладки в організованих групах віртуальних вкладок і синхронізуючи їх з усіма пристроями."
+  },
+  "home_page_watch_demo": {
+    "message": "Дивитись демо"
+  },
+  "home_page_scroll_down": {
+    "message": "Прокрутіть вниз"
+  },
+  "no_preview_click_to_restore": {
+    "message": "Натисніть, щоб відновити"
+  },
+  "no_preview_double_click_to_restore": {
+    "message": "Подвійний клік для відновлення"
+  },
+  "no_preview_faq_q1": {
+    "message": "Чому прев'ю цієї вкладки недоступне?"
+  },
+  "no_preview_faq_a1": {
+    "message": "Ця вкладка є частиною збереження групи вкладок."
+  },
+  "no_preview_faq_a2": {
+    "message": "Прев'ю вимкнено в налаштуваннях."
+  },
+  "no_preview_faq_a3": {
+    "message": "Вкладка була завантажена з хмари, але прев'ю збережено локально. Ви можете увімкнути збереження прев'ю в хмарі в налаштуваннях."
+  },
+  "no_preview_faq_a4": {
+    "message": "Щось пішло не так. Спробуйте перезавантажити браузер, потім відновіть та знову збережіть вкладку. Якщо це не допоможе, ви можете увімкнути збереження прев'ю в хмарі в налаштуваннях."
+  },
+  "tutorial_preserve_tabs": {
+    "message": "Зберегти всі вкладки"
+  },
+  "tutorial_via_context_menu": {
+    "message": "Використовувати контекстне меню"
+  },
+  "tutorial_open_in_new_tab": {
+    "message": "Відкрити в новій вкладці"
+  },
+  "tutorial_reload": {
+    "message": "Перезавантажити"
+  },
+  "tutorial_view_page_source": {
+    "message": "Переглянути вихідний код сторінки"
+  },
+  "tutorial_or": {
+    "message": "Або"
+  },
+  "tutorial_via_extension_popup": {
+    "message": "Використовувати спливаюче вікно розширення"
+  },
+  "tutorial_pin_extension": {
+    "message": "Прикріпить розширення →"
+  },
+  "tutorial_restore_tabs": {
+    "message": "Відновити вкладки"
+  },
+  "tutorial_click_on_content": {
+    "message": "Натисніть на вміст"
+  },
+  "tutorial_right_click_on_group": {
+    "message": "Клацніть правою кнопкою миші на групі"
+  },
+  "tutorial_my_group": {
+    "message": "Моя група"
+  },
+  "tutorial_via_options_menu": {
+    "message": "Використовувати меню опцій"
+  },
+  "tutorial": {
+    "message": "Туторіал"
+  },
+  "finish": {
+    "message": "Завершити"
+  },
+  "about": {
+    "message": "Про програму"
+  },
+  "about_title": {
+    "message": "Tabber – Ультимативне Рішення для Організації Вкладок v$1"
+  },
+  "about_description": {
+    "message": "Спростіть веб-серфинг, зберігаючи невикористані вкладки в організованих групах віртуальних вкладок і синхронізуючи їх з усіма пристроями.\nВідвідайте сторінку %Про Tabber% для отримання додаткової інформації."
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
+  },
+  "plus_active": {
+    "message": "Активний"
+  },
+  "plus_upgrade": {
+    "message": "Оновити до Plus"
+  },
+  "plus_description": {
+    "message": "Покращте свій веб-серфинг з Tabber Plus. Розпрощайтеся з непотрібними вкладками та відкрийте для себе світ інструментів, які підвищують продуктивність та змінюють ваш спосіб роботи в Інтернеті."
+  },
+  "plus_feature_title_1": {
+    "message": "Необмежені групи вкладок"
+  },
+  "plus_feature_title_2": {
+    "message": "Інтелектуальне сортування вкладок"
+  },
+  "plus_feature_title_3": {
+    "message": "Автоматична хмарна синхронізація"
+  },
+  "plus_feature_title_4": {
+    "message": "Повна історія синхронізацій"
+  },
+  "plus_feature_title_5": {
+    "message": "Пріоритетна підтримка"
+  },
+  "plus_feature_title_6": {
+    "message": "Ексклюзивні пости на Patreon"
+  },
+  "plus_feature_desc_1": {
+    "message": "Більше немає обмежень на кількість вкладок, які ви можете групувати."
+  },
+  "plus_feature_desc_2": {
+    "message": "Автоматично сортуйте вкладки за назвою, URL або датою збереження."
+  },
+  "plus_feature_desc_3": {
+    "message": "Ваші вкладки автоматично синхронізуються на всіх ваших пристроях."
+  },
+  "plus_feature_desc_4": {
+    "message": "Отримайте доступ до повної історії синхронізацій та відновіть будь-який бекап."
+  },
+  "plus_feature_desc_5": {
+    "message": "Будь-які питання та проблеми будуть оперативно вирішені, забезпечуючи безперебійну роботу."
+  },
+  "plus_feature_desc_6": {
+    "message": "Отримайте ексклюзивний доступ до постів на Patreon, опитувань та будьте в курсі останніх оновлень, порад та хитрощів."
+  },
+  "plus_price": {
+    "message": "Лише $1/місяць"
+  },
+  "error": {
+    "message": "Помилка"
+  },
+  "tab_group_limit": {
+    "message": "Оновіть до Tabber Plus, щоб створити більше груп вкладок"
+  },
+  "sync_to_cloud": {
+    "message": "Синхронізувати до хмари"
+  },
+  "sign_in_to_sync": {
+    "message": "Увійдіть, щоб синхронізувати ваші вкладки з хмарою"
+  },
+  "sync_history": {
+    "message": "Історія синхронізацій"
+  },
+  "sync_success": {
+    "message": "Синхронізація успішна"
+  },
+  "sync_error": {
+    "message": "Помилка синхронізації"
+  },
+  "file_upload_error": {
+    "message": "Помилка завантаження файлу"
+  },
+  "sign_in_to_save_previews": {
+    "message": "Увійдіть, щоб зберегти прев'ю в хмарі"
+  },
+  "sync_from_cloud": {
+    "message": "Синхронізувати з хмари"
+  },
+  "sync_from_cloud_title": {
+    "message": "Синхронізувати вкладки з хмари"
+  },
+  "sync_from_cloud_description": {
+    "message": "У вас є вкладки, збережені в хмарі. Ви можете об'єднати їх з вашими поточними вкладками або замінити їх. Якщо ви виберете об'єднання, ваші поточні вкладки будуть об'єднані з хмарними, дублікати будуть виключені. Якщо ви виберете заміну, всі ваші поточні вкладки будуть втрачені."
+  },
+  "sync_from_cloud_merge": {
+    "message": "Об'єднати"
+  },
+  "sync_from_cloud_replace": {
+    "message": "Замінити"
+  },
+  "sync_with_merge": {
+    "message": "Відновити з об'єднанням"
+  },
+  "sync_with_replace": {
+    "message": "Відновити з заміною"
+  },
+  "all_tabs_preserved": {
+    "message": "Всі вкладки збережені"
+  },
+  "all_tabs_preserved_message": {
+    "message": "Всі вкладки були збережені"
+  },
+  "no_data": {
+    "message": "Немає даних"
+  },
+  "sort_tabs": {
+    "message": "Сортувати вкладки"
+  },
+  "sort_tabs_by_title": {
+    "message": "За назвою"
+  },
+  "sort_tabs_by_url": {
+    "message": "За URL"
+  },
+  "sort_tabs_by_date": {
+    "message": "За датою"
+  },
+  "sort_tabs_by_group": {
+    "message": "Розподілити за групами"
+  },
+  "sort_tabs_asc": {
+    "message": "За зростанням"
+  },
+  "sort_tabs_desc": {
+    "message": "За спаданням"
+  },
+  "sort_tabs_only_current_group": {
+    "message": "Лише поточна група"
+  },
+  "search_tabs": {
+    "message": "Шукати вкладки"
+  },
+  "restore_group_error": {
+    "message": "Не вдається створити групу вкладок. Можливо, ваш браузер не підтримує цю функцію."
+  },
+  "capture_tab_error": {
+    "message": "Не вдається захопити вкладку. Можливо, необхідні дозволи не надано."
+  },
+  "invalid_regex": {
+    "message": "Недійсний регулярний вираз: $1"
+  },
+  "request_permission_title": {
+    "message": "Потрібен дозвіл"
+  },
+  "request_permission_description": {
+    "message": "Tabber потребує вашого дозволу для доступу до вкладок вашого браузера. Це необхідно для створення прев'ю вкладок. Якщо ви не хочете надавати цей дозвіл, ця функція буде вимкнена."
+  },
+  "tutorial_welcome_title": {
+    "message": "Привіт"
+  },
+  "tutorial_welcome_description": {
+    "message": "Давайте пройдемо навчання щодо використання Tabber, щоб краще зрозуміти, як він працює."
+  },
+  "tutorial_preserve_tab_title": {
+    "message": "Збережімо вашу першу вкладку!"
+  },
+  "tutorial_preserve_tab_description_1_1": {
+    "message": "1. Перейдіть на "
+  },
+  "tutorial_preserve_tab_description_1_2": {
+    "message": " або на будь-який інший сайт."
+  },
+  "tutorial_preserve_tab_description_2": {
+    "message": "2. Клацніть по значку розширення у верхньому правому куті вашого браузера АБО клацніть правою кнопкою миші на сторінці."
+  },
+  "tutorial_preserve_tab_description_3": {
+    "message": "3. Виберіть «Зберегти вкладку»."
+  },
+  "tutorial_preserve_tab_description_4": {
+    "message": "4. Поверніться до Tabber."
+  },
+  "tutorial_preserve_tab_description_5": {
+    "message": "5. Клацніть по збереженій вкладці."
+  },
+  "tutorial_preserve_tab_description_6": {
+    "message": "6. Щоб відновити вкладку, просто клацніть по її прев'ю."
+  },
+  "tutorial_preserve_tab_arrow": {
+    "message": "Закріпіть розширення на панелі інструментів"
+  },
+  "tutorial_create_tab_group_title": {
+    "message": "Створіть свою першу групу вкладок!"
+  },
+  "tutorial_create_tab_group_description_1": {
+    "message": "1. Клацніть по кнопці «+»."
+  },
+  "tutorial_create_tab_group_description_2": {
+    "message": "2. Введіть назву для вашої групи вкладок, виберіть колір і клацніть «Створити»."
+  },
+  "tutorial_create_tab_group_description_3_1": {
+    "message": "3. Перейдіть на "
+  },
+  "tutorial_create_tab_group_description_3_2": {
+    "message": " або на будь-який інший сайт і збережіть його."
+  },
+  "tutorial_create_tab_group_description_4": {
+    "message": "4. Поверніться до Tabber."
+  },
+  "tutorial_create_tab_group_description_5": {
+    "message": "5. Клацніть правою кнопкою миші по створеній вами групі вкладок та виберіть «Відновити»."
+  },
+  "tutorial_create_tab_group_description_6": {
+    "message": "Якщо ваш браузер підтримує групування вкладок, ви також можете зберегти всю групу вкладок, клацнувши «Зберегти групу вкладок» на будь-якій сторінці групи."
+  },
+  "tutorial_create_tab_group_arrow": {
+    "message": "Ось кнопка!"
+  },
+  "tutorial_settings_title": {
+    "message": "Налаштуйте під себе!"
+  },
+  "tutorial_settings_description_1": {
+    "message": "Загляньте в розділ налаштувань і кастомізуйте Tabber за своїм смаком."
+  },
+  "tutorial_settings_description_2": {
+    "message": "Перевірте пункт «Автоматичне збереження», якщо хочете автоматично зберігати вкладки."
+  },
+  "tutorial_settings_arrow": {
+    "message": "Ось тут!"
+  },
+  "tutorial_shortcuts_title": {
+    "message": "Зручні комбінації клавіш!"
+  },
+  "tutorial_shortcuts_description_1": {
+    "message": "Ви можете використовувати наступні комбінації клавіш на сторінці Tabber:"
+  },
+  "tutorial_shortcuts_description_2": {
+    "message": "1. Натисніть «F11» або «F», щоб відкрити Tabber у повноекранному режимі."
+  },
+  "tutorial_shortcuts_description_3": {
+    "message": "2. Натисніть «Ctrl + F», щоб шукати вкладки. («Esc» для виходу)"
+  },
+  "tutorial_shortcuts_description_4": {
+    "message": "Ви також можете встановити власні глобальні комбінації клавіш в налаштуваннях."
+  },
+  "tutorial_sign_in_title": {
+    "message": "Більше ніколи не втрачайте свої вкладки!"
+  },
+  "tutorial_sign_in_description_1": {
+    "message": "Тепер ви можете увійти в свій обліковий запис, щоб активувати резервні копії в хмарі, синхронізувати дані між пристроями та зберігати прев'ю вкладок у хмарі, не навантажуючи пам'ять пристрою."
+  },
+  "tutorial_sign_in_description_2": {
+    "message": "Це необов'язково, ви все одно можете використовувати Tabber без входу в систему."
+  },
+  "tutorial_sign_in_arrow_1": {
+    "message": "Клацніть тут, щоб увійти!"
+  },
+  "tutorial_sign_in_arrow_2": {
+    "message": "Клацніть тут, щоб зберегти резервну копію в хмарі!"
+  },
+  "auto_preserve": {
+    "message": "Автоматичне збереження"
+  },
+  "auto_preserve_enabled": {
+    "message": "Увімкнено"
+  },
+  "auto_preserve_interval": {
+    "message": "Інтервал"
+  },
+  "auto_preserve_no_preserve_pinned": {
+    "message": "Не зберігати закріплені вкладки"
+  },
+  "auto_preserve_no_preserve_audible": {
+    "message": "Не зберігати вкладки з програванням аудіо"
+  },
+  "auto_preserve_no_preserve_with_unsaved_form": {
+    "message": "Не зберігати вкладки з незбереженими формами"
+  },
+  "auto_preserve_no_preserve_active": {
+    "message": "Не зберігати активну вкладку"
+  },
+  "auto_preserve_no_preserve_when_offline": {
+    "message": "Не зберігати вкладки якщо ви не в мережі"
+  },
+  "interval_1_min": {
+    "message": "1 хвилина"
+  },
+  "interval_5_min": {
+    "message": "5 хвилин"
+  },
+  "interval_10_min": {
+    "message": "10 хвилин"
+  },
+  "interval_15_min": {
+    "message": "15 хвилин"
+  },
+  "interval_30_min": {
+    "message": "30 хвилин"
+  },
+  "interval_1_hour": {
+    "message": "1 година"
+  },
+  "interval_2_hours": {
+    "message": "2 години"
+  },
+  "interval_4_hours": {
+    "message": "4 години"
+  },
+  "interval_6_hours": {
+    "message": "6 годин"
+  },
+  "interval_12_hours": {
+    "message": "12 годин"
+  },
+  "interval_1_day": {
+    "message": "1 день"
+  },
+  "interval_2_days": {
+    "message": "2 дні"
+  },
+  "interval_3_days": {
+    "message": "3 дні"
+  },
+  "interval_1_week": {
+    "message": "1 тиждень"
+  },
+  "interval_2_weeks": {
+    "message": "2 тижні"
+  },
+  "sites_whitelist_title": {
+    "message": "Не зберігати вкладки з цих сайтів"
+  },
+  "sites_whitelist_description": {
+    "message": "Додайте URL кожної сторінки, яку ви хочете додати до білого списку, на новому рядку. Наприклад:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nЩоб включити кілька сайтів в одному рядку, ви можете вказати частину URL:\ngoogle.com\nВи також можете вказати регулярний вираз, заключивши текст в косі смужки:\n/^https:.*google\\.com/"
+  },
+  "share_tab_group_title": {
+    "message": "Поділитися групою вкладок"
+  },
+  "share_tab_group_description": {
+    "message": "Поділіться цією групою вкладок з іншими людьми. Кожен, у кого є посилання, зможе переглядати та відновлювати будь-яку вкладку з цієї групи. Прев'ю вкладок буде доступно лише для вас.\nЯкщо ви оновите цю групу вкладок, зміни будуть застосовані до всіх, хто має до неї доступ.\nТакож ви можете встановити право на запис, щоб дозволити іншим людям редагувати цю групу вкладок."
+  },
+  "share_tab_group_write_permission": {
+    "message": "Право на запис"
+  },
+  "share_tab_group_revoke_access": {
+    "message": "Відкликати доступ"
+  },
+  "sign_in_to_share": {
+    "message": "Увійдіть, щоб ділитися групами вкладок"
+  }
+}

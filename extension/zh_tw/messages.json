@@ -1,0 +1,608 @@
+{
+  "extension_name": {
+    "message": "Tabber - 標籤組織者"
+  },
+  "extension_description": {
+    "message": "通過將未使用的標籤分組到有組織的組中來簡化您的瀏覽"
+  },
+  "extension_default_title": {
+    "message": "Tabber – 終極標籤組織解決方案"
+  },
+  "theme": {
+    "message": "主題"
+  },
+  "theme_light": {
+    "message": "淺色"
+  },
+  "theme_dark": {
+    "message": "深色"
+  },
+  "theme_system": {
+    "message": "系統"
+  },
+  "theme_color": {
+    "message": "主要顏色"
+  },
+  "use_context_menu": {
+    "message": "使用右鍵菜單"
+  },
+  "double_click_to_restore": {
+    "message": "雙擊以恢復"
+  },
+  "close_tab_on_preserve": {
+    "message": "保存時關閉標籤"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "製作非活動標籤的預覽"
+  },
+  "make_preview_on_preserve": {
+    "message": "保存時生成預覽"
+  },
+  "show_notification_on_preserve": {
+    "message": "保存時顯示通知"
+  },
+  "delete_tab_on_restore": {
+    "message": "恢復時刪除標籤"
+  },
+  "add_new_tab_to_start": {
+    "message": "在開始時添加新標籤"
+  },
+  "add_new_tab_to_last_active_group": {
+    "message": "在最後活躍的群組中新增分頁"
+  },
+  "save_previews_to_cloud": {
+    "message": "將預覽保存到雲端"
+  },
+  "disable_animations": {
+    "message": "停用動畫"
+  },
+  "sites_whitelist": {
+    "message": "網站白名單"
+  },
+  "keyboard_shortcuts": {
+    "message": "鍵盤快捷鍵"
+  },
+  "home_page": {
+    "message": "Tabber | 首頁"
+  },
+  "preserve_all_tabs": {
+    "message": "保存所有標籤"
+  },
+  "restore_all_tabs": {
+    "message": "恢復所有標籤"
+  },
+  "restore_all_tabs_by_group": {
+    "message": "按組"
+  },
+  "restore_all_tabs_by_window": {
+    "message": "按窗口"
+  },
+  "restore_all_tabs_close_after_restore": {
+    "message": "恢復後關閉"
+  },
+  "preserve_all_tabs_close_after_preserve": {
+    "message": "保存後關閉"
+  },
+  "clear_all_data": {
+    "message": "清除所有數據"
+  },
+  "clear_all_data_confirm": {
+    "message": "您確定要清除所有數據嗎？"
+  },
+  "clear_all_data_confirm_description": {
+    "message": "這將刪除您保存的所有標籤和組。此操作無法撤銷。"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "ok": {
+    "message": "確定"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "create": {
+    "message": "創建"
+  },
+  "delete": {
+    "message": "刪除"
+  },
+  "restore": {
+    "message": "恢復"
+  },
+  "share": {
+    "message": "分享"
+  },
+  "name": {
+    "message": "名稱"
+  },
+  "tabs": {
+    "message": "標籤"
+  },
+  "show": {
+    "message": "顯示"
+  },
+  "other": {
+    "message": "其他"
+  },
+  "close": {
+    "message": "關閉"
+  },
+  "allow": {
+    "message": "允許"
+  },
+  "deny": {
+    "message": "拒絕"
+  },
+  "main_tab_group": {
+    "message": "主標籤組"
+  },
+  "tab_preserved": {
+    "message": "標籤已保存"
+  },
+  "tab_group_preserved": {
+    "message": "標籤組已保存"
+  },
+  "tab_preserved_message": {
+    "message": "«$1» 已被保存"
+  },
+  "tab_group_preserved_message": {
+    "message": "«$1» 組已被保存"
+  },
+  "preserve_tab": {
+    "message": "保存標籤"
+  },
+  "preserve_tab_group": {
+    "message": "保存標籤組"
+  },
+  "sign_in": {
+    "message": "登錄"
+  },
+  "sign_up": {
+    "message": "註冊"
+  },
+  "sign_out": {
+    "message": "登出"
+  },
+  "signed_in_successfully": {
+    "message": "成功登錄"
+  },
+  "signed_out_successfully": {
+    "message": "成功登出"
+  },
+  "open_tabber": {
+    "message": "打開 Tabber"
+  },
+  "home_page_title": {
+    "message": "Tabber"
+  },
+  "home_page_subtitle": {
+    "message": "終極標籤組織解決方案"
+  },
+  "home_page_description": {
+    "message": "通過將未使用的標籤保存到虛擬標籤組並與所有設備同步來簡化您的瀏覽。"
+  },
+  "home_page_watch_demo": {
+    "message": "觀看演示"
+  },
+  "home_page_scroll_down": {
+    "message": "向下滾動"
+  },
+  "no_preview_click_to_restore": {
+    "message": "點擊恢復"
+  },
+  "no_preview_double_click_to_restore": {
+    "message": "雙擊恢復"
+  },
+  "no_preview_faq_q1": {
+    "message": "為什麼這個標籤的預覽不可用？"
+  },
+  "no_preview_faq_a1": {
+    "message": "這個標籤是標籤組保存功能的一部分。"
+  },
+  "no_preview_faq_a2": {
+    "message": "設置中禁用了預覽功能。"
+  },
+  "no_preview_faq_a3": {
+    "message": "該標籤從雲端加載，但預覽在本地保存。您可以在設置中啟用雲端預覽保存功能。"
+  },
+  "no_preview_faq_a4": {
+    "message": "出了些問題。嘗試重啟瀏覽器，然後再次恢復和保存標籤。如果這不奏效，您可以在設置中啟用雲端預覽保存功能。"
+  },
+  "tutorial_preserve_tabs": {
+    "message": "保存所有標籤"
+  },
+  "tutorial_via_context_menu": {
+    "message": "使用右鍵菜單"
+  },
+  "tutorial_open_in_new_tab": {
+    "message": "在新標籤頁中打開"
+  },
+  "tutorial_reload": {
+    "message": "重新加載"
+  },
+  "tutorial_view_page_source": {
+    "message": "查看頁面源代碼"
+  },
+  "tutorial_or": {
+    "message": "或"
+  },
+  "tutorial_via_extension_popup": {
+    "message": "使用擴展彈出窗口"
+  },
+  "tutorial_pin_extension": {
+    "message": "固定擴展 →"
+  },
+  "tutorial_restore_tabs": {
+    "message": "恢復所有標籤"
+  },
+  "tutorial_click_on_content": {
+    "message": "點擊內容"
+  },
+  "tutorial_right_click_on_group": {
+    "message": "右鍵點擊組"
+  },
+  "tutorial_my_group": {
+    "message": "我的組"
+  },
+  "tutorial_via_options_menu": {
+    "message": "使用選項菜單"
+  },
+  "tutorial": {
+    "message": "教程"
+  },
+  "finish": {
+    "message": "完成"
+  },
+  "about": {
+    "message": "關於"
+  },
+  "about_title": {
+    "message": "Tabber – 終極標籤組織解決方案 v$1"
+  },
+  "about_description": {
+    "message": "通過將未使用的標籤保存到虛擬標籤組並與所有設備同步來簡化您的瀏覽。\n有關更多信息，請訪問%Tabber關於頁面%。"
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
+  },
+  "plus_active": {
+    "message": "活躍"
+  },
+  "plus_upgrade": {
+    "message": "升級到 Plus"
+  },
+  "plus_description": {
+    "message": "通過 Tabber Plus 提升您的瀏覽體驗。告別標籤混亂，發現提升生產力的工具，改變您在線工作的方式。"
+  },
+  "plus_feature_title_1": {
+    "message": "無限制的標籤組"
+  },
+  "plus_feature_title_2": {
+    "message": "智能標籤排序"
+  },
+  "plus_feature_title_3": {
+    "message": "自動雲同步"
+  },
+  "plus_feature_title_4": {
+    "message": "完整的同步歷史"
+  },
+  "plus_feature_title_5": {
+    "message": "優先支持"
+  },
+  "plus_feature_title_6": {
+    "message": "獨家 Patreon 帖子"
+  },
+  "plus_feature_desc_1": {
+    "message": "您可以對任意數量的標籤進行分組，沒有限制。"
+  },
+  "plus_feature_desc_2": {
+    "message": "根據標題、URL或保存日期自動對您的標籤進行排序。"
+  },
+  "plus_feature_desc_3": {
+    "message": "您的標籤會自動在所有設備上同步。"
+  },
+  "plus_feature_desc_4": {
+    "message": "訪問您的完整同步歷史並恢復任何備份。"
+  },
+  "plus_feature_desc_5": {
+    "message": "任何問題和關切都將得到及時解決，確保流暢的體驗。"
+  },
+  "plus_feature_desc_6": {
+    "message": "獨家訪問 Patreon 帖子、投票，並隨時了解最新更新、技巧和竅門。"
+  },
+  "plus_price": {
+    "message": "僅需每月 $1"
+  },
+  "error": {
+    "message": "錯誤"
+  },
+  "tab_group_limit": {
+    "message": "升級到 Tabber Plus 以創建更多標籤組"
+  },
+  "sync_to_cloud": {
+    "message": "與雲同步"
+  },
+  "sign_in_to_sync": {
+    "message": "登錄以同步您的標籤到雲端"
+  },
+  "sync_history": {
+    "message": "同步歷史"
+  },
+  "sync_success": {
+    "message": "同步成功"
+  },
+  "sync_error": {
+    "message": "同步錯誤"
+  },
+  "file_upload_error": {
+    "message": "文件上傳錯誤"
+  },
+  "sign_in_to_save_previews": {
+    "message": "登錄以在雲端保存預覽"
+  },
+  "sync_from_cloud": {
+    "message": "從雲端同步"
+  },
+  "sync_from_cloud_title": {
+    "message": "從雲端同步標籤"
+  },
+  "sync_from_cloud_description": {
+    "message": "您在雲端有保存的標籤。您可以選擇將它們與當前標籤合併或替換。如果選擇合併，您當前的標籤將與雲端的標籤合併，重複的標籤將被省略。如果選擇替換，您所有當前的標籤將丟失。"
+  },
+  "sync_from_cloud_merge": {
+    "message": "合併"
+  },
+  "sync_from_cloud_replace": {
+    "message": "替換"
+  },
+  "sync_with_merge": {
+    "message": "合併後恢復"
+  },
+  "sync_with_replace": {
+    "message": "替換後恢復"
+  },
+  "all_tabs_preserved": {
+    "message": "所有標籤已保存"
+  },
+  "all_tabs_preserved_message": {
+    "message": "所有標籤已被保存"
+  },
+  "no_data": {
+    "message": "無數據"
+  },
+  "sort_tabs": {
+    "message": "排序標籤"
+  },
+  "sort_tabs_by_title": {
+    "message": "按標題"
+  },
+  "sort_tabs_by_url": {
+    "message": "按URL"
+  },
+  "sort_tabs_by_date": {
+    "message": "按日期"
+  },
+  "sort_tabs_by_group": {
+    "message": "按組分配"
+  },
+  "sort_tabs_asc": {
+    "message": "升序"
+  },
+  "sort_tabs_desc": {
+    "message": "降序"
+  },
+  "sort_tabs_only_current_group": {
+    "message": "僅當前組"
+  },
+  "search_tabs": {
+    "message": "搜索標籤"
+  },
+  "restore_group_error": {
+    "message": "無法創建標籤組。您的瀏覽器可能不支持此功能。"
+  },
+  "capture_tab_error": {
+    "message": "無法捕獲標籤。可能缺少必要的許可權。"
+  },
+  "invalid_regex": {
+    "message": "無效的正規表達式：$1"
+  },
+  "request_permission_title": {
+    "message": "所需權限"
+  },
+  "request_permission_description": {
+    "message": "Tabber 需要您的權限來訪問瀏覽器的標籤。這是製作標籤預覽所必需的。如果您不想授予此權限，此功能將被停用。"
+  },
+  "tutorial_welcome_title": {
+    "message": "你好"
+  },
+  "tutorial_welcome_description": {
+    "message": "讓我們進行Tabber使用教程，以便更好地理解其工作原理。"
+  },
+  "tutorial_preserve_tab_title": {
+    "message": "讓我們保存您的第一個標籤！"
+  },
+  "tutorial_preserve_tab_description_1_1": {
+    "message": "1. 轉到 "
+  },
+  "tutorial_preserve_tab_description_1_2": {
+    "message": " 或任何其他網站。"
+  },
+  "tutorial_preserve_tab_description_2": {
+    "message": "2. 點擊瀏覽器右上角的擴展圖標或在頁面上右擊。"
+  },
+  "tutorial_preserve_tab_description_3": {
+    "message": "3. 選擇“保存標籤”。"
+  },
+  "tutorial_preserve_tab_description_4": {
+    "message": "4. 返回Tabber。"
+  },
+  "tutorial_preserve_tab_description_5": {
+    "message": "5. 點擊您保存的標籤。"
+  },
+  "tutorial_preserve_tab_description_6": {
+    "message": "6. 要恢復標籤，只需點擊標籤的預覽即可。"
+  },
+  "tutorial_preserve_tab_arrow": {
+    "message": "將擴展固定到工具欄"
+  },
+  "tutorial_create_tab_group_title": {
+    "message": "創建您的第一個標籤組！"
+  },
+  "tutorial_create_tab_group_description_1": {
+    "message": "1. 點擊“+”按鈕。"
+  },
+  "tutorial_create_tab_group_description_2": {
+    "message": "2. 為您的標籤組輸入名稱，選擇顏色並點擊“創建”。"
+  },
+  "tutorial_create_tab_group_description_3_1": {
+    "message": "3. 轉到 "
+  },
+  "tutorial_create_tab_group_description_3_2": {
+    "message": " 或任何其他網站並保存。"
+  },
+  "tutorial_create_tab_group_description_4": {
+    "message": "4. 返回Tabber。"
+  },
+  "tutorial_create_tab_group_description_5": {
+    "message": "5. 右擊您創建的標籤組，然後點擊“恢復”。"
+  },
+  "tutorial_create_tab_group_description_6": {
+    "message": "如果您的瀏覽器支持標籤分組，您也可以通過在組的任一網頁上點擊“保存標籤組”來保存整個標籤組。"
+  },
+  "tutorial_create_tab_group_arrow": {
+    "message": "這是按鈕！"
+  },
+  "tutorial_settings_title": {
+    "message": "自定義設置！"
+  },
+  "tutorial_settings_description_1": {
+    "message": "查看設置頁面，根據自己的喜好調整Tabber的外觀和感覺。"
+  },
+  "tutorial_settings_description_2": {
+    "message": "如果要自動保存標籤，請查看«自動保存»部分。"
+  },
+  "tutorial_settings_arrow": {
+    "message": "就在這裡！"
+  },
+  "tutorial_shortcuts_title": {
+    "message": "方便的鍵盤快捷鍵！"
+  },
+  "tutorial_shortcuts_description_1": {
+    "message": "您可以在Tabber頁面上使用以下鍵盤快捷鍵："
+  },
+  "tutorial_shortcuts_description_2": {
+    "message": "1. 按下«F11»或«F»以全屏打開Tabber。"
+  },
+  "tutorial_shortcuts_description_3": {
+    "message": "2. 按下«Ctrl + F»搜索標籤。（按«Esc»退出）"
+  },
+  "tutorial_shortcuts_description_4": {
+    "message": "您還可以在設置中設置自己的全局快捷鍵。"
+  },
+  "tutorial_sign_in_title": {
+    "message": "再也不會丟失標籤！"
+  },
+  "tutorial_sign_in_description_1": {
+    "message": "現在您可以登錄您的賬戶以啟用雲備份、在設備間同步數據並在雲端保存標籤預覽，而不會佔用設備內存。"
+  },
+  "tutorial_sign_in_description_2": {
+    "message": "這是可選的，您仍然可以在未登錄的情況下使用Tabber。"
+  },
+  "tutorial_sign_in_arrow_1": {
+    "message": "點擊此處登錄！"
+  },
+  "tutorial_sign_in_arrow_2": {
+    "message": "點擊此處將備份保存到雲端！"
+  },
+  "auto_preserve": {
+    "message": "自動保存"
+  },
+  "auto_preserve_enabled": {
+    "message": "已啟用"
+  },
+  "auto_preserve_interval": {
+    "message": "間隔"
+  },
+  "auto_preserve_no_preserve_pinned": {
+    "message": "不保存已固定的標籤"
+  },
+  "auto_preserve_no_preserve_audible": {
+    "message": "不保存正在播放音頻的標籤"
+  },
+  "auto_preserve_no_preserve_with_unsaved_form": {
+    "message": "不保存帶有未保存表單輸入的標籤"
+  },
+  "auto_preserve_no_preserve_active": {
+    "message": "不保存活動標籤"
+  },
+  "auto_preserve_no_preserve_when_offline": {
+    "message": "當瀏覽器離線時不保存標籤"
+  },
+  "interval_1_min": {
+    "message": "1分鐘"
+  },
+  "interval_5_min": {
+    "message": "5分鐘"
+  },
+  "interval_10_min": {
+    "message": "10分鐘"
+  },
+  "interval_15_min": {
+    "message": "15分鐘"
+  },
+  "interval_30_min": {
+    "message": "30分鐘"
+  },
+  "interval_1_hour": {
+    "message": "1小時"
+  },
+  "interval_2_hours": {
+    "message": "2小時"
+  },
+  "interval_4_hours": {
+    "message": "4小時"
+  },
+  "interval_6_hours": {
+    "message": "6小時"
+  },
+  "interval_12_hours": {
+    "message": "12小時"
+  },
+  "interval_1_day": {
+    "message": "1天"
+  },
+  "interval_2_days": {
+    "message": "2天"
+  },
+  "interval_3_days": {
+    "message": "3天"
+  },
+  "interval_1_week": {
+    "message": "1週"
+  },
+  "interval_2_weeks": {
+    "message": "2週"
+  },
+  "sites_whitelist_title": {
+    "message": "永不保存來自這些網站的標籤"
+  },
+  "sites_whitelist_description": {
+    "message": "在新的一行中添加您想要加入白名單的每個頁面的 URL。例如：\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n要在一行上加入多個站點，您可以指定 URL 的一部分：\ngoogle.com\n您還可以通過用斜槓括起文本來指定正則表達式：\n/^https:.*google\\.com/"
+  },
+  "share_tab_group_title": {
+    "message": "分享標籤組"
+  },
+  "share_tab_group_description": {
+    "message": "與其他人分享此標籤組。擁有連結的人都可以查看和還原此組中的任何標籤。標籤的預覽僅供您使用。\n如果您更新此標籤組，更改將應用於所有有權訪問的人。\n您還可以設置寫入權限，以允許其他人編輯此標籤組。"
+  },
+  "share_tab_group_write_permission": {
+    "message": "寫入權限"
+  },
+  "share_tab_group_revoke_access": {
+    "message": "撤銷訪問權限"
+  },
+  "sign_in_to_share": {
+    "message": "登錄共享標籤組"
+  }
+}

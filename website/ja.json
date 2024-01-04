@@ -1,0 +1,354 @@
+{
+  "common": {
+    "tabber": "Tabber",
+    "tabber_plus": "Tabber Plus",
+    "sign_up": "サインアップ",
+    "sign_in": "サインイン",
+    "sign_out": "サインアウト",
+    "free": "無料",
+    "plus": "Plus"
+  },
+  "accept_terms": {
+    "accept": "承諾する",
+    "content": [
+      "注意！ ウェブサイトの必要な機能を提供し、お客様の体験を向上させ、トラフィックを分析するためにクッキーを使用しています。当社のウェブサイトを利用することで、クッキーの使用と当社の ",
+      "プライバシーポリシー",
+      " および ",
+      "利用規約",
+      " に同意したものとみなされます。"
+    ]
+  },
+  "auth": {
+    "sign_in": {
+      "title": "Tabberにサインアップする",
+      "or": "または",
+      "continue_with": "%sで続行",
+      "sign_in_with_email": "メールでサインイン",
+      "email_address": "メールアドレス"
+    },
+    "sign_out": {
+      "title": "サインアウトしました",
+      "description": [
+        "Tabberは引き続き使用できますが、データのバックアップやデバイス間での同期は行われません。",
+        "クラウド同期を有効にするには、もう一度サインインしてください。"
+      ],
+      "return": "Tabberに戻る"
+    },
+    "error": {
+      "title": "何か問題が発生しました",
+      "description": [
+        "もう一度サインインしてください。",
+        "別の方法でサインインすることもできます。",
+        "問題が解決しない場合は、お気軽にお問い合わせください。"
+      ]
+    },
+    "verify_request": {
+      "title": "メールを確認してください",
+      "description": ["サインインリンクがメールアドレスに送信されました。"],
+      "open_gmail": "Gmailを開く"
+    }
+  },
+  "header": {
+    "home": "ホーム",
+    "install": "インストール",
+    "pricing": "価格",
+    "contact": "お問い合わせ",
+    "about": "会社情報"
+  },
+  "footer": {
+    "about": "会社情報",
+    "faq": "よくある質問",
+    "contact": "お問い合わせ",
+    "pricing": "価格",
+    "credits": "クレジット",
+    "patreon": "パトレオン",
+    "telegram": "テレグラム",
+    "twitter": "ツイッター",
+    "github": "GitHub",
+    "terms": "利用規約",
+    "privacy": "プライバシーポリシー",
+    "copyright": "©%year% Tabber。全著作権所有。"
+  },
+  "home": {
+    "title": "Tabber",
+    "subtitle": "究極のタブ整理ソリューション",
+    "description": "使っていないタブを仮想タブの整理されたグループに保存し、すべてのデバイスと同期することで、ブラウジングを簡素化します。",
+    "watch_demo": "デモを見る",
+    "install": {
+      "description": ["クリーンなブラウジング体験のためにTabberをインストールしましょう。", "Chrome、Edge、Firefox、Operaに対応。今すぐタブを整理しましょう！"],
+      "info": "ブラウザネイティブのタブグループ操作はChrome、Edge、Opera（Opera GXを除く）でのみ利用可能です。最適な体験のために、これらのブラウザのいずれかでTabberを使用することをお勧めします。"
+    },
+    "pricing": {
+      "title": "Tabberは無料で使えます！",
+      "description": "特別機能に対する支払いは任意で、Tabberの開発をサポートしたい場合のみです。",
+      "free_features": [
+        "最大10のタブグループ",
+        "手動タブ整理",
+        "手動クラウド同期",
+        "最後のバックアップ同期",
+        "標準サポート",
+        "基本機能全部"
+      ],
+      "get_started": "始める",
+      "plus": {
+        "title": "Tabber Plus",
+        "description": "Tabber Plusでウェブブラウジング体験をアップグレード。タブの混乱からさよならし、オンライン作業を変革する生産性向上ツールの世界を発見しましょう。",
+        "upgrade": "Plusにアップグレード",
+        "price": "月額わずか$%price%"
+      }
+    },
+    "support": {
+      "title": "どのようにお手伝いできますか？",
+      "description": "以下のリソースをご覧いただき、ご質問があれば直接ご連絡ください。",
+      "faq": "FAQを検索",
+      "form": {
+        "title": "お問い合わせ",
+        "name": "名前",
+        "email": "メール",
+        "message": "メッセージ",
+        "submit": "送信",
+        "success": "メッセージが正常に送信されました。できるだけ早くご返信いたします。",
+        "error": "メッセージの送信中にエラーが発生しました。後ほど再度お試しください。",
+        "disclaimer": ["このフォームを送信することで、弊社の", "利用規約", "および", "プライバシーポリシー", "に同意したことになります。"]
+      }
+    },
+    "about": {
+      "paragraphs": [
+        {
+          "title": "Tabberについて",
+          "description": [
+            "Tabberは、タブを管理するための独自の仮想ブラウザー様インターフェースを提供することで、オンライン体験を合理化し強化するために設計された革命的なブラウザ拡張機能です。ユーザーは使わないタブをカスタマイズ可能な仮想タブグループに簡単にグループ化・整理でき、混雑のない効率的なブラウジング環境を実現します。",
+            "Tabberを使えば、スクリーンショットを通じてタブを簡単にプレビューでき、デバイス間でタブグループを同期させてシームレスなアクセスを実現し、カスタマイズ設定の幅広い範囲で体験を個人化できます。タブの混雑という問題に対するシンプルで直感的な解決策で、最も重要なことに集中できます。"
+          ]
+        },
+        {
+          "title": "開発者について",
+          "description": [
+            "私はウクライナの献身的なソフトウェア開発者で、革新的でユーザーフレンドリーなソフトウェアソリューションを作ることに情熱を注いでいます。独立開発者として、機能性とユーザー体験へのコミットメントを反映したさまざまなプロジェクトを制作してきました。私の作品ポートフォリオはneulen.devでご覧いただけます。私の専門知識の幅広さを示しています。",
+            "Tabberを使っていただくのを楽しんでいただけることを願っています！"
+          ]
+        }
+      ]
+    }
+  },
+  "plus": {
+    "title": "Tabber Plus サブスクライバーになる",
+    "features": [
+      ["無制限のタブグループ", "タブをグループ化する数に制限はありません。"],
+      ["スマートタブソート", "タブをタイトル、URL、保存日に基づいて自動的に並べ替えます。"],
+      ["オートクラウド同期", "あなたのタブはすべてのデバイスで自動的に同期されます。"],
+      ["フル同期履歴", "完全な同期履歴にアクセスし、任意のバックアップを復元できます。"],
+      ["優先サポート", "すべての質問や懸念事項は迅速に対応され、スムーズな体験を保証します。"],
+      ["Patreon限定投稿", "Patreonの限定投稿、アンケートへのアクセス、最新のアップデート、ヒント、コツを入手できます。"]
+    ],
+    "paragraphs": [
+      {
+        "title": "Tabber Plus でTabberのフルパワーを解放",
+        "description": "強化されたブラウジングの世界へようこそ！ Tabber Plusにサブスクライブすることで、Tabber体験を向上させるために設計されたプレミアム機能のスイートへのアクセスが得られます。あなたのブラウジングをより効率的で、整理され、シームレスなものにするために、この旅に私たちに加わってください。"
+      },
+      {
+        "title": "Tabber Plus で得られるもの"
+      },
+      {
+        "title": "サブスクライブする方法",
+        "items": [
+          ["Patreonページを訪問", "以下の「Patreonでサブスクライブ」ボタンをクリックして、Patreonページにリダイレクトされます。"],
+          ["Patreonアカウントを作成またはログイン", "Patreonが初めての場合は、アカウントを作成する必要があります。既にアカウントを持っている場合は、ログインしてください。"],
+          ["サブスクリプションティアを選択", "「Plus」サブスクリプションティアを選択し、支払いを完了するための指示に従ってください。"],
+          ["Patreonを使用してTabberにログイン", "サブスクライブしたら、Patreonアカウントを使用してTabberにログインする必要があります。"],
+          ["Tabber Plusをお楽しみください", "準備ができました！ 新しいTabber Plus機能をお楽しみください。"]
+        ],
+        "note": "注記: 既にTabberにログインしている場合は、ログアウトしてPatreonアカウントを使用して再度ログインする必要があります。TabberとPatreonのメールが一致しない場合、新しいユーザーとして登録され、以前のデータは転送されません。"
+      },
+      {
+        "title": "Patreonを通じてサブスクライブできない場合は？",
+        "description": "現在、他のサービスを通じたサブスクリプションの導入の可能性に取り組んでいます。次のアップデートで登場する予定ですので、お待ちください！"
+      },
+      {
+        "title": "質問がありますか？",
+        "description": ["質問や懸念事項がある場合は、遠慮なく", "お問い合わせください", "、または", "FAQセクション", "をご覧ください。"]
+      }
+    ],
+    "subscribe": "Patreonでサブスクライブ"
+  },
+  "faqs": {
+    "title": "よくある質問",
+    "footer": ["お探しの回答が見つからないですか？以下の", "お問い合わせフォーム", "をご利用いただくか、", "tabber@neulen.dev", "までご連絡ください。"],
+    "items": [
+      {
+        "question": "Firefoxでタブをキャプチャできません。どうすればいいですか？",
+        "answer": [
+          "必要な許可が与えられていない場合にこの問題が発生することがあります。",
+          "許可を与えるには、ブラウザの右上隅にある拡張機能アイコンをクリックし、「拡張機能を管理する」を選択してください。その後、Tabber拡張機能をクリックし、「権限」を選び、「すべてのウェブサイトのデータにアクセスする」権限を有効にしてください。"
+        ]
+      },
+      {
+        "question": "なぜタブのプレビューが利用できないのですか？",
+        "answer": [
+          "これにはいくつかの理由が考えられます：",
+          "1. 拡張機能の設定で「保存時にプレビューを作成する」オプションを無効にしている。",
+          "2. そのタブを含むタブグループ全体を保存したが、プレビューは個別に保存されたタブにのみ利用可能です。",
+          "3. タブはクラウドからロードされたが、プレビューは別のデバイス上でローカルに保存されていた、または最後の同期後に削除された。",
+          "4. その他のエラーが発生した。ブラウザの再起動や拡張機能の再インストールを試してください。",
+          "これらの問題のほとんどは、設定でクラウドプレビュー保存を有効にすることで解決できます。"
+        ]
+      },
+      {
+        "question": "言語を変更するにはどうすればいいですか？",
+        "answer": [
+          "拡張機能の言語は、ブラウザの言語に基づいて自動的に選択されます。変更するには、ブラウザの言語を変更する必要があります。"
+        ]
+      },
+      {
+        "question": "クラウドとの自動同期とは何ですか？",
+        "answer": [
+          "これは、タブに変更を加えるたびに、拡張機能が自動的にデータをクラウドと同期することを意味します。",
+          "タブやタブグループを誤って削除した場合でも、クラウドのバックアップからいつでも復元できます。"
+        ]
+      },
+      {
+        "question": "タブをグループ間で移動するにはどうすればいいですか？",
+        "answer": [
+          "タブをグループ間で移動するには、移動したいタブをクリックして押し続け、目的のグループにドラッグしてください。"
+        ]
+      },
+      {
+        "question": "Tabber Plusに登録しましたが、Plusの機能にまだアクセスできません。",
+        "answer": [
+          "Patreonアカウントを使用してログインしたが、まだPlusの機能にアクセスできない場合は、ブラウザを再起動するか、デバイスを再起動してみてください。"
+        ]
+      },
+      {
+        "question": "Plusサブスクリプションをどうやって停止すればいいですか？",
+        "answer": [
+          "いつでもサブスクリプションをキャンセルすることができます。これを行うには、Patreonアカウントにアクセスし、「マイメンバーシップ」を選択し、Tabber Plusの横の「編集」をクリックしてから「メンバーシップをキャンセル」をクリックしてください。",
+          "それを行うと、サブスクリプションはキャンセルされ、次の月の料金は請求されません。ただし、現在の請求期間の終わりまではTabber Plusの機能に引き続きアクセスできます。"
+        ]
+      },
+      {
+        "question": "Firefoxのキーボードショートカットを変更する方法は？",
+        "answer": [
+          "Firefoxではブラウザの設定でキーボードショートカットを手動で変更する必要があります。",
+          "変更するには、ブラウザの右上隅にある拡張アイコンをクリックし、「拡張機能の管理」を選択します。次に、右上隅にある歯車アイコンをクリックし、「拡張機能のショートカットを管理」を選択します。"
+        ]
+      }
+    ]
+  },
+  "email": {
+    "sign_in": {
+      "subject": "Tabber へのサインイン",
+      "title": "Tabber にサインインするには、下のボタンをクリックしてください。",
+      "button": "サインイン",
+      "footer": "サインインリンクをリクエストしていない場合は、このメールを無視してください。",
+      "plain_text": "Tabber へのサインイン：%link%"
+    }
+  },
+  "languages": [
+    ["English", "en"],
+    ["Deutsch", "de"],
+    ["Español", "es"],
+    ["Français", "fr"],
+    ["Português", "pt"],
+    ["Русский", "ru"],
+    ["Türkçe", "tr"],
+    ["Українська", "uk"],
+    ["日本語", "ja"],
+    ["简体中文", "zh_CN"],
+    ["繁體中文", "zh_TW"]
+  ],
+  "terms": {
+    "title": "Tabberの利用規約",
+    "date": "最終更新日: 2023年11月20日",
+    "content": [
+      "1. Acceptance of Terms",
+      "By accessing and using Tabber, you agree to comply with these Terms of Service and all applicable laws and regulations. If you do not agree with any part of these terms, you are prohibited from using or accessing this service.",
+      "2. Use License",
+      "Permission is granted to temporarily download one copy of Tabber per device for personal, non-commercial transitory viewing only.",
+      "This is the grant of a license, not a transfer of title, and under this license, you may not:",
+      "Modify or copy the materials.",
+      "Use the materials for any commercial purpose, or for any public display (commercial or non-commercial).",
+      "Attempt to decompile or reverse engineer any software contained in Tabber.",
+      "Transfer the materials to another person or «mirror» the materials on any other server.",
+      "This license shall automatically terminate if you violate any of these restrictions and may be terminated by Tabber at any time.",
+      "3. Disclaimer",
+      "The materials within Tabber are provided on an «as is» basis. Tabber makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.",
+      "Further, Tabber does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to Tabber.",
+      "4. Limitations",
+      "In no event shall Tabber or its suppliers be liable for any consequential damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use Tabber.",
+      "5. Accuracy of Materials",
+      "The materials appearing in Tabber could include technical, typographical, or photographic errors. Tabber does not warrant that any of the materials on its extension are accurate, complete, or current.",
+      "6. Modifications",
+      "Tabber may revise these terms of service for its extension at any time without notice. By using this extension, you are agreeing to be bound by the then-current version of these terms of service.",
+      "7. Governing Law",
+      "These terms and conditions are governed by and construed in accordance with the laws of Ukraine and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.",
+      "8. Subscriptions and Payments",
+      "For users subscribing to Tabber Plus via Patreon, terms and conditions of Patreon apply. For more information, please visit https://patreon.com/policy/legal.",
+      "Subscription fees are non-refundable except as expressly stated in these Terms. If you cancel your subscription, you will not receive a refund of any portion of the subscription fee paid for the then-current subscription period at the time of cancellation.",
+      "9. User Conduct",
+      "Users agree not to use Tabber in any way that:",
+      "Is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically, or otherwise objectionable.",
+      "Harms minors in any way.",
+      "Impersonates any person or entity, including, but not limited to, a Tabber official, forum leader, guide or host, or falsely states or otherwise misrepresents your affiliation with a person or entity.",
+      "Forges headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through Tabber.",
+      "Uploads, posts, emails, transmits, or otherwise makes available any Content that you do not have a right to make available under any law or under contractual or fiduciary relationships (such as inside information, proprietary, and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements).",
+      "10. Privacy Policy",
+      "Your use of Tabber is also governed by our Privacy Policy. Please review our Privacy Policy, which also governs the extension and informs users of our data collection practices.",
+      "11. Contact Us",
+      "If you have any questions about these Terms, please contact us at tabber@neulen.dev."
+    ]
+  },
+  "privacy": {
+    "title": "Tabberのプライバシーポリシー",
+    "date": "最終更新日: 2023年11月20日",
+    "content": [
+      "1. Information We Collect",
+      "User Preserved Tabs Information",
+      "When you preserve a tab, we collect the URL, title, favicon, and screenshot of the tab. This information is stored locally on your device and is not shared with any third parties. You can delete this information at any time by removing the preserved tab. If you have enabled cloud sync, this information is also stored on our servers and is used to synchronize your preserved tabs across devices. You can disable cloud sync at any time in the extension settings.",
+      "Account Information",
+      "If you log in using Google, we collect your Google account data as necessary for the operation of Tabber.",
+      "If you use Patreon to subscribe to Tabber Plus, we collect your Patreon user data for subscription management and to provide exclusive content.",
+      "Usage Data",
+      "We use Google Analytics to collect anonymous data about how you interact with Tabber, which helps us improve our service. This data includes information about your browser, operating system, and device, as well as your IP address and the date and time of your visit. This data is not shared with any third parties.",
+      "2. How We Use Your Information",
+      "The information we collect is used to:",
+      "Provide, maintain, and improve Tabber's features and functionality.",
+      "Manage your account and subscriptions.",
+      "Offer customer support and respond to your inquiries.",
+      "Conduct analytics to enhance user experience.",
+      "Communicate with you, including sending service updates and exclusive offers (if you have opted-in for such communications).",
+      "3. Sharing Your Information",
+      "We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties, except as described below:",
+      "Service Providers: We may share your data with third-party service providers that assist us in operating Tabber, conducting our business, or serving our users, so long as those parties agree to keep this information confidential.",
+      "Legal Requirements: We may disclose your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.",
+      "Business Transfers: In the event that Tabber is involved in a merger, acquisition, or asset sale, your information may be transferred. We will provide notice before your information is transferred and becomes subject to a different Privacy Policy.",
+      "4. Data Security",
+      "We implement a variety of security measures to maintain the safety of your personal information. We use encryption to protect sensitive information transmitted online and we store your data on secure servers.",
+      "5. Your Data Protection Rights",
+      "Depending on your location, you may have certain data protection rights. These rights include:",
+      "The right to access, correct, update, or request deletion of your personal information.",
+      "The right to object to processing of your personal information, ask us to restrict processing of your personal information, or request portability of your personal information.",
+      "The right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the «unsubscribe» or «opt-out» link in the marketing emails we send you. To opt-out of other forms of marketing, please contact us using the contact details provided below.",
+      "The right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.",
+      "GDPR (For EU Residents)",
+      "Under the GDPR, if you are a resident of the European Union, you have additional rights such as the right to data portability, the right to object to data processing, and the right to withdraw consent at any time.",
+      "We process your personal data with your consent and for the legitimate interests of providing and improving Tabber's functionalities.",
+      "CCPA (For California Residents)",
+      "If you are a resident of California, you have the right to request that we disclose certain information about our collection and use of your personal data over the past 12 months.",
+      "You also have the right to request that we delete any of your personal data that we collected from you, subject to certain exceptions.",
+      "6. Cookies and Tracking Technologies",
+      "We use cookies and similar tracking technologies to track the activity on Tabber and hold certain information. Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze Tabber.",
+      "You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of Tabber.",
+      "7. International Transfers",
+      "Your information, including personal data, may be transferred to — and maintained on — computers located outside of your state, province, country, or other governmental jurisdiction where the data protection laws may differ from those of your jurisdiction.",
+      "If you are located outside Ukraine and choose to provide information to us, please note that we transfer the data, including personal data, to Ukraine and process it there.",
+      "Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.",
+      "8. Children's Privacy",
+      "Tabber does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal data, please contact us. If we become aware that we have collected personal data from children under 13 without verification of parental consent, we take steps to remove that information from our servers.",
+      "9. Changes to This Privacy Policy",
+      "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.",
+      "You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.",
+      "10. Contact Us",
+      "If you have any questions about this Privacy Policy, please contact us at tabber@neulen.dev."
+    ]
+  }
+}
