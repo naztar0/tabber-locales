@@ -254,6 +254,9 @@
   "finish": {
     "message": "Finalizar"
   },
+  "support": {
+    "message": "Suporte"
+  },
   "about": {
     "message": "Sobre"
   },
@@ -538,6 +541,15 @@
   },
   "auto_preserve_no_preserve_when_offline": {
     "message": "Não preservar abas quando o navegador estiver offline"
+  },
+  "auto_sync": {
+    "message": "Sincronização automática na nuvem"
+  },
+  "auto_sync_enabled": {
+    "message": "Ativado"
+  },
+  "auto_sync_interval": {
+    "message": "Intervalo"
   },
   "interval_1_min": {
     "message": "1 minuto"

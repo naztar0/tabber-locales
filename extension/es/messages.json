@@ -254,6 +254,9 @@
   "finish": {
     "message": "Finalizar"
   },
+  "support": {
+    "message": "Soporte"
+  },
   "about": {
     "message": "Acerca de"
   },
@@ -538,6 +541,15 @@
   },
   "auto_preserve_no_preserve_when_offline": {
     "message": "No conservar pestañas cuando el navegador esté fuera de línea"
+  },
+  "auto_sync": {
+    "message": "Sincronización automática en la nube"
+  },
+  "auto_sync_enabled": {
+    "message": "Habilitado"
+  },
+  "auto_sync_interval": {
+    "message": "Intervalo"
   },
   "interval_1_min": {
     "message": "1 minuto"

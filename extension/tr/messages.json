@@ -254,6 +254,9 @@
   "finish": {
     "message": "Tamamla"
   },
+  "support": {
+    "message": "Destek"
+  },
   "about": {
     "message": "Hakkında"
   },
@@ -538,6 +541,15 @@
   },
   "auto_preserve_no_preserve_when_offline": {
     "message": "Tarayıcı çevrimdışı olduğunda sekmeleri koruma"
+  },
+  "auto_sync": {
+    "message": "Otomatik bulut senkronizasyonu"
+  },
+  "auto_sync_enabled": {
+    "message": "Etkin"
+  },
+  "auto_sync_interval": {
+    "message": "Aralık"
   },
   "interval_1_min": {
     "message": "1 dakika"

@@ -254,6 +254,9 @@
   "finish": {
     "message": "完成"
   },
+  "support": {
+    "message": "支援"
+  },
   "about": {
     "message": "關於"
   },
@@ -538,6 +541,15 @@
   },
   "auto_preserve_no_preserve_when_offline": {
     "message": "當瀏覽器離線時不保存標籤"
+  },
+  "auto_sync": {
+    "message": "自動雲端同步"
+  },
+  "auto_sync_enabled": {
+    "message": "已啟用"
+  },
+  "auto_sync_interval": {
+    "message": "間隔"
   },
   "interval_1_min": {
     "message": "1分鐘"

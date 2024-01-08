@@ -254,6 +254,9 @@
   "finish": {
     "message": "完了"
   },
+  "support": {
+    "message": "サポート"
+  },
   "about": {
     "message": "約"
   },
@@ -538,6 +541,15 @@
   },
   "auto_preserve_no_preserve_when_offline": {
     "message": "ブラウザがオフラインの場合、タブを保存しない"
+  },
+  "auto_sync": {
+    "message": "自動クラウド同期"
+  },
+  "auto_sync_enabled": {
+    "message": "有効"
+  },
+  "auto_sync_interval": {
+    "message": "間隔"
   },
   "interval_1_min": {
     "message": "1分"

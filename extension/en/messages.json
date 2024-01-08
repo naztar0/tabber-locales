@@ -86,6 +86,7 @@
   "tutorial_via_options_menu": { "message": "Via options menu" },
   "tutorial": { "message": "Tutorial" },
   "finish": { "message": "Finish" },
+  "support": { "message": "Support" },
   "about": { "message": "About" },
   "about_title": { "message": "Tabber – Ultimate Tab Organization Solution v$1" },
   "about_description": { "message": "Simplify your browsing by preserving unused tabs into organized groups of virtual tabs and synchronize them with all devices.\nVisit the %Tabber About page% for more info." },
@@ -185,6 +186,10 @@
   "auto_preserve_no_preserve_with_unsaved_form": { "message": "Don't preserve tabs with unsaved form inputs" },
   "auto_preserve_no_preserve_active": { "message": "Don't preserve active tab" },
   "auto_preserve_no_preserve_when_offline": { "message": "Don't preserve tabs when browser is offline" },
+
+  "auto_sync": { "message": "Auto cloud sync" },
+  "auto_sync_enabled": { "message": "Enabled" },
+  "auto_sync_interval": { "message": "Interval" },
 
   "interval_1_min": { "message": "1 minute" },
   "interval_5_min": { "message": "5 minutes" },

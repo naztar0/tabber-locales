@@ -254,6 +254,9 @@
   "finish": {
     "message": "完成"
   },
+  "support": {
+    "message": "支持"
+  },
   "about": {
     "message": "关于"
   },
@@ -538,6 +541,15 @@
   },
   "auto_preserve_no_preserve_when_offline": {
     "message": "在浏览器离线时不保存标签"
+  },
+  "auto_sync": {
+    "message": "自动云同步"
+  },
+  "auto_sync_enabled": {
+    "message": "已启用"
+  },
+  "auto_sync_interval": {
+    "message": "间隔"
   },
   "interval_1_min": {
     "message": "1分钟"

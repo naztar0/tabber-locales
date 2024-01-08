@@ -254,6 +254,9 @@
   "finish": {
     "message": "Terminer"
   },
+  "support": {
+    "message": "Support"
+  },
   "about": {
     "message": "À propos"
   },
@@ -538,6 +541,15 @@
   },
   "auto_preserve_no_preserve_when_offline": {
     "message": "Ne pas conserver les onglets lorsque le navigateur est hors ligne"
+  },
+  "auto_sync": {
+    "message": "Synchronisation automatique cloud"
+  },
+  "auto_sync_enabled": {
+    "message": "Activé"
+  },
+  "auto_sync_interval": {
+    "message": "Intervalle"
   },
   "interval_1_min": {
     "message": "1 minute"

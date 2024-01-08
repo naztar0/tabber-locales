@@ -254,6 +254,9 @@
   "finish": {
     "message": "Завершить"
   },
+  "support": {
+    "message": "Поддержка"
+  },
   "about": {
     "message": "О программе"
   },
@@ -538,6 +541,15 @@
   },
   "auto_preserve_no_preserve_when_offline": {
     "message": "Не сохранять вкладки если вы не в сети"
+  },
+  "auto_sync": {
+    "message": "Авто-синхронизация с облаком"
+  },
+  "auto_sync_enabled": {
+    "message": "Включено"
+  },
+  "auto_sync_interval": {
+    "message": "Интервал"
   },
   "interval_1_min": {
     "message": "1 минута"

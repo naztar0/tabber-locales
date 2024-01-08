@@ -254,6 +254,9 @@
   "finish": {
     "message": "Fertigstellen"
   },
+  "support": {
+    "message": "Unterstützung"
+  },
   "about": {
     "message": "Über"
   },
@@ -538,6 +541,15 @@
   },
   "auto_preserve_no_preserve_when_offline": {
     "message": "Tabs nicht erhalten, wenn der Browser offline ist"
+  },
+  "auto_sync": {
+    "message": "Automatische Cloud-Synchronisierung"
+  },
+  "auto_sync_enabled": {
+    "message": "Aktiviert"
+  },
+  "auto_sync_interval": {
+    "message": "Intervall"
   },
   "interval_1_min": {
     "message": "1 Minute"
