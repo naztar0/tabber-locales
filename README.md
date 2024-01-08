@@ -13,10 +13,10 @@ With Tabber, you can preview tabs through screenshots, synchronize your tab grou
 ## What are the features of Tabber?
 
 - **Tab Groups**: Group tabs into customizable virtual tab groups, providing a clutter-free and efficient browsing environment.
-- **Tab Previews**: Preview tabs through screenshots, making it easier to find the tab you’re looking for.
-- **Tab Search**: Search through your tabs, making it easier to find the tab you’re looking for.
-- **Tab Sorting**: Sort your tabs by title, URL, or date, making it easier to find the tab you’re looking for.
-- **Tab Sync**: Synchronize your tab groups across devices for seamless access.
-- **Tab Sharing**: Share your tab groups with others, making it easier to collaborate.
-- **Customization**: Personalize your experience with a wide range of customization settings.
+- **Tab Previews**: Preview tabs using screenshots, making navigation between tabs easier and seeing their context.
+- **Tab Search**: Find the tabs you need among the multitude.
+- **Tab Sorting**: Sort tabs by title, URL, or date. Tabs can also be automatically grouped by context.
+- **Data Sync and Backups**: Sync your data across devices for uninterrupted access. Explore backup history as well.
+- **Tab Sharing**: Share your tab groups with others, enabling collaboration.
+- **Customization Settings**: A wide range of settings allows convenient customization of the interface and functionality.
 - **Privacy**: Tabber is designed to protect your privacy. It does not collect any personal information if you don't want to, and all data is stored locally on your device.
