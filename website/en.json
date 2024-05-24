@@ -86,6 +86,7 @@
         "Manual Tabs Sorting",
         "Manual Cloud Sync",
         "Last Backup Sync",
+        "Standard Background",
         "Standard Support",
         "Full Basic Functionality"
       ],
@@ -136,9 +137,10 @@
     "title": "Become a Tabber Plus Subscriber",
     "features": [
       ["Unlimited Tab Groups", "No more limits to the number of tabs you can group."],
-      ["Smart Tabs Sorting", "Auto sort your tabs by title, url or preservation date."],
+      ["AI-powered Tabs Grouping", "Group tabs automatically based on their content."],
       ["Auto Cloud Sync", "Your tabs are automatically synced across all your devices."],
       ["Full Sync History", "Access your full synchronizations history and restore any backup."],
+      ["Custom Background", "Apply a custom background to pages without previews."],
       ["Priority Support", "Any questions and concerns will be addressed promptly, ensuring a smooth experience."],
       ["Exclusive Patreon Posts", "Get exclusive access to Patreon posts, polls and stay in the loop with the latest updates, tips, and tricks."]
     ],

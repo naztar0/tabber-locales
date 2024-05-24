@@ -86,6 +86,7 @@
         "Manuelles Sortieren von Tabs",
         "Manuelle Cloud-Synchronisation",
         "Letzte Backup-Synchronisation",
+        "Standardhintergrund",
         "Standard-Support",
         "Voller Basisfunktionsumfang"
       ],
@@ -135,9 +136,10 @@
     "title": "Werden Sie ein Tabber Plus-Abonnent",
     "features": [
       ["Unbegrenzte Tab-Gruppen", "Keine Grenzen mehr für die Anzahl der Tabs, die Sie gruppieren können."],
-      ["Intelligente Tab-Sortierung", "Sortieren Sie Ihre Tabs automatisch nach Titel, URL oder Speicherdatum."],
+      ["KI-gestützte Tab-Gruppierung", "Gruppieren Sie Tabs automatisch basierend auf ihrem Inhalt."],
       ["Auto Cloud-Synchronisation", "Ihre Tabs werden automatisch auf all Ihren Geräten synchronisiert."],
       ["Vollständige Sync-Historie", "Zugriff auf Ihre vollständige Synchronisationshistorie und Wiederherstellung jeder Sicherung."],
+      ["Benutzerdefinierter Hintergrund", "Wenden Sie einen benutzerdefinierten Hintergrund auf Seiten ohne Vorschau an."],
       ["Prioritärer Support", "Alle Fragen und Bedenken werden umgehend angegangen, um ein reibungsloses Erlebnis zu gewährleisten."],
       ["Exklusive Patreon-Posts", "Erhalten Sie exklusiven Zugang zu Patreon-Posts, Umfragen und bleiben Sie auf dem Laufenden über die neuesten Updates, Tipps und Tricks."]
     ],

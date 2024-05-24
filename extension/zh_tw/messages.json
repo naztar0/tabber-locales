@@ -23,6 +23,9 @@
   "theme_color": {
     "message": "主要顏色"
   },
+  "theme_background": {
+    "message": "背景"
+  },
   "use_context_menu": {
     "message": "使用右鍵菜單"
   },
@@ -44,6 +47,9 @@
   "delete_tab_on_restore": {
     "message": "恢復時刪除標籤"
   },
+  "restore_to_group": {
+    "message": "將標籤頁恢復到群組"
+  },
   "add_new_tab_to_start": {
     "message": "在開始時添加新標籤"
   },
@@ -53,17 +59,20 @@
   "save_previews_to_cloud": {
     "message": "將預覽保存到雲端"
   },
-  "disable_animations": {
-    "message": "停用動畫"
-  },
   "sites_whitelist": {
     "message": "網站白名單"
   },
   "keyboard_shortcuts": {
     "message": "鍵盤快捷鍵"
   },
+  "advanced_settings": {
+    "message": "高級設置"
+  },
   "home_page": {
     "message": "Tabber | 首頁"
+  },
+  "restore_closed_tab": {
+    "message": "恢復已關閉分頁"
   },
   "preserve_all_tabs": {
     "message": "保存所有標籤"
@@ -134,6 +143,9 @@
   "deny": {
     "message": "拒絕"
   },
+  "proceed": {
+    "message": "繼續"
+  },
   "main_tab_group": {
     "message": "主標籤組"
   },
@@ -144,10 +156,10 @@
     "message": "標籤組已保存"
   },
   "tab_preserved_message": {
-    "message": "«$1» 已被保存"
+    "message": "「$1」 已被保存"
   },
   "tab_group_preserved_message": {
-    "message": "«$1» 組已被保存"
+    "message": "「$1」 組已被保存"
   },
   "preserve_tab": {
     "message": "保存標籤"
@@ -282,7 +294,7 @@
     "message": "無限制的標籤組"
   },
   "plus_feature_title_2": {
-    "message": "智能標籤排序"
+    "message": "AI 分頁分組"
   },
   "plus_feature_title_3": {
     "message": "自動雲同步"
@@ -291,16 +303,19 @@
     "message": "完整的同步歷史"
   },
   "plus_feature_title_5": {
-    "message": "優先支持"
+    "message": "自訂背景"
   },
   "plus_feature_title_6": {
+    "message": "優先支持"
+  },
+  "plus_feature_title_7": {
     "message": "獨家 Patreon 帖子"
   },
   "plus_feature_desc_1": {
     "message": "您可以對任意數量的標籤進行分組，沒有限制。"
   },
   "plus_feature_desc_2": {
-    "message": "根據標題、URL或保存日期自動對您的標籤進行排序。"
+    "message": "根據內容自動分組分頁。"
   },
   "plus_feature_desc_3": {
     "message": "您的標籤會自動在所有設備上同步。"
@@ -309,9 +324,12 @@
     "message": "訪問您的完整同步歷史並恢復任何備份。"
   },
   "plus_feature_desc_5": {
-    "message": "任何問題和關切都將得到及時解決，確保流暢的體驗。"
+    "message": "對沒有預覽的頁面應用自訂背景。"
   },
   "plus_feature_desc_6": {
+    "message": "任何問題和關切都將得到及時解決，確保流暢的體驗。"
+  },
+  "plus_feature_desc_7": {
     "message": "獨家訪問 Patreon 帖子、投票，並隨時了解最新更新、技巧和竅門。"
   },
   "plus_price": {
@@ -374,6 +392,15 @@
   "no_data": {
     "message": "無數據"
   },
+  "group_tabs": {
+    "message": "分組分頁"
+  },
+  "group_tabs_by_domain": {
+    "message": "按網域"
+  },
+  "group_tabs_with_ai": {
+    "message": "使用 AI"
+  },
   "sort_tabs": {
     "message": "排序標籤"
   },
@@ -385,9 +412,6 @@
   },
   "sort_tabs_by_date": {
     "message": "按日期"
-  },
-  "sort_tabs_by_group": {
-    "message": "按組分配"
   },
   "sort_tabs_asc": {
     "message": "升序"
@@ -483,7 +507,7 @@
     "message": "查看設置頁面，根據自己的喜好調整Tabber的外觀和感覺。"
   },
   "tutorial_settings_description_2": {
-    "message": "如果要自動保存標籤，請查看«自動保存»部分。"
+    "message": "如果要自動保存標籤，請查看「自動保存」部分。"
   },
   "tutorial_settings_arrow": {
     "message": "就在這裡！"
@@ -495,12 +519,15 @@
     "message": "您可以在Tabber頁面上使用以下鍵盤快捷鍵："
   },
   "tutorial_shortcuts_description_2": {
-    "message": "1. 按下«F11»或«F»以全屏打開Tabber。"
+    "message": "1. 按下「F11」或「F」以全屏打開Tabber。"
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. 按下«Ctrl + F»搜索標籤。（按«Esc»退出）"
+    "message": "2. 按下「Ctrl + F」搜索標籤。（按「Esc」退出）"
   },
   "tutorial_shortcuts_description_4": {
+    "message": "3. 按「T」可還原上次關閉的分頁。"
+  },
+  "tutorial_shortcuts_description_5": {
     "message": "您還可以在設置中設置自己的全局快捷鍵。"
   },
   "tutorial_sign_in_title": {
@@ -596,11 +623,83 @@
   "interval_2_weeks": {
     "message": "2週"
   },
+  "theme_background_title": {
+    "message": "更改背景"
+  },
+  "theme_background_description": {
+    "message": "為沒有預覽的頁面選擇背景"
+  },
+  "theme_background_adjust": {
+    "message": "調整背景亮度"
+  },
+  "drop_file_here": {
+    "message": "拖曳文件至此"
+  },
+  "upload_file_or": {
+    "message": "或"
+  },
+  "upload_file": {
+    "message": "上傳文件"
+  },
   "sites_whitelist_title": {
     "message": "永不保存來自這些網站的標籤"
   },
   "sites_whitelist_description": {
     "message": "在新的一行中添加您想要加入白名單的每個頁面的 URL。例如：\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n要在一行上加入多個站點，您可以指定 URL 的一部分：\ngoogle.com\n您還可以通過用斜槓括起文本來指定正則表達式：\n/^https:.*google\\.com/"
+  },
+  "dynamic_preview_contrast": {
+    "message": "動態預覽對比度"
+  },
+  "disable_animations": {
+    "message": "停用動畫"
+  },
+  "max_deleted_tabs": {
+    "message": "最大已刪除分頁數"
+  },
+  "pause_auto_preserve": {
+    "message": "暫停自動保存"
+  },
+  "resume_auto_preserve": {
+    "message": "恢復自動保存 ($1)"
+  },
+  "never_preserve_this_site": {
+    "message": "永不保留此網站"
+  },
+  "remove_site_from_whitelist": {
+    "message": "從白名單中刪除網站"
+  },
+  "ai_group_title": {
+    "message": "AI 分頁分組"
+  },
+  "ai_group_description": {
+    "message": "您將使用 AI 分組分頁,它會根據標題和連結分析主題。\n分組前會建立目前分頁的備份,您隨時可以復原。\n請求次數有限,取決於您的分頁數量。大約每天可以對 50 個分頁發出 2 次請求。\nAI 模型並不完美,可能會出錯。您可以隨時手動矯正分組。\n您可以指定必須存在的分組名稱。請使用換行符分隔,例如:\n我的工作\n學習\n娛樂"
+  },
+  "ai_group_error_unauthorized": {
+    "message": "未獲授權"
+  },
+  "ai_group_error_no_license": {
+    "message": "無授權"
+  },
+  "ai_group_error_quota_exceeded": {
+    "message": "超出配額"
+  },
+  "ai_group_error_backup_not_found": {
+    "message": "找不到備份"
+  },
+  "ai_group_error_invalid_data": {
+    "message": "無效資料"
+  },
+  "ai_group_error_no_result": {
+    "message": "無結果"
+  },
+  "ai_group_error_invalid_result": {
+    "message": "無效結果"
+  },
+  "ai_group_error_connection": {
+    "message": "連線錯誤"
+  },
+  "ai_group_error_unknown": {
+    "message": "未知錯誤"
   },
   "share_tab_group_title": {
     "message": "分享標籤組"

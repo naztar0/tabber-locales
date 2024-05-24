@@ -23,6 +23,9 @@
   "theme_color": {
     "message": "Color primario"
   },
+  "theme_background": {
+    "message": "Fondo"
+  },
   "use_context_menu": {
     "message": "Usar menú contextual"
   },
@@ -44,6 +47,9 @@
   "delete_tab_on_restore": {
     "message": "Eliminar pestaña al restaurar"
   },
+  "restore_to_group": {
+    "message": "Restaurar pestaña al grupo"
+  },
   "add_new_tab_to_start": {
     "message": "Añadir nueva pestaña al inicio"
   },
@@ -53,17 +59,20 @@
   "save_previews_to_cloud": {
     "message": "Guardar vistas previas en la nube"
   },
-  "disable_animations": {
-    "message": "Desactivar animaciones"
-  },
   "sites_whitelist": {
     "message": "Lista blanca de sitios"
   },
   "keyboard_shortcuts": {
     "message": "Atajos de teclado"
   },
+  "advanced_settings": {
+    "message": "Configuraciones avanzadas"
+  },
   "home_page": {
     "message": "Página de inicio de Tabber"
+  },
+  "restore_closed_tab": {
+    "message": "Restaurar pestaña cerrada"
   },
   "preserve_all_tabs": {
     "message": "Conservar todas las pestañas"
@@ -133,6 +142,9 @@
   },
   "deny": {
     "message": "Denegar"
+  },
+  "proceed": {
+    "message": "Proceder"
   },
   "main_tab_group": {
     "message": "Principal"
@@ -282,7 +294,7 @@
     "message": "Grupos de pestañas ilimitados"
   },
   "plus_feature_title_2": {
-    "message": "Ordenación inteligente de pestañas"
+    "message": "Agrupación de pestañas con IA"
   },
   "plus_feature_title_3": {
     "message": "Sincronización automática en la nube"
@@ -291,16 +303,19 @@
     "message": "Historial completo de sincronización"
   },
   "plus_feature_title_5": {
-    "message": "Soporte prioritario"
+    "message": "Fondo Personalizado"
   },
   "plus_feature_title_6": {
+    "message": "Soporte prioritario"
+  },
+  "plus_feature_title_7": {
     "message": "Publicaciones exclusivas en Patreon"
   },
   "plus_feature_desc_1": {
     "message": "Sin límites en el número de pestañas que puedes agrupar."
   },
   "plus_feature_desc_2": {
-    "message": "Ordena tus pestañas automáticamente por título, URL o fecha de conservación."
+    "message": "Agrupa pestañas automáticamente según su contenido."
   },
   "plus_feature_desc_3": {
     "message": "Tus pestañas se sincronizan automáticamente en todos tus dispositivos."
@@ -309,9 +324,12 @@
     "message": "Accede a tu historial completo de sincronizaciones y restaura cualquier copia de seguridad."
   },
   "plus_feature_desc_5": {
-    "message": "Cualquier pregunta o inquietud será atendida con prontitud, asegurando una experiencia fluida."
+    "message": "Aplica un fondo personalizado a páginas sin vistas previas."
   },
   "plus_feature_desc_6": {
+    "message": "Cualquier pregunta o inquietud será atendida con prontitud, asegurando una experiencia fluida."
+  },
+  "plus_feature_desc_7": {
     "message": "Accede exclusivamente a publicaciones en Patreon, encuestas y mantente al tanto de las últimas actualizaciones, consejos y trucos."
   },
   "plus_price": {
@@ -374,6 +392,15 @@
   "no_data": {
     "message": "Sin datos"
   },
+  "group_tabs": {
+    "message": "Agrupar pestañas"
+  },
+  "group_tabs_by_domain": {
+    "message": "Por dominio"
+  },
+  "group_tabs_with_ai": {
+    "message": "Con IA"
+  },
   "sort_tabs": {
     "message": "Ordenar pestañas"
   },
@@ -385,9 +412,6 @@
   },
   "sort_tabs_by_date": {
     "message": "Por fecha"
-  },
-  "sort_tabs_by_group": {
-    "message": "Distribuir por grupos"
   },
   "sort_tabs_asc": {
     "message": "Ascendente"
@@ -501,6 +525,9 @@
     "message": "2. Presione «Ctrl + F» para buscar pestañas. («Esc» para salir)"
   },
   "tutorial_shortcuts_description_4": {
+    "message": "3. Presione «T» para restaurar la última pestaña cerrada."
+  },
+  "tutorial_shortcuts_description_5": {
     "message": "También puede configurar sus propias combinaciones de teclas globales en la configuración."
   },
   "tutorial_sign_in_title": {
@@ -596,11 +623,83 @@
   "interval_2_weeks": {
     "message": "2 semanas"
   },
+  "theme_background_title": {
+    "message": "Cambiar fondo"
+  },
+  "theme_background_description": {
+    "message": "Selecciona un fondo para páginas sin vistas previas"
+  },
+  "theme_background_adjust": {
+    "message": "Ajustar brillo del fondo"
+  },
+  "drop_file_here": {
+    "message": "Soltar archivo aquí"
+  },
+  "upload_file_or": {
+    "message": "o"
+  },
+  "upload_file": {
+    "message": "Subir archivo"
+  },
   "sites_whitelist_title": {
     "message": "Nunca conservar pestañas de estos sitios web"
   },
   "sites_whitelist_description": {
     "message": "Agregue la URL de cada página que desea incluir en la lista blanca en una nueva línea. Por ejemplo:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPara incluir varios sitios en una línea, puede especificar parte de la URL:\ngoogle.com\nTambién puede especificar expresiones regulares encerrando el texto entre barras diagonales:\n/^https:.*google\\.com/"
+  },
+  "dynamic_preview_contrast": {
+    "message": "Contraste dinámico de vista previa"
+  },
+  "disable_animations": {
+    "message": "Desactivar animaciones"
+  },
+  "max_deleted_tabs": {
+    "message": "Pestañas eliminadas máximas"
+  },
+  "pause_auto_preserve": {
+    "message": "Pausar preservación automática"
+  },
+  "resume_auto_preserve": {
+    "message": "Reanudar preservación automática ($1)"
+  },
+  "never_preserve_this_site": {
+    "message": "Nunca preservar este sitio"
+  },
+  "remove_site_from_whitelist": {
+    "message": "Eliminar sitio de la lista blanca"
+  },
+  "ai_group_title": {
+    "message": "Agrupación de pestañas con IA"
+  },
+  "ai_group_description": {
+    "message": "Vas a agrupar tus pestañas usando IA, que analizará sus temas basándose en los títulos y enlaces.\nAntes de agrupar, se creará una copia de seguridad de tus pestañas actuales, para que siempre puedas revertir los cambios.\nEl número de solicitudes está limitado y depende del número de tus pestañas. Puedes hacer aproximadamente 2 solicitudes por día con 50 pestañas.\nEl modelo de IA no es perfecto y puede cometer errores. Puedes corregir la agrupación manualmente.\nPuedes especificar los nombres de grupo que deben estar presentes. Especifícalos separados por saltos de línea, por ejemplo:\nMi Trabajo\nEstudios\nEntretenimiento"
+  },
+  "ai_group_error_unauthorized": {
+    "message": "No autorizado"
+  },
+  "ai_group_error_no_license": {
+    "message": "Sin licencia"
+  },
+  "ai_group_error_quota_exceeded": {
+    "message": "Cuota excedida"
+  },
+  "ai_group_error_backup_not_found": {
+    "message": "Copia de seguridad no encontrada"
+  },
+  "ai_group_error_invalid_data": {
+    "message": "Datos no válidos"
+  },
+  "ai_group_error_no_result": {
+    "message": "Sin resultado"
+  },
+  "ai_group_error_invalid_result": {
+    "message": "Resultado no válido"
+  },
+  "ai_group_error_connection": {
+    "message": "Error de conexión"
+  },
+  "ai_group_error_unknown": {
+    "message": "Error desconocido"
   },
   "share_tab_group_title": {
     "message": "Compartir grupo de pestañas"

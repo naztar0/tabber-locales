@@ -23,6 +23,9 @@
   "theme_color": {
     "message": "Cor Primária"
   },
+  "theme_background": {
+    "message": "Fundo"
+  },
   "use_context_menu": {
     "message": "Usar menu de contexto"
   },
@@ -44,6 +47,9 @@
   "delete_tab_on_restore": {
     "message": "Excluir aba ao restaurar"
   },
+  "restore_to_group": {
+    "message": "Restaurar aba para o grupo"
+  },
   "add_new_tab_to_start": {
     "message": "Adicionar nova aba no início"
   },
@@ -53,17 +59,20 @@
   "save_previews_to_cloud": {
     "message": "Salvar pré-visualizações na nuvem"
   },
-  "disable_animations": {
-    "message": "Desativar animações"
-  },
   "sites_whitelist": {
     "message": "Lista branca de sites"
   },
   "keyboard_shortcuts": {
     "message": "Atalhos de teclado"
   },
+  "advanced_settings": {
+    "message": "Configurações avançadas"
+  },
   "home_page": {
     "message": "Tabber | Página Inicial"
+  },
+  "restore_closed_tab": {
+    "message": "Restaurar aba fechada"
   },
   "preserve_all_tabs": {
     "message": "Preservar todas as abas"
@@ -133,6 +142,9 @@
   },
   "deny": {
     "message": "Negar"
+  },
+  "proceed": {
+    "message": "Prosseguir"
   },
   "main_tab_group": {
     "message": "Principal"
@@ -282,7 +294,7 @@
     "message": "Grupos de abas ilimitados"
   },
   "plus_feature_title_2": {
-    "message": "Ordenação inteligente de abas"
+    "message": "Agrupamento de guias com IA"
   },
   "plus_feature_title_3": {
     "message": "Sincronização automática com a nuvem"
@@ -291,16 +303,19 @@
     "message": "Histórico completo de sincronização"
   },
   "plus_feature_title_5": {
-    "message": "Suporte prioritário"
+    "message": "Fundo Personalizado"
   },
   "plus_feature_title_6": {
+    "message": "Suporte prioritário"
+  },
+  "plus_feature_title_7": {
     "message": "Publicações exclusivas no Patreon"
   },
   "plus_feature_desc_1": {
     "message": "Sem limites para o número de abas que você pode agrupar."
   },
   "plus_feature_desc_2": {
-    "message": "Ordene suas abas automaticamente por título, URL ou data de preservação."
+    "message": "Agrupe guias automaticamente com base em seu conteúdo."
   },
   "plus_feature_desc_3": {
     "message": "Suas abas são sincronizadas automaticamente em todos os seus dispositivos."
@@ -309,9 +324,12 @@
     "message": "Acesse seu histórico completo de sincronizações e restaure qualquer backup."
   },
   "plus_feature_desc_5": {
-    "message": "Qualquer dúvida ou preocupação será atendida prontamente, garantindo uma experiência suave."
+    "message": "Aplique um fundo personalizado às páginas sem pré-visualização."
   },
   "plus_feature_desc_6": {
+    "message": "Qualquer dúvida ou preocupação será atendida prontamente, garantindo uma experiência suave."
+  },
+  "plus_feature_desc_7": {
     "message": "Acesso exclusivo a publicações no Patreon, enquetes e mantenha-se atualizado com as últimas atualizações, dicas e truques."
   },
   "plus_price": {
@@ -374,6 +392,15 @@
   "no_data": {
     "message": "Sem dados"
   },
+  "group_tabs": {
+    "message": "Agrupar guias"
+  },
+  "group_tabs_by_domain": {
+    "message": "Por domínio"
+  },
+  "group_tabs_with_ai": {
+    "message": "Com IA"
+  },
   "sort_tabs": {
     "message": "Ordenar abas"
   },
@@ -385,9 +412,6 @@
   },
   "sort_tabs_by_date": {
     "message": "Por data"
-  },
-  "sort_tabs_by_group": {
-    "message": "Distribuir por grupos"
   },
   "sort_tabs_asc": {
     "message": "Ascendente"
@@ -501,6 +525,9 @@
     "message": "2. Pressione «Ctrl + F» para buscar abas. («Esc» para sair)"
   },
   "tutorial_shortcuts_description_4": {
+    "message": "3. Pressione «T» para restaurar a última aba fechada."
+  },
+  "tutorial_shortcuts_description_5": {
     "message": "Você também pode configurar seus próprios atalhos globais nas configurações."
   },
   "tutorial_sign_in_title": {
@@ -596,11 +623,83 @@
   "interval_2_weeks": {
     "message": "2 semanas"
   },
+  "theme_background_title": {
+    "message": "Mudar fundo"
+  },
+  "theme_background_description": {
+    "message": "Selecione um fundo para páginas sem pré-visualização"
+  },
+  "theme_background_adjust": {
+    "message": "Ajustar brilho do fundo"
+  },
+  "drop_file_here": {
+    "message": "Solte o arquivo aqui"
+  },
+  "upload_file_or": {
+    "message": "ou"
+  },
+  "upload_file": {
+    "message": "Enviar arquivo"
+  },
   "sites_whitelist_title": {
     "message": "Nunca preservar abas desses sites"
   },
   "sites_whitelist_description": {
     "message": "Adicione a URL de cada página que você deseja incluir na lista branca em uma nova linha. Por exemplo:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPara incluir vários sites em uma linha, você pode especificar parte da URL:\ngoogle.com\nVocê também pode especificar regex cercando o texto com barras:\n/^https:.*google\\.com/"
+  },
+  "dynamic_preview_contrast": {
+    "message": "Contraste dinâmico de pré-visualização"
+  },
+  "disable_animations": {
+    "message": "Desativar animações"
+  },
+  "max_deleted_tabs": {
+    "message": "Abas removidas máximas"
+  },
+  "pause_auto_preserve": {
+    "message": "Pausar preservação automática"
+  },
+  "resume_auto_preserve": {
+    "message": "Retomar preservação automática ($1)"
+  },
+  "never_preserve_this_site": {
+    "message": "Nunca preservar este site"
+  },
+  "remove_site_from_whitelist": {
+    "message": "Remover site da lista branca"
+  },
+  "ai_group_title": {
+    "message": "Agrupamento de guias com IA"
+  },
+  "ai_group_description": {
+    "message": "Você vai agrupar suas guias usando IA, que irá analisar seus tópicos com base nos títulos e links.\nAntes do agrupamento, um backup de suas guias atuais será criado, então você sempre poderá desfazer.\nO número de solicitações é limitado e depende do número de suas guias. Você pode fazer aproximadamente 2 solicitações por dia com 50 guias.\nO modelo de IA não é perfeito e pode cometer erros. Você sempre pode corrigir o agrupamento manualmente.\nVocê pode especificar os nomes de grupos que devem estar presentes. Especifique-os separados por quebras de linha, por exemplo:\nMeu Trabalho\nEstudo\nEntretenimento"
+  },
+  "ai_group_error_unauthorized": {
+    "message": "Não autorizado"
+  },
+  "ai_group_error_no_license": {
+    "message": "Sem licença"
+  },
+  "ai_group_error_quota_exceeded": {
+    "message": "Cota excedida"
+  },
+  "ai_group_error_backup_not_found": {
+    "message": "Backup não encontrado"
+  },
+  "ai_group_error_invalid_data": {
+    "message": "Dados inválidos"
+  },
+  "ai_group_error_no_result": {
+    "message": "Sem resultado"
+  },
+  "ai_group_error_invalid_result": {
+    "message": "Resultado inválido"
+  },
+  "ai_group_error_connection": {
+    "message": "Erro de conexão"
+  },
+  "ai_group_error_unknown": {
+    "message": "Erro desconhecido"
   },
   "share_tab_group_title": {
     "message": "Compartilhar grupo de abas"

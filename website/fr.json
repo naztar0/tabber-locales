@@ -86,6 +86,7 @@
         "Tri manuel des onglets",
         "Synchronisation manuelle avec le Cloud",
         "Synchronisation de la dernière sauvegarde",
+        "Arrière-plan standard",
         "Support standard",
         "Fonctionnalité complète de base"
       ],
@@ -135,9 +136,10 @@
     "title": "Devenez un abonné Tabber Plus",
     "features": [
       ["Groupes d'onglets illimités", "Plus de limites sur le nombre d'onglets que vous pouvez regrouper."],
-      ["Tri intelligent des onglets", "Triez automatiquement vos onglets par titre, URL ou date de sauvegarde."],
+      ["Regroupement d'onglets par IA", "Regroupez automatiquement les onglets en fonction de leur contenu."],
       ["Synchronisation automatique avec le Cloud", "Vos onglets sont automatiquement synchronisés sur tous vos appareils."],
       ["Historique complet de synchronisation", "Accédez à l'historique complet de vos synchronisations et restaurez n'importe quelle sauvegarde."],
+      ["Arrière-plan personnalisé", "Appliquez un arrière-plan personnalisé aux pages sans aperçu."],
       ["Support prioritaire", "Toutes les questions et préoccupations seront traitées rapidement, assurant une expérience fluide."],
       ["Publications exclusives sur Patreon", "Accédez exclusivement aux publications, sondages sur Patreon et restez informé des dernières mises à jour, astuces et conseils."]
     ],

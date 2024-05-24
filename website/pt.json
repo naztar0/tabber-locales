@@ -86,6 +86,7 @@
         "Ordenação Manual de Abas",
         "Sincronização Manual com a Nuvem",
         "Sincronização da Última Cópia de Segurança",
+        "Plano de Fundo Padrão",
         "Suporte Padrão",
         "Funcionalidade Básica Completa"
       ],
@@ -135,9 +136,10 @@
     "title": "Torne-se um Assinante do Tabber Plus",
     "features": [
       ["Grupos de Abas Ilimitados", "Sem mais limites para o número de abas que você pode agrupar."],
-      ["Ordenação Inteligente de Abas", "Ordene automaticamente suas abas por título, URL ou data de arquivamento."],
+      ["Agrupamento de Abas por IA", "Agrupe abas automaticamente com base em seu conteúdo."],
       ["Sincronização Automática na Nuvem", "Suas abas são sincronizadas automaticamente em todos os seus dispositivos."],
       ["Histórico Completo de Sincronização", "Acesse seu histórico completo de sincronizações e restaure qualquer backup."],
+      ["Plano de Fundo Personalizado", "Aplique um plano de fundo personalizado em páginas sem visualização."],
       ["Suporte Prioritário", "Qualquer dúvida ou preocupação será tratada prontamente, garantindo uma experiência suave."],
       ["Posts Exclusivos no Patreon", "Obtenha acesso exclusivo a posts no Patreon, enquetes e fique por dentro das últimas atualizações, dicas e truques."]
     ],

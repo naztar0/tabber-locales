@@ -86,6 +86,7 @@
         "Manuel Sekmeler Sıralaması",
         "Manuel Bulut Senkronizasyonu",
         "Son Yedekleme Senkronizasyonu",
+        "Standart Arkaplan",
         "Standart Destek",
         "Tam Temel İşlevsellik"
       ],
@@ -135,9 +136,10 @@
     "title": "Tabber Plus Abonesi Olun",
     "features": [
       ["Sınırsız Sekme Grupları", "Gruplayabileceğiniz sekmelerin sayısında artık bir sınır yok."],
-      ["Akıllı Sekme Sıralaması", "Sekmelerinizi başlık, URL veya kaydetme tarihi sırasına göre otomatik olarak sıralayın."],
+      ["YZ Destekli Sekme Gruplandırma", "Sekmeleri içeriklerine göre otomatik olarak gruplayın."],
       ["Otomatik Bulut Senkronizasyonu", "Sekmeleriniz tüm cihazlarınızda otomatik olarak senkronize edilir."],
       ["Tam Senkronizasyon Geçmişi", "Tüm senkronizasyon geçmişinize erişin ve herhangi bir yedeği geri yükleyin."],
+      ["Özel Arkaplan", "Önizleme olmayan sayfalara özel bir arkaplan uygulayın."],
       ["Öncelikli Destek", "Herhangi bir soru ve endişe hızlı bir şekilde ele alınarak pürüzsüz bir deneyim sağlanır."],
       ["Özel Patreon Gönderileri", "Patreon gönderilerine, anketlere özel erişim elde edin ve en son güncellemeler, ipuçları ve püf noktaları ile döngüde kalın."]
     ],

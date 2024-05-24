@@ -23,6 +23,9 @@
   "theme_color": {
     "message": "Ana Renk"
   },
+  "theme_background": {
+    "message": "Arka Plan"
+  },
   "use_context_menu": {
     "message": "Bağlam menüsünü kullan"
   },
@@ -44,6 +47,9 @@
   "delete_tab_on_restore": {
     "message": "Geri yüklerken sekmeyi sil"
   },
+  "restore_to_group": {
+    "message": "Sekmeyi gruba geri yükle"
+  },
   "add_new_tab_to_start": {
     "message": "Başlangıçta yeni sekme ekle"
   },
@@ -53,17 +59,20 @@
   "save_previews_to_cloud": {
     "message": "Önizlemeleri buluta kaydet"
   },
-  "disable_animations": {
-    "message": "Animasyonları devre dışı bırak"
-  },
   "sites_whitelist": {
     "message": "Site istisnaları"
   },
   "keyboard_shortcuts": {
     "message": "Klavye kısayolları"
   },
+  "advanced_settings": {
+    "message": "Gelişmiş ayarlar"
+  },
   "home_page": {
     "message": "Tabber | Ana Sayfa"
+  },
+  "restore_closed_tab": {
+    "message": "Kapalı sekmeyi geri yükle"
   },
   "preserve_all_tabs": {
     "message": "Tüm sekmeleri sakla"
@@ -133,6 +142,9 @@
   },
   "deny": {
     "message": "Reddet"
+  },
+  "proceed": {
+    "message": "İlerle"
   },
   "main_tab_group": {
     "message": "Ana"
@@ -282,7 +294,7 @@
     "message": "Sınırsız Sekme Grupları"
   },
   "plus_feature_title_2": {
-    "message": "Akıllı Sekme Sıralama"
+    "message": "YZ Destekli Sekme Gruplama"
   },
   "plus_feature_title_3": {
     "message": "Otomatik Bulut Senkronizasyonu"
@@ -291,16 +303,19 @@
     "message": "Tam Senkronizasyon Geçmişi"
   },
   "plus_feature_title_5": {
-    "message": "Öncelikli Destek"
+    "message": "Özel Arka Plan"
   },
   "plus_feature_title_6": {
+    "message": "Öncelikli Destek"
+  },
+  "plus_feature_title_7": {
     "message": "Özel Patreon Gönderileri"
   },
   "plus_feature_desc_1": {
     "message": "Gruplayabileceğiniz sekme sayısında artık bir sınır yok."
   },
   "plus_feature_desc_2": {
-    "message": "Sekmelerinizi başlık, URL veya saklama tarihine göre otomatik olarak sıralayın."
+    "message": "Sekmeleri içeriklerine göre otomatik olarak gruplandırın."
   },
   "plus_feature_desc_3": {
     "message": "Sekmeleriniz tüm cihazlarınızda otomatik olarak senkronize edilir."
@@ -309,9 +324,12 @@
     "message": "Tam senkronizasyon geçmişinize erişin ve herhangi bir yedeği geri yükleyin."
   },
   "plus_feature_desc_5": {
-    "message": "Herhangi bir soru ve endişe hızla ele alınarak sorunsuz bir deneyim sağlanır."
+    "message": "Önizleme olmadan sayfalara özel bir arka plan uygulayın."
   },
   "plus_feature_desc_6": {
+    "message": "Herhangi bir soru ve endişe hızla ele alınarak sorunsuz bir deneyim sağlanır."
+  },
+  "plus_feature_desc_7": {
     "message": "Patreon'da özel gönderilere, anketlere erişin ve en son güncellemeler, ipuçları ve püf noktaları hakkında bilgi sahibi olun."
   },
   "plus_price": {
@@ -374,6 +392,15 @@
   "no_data": {
     "message": "Veri yok"
   },
+  "group_tabs": {
+    "message": "Sekmeleri Grupla"
+  },
+  "group_tabs_by_domain": {
+    "message": "Alan Adına Göre"
+  },
+  "group_tabs_with_ai": {
+    "message": "YZ ile"
+  },
   "sort_tabs": {
     "message": "Sekmeleri sırala"
   },
@@ -385,9 +412,6 @@
   },
   "sort_tabs_by_date": {
     "message": "Tarihe göre"
-  },
-  "sort_tabs_by_group": {
-    "message": "Gruplara göre dağıt"
   },
   "sort_tabs_asc": {
     "message": "Artan"
@@ -501,6 +525,9 @@
     "message": "2. Sekmeleri aramak için «Ctrl + F» tuşlarına basın. (Çıkmak için «Esc»)"
   },
   "tutorial_shortcuts_description_4": {
+    "message": "3. Son kapalı sekmeyi geri yüklemek için «T» tuşuna basın."
+  },
+  "tutorial_shortcuts_description_5": {
     "message": "Ayrıca kendi global kısayollarınızı ayarlayabilirsiniz."
   },
   "tutorial_sign_in_title": {
@@ -596,11 +623,83 @@
   "interval_2_weeks": {
     "message": "2 hafta"
   },
+  "theme_background_title": {
+    "message": "Arka planı değiştir"
+  },
+  "theme_background_description": {
+    "message": "Önizleme olmadan sayfalar için bir arka plan seçin"
+  },
+  "theme_background_adjust": {
+    "message": "Arka plan parlaklığını ayarla"
+  },
+  "drop_file_here": {
+    "message": "Dosyayı buraya bırakın"
+  },
+  "upload_file_or": {
+    "message": "veya"
+  },
+  "upload_file": {
+    "message": "Dosya yükle"
+  },
   "sites_whitelist_title": {
     "message": "Bu web sitelerinden asla sekmeleri koruma"
   },
   "sites_whitelist_description": {
     "message": "Her beyaz listeye almak istediğiniz sayfanın URL'sini yeni bir satıra ekleyin. Örneğin:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nAynı satırda birden fazla siteyi beyaz listeye almak için URL'nin bir kısmını belirleyebilirsiniz:\ngoogle.com\nAyrıca metni eğik çizgiler arasına alarak regex belirleyebilirsiniz:\n/^https:.*google\\.com/"
+  },
+  "dynamic_preview_contrast": {
+    "message": "Dinamik önizleme kontrastı"
+  },
+  "disable_animations": {
+    "message": "Animasyonları devre dışı bırak"
+  },
+  "max_deleted_tabs": {
+    "message": "Maksimum silinen sekmeler"
+  },
+  "pause_auto_preserve": {
+    "message": "Otomatik korumayı duraklat"
+  },
+  "resume_auto_preserve": {
+    "message": "Otomatik korumayı sürdür ($1)"
+  },
+  "never_preserve_this_site": {
+    "message": "Bu siteyi asla koruma"
+  },
+  "remove_site_from_whitelist": {
+    "message": "Siteyi beyaz listeden kaldır"
+  },
+  "ai_group_title": {
+    "message": "YZ Destekli Sekme Gruplama"
+  },
+  "ai_group_description": {
+    "message": "Sekmeleri, başlıkları ve bağlantıları temel alarak konularını analiz edecek YZ kullanarak gruplayacaksınız.\nGruplamadan önce, mevcut sekmelerinizin bir yedeklemesi oluşturulacak, böylece her zaman geri dönebilirsiniz.\nİstek sayısı sınırlıdır ve sekmelerinizin sayısına bağlıdır. Yaklaşık olarak 50 sekmede günde 2 istek yapabilirsiniz.\nYZ modeli mükemmel değildir ve hatalar yapabilir. Gruplamayı her zaman manuel olarak düzeltebilirsiniz.\nMevcut olması gereken grup isimlerini belirtebilirsiniz. Bunları satır başlarıyla ayırarak belirtin, örneğin:\nİşim\nÖğrenim\nEğlence"
+  },
+  "ai_group_error_unauthorized": {
+    "message": "Yetkisiz"
+  },
+  "ai_group_error_no_license": {
+    "message": "Lisans Yok"
+  },
+  "ai_group_error_quota_exceeded": {
+    "message": "Kota Aşıldı"
+  },
+  "ai_group_error_backup_not_found": {
+    "message": "Yedek Bulunamadı"
+  },
+  "ai_group_error_invalid_data": {
+    "message": "Geçersiz Veri"
+  },
+  "ai_group_error_no_result": {
+    "message": "Sonuç Yok"
+  },
+  "ai_group_error_invalid_result": {
+    "message": "Geçersiz Sonuç"
+  },
+  "ai_group_error_connection": {
+    "message": "Bağlantı Hatası"
+  },
+  "ai_group_error_unknown": {
+    "message": "Bilinmeyen Hata"
   },
   "share_tab_group_title": {
     "message": "Sekme grubunu paylaş"

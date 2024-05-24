@@ -23,6 +23,9 @@
   "theme_color": {
     "message": "主要颜色"
   },
+  "theme_background": {
+    "message": "背景"
+  },
   "use_context_menu": {
     "message": "使用右键菜单"
   },
@@ -44,6 +47,9 @@
   "delete_tab_on_restore": {
     "message": "恢复时删除标签"
   },
+  "restore_to_group": {
+    "message": "将标签页恢复到组"
+  },
   "add_new_tab_to_start": {
     "message": "在开始时添加新标签"
   },
@@ -53,17 +59,20 @@
   "save_previews_to_cloud": {
     "message": "将预览保存到云端"
   },
-  "disable_animations": {
-    "message": "禁用动画"
-  },
   "sites_whitelist": {
     "message": "网站白名单"
   },
   "keyboard_shortcuts": {
     "message": "键盘快捷键"
   },
+  "advanced_settings": {
+    "message": "高级设置"
+  },
   "home_page": {
     "message": "Tabber | 首页"
+  },
+  "restore_closed_tab": {
+    "message": "恢复已关闭标签页"
   },
   "preserve_all_tabs": {
     "message": "保存所有标签"
@@ -134,6 +143,9 @@
   "deny": {
     "message": "拒绝"
   },
+  "proceed": {
+    "message": "继续"
+  },
   "main_tab_group": {
     "message": "主标签组"
   },
@@ -144,10 +156,10 @@
     "message": "标签组已保存"
   },
   "tab_preserved_message": {
-    "message": "«$1» 已被保存"
+    "message": "「$1」 已被保存"
   },
   "tab_group_preserved_message": {
-    "message": "«$1» 组已被保存"
+    "message": "「$1」 组已被保存"
   },
   "preserve_tab": {
     "message": "保存标签"
@@ -282,7 +294,7 @@
     "message": "无限制的标签组"
   },
   "plus_feature_title_2": {
-    "message": "智能标签排序"
+    "message": "AI 标签页分组"
   },
   "plus_feature_title_3": {
     "message": "自动云同步"
@@ -291,16 +303,19 @@
     "message": "完整的同步历史"
   },
   "plus_feature_title_5": {
-    "message": "优先支持"
+    "message": "自定义背景"
   },
   "plus_feature_title_6": {
+    "message": "优先支持"
+  },
+  "plus_feature_title_7": {
     "message": "独家 Patreon 帖子"
   },
   "plus_feature_desc_1": {
     "message": "您可以对任意数量的标签进行分组，没有限制。"
   },
   "plus_feature_desc_2": {
-    "message": "根据标题、URL或保存日期自动对您的标签进行排序。"
+    "message": "根据内容自动分组标签页。"
   },
   "plus_feature_desc_3": {
     "message": "您的标签会自动在所有设备上同步。"
@@ -309,9 +324,12 @@
     "message": "访问您的完整同步历史并恢复任何备份。"
   },
   "plus_feature_desc_5": {
-    "message": "任何问题和关切都将得到及时解决，确保流畅的体验。"
+    "message": "为没有预览的页面应用自定义背景。"
   },
   "plus_feature_desc_6": {
+    "message": "任何问题和关切都将得到及时解决，确保流畅的体验。"
+  },
+  "plus_feature_desc_7": {
     "message": "独家访问 Patreon 帖子、投票，并随时了解最新更新、技巧和窍门。"
   },
   "plus_price": {
@@ -374,6 +392,15 @@
   "no_data": {
     "message": "无数据"
   },
+  "group_tabs": {
+    "message": "分组标签页"
+  },
+  "group_tabs_by_domain": {
+    "message": "按域名"
+  },
+  "group_tabs_with_ai": {
+    "message": "使用 AI"
+  },
   "sort_tabs": {
     "message": "排序标签"
   },
@@ -385,9 +412,6 @@
   },
   "sort_tabs_by_date": {
     "message": "按日期"
-  },
-  "sort_tabs_by_group": {
-    "message": "按组分配"
   },
   "sort_tabs_asc": {
     "message": "升序"
@@ -483,7 +507,7 @@
     "message": "查看设置页面，根据自己的喜好调整Tabber的外观和感觉。"
   },
   "tutorial_settings_description_2": {
-    "message": "如果要自动保存标签，请查看«自动保存»部分。"
+    "message": "如果要自动保存标签，请查看「自动保存」部分。"
   },
   "tutorial_settings_arrow": {
     "message": "就在这里！"
@@ -495,12 +519,15 @@
     "message": "您可以在Tabber页面上使用以下键盘快捷键："
   },
   "tutorial_shortcuts_description_2": {
-    "message": "1. 按下«F11»或«F»以全屏打开Tabber。"
+    "message": "1. 按下「F11」或「F」以全屏打开Tabber。"
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. 按下«Ctrl + F»搜索标签。（按«Esc»退出）"
+    "message": "2. 按下「Ctrl + F」搜索标签。（按「Esc」退出）"
   },
   "tutorial_shortcuts_description_4": {
+    "message": "3. 按「T」可恢复上次关闭的标签页。"
+  },
+  "tutorial_shortcuts_description_5": {
     "message": "您还可以在设置中设置自己的全局快捷键。"
   },
   "tutorial_sign_in_title": {
@@ -596,11 +623,83 @@
   "interval_2_weeks": {
     "message": "2周"
   },
+  "theme_background_title": {
+    "message": "更改背景"
+  },
+  "theme_background_description": {
+    "message": "为没有预览的页面选择背景"
+  },
+  "theme_background_adjust": {
+    "message": "调整背景亮度"
+  },
+  "drop_file_here": {
+    "message": "将文件拖到这里"
+  },
+  "upload_file_or": {
+    "message": "或者"
+  },
+  "upload_file": {
+    "message": "上传文件"
+  },
   "sites_whitelist_title": {
     "message": "从这些网站中永不保存标签"
   },
   "sites_whitelist_description": {
     "message": "在新的一行上添加您想要加入白名单的每个页面的URL。例如：\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n要在一行上加入多个站点，您可以指定URL的一部分：\ngoogle.com\n您还可以通过用斜杠括起文本来指定正则表达式：\n/^https:.*google\\.com/"
+  },
+  "dynamic_preview_contrast": {
+    "message": "动态预览对比度"
+  },
+  "disable_animations": {
+    "message": "禁用动画"
+  },
+  "max_deleted_tabs": {
+    "message": "最大已删除标签页数"
+  },
+  "pause_auto_preserve": {
+    "message": "暂停自动保存"
+  },
+  "resume_auto_preserve": {
+    "message": "恢复自动保存 ($1)"
+  },
+  "never_preserve_this_site": {
+    "message": "永不保留此网站"
+  },
+  "remove_site_from_whitelist": {
+    "message": "从白名单中删除网站"
+  },
+  "ai_group_title": {
+    "message": "AI 标签页分组"
+  },
+  "ai_group_description": {
+    "message": "您将使用 AI 分组标签页,它会根据标题和链接分析主题。\n分组前会创建当前标签页的备份,您随时可以恢复。\n请求次数有限,取决于您的标签页数量。大约每天可以对 50 个标签页发出 2 次请求。\nAI 模型并不完美,可能会出错。您可以随时手动纠正分组。\n您可以指定必须存在的分组名称。请使用换行符分隔,例如:\n我的工作\n学习\n娱乐"
+  },
+  "ai_group_error_unauthorized": {
+    "message": "未授权"
+  },
+  "ai_group_error_no_license": {
+    "message": "无许可证"
+  },
+  "ai_group_error_quota_exceeded": {
+    "message": "超出配额"
+  },
+  "ai_group_error_backup_not_found": {
+    "message": "未找到备份"
+  },
+  "ai_group_error_invalid_data": {
+    "message": "无效数据"
+  },
+  "ai_group_error_no_result": {
+    "message": "无结果"
+  },
+  "ai_group_error_invalid_result": {
+    "message": "无效结果"
+  },
+  "ai_group_error_connection": {
+    "message": "连接错误"
+  },
+  "ai_group_error_unknown": {
+    "message": "未知错误"
   },
   "share_tab_group_title": {
     "message": "共享标签组"

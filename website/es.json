@@ -86,6 +86,7 @@
         "Ordenación manual de pestañas",
         "Sincronización manual en la nube",
         "Sincronización de la última copia de seguridad",
+        "Fondo estándar",
         "Soporte estándar",
         "Funcionalidad básica completa"
       ],
@@ -135,9 +136,10 @@
     "title": "Devenez un abonné Tabber Plus",
     "features": [
       ["Groupes d'onglets illimités", "Plus de limites sur le nombre d'onglets que vous pouvez regrouper."],
-      ["Tri intelligent des onglets", "Triez automatiquement vos onglets par titre, URL ou date de sauvegarde."],
+      ["Agrupación de pestañas con IA", "Agrupa pestañas automáticamente en función de su contenido."],
       ["Synchronisation automatique avec le Cloud", "Vos onglets sont automatiquement synchronisés sur tous vos appareils."],
       ["Historique complet de synchronisation", "Accédez à l'historique complet de vos synchronisations et restaurez n'importe quelle sauvegarde."],
+      ["Fondo personalizado", "Aplica un fondo personalizado a las páginas sin vista previa."],
       ["Support prioritaire", "Toutes les questions et préoccupations seront traitées rapidement, assurant une expérience fluide."],
       ["Publications exclusives sur Patreon", "Accédez exclusivement aux publications, sondages sur Patreon et restez informé des dernières mises à jour, astuces et conseils."]
     ],
