@@ -83,7 +83,7 @@
       "description": "Yalnızca ekstra özel özellikler için ve Tabber'ın geliştirilmesini desteklemek istiyorsanız ödeyin.",
       "free_features": [
         "10'a kadar Sekme Grubu",
-        "Manuel Sekmeler Sıralaması",
+        "Gruplandırma için Temel Yapay Zeka Modeli",
         "Manuel Bulut Senkronizasyonu",
         "Son Yedekleme Senkronizasyonu",
         "Standart Arkaplan",
@@ -136,7 +136,7 @@
     "title": "Tabber Plus Abonesi Olun",
     "features": [
       ["Sınırsız Sekme Grupları", "Gruplayabileceğiniz sekmelerin sayısında artık bir sınır yok."],
-      ["YZ Destekli Sekme Gruplandırma", "Sekmeleri içeriklerine göre otomatik olarak gruplayın."],
+      ["Gruplandırma için Gelişmiş Yapay Zeka Modeli", "Daha doğru ve verimli sekme gruplama için geliştirilmiş yapay zeka modeli; daha yüksek kullanım sınırları."],
       ["Otomatik Bulut Senkronizasyonu", "Sekmeleriniz tüm cihazlarınızda otomatik olarak senkronize edilir."],
       ["Tam Senkronizasyon Geçmişi", "Tüm senkronizasyon geçmişinize erişin ve herhangi bir yedeği geri yükleyin."],
       ["Özel Arkaplan", "Önizleme olmayan sayfalara özel bir arkaplan uygulayın."],
@@ -235,6 +235,50 @@
         ]
       }
     ]
+  },
+  "feedback": {
+    "title": "Seni kaybetmek bizi üzüyor! 😢",
+    "description": "Tabber'ı neden kaldırdığınızı lütfen bize bildirin, böylece hizmetimizi iyileştirebiliriz. Deneyiminiz bizim için önemli ^_^",
+    "submit": "Gönder",
+    "success": "Geri bildiriminiz için teşekkürler! 😊",
+    "items": {
+      "usability_issues": {
+        "label": "Tabber'ı kullanmakta zorlandım",
+        "question": "Bu kafa karıştırıcı, rahatsız edici ya da başka bir şey mi?",
+        "suggestion": {
+          "label": "Bize bir soru sor",
+          "link": "/#contact"
+        }
+      },
+      "bug_or_missing_feature": {
+        "label": "Bir hata ile karşılaştım veya bir özelliği bulamadım",
+        "question": "Hata veya eksik özellik nedir?",
+        "suggestion": {
+          "label": "Yardım için bizimle iletişime geçin",
+          "link": "/#contact"
+        }
+      },
+      "privacy_concerns": {
+        "label": "Gizlilik endişelerim var (veri kullanımı, izleme vb.)",
+        "question": "Gizlilikle ilgili endişeleriniz nelerdir?",
+        "suggestion": {
+          "label": "Gizlilik Politikamıza göz atın",
+          "link": "/privacy"
+        }
+      },
+      "found_better_alternative": {
+        "label": "Daha iyi bir alternatif buldum",
+        "question": "Hangi alternatifi buldunuz?"
+      },
+      "no_longer_needed": {
+        "label": "Artık bu eklentiye ihtiyacım yok",
+        "question": "İhtiyaçlarınızda ne değişti?"
+      },
+      "other": {
+        "label": "Diğer",
+        "question": "Tabber'ı kaldırma nedeniniz nedir?"
+      }
+    }
   },
   "email": {
     "sign_in": {

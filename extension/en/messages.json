@@ -35,6 +35,9 @@
   "clear_all_data": { "message": "Clear all data" },
   "clear_all_data_confirm": { "message": "Are you sure you want to clear all data?" },
   "clear_all_data_confirm_description": { "message": "This will delete all your saved tabs and groups. This action cannot be undone." },
+  "clean_up_junk": { "message": "Clean up junk" },
+  "clean_up_junk_confirm": { "message": "Are you sure you want to clean up junk?" },
+  "clean_up_junk_confirm_description": { "message": "This will delete empty tab groups and duplicate tabs. This action cannot be undone." },
   "cancel": { "message": "Cancel" },
   "ok": { "message": "OK" },
   "save": { "message": "Save" },
@@ -42,6 +45,7 @@
   "delete": { "message": "Delete" },
   "restore": { "message": "Restore" },
   "share": { "message": "Share" },
+  "bind_sites": { "message": "Bind sites" },
   "name": { "message": "Name" },
   "tabs": { "message": "Tabs" },
   "show": { "message": "Show" },
@@ -178,9 +182,10 @@
   "tutorial_shortcuts_title": { "message": "Handy shortcuts!" },
   "tutorial_shortcuts_description_1": { "message": "You can use the following keyboard shortcuts on the Tabber page:" },
   "tutorial_shortcuts_description_2": { "message": "1. Press «F11» or «F» to open Tabber in full screen." },
-  "tutorial_shortcuts_description_3": { "message": "2. Press «Ctrl + F» to search tabs. («Esc» to exit)" },
-  "tutorial_shortcuts_description_4": { "message": "3. Press «T» to restore the last closed tab." },
-  "tutorial_shortcuts_description_5": { "message": "You can also set your own global shortcuts in the settings." },
+  "tutorial_shortcuts_description_3": { "message": "2. Press «T» to restore the last closed tab." },
+  "tutorial_shortcuts_description_4": { "message": "3. Press «Ctrl + F» to search tabs. («Esc» to exit)" },
+  "tutorial_shortcuts_description_5": { "message": "4. Press «Ctrl + 1» to open Tabber from any page." },
+  "tutorial_shortcuts_description_6": { "message": "You can also set your own global shortcuts in the settings." },
   "tutorial_sign_in_title": { "message": "Never lose your tabs again!" },
   "tutorial_sign_in_description_1": { "message": "Now you can log into your account to enable cloud backups, synchronizing data between devices and saving tab previews on the cloud without clogging up the device's memory." },
   "tutorial_sign_in_description_2": { "message": "This is optional, you can still use Tabber without logging in." },
@@ -252,5 +257,8 @@
   "share_tab_group_description": { "message": "Share this tab group with other people. Everyone with the link will be able to view and restore any tab from this group. Preview of tabs will be available only for you.\nIf you update this tab group, changes will be applied to all people who have access to it.\nAlso you can set a write access to allow other people to edit this tab group." },
   "share_tab_group_write_permission": { "message": "Write permission" },
   "share_tab_group_revoke_access": { "message": "Revoke access" },
-  "sign_in_to_share": { "message": "Sign in share tab groups" }
+  "sign_in_to_share": { "message": "Sign in share tab groups" },
+
+  "bind_sites_title": { "message": "Bind sites to tab group" },
+  "bind_sites_description": { "message": "List of sites that will be automatically added to this tab group when they are preserved. Add the URL of each page you want to bind on a new line. For example:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nTo bind multiple sites in one line you can specify part of the url instead:\ngoogle.com\nYou can also specify regex by enclosing the text in forward slashes:\n/^https:.*google\\.com/" }
 }

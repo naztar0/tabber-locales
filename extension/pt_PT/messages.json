@@ -101,6 +101,15 @@
   "clear_all_data_confirm_description": {
     "message": "Isso excluirá todas as suas abas e grupos salvos. Esta ação não pode ser desfeita."
   },
+  "clean_up_junk": {
+    "message": "Limpar lixo"
+  },
+  "clean_up_junk_confirm": {
+    "message": "Tem certeza de que deseja limpar o lixo?"
+  },
+  "clean_up_junk_confirm_description": {
+    "message": "Isso excluirá grupos de abas vazias e abas duplicadas. Esta ação não pode ser desfeita."
+  },
   "cancel": {
     "message": "Cancelar"
   },
@@ -121,6 +130,9 @@
   },
   "share": {
     "message": "Compartilhar"
+  },
+  "bind_sites": {
+    "message": "Vincular sites"
   },
   "name": {
     "message": "Nome"
@@ -522,12 +534,15 @@
     "message": "1. Pressione «F11» ou «F» para abrir o Tabber em tela cheia."
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. Pressione «Ctrl + F» para buscar abas. («Esc» para sair)"
+    "message": "2. Pressione «T» para restaurar a última aba fechada."
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. Pressione «T» para restaurar a última aba fechada."
+    "message": "3. Pressione «Ctrl + F» para buscar abas. («Esc» para sair)"
   },
   "tutorial_shortcuts_description_5": {
+    "message": "4. Pressione «Ctrl + 1» para abrir o Tabber de qualquer página."
+  },
+  "tutorial_shortcuts_description_6": {
     "message": "Você também pode configurar seus próprios atalhos globais nas configurações."
   },
   "tutorial_sign_in_title": {
@@ -715,5 +730,11 @@
   },
   "sign_in_to_share": {
     "message": "Faça login para compartilhar grupos de abas"
+  },
+  "bind_sites_title": {
+    "message": "Vincular sites ao grupo de abas"
+  },
+  "bind_sites_description": {
+    "message": "Lista de sites que serão automaticamente adicionados a este grupo de abas quando forem preservados. Adicione a URL de cada página que deseja vincular em uma nova linha. Por exemplo:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPara incluir vários sites em uma linha, você pode especificar parte da URL:\ngoogle.com\nVocê também pode especificar regex cercando o texto com barras:\n/^https:.*google\\.com/"
   }
 }

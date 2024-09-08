@@ -101,6 +101,15 @@
   "clear_all_data_confirm_description": {
     "message": "Cela supprimera tous vos onglets et groupes sauvegardés. Cette action est irréversible."
   },
+  "clean_up_junk": {
+    "message": "Nettoyer les déchets"
+  },
+  "clean_up_junk_confirm": {
+    "message": "Êtes-vous sûr de vouloir nettoyer les déchets ?"
+  },
+  "clean_up_junk_confirm_description": {
+    "message": "Cela supprimera les groupes d'onglets vides et les onglets en double. Cette action ne peut pas être annulée."
+  },
   "cancel": {
     "message": "Annuler"
   },
@@ -121,6 +130,9 @@
   },
   "share": {
     "message": "Partager"
+  },
+  "bind_sites": {
+    "message": "Lier des sites"
   },
   "name": {
     "message": "Nom"
@@ -522,12 +534,15 @@
     "message": "1. Appuyez sur «F11» ou «F» pour ouvrir Tabber en plein écran."
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. Appuyez sur «Ctrl + F» pour rechercher des onglets. («Esc» pour quitter)"
+    "message": "2. Appuyez sur «T» pour restaurer le dernier onglet fermé."
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. Appuyez sur «T» pour restaurer le dernier onglet fermé."
+    "message": "3. Appuyez sur «Ctrl + F» pour rechercher des onglets. («Esc» pour quitter)"
   },
   "tutorial_shortcuts_description_5": {
+    "message": "4. Appuyez sur «Ctrl + 1» pour ouvrir Tabber depuis n'importe quelle page."
+  },
+  "tutorial_shortcuts_description_6": {
     "message": "Vous pouvez également définir vos propres raccourcis globaux dans les paramètres."
   },
   "tutorial_sign_in_title": {
@@ -715,5 +730,11 @@
   },
   "sign_in_to_share": {
     "message": "Connectez-vous pour partager des groupes d'onglets"
+  },
+  "bind_sites_title": {
+    "message": "Lier des sites au groupe d'onglets"
+  },
+  "bind_sites_description": {
+    "message": "Liste des sites qui seront automatiquement ajoutés à ce groupe d'onglets lorsqu'ils seront conservés. Ajoutez l'URL de chaque page que vous souhaitez lier sur une nouvelle ligne. Par exemple :\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPour ajouter plusieurs sites sur une seule ligne, vous pouvez spécifier une partie de l'URL :\ngoogle.com\nVous pouvez également spécifier des expressions régulières en enfermant le texte entre des barres obliques :\n/^https:.*google\\.com/"
   }
 }

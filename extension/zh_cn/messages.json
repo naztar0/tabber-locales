@@ -101,6 +101,15 @@
   "clear_all_data_confirm_description": {
     "message": "这将删除您保存的所有标签和组。此操作无法撤销。"
   },
+  "clean_up_junk": {
+    "message": "清理垃圾"
+  },
+  "clean_up_junk_confirm": {
+    "message": "您确定要清理垃圾吗？"
+  },
+  "clean_up_junk_confirm_description": {
+    "message": "这将删除空的标签组和重复的标签。此操作无法撤销。"
+  },
   "cancel": {
     "message": "取消"
   },
@@ -121,6 +130,9 @@
   },
   "share": {
     "message": "分享"
+  },
+  "bind_sites": {
+    "message": "绑定网站"
   },
   "name": {
     "message": "名称"
@@ -522,12 +534,15 @@
     "message": "1. 按下「F11」或「F」以全屏打开Tabber。"
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. 按下「Ctrl + F」搜索标签。（按「Esc」退出）"
+    "message": "2. 按「T」可恢复上次关闭的标签页。"
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. 按「T」可恢复上次关闭的标签页。"
+    "message": "3. 按下「Ctrl + F」搜索标签。（按「Esc」退出）"
   },
   "tutorial_shortcuts_description_5": {
+    "message": "4. 按「Ctrl + 1」从任何页面打开Tabber。"
+  },
+  "tutorial_shortcuts_description_6": {
     "message": "您还可以在设置中设置自己的全局快捷键。"
   },
   "tutorial_sign_in_title": {
@@ -715,5 +730,11 @@
   },
   "sign_in_to_share": {
     "message": "登录共享标签组"
+  },
+  "bind_sites_title": {
+    "message": "将网站绑定到标签组"
+  },
+  "bind_sites_description": {
+    "message": "保存时将自动添加到此标签组的网站列表。将您要绑定的每个页面的 URL 添加到新行。例如：\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n要在一行上加入多个站点，您可以指定URL的一部分：\ngoogle.com\n您还可以通过用斜杠括起文本来指定正则表达式：\n/^https:.*google\\.com/"
   }
 }

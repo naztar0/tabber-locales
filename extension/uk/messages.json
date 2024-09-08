@@ -101,6 +101,15 @@
   "clear_all_data_confirm_description": {
     "message": "Це видалить всі ваші збережені вкладки та групи. Цю дію не можна скасувати."
   },
+  "clean_up_junk": {
+    "message": "Очистити сміття"
+  },
+  "clean_up_junk_confirm": {
+    "message": "Ви впевнені, що хочете очистити сміття?"
+  },
+  "clean_up_junk_confirm_description": {
+    "message": "Це видалить порожні групи вкладок і дублікати вкладок. Цю дію не можна скасувати."
+  },
   "cancel": {
     "message": "Скасувати"
   },
@@ -121,6 +130,9 @@
   },
   "share": {
     "message": "Поділитися"
+  },
+  "bind_sites": {
+    "message": "Прив'язати сайти"
   },
   "name": {
     "message": "Ім'я"
@@ -522,12 +534,15 @@
     "message": "1. Натисніть «F11» або «F», щоб відкрити Tabber у повноекранному режимі."
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. Натисніть «Ctrl + F», щоб шукати вкладки. («Esc» для виходу)"
+    "message": "2. Натисніть «T», щоб відновити останню закриту вкладку."
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. Натисніть «T», щоб відновити останню закриту вкладку."
+    "message": "3. Натисніть «Ctrl + F», щоб шукати вкладки. («Esc» для виходу)"
   },
   "tutorial_shortcuts_description_5": {
+    "message": "4. Натисніть «Ctrl + 1», щоб відкрити Tabber з будь-якої сторінки."
+  },
+  "tutorial_shortcuts_description_6": {
     "message": "Ви також можете встановити власні глобальні комбінації клавіш в налаштуваннях."
   },
   "tutorial_sign_in_title": {
@@ -645,7 +660,7 @@
     "message": "Не зберігати вкладки з цих сайтів"
   },
   "sites_whitelist_description": {
-    "message": "Додайте URL кожної сторінки, яку ви хочете додати до білого списку, на новому рядку. Наприклад:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nЩоб включити кілька сайтів в одному рядку, ви можете вказати частину URL:\ngoogle.com\nВи також можете вказати регулярний вираз, заключивши текст в косі смужки:\n/^https:.*google\\.com/"
+    "message": "Додайте URL кожної сторінки, яку ви хочете додати до білого списку, на новому рядку. Наприклад:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nЩоб включити кілька сайтів в одному рядку, ви можете вказати частину URL:\ngoogle.com\nВи також можете вказати регулярний вираз, заключивши текст в скісні риски:\n/^https:.*google\\.com/"
   },
   "dynamic_preview_contrast": {
     "message": "Динамічний контраст прев'ю"
@@ -715,5 +730,11 @@
   },
   "sign_in_to_share": {
     "message": "Увійдіть, щоб ділитися групами вкладок"
+  },
+  "bind_sites_title": {
+    "message": "Прив'язати сайти до групи вкладок"
+  },
+  "bind_sites_description": {
+    "message": "Список сайтів, які будуть автоматично додані до цієї групи вкладок, коли вони будуть збережені. Додайте URL кожної сторінки, яку ви хочете прив'язати, на новому рядку. Наприклад:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nЩоб включити кілька сайтів в одному рядку, ви можете вказати частину URL:\ngoogle.com\nВи також можете вказати регулярний вираз, заключивши текст в скісні риски:\n/^https:.*google\\.com/"
   }
 }

@@ -101,6 +101,15 @@
   "clear_all_data_confirm_description": {
     "message": "Esto eliminará todas tus pestañas y grupos guardados. Esta acción no se puede deshacer."
   },
+  "clean_up_junk": {
+    "message": "Limpiar basura"
+  },
+  "clean_up_junk_confirm": {
+    "message": "¿Estás seguro de que quieres limpiar la basura?"
+  },
+  "clean_up_junk_confirm_description": {
+    "message": "Esto eliminará grupos de pestañas vacías y pestañas duplicadas. Esta acción no se puede deshacer."
+  },
   "cancel": {
     "message": "Cancelar"
   },
@@ -121,6 +130,9 @@
   },
   "share": {
     "message": "Compartir"
+  },
+  "bind_sites": {
+    "message": "Vincular sitios"
   },
   "name": {
     "message": "Nombre"
@@ -522,12 +534,15 @@
     "message": "1. Presione «F11» o «F» para abrir Tabber a pantalla completa."
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. Presione «Ctrl + F» para buscar pestañas. («Esc» para salir)"
+    "message": "2. Presione «T» para restaurar la última pestaña cerrada."
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. Presione «T» para restaurar la última pestaña cerrada."
+    "message": "3. Presione «Ctrl + F» para buscar pestañas. («Esc» para salir)"
   },
   "tutorial_shortcuts_description_5": {
+    "message": "4. Presiona «Ctrl + 1» para abrir Tabber desde cualquier página."
+  },
+  "tutorial_shortcuts_description_6": {
     "message": "También puede configurar sus propias combinaciones de teclas globales en la configuración."
   },
   "tutorial_sign_in_title": {
@@ -715,5 +730,11 @@
   },
   "sign_in_to_share": {
     "message": "Iniciar sesión para compartir grupos de pestañas"
+  },
+  "bind_sites_title": {
+    "message": "Vincular sitios al grupo de pestañas"
+  },
+  "bind_sites_description": {
+    "message": "Lista de sitios que se agregarán automáticamente a este grupo de pestañas cuando se guarden. Agregue la URL de cada página que desea vincular en una nueva línea. Por ejemplo:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPara incluir varios sitios en una línea, puede especificar parte de la URL:\ngoogle.com\nTambién puede especificar expresiones regulares encerrando el texto entre barras diagonales:\n/^https:.*google\\.com/"
   }
 }

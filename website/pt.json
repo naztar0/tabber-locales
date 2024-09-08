@@ -83,7 +83,7 @@
       "description": "Pague apenas por recursos especiais adicionais e se quiser apoiar o desenvolvimento do Tabber.",
       "free_features": [
         "Até 10 Grupos de Abas",
-        "Ordenação Manual de Abas",
+        "Modelo de IA Básico para Agrupamento",
         "Sincronização Manual com a Nuvem",
         "Sincronização da Última Cópia de Segurança",
         "Plano de Fundo Padrão",
@@ -136,7 +136,7 @@
     "title": "Torne-se um Assinante do Tabber Plus",
     "features": [
       ["Grupos de Abas Ilimitados", "Sem mais limites para o número de abas que você pode agrupar."],
-      ["Agrupamento de Abas por IA", "Agrupe abas automaticamente com base em seu conteúdo."],
+      ["Modelo de IA Avançado para Agrupamento", "Modelo de IA aprimorado para agrupamento de abas mais preciso e eficiente; limites de uso mais altos."],
       ["Sincronização Automática na Nuvem", "Suas abas são sincronizadas automaticamente em todos os seus dispositivos."],
       ["Histórico Completo de Sincronização", "Acesse seu histórico completo de sincronizações e restaure qualquer backup."],
       ["Plano de Fundo Personalizado", "Aplique um plano de fundo personalizado em páginas sem visualização."],
@@ -235,6 +235,50 @@
         ]
       }
     ]
+  },
+  "feedback": {
+    "title": "Estamos tristes em ver você partir! 😢",
+    "description": "Por favor, nos informe por que você está removendo o Tabber para que possamos melhorar nosso serviço. Sua experiência é importante para nós ^_^",
+    "submit": "Enviar",
+    "success": "Obrigado pelo seu feedback! 😊",
+    "items": {
+      "usability_issues": {
+        "label": "Achei o Tabber difícil de usar",
+        "question": "Foi confuso, irritante ou outra coisa?",
+        "suggestion": {
+          "label": "Faça-nos uma pergunta",
+          "link": "/#contact"
+        }
+      },
+      "bug_or_missing_feature": {
+        "label": "Encontrei um bug ou não consegui encontrar um recurso",
+        "question": "Qual foi o bug ou recurso ausente?",
+        "suggestion": {
+          "label": "Contate-nos para obter ajuda",
+          "link": "/#contact"
+        }
+      },
+      "privacy_concerns": {
+        "label": "Tenho preocupações com privacidade (uso de dados, rastreamento, etc.)",
+        "question": "Quais são suas preocupações de privacidade?",
+        "suggestion": {
+          "label": "Confira nossa Política de Privacidade",
+          "link": "/privacy"
+        }
+      },
+      "found_better_alternative": {
+        "label": "Encontrei uma alternativa melhor",
+        "question": "Qual alternativa você encontrou?"
+      },
+      "no_longer_needed": {
+        "label": "Não preciso mais da extensão",
+        "question": "O que mudou em suas necessidades?"
+      },
+      "other": {
+        "label": "Outro",
+        "question": "Qual é o motivo para remover o Tabber?"
+      }
+    }
   },
   "email": {
     "sign_in": {

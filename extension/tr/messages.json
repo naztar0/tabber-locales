@@ -101,6 +101,15 @@
   "clear_all_data_confirm_description": {
     "message": "Bu, kaydedilmiş tüm sekmelerinizi ve gruplarınızı silecek. Bu işlem geri alınamaz."
   },
+  "clean_up_junk": {
+    "message": "Çöpü temizle"
+  },
+  "clean_up_junk_confirm": {
+    "message": "Çöpü temizlemek istediğinizden emin misiniz?"
+  },
+  "clean_up_junk_confirm_description": {
+    "message": "Bu, boş sekme gruplarını ve çift sekmeleri silecektir. Bu işlem geri alınamaz."
+  },
   "cancel": {
     "message": "İptal"
   },
@@ -121,6 +130,9 @@
   },
   "share": {
     "message": "Paylaş"
+  },
+  "bind_sites": {
+    "message": "Siteleri bağla"
   },
   "name": {
     "message": "İsim"
@@ -522,12 +534,15 @@
     "message": "1. Tam ekran modunda Tabber'ı açmak için «F11» veya «F» tuşlarına basın."
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. Sekmeleri aramak için «Ctrl + F» tuşlarına basın. (Çıkmak için «Esc»)"
+    "message": "2. Son kapalı sekmeyi geri yüklemek için «T» tuşuna basın."
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. Son kapalı sekmeyi geri yüklemek için «T» tuşuna basın."
+    "message": "3. Sekmeleri aramak için «Ctrl + F» tuşlarına basın. (Çıkmak için «Esc»)"
   },
   "tutorial_shortcuts_description_5": {
+    "message": "4. Herhangi bir sayfadan Tabber'ı açmak için «Ctrl + 1» tuşuna basın."
+  },
+  "tutorial_shortcuts_description_6": {
     "message": "Ayrıca kendi global kısayollarınızı ayarlayabilirsiniz."
   },
   "tutorial_sign_in_title": {
@@ -715,5 +730,11 @@
   },
   "sign_in_to_share": {
     "message": "Sekme gruplarını paylaşmak için giriş yapın"
+  },
+  "bind_sites_title": {
+    "message": "Siteleri sekme grubuna bağla"
+  },
+  "bind_sites_description": {
+    "message": "Korunduğunda bu sekme grubuna otomatik olarak eklenecek sitelerin listesi. Bağlamak istediğiniz her sayfanın URL'sini yeni bir satıra ekleyin. Örneğin:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nAynı satırda birden fazla siteyi beyaz listeye almak için URL'nin bir kısmını belirleyebilirsiniz:\ngoogle.com\nAyrıca metni eğik çizgiler arasına alarak regex belirleyebilirsiniz:\n/^https:.*google\\.com/"
   }
 }

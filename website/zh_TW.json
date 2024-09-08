@@ -83,7 +83,7 @@
       "description": "僅為額外的特殊功能付費，如果您想支持Tabber的開發。",
       "free_features": [
         "最多10個標籤頁組",
-        "手動標籤排序",
+        "基礎AI分組模型",
         "手動雲同步",
         "最後備份同步",
         "標準背景",
@@ -136,7 +136,7 @@
     "title": "成為Tabber Plus訂閱者",
     "features": [
       ["無限標籤群組", "不再限制您可以分組的標籤數量。"],
-      ["AI 驅動的分頁分組", "根據內容自動分組分頁。"],
+      ["高級AI分組模型", "增強型AI模型，更準確和高效的標籤分組；更高的使用限制。"],
       ["自動雲端同步", "您的標籤將在所有裝置上自動同步。"],
       ["完整同步歷史", "存取您的完整同步歷史並恢復任何備份。"],
       ["自訂背景", "為沒有預覽的頁面應用自訂背景。"],
@@ -235,6 +235,50 @@
         ]
       }
     ]
+  },
+  "feedback": {
+    "title": "很遺憾看到您離開！ 😢",
+    "description": "請告訴我們您為什麼要移除 Tabber，以便我們改進我們的服務。您的體驗對我們很重要 ^_^",
+    "submit": "提交",
+    "success": "感謝您的反饋！ 😊",
+    "items": {
+      "usability_issues": {
+        "label": "我覺得 Tabber 使用起來很困難",
+        "question": "是令人困惑、煩人，還是其他原因？",
+        "suggestion": {
+          "label": "向我們提問",
+          "link": "/#contact"
+        }
+      },
+      "bug_or_missing_feature": {
+        "label": "我遇到了一個錯誤或找不到某個功能",
+        "question": "是什麼錯誤或缺失的功能？",
+        "suggestion": {
+          "label": "聯繫我們獲取幫助",
+          "link": "/#contact"
+        }
+      },
+      "privacy_concerns": {
+        "label": "我有隱私方面的擔憂（數據使用、追蹤等）",
+        "question": "您的隱私擔憂是什麼？",
+        "suggestion": {
+          "label": "查看我們的隱私政策",
+          "link": "/privacy"
+        }
+      },
+      "found_better_alternative": {
+        "label": "我找到了一個更好的替代方案",
+        "question": "您找到了什麼替代方案？"
+      },
+      "no_longer_needed": {
+        "label": "我不再需要這個擴展",
+        "question": "您的需求發生了什麼變化？"
+      },
+      "other": {
+        "label": "其他",
+        "question": "移除 Tabber 的原因是什麼？"
+      }
+    }
   },
   "email": {
     "sign_in": {

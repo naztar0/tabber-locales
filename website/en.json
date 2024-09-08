@@ -83,7 +83,7 @@
       "description": "Pay only for additional special features and if you want to support the development of Tabber.",
       "free_features": [
         "Up to 10 Tab Groups",
-        "Manual Tabs Sorting",
+        "Basic AI Model for Grouping",
         "Manual Cloud Sync",
         "Last Backup Sync",
         "Standard Background",
@@ -137,7 +137,7 @@
     "title": "Become a Tabber Plus Subscriber",
     "features": [
       ["Unlimited Tab Groups", "No more limits to the number of tabs you can group."],
-      ["AI-powered Tabs Grouping", "Group tabs automatically based on their content."],
+      ["Advanced AI Model for Grouping", "Enhanced AI model for more accurate and efficient tab grouping; higher usage limits."],
       ["Auto Cloud Sync", "Your tabs are automatically synced across all your devices."],
       ["Full Sync History", "Access your full synchronizations history and restore any backup."],
       ["Custom Background", "Apply a custom background to pages without previews."],
@@ -236,6 +236,50 @@
         ]
       }
     ]
+  },
+  "feedback": {
+    "title": "We're sad to see you go! 😢",
+    "description": "Please let us know why you're removing Tabber so we can improve our service. Your experience matters to us ^_^",
+    "submit": "Submit",
+    "success": "Thank you for your feedback! 😊",
+    "items": {
+      "usability_issues": {
+        "label": "I found Tabber difficult to use",
+        "question": "Was it confusing, annoying, or something else?",
+        "suggestion": {
+          "label": "Ask us a question",
+          "link": "/#contact"
+        }
+      },
+      "bug_or_missing_feature": {
+        "label": "I ran into a bug or couldn't find a feature",
+        "question": "What was the bug or missing feature?",
+        "suggestion": {
+          "label": "Contact us for help",
+          "link": "/#contact"
+        }
+      },
+      "privacy_concerns": {
+        "label": "I have privacy concerns (data usage, tracking, etc.)",
+        "question": "What are your privacy concerns?",
+        "suggestion": {
+          "label": "Check our Privacy Policy",
+          "link": "/privacy"
+        }
+      },
+      "found_better_alternative": {
+        "label": "I found a better alternative",
+        "question": "What alternative did you find?"
+      },
+      "no_longer_needed": {
+        "label": "I no longer need the extension",
+        "question": "What’s changed in your needs?"
+      },
+      "other": {
+        "label": "Other",
+        "question": "What's the reason for removing Tabber?"
+      }
+    }
   },
   "email": {
     "sign_in": {

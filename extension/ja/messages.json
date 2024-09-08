@@ -101,6 +101,15 @@
   "clear_all_data_confirm_description": {
     "message": "これにより、保存されたすべてのタブとグループが削除されます。この操作は元に戻せません。"
   },
+  "clean_up_junk": {
+    "message": "不要なものを整理する"
+  },
+  "clean_up_junk_confirm": {
+    "message": "本当に不要なものを整理しますか？"
+  },
+  "clean_up_junk_confirm_description": {
+    "message": "これにより、空のタブグループや重複したタブが削除されます。この操作は元に戻せません。"
+  },
   "cancel": {
     "message": "キャンセル"
   },
@@ -121,6 +130,9 @@
   },
   "share": {
     "message": "共有"
+  },
+  "bind_sites": {
+    "message": "サイトをバインド"
   },
   "name": {
     "message": "名前"
@@ -522,12 +534,15 @@
     "message": "1. 「F11」または「F」を押してTabberをフルスクリーンで開きます。"
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. タブを検索するには「Ctrl + F」を押します（終了するには「Esc」）。"
+    "message": "2. 「T」を押すと、最後に閉じたタブを復元できます。"
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. 「T」を押すと、最後に閉じたタブを復元できます。"
+    "message": "3. タブを検索するには「Ctrl + F」を押します（終了するには「Esc」）。"
   },
   "tutorial_shortcuts_description_5": {
+    "message": "4. 任意のページで「Ctrl + 1」を押してTabberを開きます。"
+  },
+  "tutorial_shortcuts_description_6": {
     "message": "設定で独自のグローバルショートカットも設定できます。"
   },
   "tutorial_sign_in_title": {
@@ -715,5 +730,11 @@
   },
   "sign_in_to_share": {
     "message": "サインインしてタブグループを共有する"
+  },
+  "bind_sites_title": {
+    "message": "サイトをタブグループにバインド"
+  },
+  "bind_sites_description": {
+    "message": "保存されたときにこのタブグループに自動的に追加されるサイトのリスト。バインドしたい各ページのURLを新しい行に追加してください。例:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n1行で複数のサイトをホワイトリストに追加するには、URLの一部を指定できます:\ngoogle.com\nまた、テキストをスラッシュで囲んで正規表現を指定することもできます:\n/^https:.*google\\.com/"
   }
 }

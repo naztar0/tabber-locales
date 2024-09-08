@@ -83,7 +83,7 @@
       "description": "只为额外的特殊功能付费，如果您想支持Tabber的开发。",
       "free_features": [
         "最多10个标签页组",
-        "手动标签排序",
+        "基础AI分组模型",
         "手动云同步",
         "最后备份同步",
         "标准背景",
@@ -136,7 +136,7 @@
     "title": "成为Tabber Plus订阅者",
     "features": [
       ["无限标签组", "不再限制你可以分组的标签数量。"],
-      ["AI 驱动的标签页分组", "根据内容自动分组标签页。"],
+      ["高级AI分组模型", "增强型AI模型，更准确高效的标签分组；更高的使用限制。"],
       ["自动云同步", "你的标签将自动在所有设备上同步。"],
       ["完整同步历史", "访问你的完整同步历史记录并恢复任何备份。"],
       ["自定义背景", "为没有预览的页面应用自定义背景。"],
@@ -235,6 +235,50 @@
         ]
       }
     ]
+  },
+  "feedback": {
+    "title": "很遗憾看到您离开！ 😢",
+    "description": "请告诉我们您为什么要移除 Tabber，以便我们改进我们的服务。您的体验对我们很重要 ^_^",
+    "submit": "提交",
+    "success": "感谢您的反馈！ 😊",
+    "items": {
+      "usability_issues": {
+        "label": "我觉得 Tabber 使用起来很困难",
+        "question": "是令人困惑、烦人，还是其他原因？",
+        "suggestion": {
+          "label": "向我们提问",
+          "link": "/#contact"
+        }
+      },
+      "bug_or_missing_feature": {
+        "label": "我遇到了一个错误或找不到某个功能",
+        "question": "是什么错误或缺失的功能？",
+        "suggestion": {
+          "label": "联系我们获取帮助",
+          "link": "/#contact"
+        }
+      },
+      "privacy_concerns": {
+        "label": "我有隐私方面的担忧（数据使用、跟踪等）",
+        "question": "您的隐私担忧是什么？",
+        "suggestion": {
+          "label": "查看我们的隐私政策",
+          "link": "/privacy"
+        }
+      },
+      "found_better_alternative": {
+        "label": "我找到了更好的替代方案",
+        "question": "您找到了什么替代方案？"
+      },
+      "no_longer_needed": {
+        "label": "我不再需要这个扩展",
+        "question": "您的需求发生了什么变化？"
+      },
+      "other": {
+        "label": "其他",
+        "question": "移除 Tabber 的原因是什么？"
+      }
+    }
   },
   "email": {
     "sign_in": {
