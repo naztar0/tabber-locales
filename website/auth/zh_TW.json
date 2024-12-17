@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "sign_in": {
+      "title": "登入",
+      "description": "通過電子郵件或社交媒體登入 Tabber"
+    },
+    "sign_out": {
+      "title": "登出",
+      "description": "您已從 Tabber 登出"
+    },
+    "error": {
+      "title": "錯誤",
+      "description": "登入時發生問題"
+    },
+    "verify_request": {
+      "title": "檢查您的電子郵件",
+      "description": "登入連結已發送到您的電子郵件地址"
+    }
+  },
+  "sign_in": {
+    "title": "註冊Tabber",
+    "or": "或",
+    "continue_with": "繼續使用 %s",
+    "sign_in_with_email": "使用電子郵件登入",
+    "email_address": "電子郵件地址"
+  },
+  "sign_out": {
+    "title": "您已登出",
+    "description": [
+      "您仍然可以使用Tabber，但您的數據將不會備份和跨設備同步。",
+      "要啟用雲端同步，請重新登入。"
+    ],
+    "return": "返回Tabber"
+  },
+  "error": {
+    "title": "出了些問題",
+    "description": [
+      "請嘗試重新登入。",
+      "您也可以嘗試使用其他方式登入。",
+      "如果問題依然存在，請隨時聯繫我們。"
+    ]
+  },
+  "verify_request": {
+    "title": "檢查您的電子郵件",
+    "description": ["登入連結已發送到您的電子郵件地址。"],
+    "open_gmail": "開啟Gmail"
+  }
+}

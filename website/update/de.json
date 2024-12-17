@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Neuigkeiten",
+    "description": "Tabber wurde aktualisiert! Entdecken Sie die neuen Funktionen und Verbesserungen."
+  },
+  "1.5": {
+    "title": "Tabber aktualisiert auf Version 1.5",
+    "subtitle": "Entdecken Sie die neuesten Funktionen und Verbesserungen",
+    "content_main": [
+      {
+        "title": "Gruppen von der Speicherung ausschließen",
+        "description": [
+          "Sie können jetzt bestimmte Tab-Gruppen von der Speicherung ausschließen. Fügen Sie einfach Gruppen anhand ihres Namens oder ihrer Farbe zur Ausschlussliste hinzu. Nicht verfügbar in Firefox.",
+          "Diese Funktion finden Sie unter Einstellungen → Ausschlüsse → Gruppen-Ausschlüsse."
+        ],
+        "image": "/static/update/1.5/groups-exclusions.jpg"
+      },
+      {
+        "title": "Unspeicherte Formulareingaben erkennen",
+        "description": [
+          "Tabber überprüft nun unspeicherte Formulareingaben, bevor ein Tab gespeichert wird. Wenn unspeicherte Änderungen erkannt werden, wird der Tab nicht gespeichert, um versehentlichen Datenverlust zu vermeiden.",
+          "Aktivieren Sie diese Funktion unter Einstellungen → Automatische Speicherung → Tabs mit unspeicherten Formulareingaben nicht speichern."
+        ],
+        "image": "/static/update/1.5/unsaved-form-inputs.jpg"
+      },
+      {
+        "title": "YouTube-Timestamps speichern",
+        "description": [
+          "Tabs mit YouTube-Videos können nun zusammen mit ihren Zeitstempeln gespeichert werden, sodass Sie die Wiedergabe an der Stelle fortsetzen können, an der Sie aufgehört haben.",
+          "Diese Option finden Sie unter Einstellungen → Seitenfunktionen → YouTube-Timestamps speichern."
+        ],
+        "image": "/static/update/1.5/youtube-timestamps.jpg"
+      },
+      {
+        "title": "Tabs und Gruppen anhand des Titels identifizieren",
+        "description": [
+          "Tabs und Gruppen können nun anhand ihres Titels anstelle interner IDs identifiziert werden. Dies löst das Problem, dass nach einem Neustart einiger Browser (z. B. Google Chrome) der automatische Speichertimer zurückgesetzt wurde und die Verbindung zwischen Gruppen im Browser und in Tabber verloren ging.",
+          "Diese Option finden Sie unter Einstellungen → Erweiterte Einstellungen → Tabs anhand des Titels identifizieren."
+        ],
+        "image": "/static/update/1.5/identify-tabs-by-title.jpg"
+      },
+      {
+        "title": "Bestätigung für kritische Aktionen",
+        "description": [
+          "Tabber erfordert nun eine Doppelklick-Bestätigung für kritische Aktionen wie das Speichern oder Wiederherstellen aller Tabs, um versehentliche Änderungen zu vermeiden."
+        ],
+        "image": "/static/update/1.5/confirmations.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "Weitere Verbesserungen",
+      "description": [
+        "Sie können nun mit den Pfeiltasten schneller zwischen aktiven Tabs wechseln.",
+        "Eine Support-Schaltfläche wurde dem Erweiterungspopup hinzugefügt.",
+        "Ein Problem beim Erstellen von Vorschauen für inaktive Tabs wurde behoben."
+      ]
+    }
+  }
+}

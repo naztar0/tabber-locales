@@ -1,0 +1,9 @@
+{
+  "sign_in": {
+    "subject": "Connexion à Tabber",
+    "title": "Cliquez sur le bouton ci-dessous pour vous connecter à Tabber.",
+    "button": "Se connecter",
+    "footer": "Si vous n'avez pas demandé de lien de connexion, veuillez ignorer cet e-mail.",
+    "plain_text": "Se connecter à Tabber : %link%"
+  }
+}

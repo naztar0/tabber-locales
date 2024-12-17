@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": {
+      "default": "%color% %name%",
+      "no_name": "%color% 分頁組"
+    },
+    "description": {
+      "default": "由 %user% 在 Tabber 上分享的分頁組",
+      "no_user": "在 Tabber 上分享的分頁組"
+    },
+    "not_found": {
+      "title": "未找到",
+      "description": "您嘗試匯入的分頁組不存在或已被刪除。"
+    }
+  },
+  "title": "%user% 與您分享了一個標籤組！",
+  "somebody": "某人",
+  "tab": {
+    "zero": "%count% 標籤",
+    "one": "%count% 標籤",
+    "two": "%count% 標籤",
+    "few": "%count% 標籤",
+    "many": "%count% 標籤",
+    "other": "%count% 標籤"
+  },
+  "sign_in_to_import": "登入以匯入此群組",
+  "requirement": "需要安裝 Tabber 才能匯入此群組",
+  "import": "匯入",
+  "not_found": {
+    "title": "未找到標籤組",
+    "subtitle": "您嘗試匯入的標籤組不存在或已被刪除。"
+  }
+}

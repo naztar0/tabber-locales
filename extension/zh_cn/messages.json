@@ -26,6 +26,12 @@
   "theme_background": {
     "message": "背景"
   },
+  "theme_background_animation": {
+    "message": "背景动画"
+  },
+  "theme_background_custom": {
+    "message": "自定义背景"
+  },
   "use_context_menu": {
     "message": "使用右键菜单"
   },
@@ -59,14 +65,32 @@
   "save_previews_to_cloud": {
     "message": "将预览保存到云端"
   },
-  "sites_whitelist": {
-    "message": "网站白名单"
+  "exclusions": {
+    "message": "排除"
+  },
+  "sites_exclusions": {
+    "message": "站点排除"
+  },
+  "groups_exclusions": {
+    "message": "群组排除"
   },
   "keyboard_shortcuts": {
     "message": "键盘快捷键"
   },
+  "sites_features": {
+    "message": "站点功能"
+  },
+  "toolbar_items": {
+    "message": "工具栏项目"
+  },
   "advanced_settings": {
     "message": "高级设置"
+  },
+  "click_again_to_confirm": {
+    "message": "再次点击以确认"
+  },
+  "save_youtube_timestamps": {
+    "message": "保存YouTube时间戳"
   },
   "home_page": {
     "message": "Tabber | 首页"
@@ -306,7 +330,7 @@
     "message": "无限制的标签组"
   },
   "plus_feature_title_2": {
-    "message": "AI 标签页分组"
+    "message": "高级分组AI模型"
   },
   "plus_feature_title_3": {
     "message": "自动云同步"
@@ -327,7 +351,7 @@
     "message": "您可以对任意数量的标签进行分组，没有限制。"
   },
   "plus_feature_desc_2": {
-    "message": "根据内容自动分组标签页。"
+    "message": "增强的AI模型和更高的使用限制。"
   },
   "plus_feature_desc_3": {
     "message": "您的标签会自动在所有设备上同步。"
@@ -662,6 +686,12 @@
   "sites_whitelist_description": {
     "message": "在新的一行上添加您想要加入白名单的每个页面的URL。例如：\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n要在一行上加入多个站点，您可以指定URL的一部分：\ngoogle.com\n您还可以通过用斜杠括起文本来指定正则表达式：\n/^https:.*google\\.com/"
   },
+  "groups_whitelist_title": {
+    "message": "永不保留这些群组的标签页"
+  },
+  "groups_whitelist_description": {
+    "message": "在新的一行添加每个要加入白名单的群组名称。例如：\n工作\n学习\n娱乐\n您还可以选择想加入白名单的群组颜色。"
+  },
   "dynamic_preview_contrast": {
     "message": "动态预览对比度"
   },
@@ -670,6 +700,9 @@
   },
   "max_deleted_tabs": {
     "message": "最大已删除标签页数"
+  },
+  "identify_tabs_by_title": {
+    "message": "通过标题识别标签页"
   },
   "pause_auto_preserve": {
     "message": "暂停自动保存"
@@ -682,6 +715,12 @@
   },
   "remove_site_from_whitelist": {
     "message": "从白名单中删除网站"
+  },
+  "never_preserve_this_group": {
+    "message": "永不保留此群组"
+  },
+  "remove_group_from_whitelist": {
+    "message": "从白名单中移除此群组"
   },
   "ai_group_title": {
     "message": "AI 标签页分组"

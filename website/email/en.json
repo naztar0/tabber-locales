@@ -1,0 +1,9 @@
+{
+  "sign_in": {
+    "subject": "Sign in to Tabber",
+    "title": "Click the button below to sign in to Tabber.",
+    "button": "Sign In",
+    "footer": "If you did not request a sign in link, please ignore this email.",
+    "plain_text": "Sign in to Tabber: %link%"
+  }
+}

@@ -26,6 +26,12 @@
   "theme_background": {
     "message": "Arrière-plan"
   },
+  "theme_background_animation": {
+    "message": "Animation de fond"
+  },
+  "theme_background_custom": {
+    "message": "Fond personnalisé"
+  },
   "use_context_menu": {
     "message": "Utiliser le menu contextuel"
   },
@@ -59,14 +65,32 @@
   "save_previews_to_cloud": {
     "message": "Sauvegarder les aperçus dans le cloud"
   },
-  "sites_whitelist": {
-    "message": "Liste blanche des sites"
+  "exclusions": {
+    "message": "Exclusions"
+  },
+  "sites_exclusions": {
+    "message": "Exclusions de sites"
+  },
+  "groups_exclusions": {
+    "message": "Exclusions de groupes"
   },
   "keyboard_shortcuts": {
     "message": "Raccourcis clavier"
   },
+  "sites_features": {
+    "message": "Fonctionnalités des sites"
+  },
+  "toolbar_items": {
+    "message": "Éléments de la barre d'outils"
+  },
   "advanced_settings": {
     "message": "Paramètres avancés"
+  },
+  "click_again_to_confirm": {
+    "message": "Cliquez à nouveau pour confirmer"
+  },
+  "save_youtube_timestamps": {
+    "message": "Enregistrer les timestamps YouTube"
   },
   "home_page": {
     "message": "Tabber | Page d'accueil"
@@ -306,7 +330,7 @@
     "message": "Groupes d'onglets illimités"
   },
   "plus_feature_title_2": {
-    "message": "Regroupement des onglets par IA"
+    "message": "Modèle d'IA avancé pour le regroupement"
   },
   "plus_feature_title_3": {
     "message": "Synchronisation automatique avec le cloud"
@@ -327,7 +351,7 @@
     "message": "Plus de limites sur le nombre d'onglets que vous pouvez grouper."
   },
   "plus_feature_desc_2": {
-    "message": "Regroupez automatiquement les onglets en fonction de leur contenu."
+    "message": "Modèle d'IA amélioré et limites d'utilisation accrues."
   },
   "plus_feature_desc_3": {
     "message": "Vos onglets sont automatiquement synchronisés sur tous vos appareils."
@@ -662,6 +686,12 @@
   "sites_whitelist_description": {
     "message": "Ajoutez l'URL de chaque page que vous souhaitez ajouter à la liste blanche sur une nouvelle ligne. Par exemple :\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPour ajouter plusieurs sites sur une seule ligne, vous pouvez spécifier une partie de l'URL :\ngoogle.com\nVous pouvez également spécifier des expressions régulières en enfermant le texte entre des barres obliques :\n/^https:.*google\\.com/"
   },
+  "groups_whitelist_title": {
+    "message": "Ne jamais conserver les onglets de ces groupes"
+  },
+  "groups_whitelist_description": {
+    "message": "Ajoutez le nom de chaque groupe que vous souhaitez ajouter à la liste blanche sur une nouvelle ligne. Par exemple :\nTravail\nÉtudes\nDivertissement\nVous pouvez également sélectionner les couleurs des groupes que vous souhaitez inclure dans la liste blanche."
+  },
   "dynamic_preview_contrast": {
     "message": "Contraste de prévisualisation dynamique"
   },
@@ -670,6 +700,9 @@
   },
   "max_deleted_tabs": {
     "message": "Onglets supprimés max"
+  },
+  "identify_tabs_by_title": {
+    "message": "Identifier les onglets par titre"
   },
   "pause_auto_preserve": {
     "message": "Mettre en pause la préservation automatique"
@@ -682,6 +715,12 @@
   },
   "remove_site_from_whitelist": {
     "message": "Supprimer le site de la liste blanche"
+  },
+  "never_preserve_this_group": {
+    "message": "Ne jamais conserver ce groupe"
+  },
+  "remove_group_from_whitelist": {
+    "message": "Supprimer le groupe de la liste blanche"
   },
   "ai_group_title": {
     "message": "Regroupement des onglets par IA"

@@ -1,0 +1,55 @@
+{
+  "common": {
+    "tabber": "Tabber",
+    "tabber_plus": "Tabber Plus",
+    "sign_up": "Sign Up",
+    "sign_in": "Sign In",
+    "sign_out": "Sign Out",
+    "free": "Free",
+    "plus": "Plus"
+  },
+  "accept_terms": {
+    "accept": "Accept",
+    "content": [
+      "Notice! We use cookies to provide necessary website functionality, improve your experience and analyze our traffic. By using our website, you agree to our use of cookies and to our ",
+      "Privacy Policy",
+      " and ",
+      "Terms of Service",
+      "."
+    ]
+  },
+  "header": {
+    "home": "Home",
+    "install": "Install",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "about": "About"
+  },
+  "footer": {
+    "about": "About",
+    "faq": "FAQs",
+    "contact": "Contact",
+    "pricing": "Pricing",
+    "credits": "Credits",
+    "patreon": "Patreon",
+    "telegram": "Telegram",
+    "twitter": "Twitter",
+    "github": "GitHub",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "copyright": "©%year% Tabber. All rights reserved."
+  },
+  "languages": [
+    ["English", "en"],
+    ["Deutsch", "de"],
+    ["Español", "es"],
+    ["Français", "fr"],
+    ["Português", "pt"],
+    ["Русский", "ru"],
+    ["Türkçe", "tr"],
+    ["Українська", "uk"],
+    ["日本語", "ja"],
+    ["简体中文", "zh_CN"],
+    ["繁體中文", "zh_TW"]
+  ]
+}

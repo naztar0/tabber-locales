@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "FAQs",
+    "description": "Häufig gestellte Fragen zu Tabber"
+  },
+  "title": "Häufig gestellte Fragen",
+  "footer": ["Haben Sie nicht die Antwort gefunden, die Sie gesucht haben? Verwenden Sie das folgende ", "Kontaktformular", " oder kontaktieren Sie uns unter ", "tabber@neulen.dev", "."],
+  "items": [
+    {
+      "question": "Ich kann keinen Tab in Firefox erfassen. Was soll ich tun?",
+      "answer": [
+        "Dies kann passieren, wenn die notwendigen Berechtigungen nicht erteilt sind.",
+        "Um sie zu erteilen, klicken Sie auf das Erweiterungssymbol in der oberen rechten Ecke des Browsers und wählen Sie «Erweiterungen verwalten». Klicken Sie dann auf die Tabber-Erweiterung, dann auf «Berechtigungen» und aktivieren Sie die Berechtigung «Auf Ihre Daten für alle Websites zugreifen»."
+      ]
+    },
+    {
+      "question": "Warum sind Tab-Vorschauen nicht verfügbar?",
+      "answer": [
+        "Es gibt mehrere Gründe, warum dies passieren könnte:",
+        "1. Sie haben die Option «Vorschau beim Speichern erstellen» in den Erweiterungseinstellungen deaktiviert.",
+        "2. Sie haben die gesamte Tab-Gruppe mit diesem Tab darin gespeichert. Aber Vorschauen sind nur für Tabs verfügbar, die einzeln gespeichert wurden.",
+        "3. Der Tab wurde aus der Cloud geladen, aber die Vorschau wurde lokal auf einem anderen Gerät gespeichert oder nach der letzten Synchronisierung gelöscht.",
+        "4. Es gab einen anderen Fehler. Versuchen Sie, den Browser neu zu starten oder die Erweiterung neu zu installieren.",
+        "Die meisten dieser Probleme können durch Aktivieren des Cloud-Vorschau-Speicherns in den Einstellungen gelöst werden."
+      ]
+    },
+    {
+      "question": "Wie ändere ich die Sprache?",
+      "answer": [
+        "Die Sprache der Erweiterung wird automatisch basierend auf Ihrer Browsersprache ausgewählt. Um sie zu ändern, müssen Sie die Sprache des Browsers ändern."
+      ]
+    },
+    {
+      "question": "Was bedeutet automatische Synchronisation mit der Cloud?",
+      "answer": [
+        "Dies bedeutet, dass die Erweiterung Ihre Daten jedes Mal automatisch mit der Cloud synchronisiert, wenn Sie Änderungen an Ihren Tabs vornehmen.",
+        "Wenn Sie versehentlich einen Tab oder eine Tab-Gruppe gelöscht haben, können Sie diese immer aus den Cloud-Backups wiederherstellen."
+      ]
+    },
+    {
+      "question": "Wie verschiebe ich Tabs zwischen Gruppen?",
+      "answer": [
+        "Um Tabs zwischen Gruppen zu verschieben, klicken und halten Sie den Tab, den Sie verschieben möchten, und ziehen Sie ihn dann in die gewünschte Gruppe."
+      ]
+    },
+    {
+      "question": "Ich habe mich für Tabber Plus angemeldet, aber ich habe immer noch keinen Zugang zu den Plus-Funktionen.",
+      "answer": [
+        "Wenn Sie sich mit Ihrem Patreon-Konto angemeldet haben, aber immer noch keinen Zugang zu den Plus-Funktionen haben, versuchen Sie, Ihren Browser neu zu starten oder das Gerät neu zu starten."
+      ]
+    },
+    {
+      "question": "Wie kann ich mein Plus-Abonnement beenden?",
+      "answer": [
+        "Sie können Ihr Abonnement jederzeit kündigen. Gehen Sie dazu zu Ihrem Patreon-Konto, wählen Sie «Meine Mitgliedschaften» und klicken Sie neben Tabber Plus auf «Bearbeiten». Klicken Sie dann auf «Mitgliedschaft kündigen».",
+        "Danach wird Ihr Abonnement gekündigt, und Sie werden für den nächsten Monat nicht belastet. Sie haben jedoch weiterhin Zugang zu den Tabber Plus-Funktionen bis zum Ende des aktuellen Abrechnungszeitraums."
+      ]
+    },
+    {
+      "question": "Wie ändert man die Tastenkombinationen in Firefox?",
+      "answer": [
+        "In Firefox müssen die Tastenkombinationen manuell in den Browsereinstellungen geändert werden.",
+        "Um sie zu ändern, klicken Sie auf das Erweiterungssymbol in der oberen rechten Ecke des Browsers und wählen Sie «Erweiterungen verwalten». Klicken Sie dann auf das Zahnrad-Symbol in der oberen rechten Ecke und wählen Sie «Tastenkombinationen der Erweiterung verwalten»."
+      ]
+    }
+  ]
+}

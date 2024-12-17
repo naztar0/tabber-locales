@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "What's New",
+    "description": "Tabber has been updated! Check out the new features and improvements."
+  },
+  "1.5": {
+    "title": "Tabber Updated to Version 1.5",
+    "subtitle": "Discover the Latest Features and Enhancements",
+    "content_main": [
+      {
+        "title": "Exclude Groups from Preservation",
+        "description": [
+          "You can now exclude specific tab groups from being preserved. Simply add groups to the exclusion list using their name or color. Not available in Firefox.",
+          "This feature is available under Settings → Exclusions → Groups Exclusions."
+        ],
+        "image": "/static/update/1.5/groups-exclusions.jpg"
+      },
+      {
+        "title": "Detect Unsaved Form Inputs",
+        "description": [
+          "Tabber now checks for unsaved form inputs before preserving a tab. If unsaved changes are detected, the tab will not be preserved, helping you avoid accidental data loss.",
+          "Enable this feature under Settings → Auto Preserve → Don't Preserve Tabs with Unsaved Form Inputs."
+        ],
+        "image": "/static/update/1.5/unsaved-form-inputs.jpg"
+      },
+      {
+        "title": "Save YouTube Timestamps",
+        "description": [
+          "Tabs with YouTube videos can now be preserved along with their timestamps, allowing you to resume playback from where you left off.",
+          "You can activate this option under Settings → Sites Features → Save YouTube Timestamps."
+        ],
+        "image": "/static/update/1.5/youtube-timestamps.jpg"
+      },
+      {
+        "title": "Identify Tabs and Groups by Title",
+        "description": [
+          "Tabs and groups can now be identified by their title instead of internal IDs. This resolves the issue that after restarting some browsers (such as Google Chrome), the auto-preservation timer was reset, as well as the connection between groups in the browser and in Tabber.",
+          "Find this option under Settings → Advanced Settings → Identify Tabs by Title."
+        ],
+        "image": "/static/update/1.5/identify-tabs-by-title.jpg"
+      },
+      {
+        "title": "Confirmation for Critical Actions",
+        "description": [
+          "Tabber now requires a double-click confirmation for critical actions, such as preserving or restoring all tabs, to prevent accidental changes."
+        ],
+        "image": "/static/update/1.5/confirmations.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "Other Improvements",
+      "description": [
+        "You can now switch the active tab using arrow keys for faster navigation.",
+        "A support button has been added to the extension popup.",
+        "Resolved an issue with making previews for inactive tabs."
+      ]
+    }
+  }
+}

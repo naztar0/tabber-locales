@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Tabber - Solução Definitiva para Organização de Abas",
+    "description": "Simplifique sua navegação, preservando abas não utilizadas em grupos organizados de abas virtuais e sincronizando-as com todos os dispositivos.",
+    "keywords": "tabber, extensão tabber, gerenciador de abas, ferramenta de grupos de abas, aplicativo para salvar abas, organizar abas do navegador, grupos de abas virtuais, organizador de abas do navegador, sincronização de abas entre dispositivos, grupos de abas personalizáveis, extensão de produtividade para navegador, gerenciar abas não utilizadas, otimizar a navegação, organização de abas em vários dispositivos, ferramenta de visualização de abas, simplificar a navegação, melhor gerenciador de abas, aplicativo de agrupamento de abas para navegador, organizar abas facilmente, ferramenta de produtividade para navegador"
+  },
+  "title": "Tabber",
+  "subtitle": "Solução Definitiva para Organização de Abas",
+  "description": "Simplifique sua navegação, preservando abas não utilizadas em grupos organizados de abas virtuais e sincronizando-as com todos os dispositivos.",
+  "watch_demo": "Assistir demonstração",
+  "install": {
+    "description": ["Instale o Tabber para uma experiência de navegação livre de bagunça.", "Disponível no Chrome, Edge, Firefox e Opera. Otimize suas abas hoje!"],
+    "info": "A manipulação nativa de grupos de abas no navegador está disponível apenas no Chrome, Edge e Opera (não no Opera GX). Para a melhor experiência, recomendamos o uso do Tabber em um desses navegadores."
+  },
+  "pricing": {
+    "title": "O Tabber é gratuito!",
+    "description": "Pague apenas por recursos especiais adicionais e se quiser apoiar o desenvolvimento do Tabber.",
+    "free_features": [
+      "Até 10 Grupos de Abas",
+      "Modelo de IA Básico para Agrupamento",
+      "Sincronização Manual com a Nuvem",
+      "Sincronização da Última Cópia de Segurança",
+      "Plano de Fundo Padrão",
+      "Suporte Padrão",
+      "Funcionalidade Básica Completa"
+    ],
+    "get_started": "Comece Agora",
+    "plus": {
+      "title": "Tabber Plus",
+      "description": "Melhore sua experiência de navegação na web com o Tabber Plus. Diga adeus à desordem de abas e descubra um mundo de ferramentas que aumentam a produtividade e transformarão sua maneira de trabalhar online.",
+      "upgrade": "Atualizar para Plus",
+      "price": "Apenas $%price%/mês"
+    }
+  },
+  "support": {
+    "title": "Como podemos ajudá-lo?",
+    "description": "Confira os recursos abaixo e entre em contato diretamente se tiver alguma dúvida.",
+    "faq": "Pesquisar FAQ's",
+    "form": {
+      "title": "Fale Conosco",
+      "name": "Nome",
+      "email": "E-mail",
+      "message": "Mensagem",
+      "submit": "Enviar",
+      "success": "Sua mensagem foi enviada com sucesso. Entraremos em contato o mais rápido possível.",
+      "error": "Ocorreu um erro ao enviar sua mensagem. Por favor, tente novamente mais tarde.",
+      "disclaimer": ["Ao enviar este formulário, você concorda com nossos ", "termos de serviço", " e ", "política de privacidade", "."]
+    }
+  },
+  "about": {
+    "paragraphs": [
+      {
+        "title": "Sobre o Tabber",
+        "description": [
+          "Tabber é uma extensão de navegador revolucionária projetada para simplificar e aprimorar sua experiência online, oferecendo uma interface única semelhante a um navegador virtual para gerenciar abas. Permite que os usuários agrupem e organizem facilmente abas não utilizadas em grupos de abas virtuais personalizáveis, proporcionando um ambiente de navegação livre de desordem e eficiente.",
+          "Com o Tabber, você pode facilmente visualizar abas através de capturas de tela, sincronizar seus grupos de abas entre dispositivos para acesso contínuo e personalizar sua experiência com uma ampla gama de configurações de personalização. É uma solução simples e intuitiva para o problema de desordem de abas, permitindo que você se concentre no que mais importa."
+        ]
+      },
+      {
+        "title": "Sobre o Criador",
+        "description": [
+          "Sou um desenvolvedor de software dedicado da Ucrânia, apaixonado por criar soluções de software inovadoras e fáceis de usar. Como desenvolvedor solo, criei uma variedade de projetos, cada um refletindo meu compromisso com a funcionalidade e experiência do usuário. Você pode explorar meu portfólio de trabalhos em neulen.dev, demonstrando a amplitude da minha expertise.",
+          "Espero que você goste de usar o Tabber tanto quanto eu gostei de criá-lo!"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "common": {
+    "tabber": "Tabber",
+    "tabber_plus": "Tabber Plus",
+    "sign_up": "Kaydol",
+    "sign_in": "Giriş Yap",
+    "sign_out": "Çıkış Yap",
+    "free": "Ücretsiz",
+    "plus": "Plus"
+  },
+  "accept_terms": {
+    "accept": "Kabul et",
+    "content": [
+      "Uyarı! Web sitesi işlevselliğini sağlamak, deneyiminizi iyileştirmek ve trafiğimizi analiz etmek için çerezleri kullanıyoruz. Web sitemizi kullanarak çerez kullanımımıza ve ",
+      "Gizlilik Politikamıza",
+      " ve ",
+      "Hizmet Şartlarına",
+      " onay vermiş olursunuz."
+    ]
+  },
+  "header": {
+    "home": "Ana Sayfa",
+    "install": "Yükle",
+    "pricing": "Fiyatlandırma",
+    "contact": "İletişim",
+    "about": "Hakkında"
+  },
+  "footer": {
+    "about": "Hakkında",
+    "faq": "SSS",
+    "contact": "İletişim",
+    "pricing": "Fiyatlandırma",
+    "credits": "Katkıda Bulunanlar",
+    "patreon": "Patreon",
+    "telegram": "Telegram",
+    "twitter": "Twitter",
+    "github": "GitHub",
+    "terms": "Kullanım Koşulları",
+    "privacy": "Gizlilik Politikası",
+    "copyright": "©%year% Tabber. Tüm hakları saklıdır."
+  },
+  "languages": [
+    ["English", "en"],
+    ["Deutsch", "de"],
+    ["Español", "es"],
+    ["Français", "fr"],
+    ["Português", "pt"],
+    ["Русский", "ru"],
+    ["Türkçe", "tr"],
+    ["Українська", "uk"],
+    ["日本語", "ja"],
+    ["简体中文", "zh_CN"],
+    ["繁體中文", "zh_TW"]
+  ]
+}

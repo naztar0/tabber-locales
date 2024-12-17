@@ -1,0 +1,55 @@
+{
+  "common": {
+    "tabber": "Tabber",
+    "tabber_plus": "Tabber Plus",
+    "sign_up": "サインアップ",
+    "sign_in": "サインイン",
+    "sign_out": "サインアウト",
+    "free": "無料",
+    "plus": "Plus"
+  },
+  "accept_terms": {
+    "accept": "承諾する",
+    "content": [
+      "注意！ ウェブサイトの必要な機能を提供し、お客様の体験を向上させ、トラフィックを分析するためにクッキーを使用しています。当社のウェブサイトを利用することで、クッキーの使用と当社の ",
+      "プライバシーポリシー",
+      " および ",
+      "利用規約",
+      " に同意したものとみなされます。"
+    ]
+  },
+  "header": {
+    "home": "ホーム",
+    "install": "インストール",
+    "pricing": "価格",
+    "contact": "お問い合わせ",
+    "about": "会社情報"
+  },
+  "footer": {
+    "about": "会社情報",
+    "faq": "よくある質問",
+    "contact": "お問い合わせ",
+    "pricing": "価格",
+    "credits": "クレジット",
+    "patreon": "パトレオン",
+    "telegram": "テレグラム",
+    "twitter": "ツイッター",
+    "github": "GitHub",
+    "terms": "利用規約",
+    "privacy": "プライバシーポリシー",
+    "copyright": "©%year% Tabber。全著作権所有。"
+  },
+  "languages": [
+    ["English", "en"],
+    ["Deutsch", "de"],
+    ["Español", "es"],
+    ["Français", "fr"],
+    ["Português", "pt"],
+    ["Русский", "ru"],
+    ["Türkçe", "tr"],
+    ["Українська", "uk"],
+    ["日本語", "ja"],
+    ["简体中文", "zh_CN"],
+    ["繁體中文", "zh_TW"]
+  ]
+}

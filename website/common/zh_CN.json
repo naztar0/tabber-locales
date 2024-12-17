@@ -1,0 +1,55 @@
+{
+  "common": {
+    "tabber": "Tabber",
+    "tabber_plus": "Tabber Plus",
+    "sign_up": "注册",
+    "sign_in": "登录",
+    "sign_out": "登出",
+    "free": "免费",
+    "plus": "增强版"
+  },
+  "accept_terms": {
+    "accept": "接受",
+    "content": [
+      "注意！ 我们使用 cookie 提供必要的网站功能，改善您的体验并分析我们的流量。使用我们的网站，即表示您同意我们使用 cookie 以及我们的 ",
+      "隐私政策",
+      " 和 ",
+      "服务条款",
+      "。"
+    ]
+  },
+  "header": {
+    "home": "首页",
+    "install": "安装",
+    "pricing": "定价",
+    "contact": "联系",
+    "about": "关于"
+  },
+  "footer": {
+    "about": "关于",
+    "faq": "常见问题",
+    "contact": "联系",
+    "pricing": "定价",
+    "credits": "致谢",
+    "patreon": "Patreon",
+    "telegram": "Telegram",
+    "twitter": "Twitter",
+    "github": "GitHub",
+    "terms": "使用条款",
+    "privacy": "隐私政策",
+    "copyright": "©%year% Tabber。版权所有。"
+  },
+  "languages": [
+    ["English", "en"],
+    ["Deutsch", "de"],
+    ["Español", "es"],
+    ["Français", "fr"],
+    ["Português", "pt"],
+    ["Русский", "ru"],
+    ["Türkçe", "tr"],
+    ["Українська", "uk"],
+    ["日本語", "ja"],
+    ["简体中文", "zh_CN"],
+    ["繁體中文", "zh_TW"]
+  ]
+}

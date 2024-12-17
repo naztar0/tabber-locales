@@ -26,6 +26,12 @@
   "theme_background": {
     "message": "Фон"
   },
+  "theme_background_animation": {
+    "message": "Анімація фону"
+  },
+  "theme_background_custom": {
+    "message": "Користувацький фон"
+  },
   "use_context_menu": {
     "message": "Використовувати контекстне меню"
   },
@@ -59,14 +65,32 @@
   "save_previews_to_cloud": {
     "message": "Зберегти прев'ю в хмарі"
   },
-  "sites_whitelist": {
-    "message": "Білий список сайтів"
+  "exclusions": {
+    "message": "Виключення"
+  },
+  "sites_exclusions": {
+    "message": "Виключення для сайтів"
+  },
+  "groups_exclusions": {
+    "message": "Виключення для груп"
   },
   "keyboard_shortcuts": {
     "message": "Гарячі клавіші"
   },
+  "sites_features": {
+    "message": "Функції сайтів"
+  },
+  "toolbar_items": {
+    "message": "Елементи панелі інструментів"
+  },
   "advanced_settings": {
     "message": "Розширені налаштування"
+  },
+  "click_again_to_confirm": {
+    "message": "Натисніть ще раз для підтвердження"
+  },
+  "save_youtube_timestamps": {
+    "message": "Зберігати часові мітки YouTube"
   },
   "home_page": {
     "message": "Tabber | Домашня сторінка"
@@ -306,7 +330,7 @@
     "message": "Необмежені групи вкладок"
   },
   "plus_feature_title_2": {
-    "message": "Групування вкладок за допомогою ШІ"
+    "message": "Розширена модель ШІ для групування"
   },
   "plus_feature_title_3": {
     "message": "Автоматична хмарна синхронізація"
@@ -327,7 +351,7 @@
     "message": "Більше немає обмежень на кількість вкладок, які ви можете групувати."
   },
   "plus_feature_desc_2": {
-    "message": "Автоматично групуйте вкладки на основі їх змісту."
+    "message": "Покращена модель ШІ та вищі ліміти використання."
   },
   "plus_feature_desc_3": {
     "message": "Ваші вкладки автоматично синхронізуються на всіх ваших пристроях."
@@ -576,7 +600,7 @@
     "message": "Не зберігати вкладки з програванням аудіо"
   },
   "auto_preserve_no_preserve_with_unsaved_form": {
-    "message": "Не зберігати вкладки з незбереженими формами"
+    "message": "Не зберігати вкладки з незбереженими даними у формах"
   },
   "auto_preserve_no_preserve_active": {
     "message": "Не зберігати активну вкладку"
@@ -662,6 +686,12 @@
   "sites_whitelist_description": {
     "message": "Додайте URL кожної сторінки, яку ви хочете додати до білого списку, на новому рядку. Наприклад:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nЩоб включити кілька сайтів в одному рядку, ви можете вказати частину URL:\ngoogle.com\nВи також можете вказати регулярний вираз, заключивши текст в скісні риски:\n/^https:.*google\\.com/"
   },
+  "groups_whitelist_title": {
+    "message": "Ніколи не зберігати вкладки з цих груп"
+  },
+  "groups_whitelist_description": {
+    "message": "Додайте назву кожної групи, яку ви хочете додати до білого списку, з нового рядка. Наприклад:\nРобота\nНавчання\nРозваги\nВи також можете вибрати кольори груп, які потрібно додати до білого списку."
+  },
   "dynamic_preview_contrast": {
     "message": "Динамічний контраст прев'ю"
   },
@@ -670,6 +700,9 @@
   },
   "max_deleted_tabs": {
     "message": "Макс. кількість видалених вкладок"
+  },
+  "identify_tabs_by_title": {
+    "message": "Ідентифікувати вкладки за заголовком"
   },
   "pause_auto_preserve": {
     "message": "Призупинити автозбереження"
@@ -682,6 +715,12 @@
   },
   "remove_site_from_whitelist": {
     "message": "Видалити сайт з білого списку"
+  },
+  "never_preserve_this_group": {
+    "message": "Ніколи не зберігати цю групу"
+  },
+  "remove_group_from_whitelist": {
+    "message": "Видалити групу з білого списку"
   },
   "ai_group_title": {
     "message": "Групування вкладок за допомогою ШІ"

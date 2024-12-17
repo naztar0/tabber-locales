@@ -26,6 +26,12 @@
   "theme_background": {
     "message": "Arka Plan"
   },
+  "theme_background_animation": {
+    "message": "Arka plan animasyonu"
+  },
+  "theme_background_custom": {
+    "message": "Özel arka plan"
+  },
   "use_context_menu": {
     "message": "Bağlam menüsünü kullan"
   },
@@ -59,14 +65,32 @@
   "save_previews_to_cloud": {
     "message": "Önizlemeleri buluta kaydet"
   },
-  "sites_whitelist": {
-    "message": "Site istisnaları"
+  "exclusions": {
+    "message": "Hariç Tutmalar"
+  },
+  "sites_exclusions": {
+    "message": "Siteler için hariç tutmalar"
+  },
+  "groups_exclusions": {
+    "message": "Gruplar için hariç tutmalar"
   },
   "keyboard_shortcuts": {
     "message": "Klavye kısayolları"
   },
+  "sites_features": {
+    "message": "Site özellikleri"
+  },
+  "toolbar_items": {
+    "message": "Araç çubuğu öğeleri"
+  },
   "advanced_settings": {
     "message": "Gelişmiş ayarlar"
+  },
+  "click_again_to_confirm": {
+    "message": "Onaylamak için tekrar tıklayın"
+  },
+  "save_youtube_timestamps": {
+    "message": "YouTube zaman damgalarını kaydet"
   },
   "home_page": {
     "message": "Tabber | Ana Sayfa"
@@ -306,7 +330,7 @@
     "message": "Sınırsız Sekme Grupları"
   },
   "plus_feature_title_2": {
-    "message": "YZ Destekli Sekme Gruplama"
+    "message": "Gruplama için Gelişmiş YZ Modeli"
   },
   "plus_feature_title_3": {
     "message": "Otomatik Bulut Senkronizasyonu"
@@ -327,7 +351,7 @@
     "message": "Gruplayabileceğiniz sekme sayısında artık bir sınır yok."
   },
   "plus_feature_desc_2": {
-    "message": "Sekmeleri içeriklerine göre otomatik olarak gruplandırın."
+    "message": "Geliştirilmiş YZ modeli ve daha yüksek kullanım limitleri."
   },
   "plus_feature_desc_3": {
     "message": "Sekmeleriniz tüm cihazlarınızda otomatik olarak senkronize edilir."
@@ -662,6 +686,12 @@
   "sites_whitelist_description": {
     "message": "Her beyaz listeye almak istediğiniz sayfanın URL'sini yeni bir satıra ekleyin. Örneğin:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nAynı satırda birden fazla siteyi beyaz listeye almak için URL'nin bir kısmını belirleyebilirsiniz:\ngoogle.com\nAyrıca metni eğik çizgiler arasına alarak regex belirleyebilirsiniz:\n/^https:.*google\\.com/"
   },
+  "groups_whitelist_title": {
+    "message": "Bu gruplardan gelen sekmeleri asla saklamayın"
+  },
+  "groups_whitelist_description": {
+    "message": "Beyaz listeye eklemek istediğiniz her grubun adını yeni bir satıra ekleyin. Örneğin:\nİş\nEğitim\nEğlence\nBeyaz listeye almak istediğiniz grupların renklerini de seçebilirsiniz."
+  },
   "dynamic_preview_contrast": {
     "message": "Dinamik önizleme kontrastı"
   },
@@ -670,6 +700,9 @@
   },
   "max_deleted_tabs": {
     "message": "Maksimum silinen sekmeler"
+  },
+  "identify_tabs_by_title": {
+    "message": "Sekmeleri başlığa göre tanımlayın"
   },
   "pause_auto_preserve": {
     "message": "Otomatik korumayı duraklat"
@@ -682,6 +715,12 @@
   },
   "remove_site_from_whitelist": {
     "message": "Siteyi beyaz listeden kaldır"
+  },
+  "never_preserve_this_group": {
+    "message": "Bu grubu asla saklama"
+  },
+  "remove_group_from_whitelist": {
+    "message": "Grubu beyaz listeden çıkar"
   },
   "ai_group_title": {
     "message": "YZ Destekli Sekme Gruplama"

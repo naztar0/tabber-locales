@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Tabber - Ultimative Lösung zur Tab-Organisation",
+    "description": "Vereinfachen Sie Ihr Browsen, indem Sie ungenutzte Tabs in organisierten Gruppen von virtuellen Tabs speichern und mit allen Geräten synchronisieren.",
+    "keywords": "Tabber, Tabber-Erweiterung, Tab-Manager, Tab-Gruppen-Tool, Tabs speichern-App, Browser-Tabs organisieren, virtuelle Tab-Gruppen, Browser-Tab-Organizer, geräteübergreifende Tab-Synchronisierung, anpassbare Tab-Gruppen, Produktivitäts-Browser-Erweiterung, ungenutzte Tabs verwalten, Browsing optimieren, geräteübergreifende Tab-Organisation, Tab-Vorschau-Tool, Browsing vereinfachen, bester Tab-Manager, Browser-Tab-Gruppen-App, Tabs einfach organisieren, Produktivitäts-Tool für den Browser"
+  },
+  "title": "Tabber",
+  "subtitle": "Ultimative Lösung zur Tab-Organisation",
+  "description": "Vereinfachen Sie Ihr Browsen, indem Sie ungenutzte Tabs in organisierten Gruppen von virtuellen Tabs speichern und mit allen Geräten synchronisieren.",
+  "watch_demo": "Demo ansehen",
+  "install": {
+    "description": ["Installieren Sie Tabber für ein übersichtliches Browser-Erlebnis.", "Verfügbar für Chrome, Edge, Firefox und Opera. Organisieren Sie Ihre Tabs noch heute!"],
+    "info": "Die native Tab-Gruppenmanipulation im Browser ist nur in Chrome, Edge und Opera (nicht Opera GX) verfügbar. Für das beste Erlebnis empfehlen wir die Verwendung von Tabber in einem dieser Browser."
+  },
+  "pricing": {
+    "title": "Tabber ist kostenlos nutzbar!",
+    "description": "Zahlen Sie nur für zusätzliche Spezialfunktionen und wenn Sie die Entwicklung von Tabber unterstützen möchten.",
+    "free_features": [
+      "Bis zu 10 Tab-Gruppen",
+      "Grundlegendes KI-Modell für Gruppierung",
+      "Manuelle Cloud-Synchronisation",
+      "Letzte Backup-Synchronisation",
+      "Standardhintergrund",
+      "Standard-Support",
+      "Voller Basisfunktionsumfang"
+    ],
+    "get_started": "Loslegen",
+    "plus": {
+      "title": "Tabber Plus",
+      "description": "Erweitern Sie Ihr Web-Browsing-Erlebnis mit Tabber Plus. Verabschieden Sie sich von Tab-Chaos und entdecken Sie eine Welt von produktivitätssteigernden Tools, die Ihre Online-Arbeit revolutionieren werden.",
+      "upgrade": "Auf Plus upgraden",
+      "price": "Nur $%price%/Monat"
+    }
+  },
+  "support": {
+    "title": "Wie können wir Ihnen helfen?",
+    "description": "Sehen Sie sich die untenstehenden Ressourcen an und kontaktieren Sie uns direkt, wenn Sie Fragen haben.",
+    "faq": "FAQ durchsuchen",
+    "form": {
+      "title": "Kontaktieren Sie uns",
+      "name": "Name",
+      "email": "E-Mail",
+      "message": "Nachricht",
+      "submit": "Absenden",
+      "success": "Ihre Nachricht wurde erfolgreich gesendet. Wir werden uns so schnell wie möglich bei Ihnen melden.",
+      "error": "Beim Senden Ihrer Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.",
+      "disclaimer": ["Mit dem Absenden dieses Formulars stimmen Sie unseren ", "Nutzungsbedingungen", " und ", "Datenschutzrichtlinien", " zu."]
+    }
+  },
+  "about": {
+    "paragraphs": [
+      {
+        "title": "Über Tabber",
+        "description": [
+          "Tabber ist eine revolutionäre Browser-Erweiterung, die darauf abzielt, Ihr Online-Erlebnis zu optimieren und zu verbessern, indem sie eine einzigartige virtuelle Browser-ähnliche Schnittstelle für die Verwaltung von Tabs bietet. Benutzer können ungenutzte Tabs mühelos in anpassbare virtuelle Tab-Gruppen gruppieren und organisieren, wodurch eine übersichtliche und effiziente Browsing-Umgebung entsteht.",
+          "Mit Tabber können Sie Tabs einfach über Screenshots anzeigen, Ihre Tab-Gruppen geräteübergreifend synchronisieren und Ihr Erlebnis mit einer Vielzahl von Anpassungseinstellungen personalisieren. Es ist eine einfache und intuitive Lösung für das Problem des Tab-Chaos und ermöglicht es Ihnen, sich auf das Wesentliche zu konzentrieren."
+        ]
+      },
+      {
+        "title": "Über den Entwickler",
+        "description": [
+          "Ich bin ein engagierter Softwareentwickler aus der Ukraine, leidenschaftlich daran interessiert, innovative und benutzerfreundliche Softwarelösungen zu schaffen. Als Einzelentwickler habe ich eine Vielzahl von Projekten entwickelt, die jeweils mein Engagement für Funktionalität und Benutzererfahrung widerspiegeln. Sie können mein Portfolio von Arbeiten auf neulen.dev erkunden, das die Bandbreite meiner Expertise zeigt.",
+          "Ich hoffe, Sie genießen die Nutzung von Tabber genauso wie ich die Entwicklung!"
+        ]
+      }
+    ]
+  }
+}

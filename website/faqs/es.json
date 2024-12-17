@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Preguntas Frecuentes",
+    "description": "Preguntas frecuentes sobre Tabber"
+  },
+  "title": "Preguntas Frecuentes",
+  "footer": ["¿No encontraste la respuesta que buscabas? Utiliza el siguiente ", "formulario de contacto", " o contáctanos en ", "tabber@neulen.dev", "."],
+  "items": [
+    {
+      "question": "No puedo capturar una pestaña en Firefox. ¿Qué debo hacer?",
+      "answer": [
+        "Esto puede suceder si no se han otorgado los permisos necesarios.",
+        "Para permitirlos, haz clic en el ícono de extensiones en la esquina superior derecha del navegador y selecciona «Administrar extensiones». Luego haz clic en la extensión de Tabber, luego en «Permisos» y habilita el permiso «Acceder a tus datos en todos los sitios web»."
+      ]
+    },
+    {
+      "question": "¿Por qué no están disponibles las vistas previas de las pestañas?",
+      "answer": [
+        "Hay varias razones por las que esto podría suceder:",
+        "1. Has desactivado la opción «Hacer vista previa al conservar» en la configuración de la extensión.",
+        "2. Has conservado todo un grupo de pestañas con esa pestaña incluida. Pero las vistas previas solo están disponibles para pestañas que se conservan individualmente.",
+        "3. La pestaña se cargó desde la nube, pero la vista previa se guardó localmente en otro dispositivo o se eliminó después de la última sincronización.",
+        "4. Hubo algún otro error. Intenta reiniciar el navegador o reinstalar la extensión.",
+        "La mayoría de estos problemas se pueden resolver habilitando el guardado de vistas previas en la nube en la configuración."
+      ]
+    },
+    {
+      "question": "¿Cómo cambiar el idioma?",
+      "answer": [
+        "El idioma de la extensión se selecciona automáticamente según el idioma de tu navegador. Para cambiarlo, necesitas cambiar el idioma del navegador."
+      ]
+    },
+    {
+      "question": "¿Qué significa la sincronización automática con la nube?",
+      "answer": [
+        "Esto significa que la extensión sincronizará automáticamente tus datos con la nube cada vez que realices cambios en tus pestañas.",
+        "Si accidentalmente eliminas una pestaña o un grupo de pestañas, siempre puedes restaurarlos desde las copias de seguridad en la nube."
+      ]
+    },
+    {
+      "question": "¿Cómo muevo pestañas entre grupos?",
+      "answer": [
+        "Para mover pestañas entre grupos, haz clic y mantén presionada la pestaña que deseas mover, luego arrástrala al grupo deseado."
+      ]
+    },
+    {
+      "question": "Me he suscrito a Tabber Plus, pero todavía no tengo acceso a las funciones Plus.",
+      "answer": [
+        "Si iniciaste sesión con tu cuenta de Patreon, pero aún no tienes acceso a las funciones Plus, intenta reiniciar tu navegador o reiniciar el dispositivo."
+      ]
+    },
+    {
+      "question": "¿Cómo puedo cancelar mi suscripción Plus?",
+      "answer": [
+        "Puedes cancelar tu suscripción en cualquier momento. Para hacerlo, ve a tu cuenta de Patreon, selecciona «Mis membresías» y haz clic en «Editar» junto a Tabber Plus. Luego haz clic en «Cancelar membresía».",
+        "Después de eso, tu suscripción será cancelada y no se te cobrará el próximo mes. Sin embargo, seguirás teniendo acceso a las funciones de Tabber Plus hasta el final del período de facturación actual."
+      ]
+    },
+    {
+      "question": "¿Cómo cambiar los atajos de teclado en Firefox?",
+      "answer": [
+        "Firefox requiere cambiar manualmente los atajos de teclado en la configuración del navegador.",
+        "Para cambiarlos, haz clic en el icono de extensiones en la esquina superior derecha del navegador y selecciona «Gestionar extensiones». Luego, haz clic en el icono de engranaje en la esquina superior derecha y selecciona «Gestionar atajos de extensión»."
+      ]
+    }
+  ]
+}

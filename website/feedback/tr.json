@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Geri Bildirim",
+    "description": "Geri bildiriminizi paylaşarak Tabber'ı geliştirmemize yardımcı olun."
+  },
+  "title": "Seni kaybetmek bizi üzüyor! 😢",
+  "description": "Tabber'ı neden kaldırdığınızı lütfen bize bildirin, böylece hizmetimizi iyileştirebiliriz. Deneyiminiz bizim için önemli ^_^",
+  "submit": "Gönder",
+  "success": "Geri bildiriminiz için teşekkürler! 😊",
+  "items": {
+    "usability_issues": {
+      "label": "Tabber'ı kullanmakta zorlandım",
+      "question": "Bu kafa karıştırıcı, rahatsız edici ya da başka bir şey mi?",
+      "suggestion": {
+        "label": "Bize bir soru sor",
+        "link": "/#contact"
+      }
+    },
+    "bug_or_missing_feature": {
+      "label": "Bir hata ile karşılaştım veya bir özelliği bulamadım",
+      "question": "Hata veya eksik özellik nedir?",
+      "suggestion": {
+        "label": "Yardım için bizimle iletişime geçin",
+        "link": "/#contact"
+      }
+    },
+    "privacy_concerns": {
+      "label": "Gizlilik endişelerim var (veri kullanımı, izleme vb.)",
+      "question": "Gizlilikle ilgili endişeleriniz nelerdir?",
+      "suggestion": {
+        "label": "Gizlilik Politikamıza göz atın",
+        "link": "/privacy"
+      }
+    },
+    "found_better_alternative": {
+      "label": "Daha iyi bir alternatif buldum",
+      "question": "Hangi alternatifi buldunuz?"
+    },
+    "no_longer_needed": {
+      "label": "Artık bu eklentiye ihtiyacım yok",
+      "question": "İhtiyaçlarınızda ne değişti?"
+    },
+    "other": {
+      "label": "Diğer",
+      "question": "Tabber'ı kaldırma nedeniniz nedir?"
+    }
+  }
+}

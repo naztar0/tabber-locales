@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "sign_in": {
+      "title": "Entrar",
+      "description": "Entre no Tabber usando e-mail ou redes sociais"
+    },
+    "sign_out": {
+      "title": "Sair",
+      "description": "Você foi desconectado do Tabber"
+    },
+    "error": {
+      "title": "Erro",
+      "description": "Algo deu errado ao tentar entrar"
+    },
+    "verify_request": {
+      "title": "Verifique seu e-mail",
+      "description": "Um link de acesso foi enviado para o seu e-mail"
+    }
+  },
+  "sign_in": {
+    "title": "Cadastre-se no Tabber",
+    "or": "Ou",
+    "continue_with": "Continuar com %s",
+    "sign_in_with_email": "Entrar com o email",
+    "email_address": "Endereço de e-mail"
+  },
+  "sign_out": {
+    "title": "Você saiu",
+    "description": [
+      "Você ainda pode usar o Tabber, mas seus dados não serão salvos nem sincronizados entre dispositivos.",
+      "Para habilitar a sincronização na nuvem, por favor, entre novamente."
+    ],
+    "return": "Retornar ao Tabber"
+  },
+  "error": {
+    "title": "Algo deu errado",
+    "description": [
+      "Por favor, tente entrar novamente.",
+      "Você também pode tentar entrar usando um método diferente.",
+      "Se o problema persistir, fique à vontade para nos contatar."
+    ]
+  },
+  "verify_request": {
+    "title": "Verifique seu e-mail",
+    "description": ["Um link de acesso foi enviado para o seu endereço de e-mail."],
+    "open_gmail": "Abrir Gmail"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "sign_in": {
+    "subject": "Tabber'a Giriş Yapın",
+    "title": "Tabber'a giriş yapmak için aşağıdaki düğmeye tıklayın.",
+    "button": "Giriş Yap",
+    "footer": "Giriş bağlantısı isteğinde bulunmadıysanız, lütfen bu e-postayı yok sayın.",
+    "plain_text": "Tabber'a giriş yapın: %link%"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "sign_in": {
+    "subject": "登录 Tabber",
+    "title": "点击下面的按钮登录 Tabber。",
+    "button": "登录",
+    "footer": "如果您没有请求登录链接，请忽略此电子邮件。",
+    "plain_text": "登录 Tabber：%link%"
+  }
+}

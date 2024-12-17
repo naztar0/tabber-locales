@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "FAQs",
+    "description": "Frequently asked questions about Tabber"
+  },
+  "title": "Frequently Asked Questions",
+  "footer": ["Didn't find the answer you were looking for? Use the following ", "contact form", " or contact us at ", "tabber@neulen.dev", "."],
+  "items": [
+    {
+      "question": "Can't capture tab on Firefox. What should I do?",
+      "answer": [
+        "It can happen if the necessary permissions are not granted.",
+        "To allow them, click on the extensions icon in the top right browser's corner and select «Manage extensions». Then click on Tabber extension, then «Permissions» and enable «Access your data for all websites» permission."
+      ]
+    },
+    {
+      "question": "Why tabs previews are not available?",
+      "answer": [
+        "There are several reasons why this might happen:",
+        "1. You have disabled the «Make preview on preserve» option in the extension settings.",
+        "2. You have preserved the whole tab group with that tab in it. But previews are only available for tabs that are preserved individually.",
+        "3. Tab was loaded from the cloud, but the preview was saved locally on another device or was deleted after the last synchronization.",
+        "4. There was some another error. Try to restart browser or reinstall extension.",
+        "Most of this problems can be solved by enabling the cloud preview saving in the settings."
+      ]
+    },
+    {
+      "question": "How to change the language?",
+      "answer": [
+        "Extension language is automatically selected based on your browser language. To change it, you need to change the browser language."
+      ]
+    },
+    {
+      "question": "What does auto synchronization with the cloud mean?",
+      "answer": [
+        "This means that the extension will automatically synchronize your data with the cloud every time you make changes to your tabs.",
+        "If you occasionally delete a tab or a tab group, you can always restore it from the cloud backups."
+      ]
+    },
+    {
+      "question": "How do I move tabs between groups?",
+      "answer": [
+        "To move tabs between groups, click and hold the tab you want to move, then drag it to the desired group."
+      ]
+    },
+    {
+      "question": "I have subscribed to Tabber Plus, but I still don't have access to the Plus features.",
+      "answer": [
+        "If you logged in using your Patreon account, but still don't have access to the Plus features, try to restart your browser or reboot the device."
+      ]
+    },
+    {
+      "question": "How can I stop my Plus subscription?",
+      "answer": [
+        "You can cancel your subscription at any time. To do this, go to your Patreon account, select «My memberships» and click «Edit» next to Tabber Plus. Then click «Cancel membership».",
+        "After that, your subscription will be canceled and you will not be charged for the next month. However, you will still have access to Tabber Plus features until the end of the current billing period."
+      ]
+    },
+    {
+      "question": "How to change keyboard shortcuts on Firefox?",
+      "answer": [
+        "Firefox requires to manually change the keyboard shortcuts in the browser settings.",
+        "To change them, click on the extensions icon in the top right browser's corner and select «Manage extensions». Then click on the gear icon in the top right corner and select «Manage extension shortcuts»."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "sign_in": {
+      "title": "Se Connecter",
+      "description": "Connectez-vous à Tabber via votre email ou les réseaux sociaux"
+    },
+    "sign_out": {
+      "title": "Déconnexion",
+      "description": "Vous avez été déconnecté de Tabber"
+    },
+    "error": {
+      "title": "Erreur",
+      "description": "Une erreur s'est produite lors de la connexion"
+    },
+    "verify_request": {
+      "title": "Vérifiez votre e-mail",
+      "description": "Un lien de connexion a été envoyé à votre adresse e-mail"
+    }
+  },
+  "sign_in": {
+    "title": "Inscrivez-vous à Tabber",
+    "or": "Ou",
+    "continue_with": "Continuer avec %s",
+    "sign_in_with_email": "Se connecter avec l'adresse e-mail",
+    "email_address": "Adresse e-mail"
+  },
+  "sign_out": {
+    "title": "Vous avez été déconnecté",
+    "description": [
+      "Vous pouvez toujours utiliser Tabber, mais vos données ne seront pas sauvegardées ni synchronisées sur les appareils.",
+      "Pour activer la synchronisation cloud, veuillez vous connecter à nouveau."
+    ],
+    "return": "Retour à Tabber"
+  },
+  "error": {
+    "title": "Quelque chose s'est mal passé",
+    "description": [
+      "Veuillez essayer de vous connecter à nouveau.",
+      "Vous pouvez également essayer de vous connecter avec une autre méthode.",
+      "Si le problème persiste, n'hésitez pas à nous contacter."
+    ]
+  },
+  "verify_request": {
+    "title": "Vérifiez votre e-mail",
+    "description": ["Un lien de connexion a été envoyé à votre adresse e-mail."],
+    "open_gmail": "Ouvrir Gmail"
+  }
+}

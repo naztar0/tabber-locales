@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "sign_in": {
+      "title": "Giriş Yap",
+      "description": "E-posta veya sosyal medya ile Tabber'a giriş yapın"
+    },
+    "sign_out": {
+      "title": "Çıkış Yap",
+      "description": "Tabber'dan çıkış yaptınız"
+    },
+    "error": {
+      "title": "Hata",
+      "description": "Giriş yaparken bir sorun oluştu"
+    },
+    "verify_request": {
+      "title": "E-postanızı Kontrol Edin",
+      "description": "Giriş bağlantısı e-posta adresinize gönderildi"
+    }
+  },
+  "sign_in": {
+    "title": "Tabber'a Kaydolun",
+    "or": "Veya",
+    "continue_with": "%s ile devam et",
+    "sign_in_with_email": "E-posta ile giriş yap",
+    "email_address": "E-posta adresi"
+  },
+  "sign_out": {
+    "title": "Oturumunuz kapatıldı",
+    "description": [
+      "Tabber'ı kullanmaya devam edebilirsiniz, ancak verileriniz yedeklenmeyecek ve cihazlar arasında senkronize edilmeyecektir.",
+      "Bulut senkronizasyonunu etkinleştirmek için lütfen tekrar giriş yapın."
+    ],
+    "return": "Tabber'a Geri Dön"
+  },
+  "error": {
+    "title": "Bir şeyler ters gitti",
+    "description": [
+      "Lütfen tekrar giriş yapmayı deneyin.",
+      "Farklı bir yöntemle giriş yapmayı da deneyebilirsiniz.",
+      "Sorun devam ederse bizimle iletişime geçmekten çekinmeyin."
+    ]
+  },
+  "verify_request": {
+    "title": "E-postanızı kontrol edin",
+    "description": ["Giriş bağlantısı e-posta adresinize gönderildi."],
+    "open_gmail": "Gmail'i Aç"
+  }
+}

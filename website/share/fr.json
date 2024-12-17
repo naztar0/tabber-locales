@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": {
+      "default": "%color% %name%",
+      "no_name": "%color% Groupe d'Onglets"
+    },
+    "description": {
+      "default": "Groupe d'onglets partagé par %user% sur Tabber",
+      "no_user": "Groupe d'onglets partagé sur Tabber"
+    },
+    "not_found": {
+      "title": "Non trouvé",
+      "description": "Le groupe d'onglets que vous essayez d'importer n'existe pas ou a été supprimé."
+    }
+  },
+  "title": "%user% a partagé un groupe d'onglets avec vous !",
+  "somebody": "Quelqu'un",
+  "tab": {
+    "zero": "%count% Onglets",
+    "one": "%count% Onglet",
+    "two": "%count% Onglets",
+    "few": "%count% Onglets",
+    "many": "%count% Onglets",
+    "other": "%count% Onglets"
+  },
+  "sign_in_to_import": "Connectez-vous pour importer ce groupe",
+  "requirement": "Vous devez avoir Tabber installé pour importer ce groupe",
+  "import": "Importer",
+  "not_found": {
+    "title": "Groupe d'onglets introuvable",
+    "subtitle": "Le groupe d'onglets que vous essayez d'importer n'existe pas ou a été supprimé."
+  }
+}

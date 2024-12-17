@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "title": "Tabber Plus",
+    "description": "Desbloquea todo el poder de Tabber con Tabber Plus. Suscríbete para acceder a una suite de funciones premium diseñadas para elevar tu experiencia con Tabber."
+  },
+  "title": "Devenez un abonné Tabber Plus",
+  "features": [
+    ["Groupes d'onglets illimités", "Plus de limites sur le nombre d'onglets que vous pouvez regrouper."],
+    ["Modelo de IA avanzado para agrupar", "Modelo de IA mejorado para una agrupación de pestañas más precisa y eficiente; límites de uso más altos."],
+    ["Synchronisation automatique avec le Cloud", "Vos onglets sont automatiquement synchronisés sur tous vos appareils."],
+    ["Historique complet de synchronisation", "Accédez à l'historique complet de vos synchronisations et restaurez n'importe quelle sauvegarde."],
+    ["Fondo personalizado", "Aplica un fondo personalizado a las páginas sin vista previa."],
+    ["Support prioritaire", "Toutes les questions et préoccupations seront traitées rapidement, assurant une expérience fluide."],
+    ["Publications exclusives sur Patreon", "Accédez exclusivement aux publications, sondages sur Patreon et restez informé des dernières mises à jour, astuces et conseils."]
+  ],
+  "paragraphs": [
+    {
+      "title": "Débloquez la pleine puissance de Tabber avec Tabber Plus",
+      "description": "Bienvenue dans le monde de la navigation améliorée ! En vous abonnant à Tabber Plus, vous accédez à une suite de fonctionnalités premium conçues pour améliorer votre expérience Tabber. Rejoignez-nous dans ce voyage pour rendre votre navigation plus efficace, organisée et sans faille."
+    },
+    {
+      "title": "Ce que vous obtenez avec Tabber Plus"
+    },
+    {
+      "title": "Comment s'abonner",
+      "items": [
+        ["Visitez notre page Patreon", "Cliquez sur le bouton « S'abonner sur Patreon » ci-dessous pour être redirigé vers notre page Patreon."],
+        ["Créez ou connectez-vous à votre compte Patreon", "Si vous êtes nouveau sur Patreon, vous devrez créer un compte. Si vous en avez déjà un, connectez-vous simplement."],
+        ["Choisissez votre niveau d'abonnement", "Sélectionnez le niveau d'abonnement « Plus » et suivez les instructions pour compléter le paiement."],
+        ["Connectez-vous à Tabber en utilisant Patreon", "Une fois abonné, vous devez vous connecter à Tabber en utilisant votre compte Patreon."],
+        ["Profitez de Tabber Plus", "Vous êtes prêt ! Profitez de vos nouvelles fonctionnalités Tabber Plus."]
+      ],
+      "note": "REMARQUE : Si vous êtes déjà connecté à Tabber, vous devrez vous déconnecter et vous reconnecter en utilisant votre compte Patreon. Si vos emails Tabber et Patreon ne correspondent pas, vous serez enregistré comme un nouvel utilisateur et vos données précédentes ne seront pas transférées."
+    },
+    {
+      "title": "Vous ne pouvez pas vous abonner via Patreon ?",
+      "description": "Nous travaillons actuellement sur la possibilité d'introduire des abonnements via d'autres services. Cela apparaîtra dans la prochaine mise à jour, restez à l'écoute !"
+    },
+    {
+      "title": "Des questions ?",
+      "description": ["Si vous avez des questions ou des préoccupations, n'hésitez pas à ", "nous contacter", " ou consultez notre ", "section FAQ", "."]
+    }
+  ],
+  "subscribe": "S'abonner sur Patreon"
+}

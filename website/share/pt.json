@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": {
+      "default": "%color% %name%",
+      "no_name": "%color% Grupo de Abas"
+    },
+    "description": {
+      "default": "Grupo de abas compartilhado por %user% no Tabber",
+      "no_user": "Grupo de abas compartilhado no Tabber"
+    },
+    "not_found": {
+      "title": "Não encontrado",
+      "description": "O grupo de abas que você está tentando importar não existe ou foi excluído."
+    }
+  },
+  "title": "%user% compartilhou um grupo de abas com você!",
+  "somebody": "Alguém",
+  "tab": {
+    "zero": "%count% Abas",
+    "one": "%count% Aba",
+    "two": "%count% Abas",
+    "few": "%count% Abas",
+    "many": "%count% Abas",
+    "other": "%count% Abas"
+  },
+  "sign_in_to_import": "Entre para importar este grupo",
+  "requirement": "Você precisa do Tabber instalado para importar este grupo",
+  "import": "Importar",
+  "not_found": {
+    "title": "Grupo de abas não encontrado",
+    "subtitle": "O grupo de abas que você está tentando importar não existe ou foi excluído."
+  }
+}

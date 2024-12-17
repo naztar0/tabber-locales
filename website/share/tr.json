@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": {
+      "default": "%color% %name%",
+      "no_name": "%color% Sekme Grubu"
+    },
+    "description": {
+      "default": "%user% tarafından Tabber'da paylaşılan sekme grubu",
+      "no_user": "Tabber'da paylaşılan sekme grubu"
+    },
+    "not_found": {
+      "title": "Bulunamadı",
+      "description": "İçe aktarmaya çalıştığınız sekme grubu mevcut değil veya silinmiş."
+    }
+  },
+  "title": "%user% sizinle bir sekme grubu paylaştı!",
+  "somebody": "Birisi",
+  "tab": {
+    "zero": "%count% Sekmeler",
+    "one": "%count% Sekme",
+    "two": "%count% Sekme",
+    "few": "%count% Sekmeler",
+    "many": "%count% Sekmeler",
+    "other": "%count% Sekmeler"
+  },
+  "sign_in_to_import": "Bu grubu içe aktarmak için oturum açın",
+  "requirement": "Bu grubu içe aktarmak için Tabber yüklü olmalıdır",
+  "import": "İçe Aktar",
+  "not_found": {
+    "title": "Sekme grubu bulunamadı",
+    "subtitle": "İçe aktarmaya çalıştığınız sekme grubu mevcut değil veya silinmiş."
+  }
+}

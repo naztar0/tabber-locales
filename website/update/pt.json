@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Novidades",
+    "description": "O Tabber foi atualizado! Confira os novos recursos e melhorias."
+  },
+  "1.5": {
+    "title": "Tabber atualizado para a versão 1.5",
+    "subtitle": "Descubra os novos recursos e melhorias",
+    "content_main": [
+      {
+        "title": "Excluir grupos da preservação",
+        "description": [
+          "Agora você pode excluir grupos específicos de guias da preservação. Basta adicionar os grupos à lista de exclusão usando seu nome ou cor. Não disponível no Firefox.",
+          "Este recurso está disponível em Configurações → Exclusões → Exclusão de Grupos."
+        ],
+        "image": "/static/update/1.5/groups-exclusions.jpg"
+      },
+      {
+        "title": "Detectar entradas de formulários não salvas",
+        "description": [
+          "O Tabber agora verifica entradas de formulários não salvas antes de preservar uma guia. Se forem detectadas alterações não salvas, a guia não será preservada, ajudando a evitar perda acidental de dados.",
+          "Ative este recurso em Configurações → Preservação Automática → Não Preservar Guias com Formulários Não Salvos."
+        ],
+        "image": "/static/update/1.5/unsaved-form-inputs.jpg"
+      },
+      {
+        "title": "Salvar marcações de tempo do YouTube",
+        "description": [
+          "Agora é possível preservar guias com vídeos do YouTube junto com suas marcações de tempo, permitindo retomar a reprodução de onde você parou.",
+          "Ative esta opção em Configurações → Recursos de Sites → Salvar Marcações de Tempo do YouTube."
+        ],
+        "image": "/static/update/1.5/youtube-timestamps.jpg"
+      },
+      {
+        "title": "Identificar guias e grupos pelo título",
+        "description": [
+          "Guias e grupos agora podem ser identificados pelo título em vez de IDs internos. Isso resolve o problema de reinicializar alguns navegadores (como o Google Chrome), que redefinia o temporizador de preservação automática e desconectava os grupos no navegador e no Tabber.",
+          "Encontre esta opção em Configurações → Configurações Avançadas → Identificar Guias pelo Título."
+        ],
+        "image": "/static/update/1.5/identify-tabs-by-title.jpg"
+      },
+      {
+        "title": "Confirmação para ações críticas",
+        "description": [
+          "O Tabber agora exige uma confirmação de clique duplo para ações críticas, como preservar ou restaurar todas as guias, para evitar alterações acidentais."
+        ],
+        "image": "/static/update/1.5/confirmations.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "Outras Melhorias",
+      "description": [
+        "Agora você pode alternar a aba ativa usando as teclas de seta para uma navegação mais rápida.",
+        "Um botão de suporte foi adicionado ao popup da extensão.",
+        "Resolvido um problema na criação de pré-visualizações para abas inativas."
+      ]
+    }
+  }
+}

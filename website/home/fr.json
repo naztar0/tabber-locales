@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Tabber - La solution ultime pour l'organisation des onglets",
+    "description": "Simplifiez votre navigation en conservant les onglets inutilisés dans des groupes d'onglets virtuels organisés et en les synchronisant avec tous vos appareils.",
+    "keywords": "tabber, extension tabber, gestionnaire d’onglets, outil de groupes d’onglets, application pour enregistrer des onglets, organiser les onglets du navigateur, groupes d’onglets virtuels, organisateur d’onglets de navigateur, synchronisation d’onglets entre appareils, groupes d’onglets personnalisables, extension de productivité pour navigateur, gérer les onglets inutilisés, optimiser la navigation, organisation d’onglets multi-appareils, outil d’aperçu des onglets, simplifier la navigation, meilleur gestionnaire d’onglets, application de regroupement d’onglets de navigateur, organiser les onglets facilement, outil de productivité pour navigateur"
+  },
+  "title": "Tabber",
+  "subtitle": "La solution ultime pour l'organisation des onglets",
+  "description": "Simplifiez votre navigation en conservant les onglets inutilisés dans des groupes d'onglets virtuels organisés et en les synchronisant avec tous vos appareils.",
+  "watch_demo": "Regarder la démo",
+  "install": {
+    "description": ["Installez Tabber pour une expérience de navigation sans encombrement.", "Disponible sur Chrome, Edge, Firefox et Opera. Rationalisez vos onglets dès aujourd'hui !"],
+    "info": "La manipulation native des groupes d'onglets dans le navigateur est uniquement disponible sur Chrome, Edge et Opera (pas sur Opera GX). Pour une expérience optimale, nous recommandons d'utiliser Tabber sur l'un de ces navigateurs."
+  },
+  "pricing": {
+    "title": "Tabber est gratuit !",
+    "description": "Payez uniquement pour des fonctionnalités spéciales supplémentaires et si vous souhaitez soutenir le développement de Tabber.",
+    "free_features": [
+      "Jusqu'à 10 groupes d'onglets",
+      "Modèle d'IA de base pour le regroupement",
+      "Synchronisation manuelle avec le Cloud",
+      "Synchronisation de la dernière sauvegarde",
+      "Arrière-plan standard",
+      "Support standard",
+      "Fonctionnalité complète de base"
+    ],
+    "get_started": "Commencer",
+    "plus": {
+      "title": "Tabber Plus",
+      "description": "Améliorez votre expérience de navigation Web avec Tabber Plus. Dites adieu au désordre des onglets et découvrez un monde d'outils améliorant la productivité qui transformeront votre manière de travailler en ligne.",
+      "upgrade": "Passer à Plus",
+      "price": "Seulement $%price%/mois"
+    }
+  },
+  "support": {
+    "title": "Comment pouvons-nous vous aider ?",
+    "description": "Consultez les ressources ci-dessous et contactez-nous directement si vous avez des questions.",
+    "faq": "Rechercher dans les FAQ",
+    "form": {
+      "title": "Contactez-nous",
+      "name": "Nom",
+      "email": "E-mail",
+      "message": "Message",
+      "submit": "Envoyer",
+      "success": "Votre message a été envoyé avec succès. Nous vous répondrons dès que possible.",
+      "error": "Une erreur s'est produite lors de l'envoi de votre message. Veuillez réessayer plus tard.",
+      "disclaimer": ["En soumettant ce formulaire, vous acceptez nos ", "conditions d'utilisation", " et ", "politique de confidentialité", "."]
+    }
+  },
+  "about": {
+    "paragraphs": [
+      {
+        "title": "À propos de Tabber",
+        "description": [
+          "Tabber est une extension de navigateur révolutionnaire conçue pour rationaliser et améliorer votre expérience en ligne en offrant une interface unique de type navigateur virtuel pour la gestion des onglets. Elle permet aux utilisateurs de regrouper et d'organiser facilement les onglets inutilisés dans des groupes d'onglets virtuels personnalisables, offrant un environnement de navigation sans encombrement et efficace.",
+          "Avec Tabber, vous pouvez facilement prévisualiser les onglets via des captures d'écran, synchroniser vos groupes d'onglets sur plusieurs appareils pour un accès transparent et personnaliser votre expérience avec un large éventail de paramètres de personnalisation. C'est une solution simple et intuitive au problème de l'encombrement des onglets, vous permettant de vous concentrer sur ce qui compte le plus."
+        ]
+      },
+      {
+        "title": "À propos du Créateur",
+        "description": [
+          "Je suis un développeur de logiciels dévoué d'Ukraine, passionné par la création de solutions logicielles innovantes et conviviales. En tant que développeur solo, j'ai conçu une gamme variée de projets, chacun reflétant mon engagement envers la fonctionnalité et l'expérience utilisateur. Vous pouvez explorer mon portfolio de travaux sur neulen.dev, qui démontre l'étendue de mon expertise.",
+          "J'espère que vous apprécierez d'utiliser Tabber autant que j'ai aimé le créer !"
+        ]
+      }
+    ]
+  }
+}

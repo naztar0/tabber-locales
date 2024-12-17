@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": {
+      "default": "%color% %name%",
+      "no_name": "%color% Tab-Gruppe"
+    },
+    "description": {
+      "default": "Tab-Gruppe, die von %user% auf Tabber geteilt wurde",
+      "no_user": "Tab-Gruppe, die auf Tabber geteilt wurde"
+    },
+    "not_found": {
+      "title": "Nicht gefunden",
+      "description": "Die Tab-Gruppe, die Sie importieren möchten, existiert nicht oder wurde gelöscht."
+    }
+  },
+  "title": "%user% hat eine Tab-Gruppe mit dir geteilt!",
+  "somebody": "Jemand",
+  "tab": {
+    "zero": "%count% Tabs",
+    "one": "%count% Tab",
+    "two": "%count% Tabs",
+    "few": "%count% Tabs",
+    "many": "%count% Tabs",
+    "other": "%count% Tabs"
+  },
+  "sign_in_to_import": "Melden Sie sich an, um diese Gruppe zu importieren",
+  "requirement": "Sie benötigen Tabber, um diese Gruppe zu importieren",
+  "import": "Importieren",
+  "not_found": {
+    "title": "Tab-Gruppe nicht gefunden",
+    "subtitle": "Die Tab-Gruppe, die Sie importieren möchten, existiert nicht oder wurde gelöscht."
+  }
+}

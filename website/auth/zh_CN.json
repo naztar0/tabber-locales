@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "sign_in": {
+      "title": "登录",
+      "description": "通过电子邮件或社交媒体登录 Tabber"
+    },
+    "sign_out": {
+      "title": "登出",
+      "description": "您已退出 Tabber"
+    },
+    "error": {
+      "title": "错误",
+      "description": "登录时出现问题"
+    },
+    "verify_request": {
+      "title": "检查您的邮箱",
+      "description": "登录链接已发送到您的电子邮箱"
+    }
+  },
+  "sign_in": {
+    "title": "注册Tabber",
+    "or": "或",
+    "continue_with": "继续使用 %s",
+    "sign_in_with_email": "使用电子邮件登录",
+    "email_address": "电子邮件地址"
+  },
+  "sign_out": {
+    "title": "您已登出",
+    "description": [
+      "您仍然可以使用Tabber，但您的数据将不会备份和跨设备同步。",
+      "要启用云同步，请重新登录。"
+    ],
+    "return": "返回Tabber"
+  },
+  "error": {
+    "title": "出了些问题",
+    "description": [
+      "请尝试重新登录。",
+      "您也可以尝试使用其他方式登录。",
+      "如果问题依旧，请随时联系我们。"
+    ]
+  },
+  "verify_request": {
+    "title": "检查您的电子邮件",
+    "description": ["登录链接已发送到您的电子邮件地址。"],
+    "open_gmail": "打开Gmail"
+  }
+}

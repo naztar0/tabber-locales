@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "sign_in": {
+      "title": "Anmelden",
+      "description": "Melden Sie sich bei Tabber per E-Mail oder über soziale Medien an"
+    },
+    "sign_out": {
+      "title": "Abmelden",
+      "description": "Sie wurden von Tabber abgemeldet"
+    },
+    "error": {
+      "title": "Fehler",
+      "description": "Beim Anmelden ist ein Fehler aufgetreten"
+    },
+    "verify_request": {
+      "title": "Überprüfen Sie Ihre E-Mail",
+      "description": "Ein Anmeldelink wurde an Ihre E-Mail-Adresse gesendet"
+    }
+  },
+  "sign_in": {
+    "title": "Registrieren Sie sich bei Tabber",
+    "or": "Oder",
+    "continue_with": "Weiter mit %s",
+    "sign_in_with_email": "Mit E-Mail anmelden",
+    "email_address": "E-Mail-Adresse"
+  },
+  "sign_out": {
+    "title": "Sie wurden abgemeldet",
+    "description": [
+      "Sie können Tabber weiterhin nutzen, aber Ihre Daten werden nicht gesichert und über Geräte hinweg synchronisiert.",
+      "Um die Cloud-Synchronisation zu aktivieren, melden Sie sich bitte erneut an."
+    ],
+    "return": "Zurück zu Tabber"
+  },
+  "error": {
+    "title": "Etwas ist schief gelaufen",
+    "description": [
+      "Bitte versuchen Sie sich erneut anzumelden.",
+      "Sie können auch versuchen, sich mit einer anderen Methode anzumelden.",
+      "Wenn das Problem weiterhin besteht, können Sie uns gerne kontaktieren."
+    ]
+  },
+  "verify_request": {
+    "title": "Überprüfen Sie Ihre E-Mail",
+    "description": ["Ein Anmeldelink wurde an Ihre E-Mail-Adresse gesendet."],
+    "open_gmail": "Gmail öffnen"
+  }
+}

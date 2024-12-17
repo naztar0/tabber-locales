@@ -26,6 +26,12 @@
   "theme_background": {
     "message": "背景"
   },
+  "theme_background_animation": {
+    "message": "背景アニメーション"
+  },
+  "theme_background_custom": {
+    "message": "カスタム背景"
+  },
   "use_context_menu": {
     "message": "コンテキストメニューを使用する"
   },
@@ -59,14 +65,32 @@
   "save_previews_to_cloud": {
     "message": "プレビューをクラウドに保存する"
   },
-  "sites_whitelist": {
-    "message": "サイト例外リスト"
+  "exclusions": {
+    "message": "除外"
+  },
+  "sites_exclusions": {
+    "message": "サイトの除外"
+  },
+  "groups_exclusions": {
+    "message": "グループの除外"
   },
   "keyboard_shortcuts": {
     "message": "キーボードショートカット"
   },
+  "sites_features": {
+    "message": "サイトの機能"
+  },
+  "toolbar_items": {
+    "message": "ツールバーアイテム"
+  },
   "advanced_settings": {
     "message": "高度な設定"
+  },
+  "click_again_to_confirm": {
+    "message": "再度クリックして確認"
+  },
+  "save_youtube_timestamps": {
+    "message": "YouTubeのタイムスタンプを保存"
   },
   "home_page": {
     "message": "Tabber | ホームページ"
@@ -306,7 +330,7 @@
     "message": "無制限のタブグループ"
   },
   "plus_feature_title_2": {
-    "message": "AI 搭載のタブグループ化"
+    "message": "グループ化のための高度なAIモデル"
   },
   "plus_feature_title_3": {
     "message": "自動クラウド同期"
@@ -327,7 +351,7 @@
     "message": "グループ化できるタブの数に制限はありません。"
   },
   "plus_feature_desc_2": {
-    "message": "コンテンツに基づいてタブを自動的にグループ化します。"
+    "message": "強化されたAIモデルとより高い使用制限。"
   },
   "plus_feature_desc_3": {
     "message": "タブがすべてのデバイスで自動的に同期されます。"
@@ -662,6 +686,12 @@
   "sites_whitelist_description": {
     "message": "ホワイトリストに追加したい各ページのURLを新しい行に追加してください。例:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n1行で複数のサイトをホワイトリストに追加するには、URLの一部を指定できます:\ngoogle.com\nまた、テキストをスラッシュで囲んで正規表現を指定することもできます:\n/^https:.*google\\.com/"
   },
+  "groups_whitelist_title": {
+    "message": "これらのグループのタブを保存しない"
+  },
+  "groups_whitelist_description": {
+    "message": "ホワイトリストに追加したいグループの名前を新しい行に入力してください。例:\n仕事\n勉強\nエンターテイメント\nホワイトリストに追加するグループの色も選択できます。"
+  },
   "dynamic_preview_contrast": {
     "message": "動的プレビューコントラスト"
   },
@@ -670,6 +700,9 @@
   },
   "max_deleted_tabs": {
     "message": "最大削除タブ数"
+  },
+  "identify_tabs_by_title": {
+    "message": "タイトルでタブを識別"
   },
   "pause_auto_preserve": {
     "message": "自動保存を一時停止"
@@ -682,6 +715,12 @@
   },
   "remove_site_from_whitelist": {
     "message": "サイトをホワイトリストから削除"
+  },
+  "never_preserve_this_group": {
+    "message": "このグループを保存しない"
+  },
+  "remove_group_from_whitelist": {
+    "message": "ホワイトリストからグループを削除"
   },
   "ai_group_title": {
     "message": "AI 搭載のタブグループ化"

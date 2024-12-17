@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Yenilikler",
+    "description": "Tabber güncellendi! Yeni özellikleri ve iyileştirmeleri keşfedin."
+  },
+  "1.5": {
+    "title": "Tabber 1.5 Sürümüne Güncellendi",
+    "subtitle": "En Son Özellikleri ve İyileştirmeleri Keşfedin",
+    "content_main": [
+      {
+        "title": "Grupları Koruma Dışında Bırak",
+        "description": [
+          "Artık belirli sekme gruplarını koruma dışında bırakabilirsiniz. Grupları ad veya renk kullanarak dışlama listesine ekleyin. Firefox'ta mevcut değil.",
+          "Bu özellik Ayarlar → Hariç Tutmalar → Grup Hariç Tutmaları altında bulunabilir."
+        ],
+        "image": "/static/update/1.5/groups-exclusions.jpg"
+      },
+      {
+        "title": "Kaydedilmemiş Form Girdilerini Tespit Et",
+        "description": [
+          "Tabber, bir sekmeyi korumadan önce kaydedilmemiş form girdilerini kontrol eder. Eğer kaydedilmemiş değişiklikler tespit edilirse, sekme korunmaz ve böylece yanlışlıkla veri kaybı önlenir.",
+          "Bu özelliği Ayarlar → Otomatik Koruma → Kaydedilmemiş Form Girdileri Olan Sekmeleri Koru seçeneğinden etkinleştirebilirsiniz."
+        ],
+        "image": "/static/update/1.5/unsaved-form-inputs.jpg"
+      },
+      {
+        "title": "YouTube Zaman Damgalarını Kaydet",
+        "description": [
+          "YouTube videoları içeren sekmeler artık zaman damgaları ile birlikte korunabilir, böylece oynatmaya kaldığınız yerden devam edebilirsiniz.",
+          "Bu seçeneği Ayarlar → Site Özellikleri → YouTube Zaman Damgalarını Kaydet altında etkinleştirin."
+        ],
+        "image": "/static/update/1.5/youtube-timestamps.jpg"
+      },
+      {
+        "title": "Sekmeleri ve Grupları Başlığa Göre Tanımlayın",
+        "description": [
+          "Sekmeler ve gruplar artık dahili kimlikler yerine başlıklarına göre tanımlanabilir. Bu, Google Chrome gibi bazı tarayıcıların yeniden başlatılmasından sonra otomatik koruma zamanlayıcısının sıfırlanması ve tarayıcıdaki gruplarla Tabber'daki gruplar arasındaki bağlantının kopması sorununu çözer.",
+          "Bu seçeneği Ayarlar → Gelişmiş Ayarlar → Sekmeleri Başlığa Göre Tanımla bölümünde bulabilirsiniz."
+        ],
+        "image": "/static/update/1.5/identify-tabs-by-title.jpg"
+      },
+      {
+        "title": "Kritik İşlemler için Onay",
+        "description": [
+          "Tabber artık tüm sekmeleri koruma veya geri yükleme gibi kritik işlemler için yanlışlıkla değişiklikleri önlemek amacıyla çift tıklama onayı gerektirir."
+        ],
+        "image": "/static/update/1.5/confirmations.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "Diğer İyileştirmeler",
+      "description": [
+        "Artık ok tuşlarını kullanarak aktif sekmeyi daha hızlı bir şekilde değiştirebilirsiniz.",
+        "Uzantı açılır penceresine bir destek düğmesi eklendi.",
+        "Pasif sekmeler için önizleme oluşturma sorunu çözüldü."
+      ]
+    }
+  }
+}

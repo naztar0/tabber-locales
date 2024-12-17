@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Feedback",
+    "description": "Help us improve Tabber by sharing your feedback with us."
+  },
+  "title": "We're sad to see you go! 😢",
+  "description": "Please let us know why you're removing Tabber so we can improve our service. Your experience matters to us ^_^",
+  "submit": "Submit",
+  "success": "Thank you for your feedback! 😊",
+  "items": {
+    "usability_issues": {
+      "label": "I found Tabber difficult to use",
+      "question": "Was it confusing, annoying, or something else?",
+      "suggestion": {
+        "label": "Ask us a question",
+        "link": "/#contact"
+      }
+    },
+    "bug_or_missing_feature": {
+      "label": "I ran into a bug or couldn't find a feature",
+      "question": "What was the bug or missing feature?",
+      "suggestion": {
+        "label": "Contact us for help",
+        "link": "/#contact"
+      }
+    },
+    "privacy_concerns": {
+      "label": "I have privacy concerns (data usage, tracking, etc.)",
+      "question": "What are your privacy concerns?",
+      "suggestion": {
+        "label": "Check our Privacy Policy",
+        "link": "/privacy"
+      }
+    },
+    "found_better_alternative": {
+      "label": "I found a better alternative",
+      "question": "What alternative did you find?"
+    },
+    "no_longer_needed": {
+      "label": "I no longer need the extension",
+      "question": "What’s changed in your needs?"
+    },
+    "other": {
+      "label": "Other",
+      "question": "What's the reason for removing Tabber?"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "sign_in": {
+    "subject": "登入 Tabber",
+    "title": "點擊下面的按鈕登入 Tabber。",
+    "button": "登入",
+    "footer": "如果您未請求登入連結，請忽略此郵件。",
+    "plain_text": "登入 Tabber：%link%"
+  }
+}

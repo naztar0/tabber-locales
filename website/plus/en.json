@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "title": "Tabber Plus",
+    "description": "Unlock the full power of Tabber with Tabber Plus. Subscribe to gain access to a suite of premium features designed to elevate your Tabber experience."
+  },
+  "title": "Become a Tabber Plus Subscriber",
+  "features": [
+    ["Unlimited Tab Groups", "No more limits to the number of tabs you can group."],
+    ["Advanced AI Model for Grouping", "Enhanced AI model for more accurate and efficient tab grouping; higher usage limits."],
+    ["Auto Cloud Sync", "Your tabs are automatically synced across all your devices."],
+    ["Full Sync History", "Access your full synchronizations history and restore any backup."],
+    ["Custom Background", "Apply a custom background to pages without previews."],
+    ["Priority Support", "Any questions and concerns will be addressed promptly, ensuring a smooth experience."],
+    ["Exclusive Patreon Posts", "Get exclusive access to Patreon posts, polls and stay in the loop with the latest updates, tips, and tricks."]
+  ],
+  "paragraphs": [
+    {
+      "title": "Unlock the Full Power of Tabber with Tabber Plus",
+      "description": "Welcome to the world of enhanced browsing! By subscribing to Tabber Plus, you gain access to a suite of premium features designed to elevate your Tabber experience. Join us on this journey to make your browsing more efficient, organized, and seamless."
+    },
+    {
+      "title": "What You Get with Tabber Plus"
+    },
+    {
+      "title": "How to Subscribe",
+      "items": [
+        ["Visit Our Patreon Page", "Click the “Subscribe on Patreon” button below to be redirected to our Patreon page."],
+        ["Create or Log In to Your Patreon Account", "If you’re new to Patreon, you’ll need to create an account. If you already have one, simply log in."],
+        ["Choose Subscription Tier", "Select the «Plus» subscription tier and follow the instructions to complete payment."],
+        ["Log In to Tabber using Patreon", "Once you’ve subscribed, you have to log in to Tabber using your Patreon account."],
+        ["Enjoy Tabber Plus", "You’re all set! Enjoy your new Tabber Plus features."]
+      ],
+      "note": "NOTE: If you’re already logged in to Tabber, you’ll need to log out and log back in using your Patreon account. If your Tabber and Patreon emails do not match, you'll be registered as a new user and your previous data won’t be transferred."
+    },
+    {
+      "title": "Can't subscribe via Patreon?",
+      "description": "We are currently working on the possibility of introducing subscriptions through other services. This will appear in the next update, stay tuned!"
+    },
+    {
+      "title": "Questions?",
+      "description": ["If you have any questions or concerns, please don’t hesitate to ", "contact us", " or check our ", "FAQ", " section."]
+    }
+  ],
+  "subscribe": "Subscribe on Patreon"
+}

@@ -1,0 +1,9 @@
+{
+  "sign_in": {
+    "subject": "Anmeldung bei Tabber",
+    "title": "Klicken Sie unten auf die Schaltfläche, um sich bei Tabber anzumelden.",
+    "button": "Anmelden",
+    "footer": "Wenn Sie keine Anmeldeanforderung gestellt haben, ignorieren Sie bitte diese E-Mail.",
+    "plain_text": "Bei Tabber anmelden: %link%"
+  }
+}

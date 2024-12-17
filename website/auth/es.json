@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "sign_in": {
+      "title": "Iniciar Sesión",
+      "description": "Inicia sesión en Tabber con tu correo electrónico o redes sociales"
+    },
+    "sign_out": {
+      "title": "Cerrar Sesión",
+      "description": "Has cerrado sesión en Tabber"
+    },
+    "error": {
+      "title": "Error",
+      "description": "Algo salió mal al iniciar sesión"
+    },
+    "verify_request": {
+      "title": "Revisa tu correo electrónico",
+      "description": "Se ha enviado un enlace de inicio de sesión a tu correo electrónico"
+    }
+  },
+  "sign_in": {
+    "title": "Regístrate en Tabber",
+    "or": "O",
+    "continue_with": "Continuar con %s",
+    "sign_in_with_email": "Iniciar sesión con correo electrónico",
+    "email_address": "Dirección de correo electrónico"
+  },
+  "sign_out": {
+    "title": "Has cerrado sesión",
+    "description": [
+      "Todavía puedes usar Tabber, pero tus datos no se respaldarán ni sincronizarán en dispositivos.",
+      "Para habilitar la sincronización en la nube, por favor inicia sesión nuevamente."
+    ],
+    "return": "Volver a Tabber"
+  },
+  "error": {
+    "title": "Algo salió mal",
+    "description": [
+      "Por favor, intenta iniciar sesión nuevamente.",
+      "También puedes intentar iniciar sesión con un método diferente.",
+      "Si el problema persiste, no dudes en contactarnos."
+    ]
+  },
+  "verify_request": {
+    "title": "Revisa tu correo electrónico",
+    "description": ["Se ha enviado un enlace de inicio de sesión a tu dirección de correo electrónico."],
+    "open_gmail": "Abrir Gmail"
+  }
+}

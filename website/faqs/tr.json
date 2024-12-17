@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "SSS",
+    "description": "Tabber hakkında sıkça sorulan sorular"
+  },
+  "title": "Sıkça Sorulan Sorular",
+  "footer": ["Aradığınız cevabı bulamadınız mı? Aşağıdaki ", "iletişim formunu", " kullanın veya ", "tabber@neulen.dev", " adresinden bize ulaşın."],
+  "items": [
+    {
+      "question": "Firefox'ta sekme yakalayamıyorum. Ne yapmalıyım?",
+      "answer": [
+        "Gerekli izinler verilmediğinde bu sorun yaşanabilir.",
+        "Bunu sağlamak için, tarayıcının sağ üst köşesindeki uzantılar simgesine tıklayın ve «Uzantıları Yönet» seçeneğini seçin. Daha sonra Tabber uzantısına tıklayın, «İzinler»e gidin ve «Tüm siteler için verilerinize erişim» iznini etkinleştirin."
+      ]
+    },
+    {
+      "question": "Sekme önizlemeleri neden kullanılamıyor?",
+      "answer": [
+        "Bunun birkaç nedeni olabilir:",
+        "1. Uzantı ayarlarında «Kaydederken önizleme yap» seçeneğini devre dışı bırakmış olabilirsiniz.",
+        "2. Bu sekme dahil olmak üzere tüm sekme grubunu saklamış olabilirsiniz. Ancak önizlemeler, sadece bireysel olarak saklanan sekmeler için kullanılabilir.",
+        "3. Sekme buluttan yüklendi ancak önizleme başka bir cihazda yerel olarak kaydedildi veya son senkronizasyondan sonra silindi.",
+        "4. Başka bir hata oluşmuş olabilir. Tarayıcıyı yeniden başlatmayı veya uzantıyı yeniden yüklemeyi deneyin.",
+        "Bu sorunların çoğu, ayarlardan bulut önizleme kaydetmeyi etkinleştirerek çözülebilir."
+      ]
+    },
+    {
+      "question": "Dili nasıl değiştirebilirim?",
+      "answer": [
+        "Uzantının dili, tarayıcınızın diline göre otomatik olarak seçilir. Değiştirmek için, tarayıcınızın dilini değiştirmeniz gerekmektedir."
+      ]
+    },
+    {
+      "question": "Bulutla otomatik senkronizasyon ne anlama gelir?",
+      "answer": [
+        "Bu, uzantının, sekmelerinizde herhangi bir değişiklik yaptığınızda verilerinizi otomatik olarak bulutla senkronize edeceği anlamına gelir.",
+        "Yanlışlıkla bir sekme veya sekme grubunu sildiyseniz, her zaman bulut yedeklerinden geri yükleyebilirsiniz."
+      ]
+    },
+    {
+      "question": "Sekmeleri gruplar arasında nasıl taşırım?",
+      "answer": [
+        "Sekmeleri gruplar arasında taşımak için, taşımak istediğiniz sekmeyi tıklayıp basılı tutun, ardından istediğiniz gruba sürükleyin."
+      ]
+    },
+    {
+      "question": "Tabber Plus'a abone oldum, ama hala Plus özelliklerine erişemiyorum.",
+      "answer": [
+        "Patreon hesabınızı kullanarak giriş yaptıysanız, ancak hala Plus özelliklerine erişemiyorsanız, tarayıcınızı yeniden başlatmayı veya cihazı yeniden başlatmayı deneyin."
+      ]
+    },
+    {
+      "question": "Plus aboneliğimi nasıl iptal ederim?",
+      "answer": [
+        "Aboneliğinizi istediğiniz zaman iptal edebilirsiniz. Bunu yapmak için Patreon hesabınıza gidin, «Üyeliklerim»i seçin ve Tabber Plus'ın yanında «Düzenle»ye tıklayın. Sonra «Üyeliği İptal Et»e tıklayın.",
+        "Bunu yaptıktan sonra, aboneliğiniz iptal edilecek ve bir sonraki ay için ücretlendirilmeyeceksiniz. Ancak, mevcut faturalandırma döneminin sonuna kadar Tabber Plus özelliklerine erişiminiz devam edecektir."
+      ]
+    },
+    {
+      "question": "Firefox'ta klavye kısayolları nasıl değiştirilir?",
+      "answer": [
+        "Firefox'ta klavye kısayollarını manuel olarak tarayıcı ayarlarında değiştirmek gerekiyor.",
+        "Bunları değiştirmek için tarayıcının sağ üst köşesindeki uzantı simgesine tıklayın ve «Uzantıları Yönet»i seçin. Ardından sağ üst köşede bulunan dişli simgesine tıklayın ve «Uzantı Kısayollarını Yönet»i seçin."
+      ]
+    }
+  ]
+}

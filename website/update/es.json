@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Novedades",
+    "description": "¡Tabber se ha actualizado! Descubre las nuevas funciones y mejoras."
+  },
+  "1.5": {
+    "title": "Tabber actualizado a la versión 1.5",
+    "subtitle": "Descubre las últimas funciones y mejoras",
+    "content_main": [
+      {
+        "title": "Excluir grupos de la preservación",
+        "description": [
+          "Ahora puedes excluir grupos específicos de pestañas de la preservación. Simplemente agrega grupos a la lista de exclusión usando su nombre o color. No disponible en Firefox.",
+          "Esta función está disponible en Configuración → Exclusiones → Exclusión de Grupos."
+        ],
+        "image": "/static/update/1.5/groups-exclusions.jpg"
+      },
+      {
+        "title": "Detectar formularios no guardados",
+        "description": [
+          "Tabber ahora verifica los formularios no guardados antes de preservar una pestaña. Si se detectan cambios no guardados, la pestaña no se preservará, ayudándote a evitar la pérdida accidental de datos.",
+          "Activa esta función en Configuración → Preservación Automática → No preservar pestañas con formularios no guardados."
+        ],
+        "image": "/static/update/1.5/unsaved-form-inputs.jpg"
+      },
+      {
+        "title": "Guardar marcas de tiempo de YouTube",
+        "description": [
+          "Ahora puedes preservar pestañas con videos de YouTube junto con sus marcas de tiempo, lo que te permite reanudar la reproducción desde donde la dejaste.",
+          "Activa esta opción en Configuración → Funciones de Sitios → Guardar marcas de tiempo de YouTube."
+        ],
+        "image": "/static/update/1.5/youtube-timestamps.jpg"
+      },
+      {
+        "title": "Identificar pestañas y grupos por título",
+        "description": [
+          "Ahora puedes identificar pestañas y grupos por su título en lugar de por ID internos. Esto resuelve el problema de reiniciar navegadores como Google Chrome, donde se restablecía el temporizador de preservación automática y la conexión entre los grupos del navegador y Tabber.",
+          "Encuentra esta opción en Configuración → Configuración Avanzada → Identificar pestañas por título."
+        ],
+        "image": "/static/update/1.5/identify-tabs-by-title.jpg"
+      },
+      {
+        "title": "Confirmación para acciones críticas",
+        "description": [
+          "Tabber ahora requiere una confirmación de doble clic para acciones críticas como preservar o restaurar todas las pestañas, para evitar cambios accidentales."
+        ],
+        "image": "/static/update/1.5/confirmations.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "Otras Mejoras",
+      "description": [
+        "Ahora puedes cambiar la pestaña activa utilizando las teclas de flecha para una navegación más rápida.",
+        "Se ha añadido un botón de soporte en el popup de la extensión.",
+        "Se resolvió un problema al crear vistas previas de pestañas inactivas."
+      ]
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "FAQs",
+    "description": "Questions fréquemment posées sur Tabber"
+  },
+  "title": "Questions Fréquemment Posées",
+  "footer": ["Vous n'avez pas trouvé la réponse que vous cherchiez ? Utilisez le ", "formulaire de contact", " suivant ou contactez-nous à ", "tabber@neulen.dev", "."],
+  "items": [
+    {
+      "question": "Je n'arrive pas à capturer un onglet sur Firefox. Que dois-je faire ?",
+      "answer": [
+        "Cela peut arriver si les permissions nécessaires ne sont pas accordées.",
+        "Pour les autoriser, cliquez sur l'icône des extensions dans le coin supérieur droit du navigateur et sélectionnez « Gérer les extensions ». Puis cliquez sur l'extension Tabber, puis sur « Permissions » et activez la permission « Accéder à vos données sur tous les sites Web »."
+      ]
+    },
+    {
+      "question": "Pourquoi les aperçus des onglets ne sont-ils pas disponibles ?",
+      "answer": [
+        "Il y a plusieurs raisons pour lesquelles cela peut se produire :",
+        "1. Vous avez désactivé l'option « Faire un aperçu lors de la conservation » dans les paramètres de l'extension.",
+        "2. Vous avez conservé tout un groupe d'onglets avec cet onglet dedans. Mais les aperçus ne sont disponibles que pour les onglets conservés individuellement.",
+        "3. L'onglet a été chargé depuis le cloud, mais l'aperçu a été sauvegardé localement sur un autre appareil ou a été supprimé après la dernière synchronisation.",
+        "4. Il y a eu une autre erreur. Essayez de redémarrer le navigateur ou de réinstaller l'extension.",
+        "La plupart de ces problèmes peuvent être résolus en activant la sauvegarde des aperçus dans le cloud dans les paramètres."
+      ]
+    },
+    {
+      "question": "Comment changer la langue ?",
+      "answer": [
+        "La langue de l'extension est automatiquement sélectionnée en fonction de la langue de votre navigateur. Pour la changer, vous devez modifier la langue du navigateur."
+      ]
+    },
+    {
+      "question": "Que signifie la synchronisation automatique avec le cloud ?",
+      "answer": [
+        "Cela signifie que l'extension synchronisera automatiquement vos données avec le cloud chaque fois que vous apporterez des modifications à vos onglets.",
+        "Si vous supprimez accidentellement un onglet ou un groupe d'onglets, vous pouvez toujours les restaurer à partir des sauvegardes du cloud."
+      ]
+    },
+    {
+      "question": "Comment déplacer des onglets entre les groupes ?",
+      "answer": [
+        "Pour déplacer des onglets entre les groupes, cliquez et maintenez l'onglet que vous souhaitez déplacer, puis faites-le glisser vers le groupe souhaité."
+      ]
+    },
+    {
+      "question": "Je me suis abonné à Tabber Plus, mais je n'ai toujours pas accès aux fonctionnalités Plus.",
+      "answer": [
+        "Si vous vous êtes connecté en utilisant votre compte Patreon, mais que vous n'avez toujours pas accès aux fonctionnalités Plus, essayez de redémarrer votre navigateur ou de redémarrer l'appareil."
+      ]
+    },
+    {
+      "question": "Comment puis-je arrêter mon abonnement Plus ?",
+      "answer": [
+        "Vous pouvez annuler votre abonnement à tout moment. Pour ce faire, rendez-vous sur votre compte Patreon, sélectionnez « Mes adhésions » et cliquez sur « Modifier » à côté de Tabber Plus. Puis cliquez sur « Annuler l'adhésion ».",
+        "Après cela, votre abonnement sera annulé et vous ne serez pas facturé pour le mois suivant. Cependant, vous aurez toujours accès aux fonctionnalités de Tabber Plus jusqu'à la fin de la période de facturation en cours."
+      ]
+    },
+    {
+      "question": "Comment changer les raccourcis clavier sur Firefox ?",
+      "answer": [
+        "Firefox nécessite de changer manuellement les raccourcis clavier dans les paramètres du navigateur.",
+        "Pour les changer, cliquez sur l'icône des extensions dans le coin supérieur droit du navigateur, puis sélectionnez « Gérer les extensions ». Ensuite, cliquez sur l'icône d'engrenage dans le coin supérieur droit et choisissez « Gérer les raccourcis des extensions »."
+      ]
+    }
+  ]
+}

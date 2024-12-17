@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Quoi de neuf",
+    "description": "Tabber a été mis à jour! Découvrez les nouvelles fonctionnalités et améliorations."
+  },
+  "1.5": {
+    "title": "Tabber mis à jour à la version 1.5",
+    "subtitle": "Découvrez les dernières fonctionnalités et améliorations",
+    "content_main": [
+      {
+        "title": "Exclure des groupes de la préservation",
+        "description": [
+          "Vous pouvez désormais exclure certains groupes d'onglets de la préservation. Ajoutez simplement des groupes à la liste d'exclusion en utilisant leur nom ou leur couleur. Non disponible sur Firefox.",
+          "Cette fonctionnalité est disponible dans Paramètres → Exclusions → Exclusions de Groupes."
+        ],
+        "image": "/static/update/1.5/groups-exclusions.jpg"
+      },
+      {
+        "title": "Détecter les saisies de formulaire non enregistrées",
+        "description": [
+          "Tabber vérifie désormais les saisies de formulaire non enregistrées avant de préserver un onglet. Si des modifications non enregistrées sont détectées, l'onglet ne sera pas préservé, vous évitant ainsi une perte accidentelle de données.",
+          "Activez cette fonctionnalité dans Paramètres → Préservation Automatique → Ne pas préserver les onglets avec des saisies non enregistrées."
+        ],
+        "image": "/static/update/1.5/unsaved-form-inputs.jpg"
+      },
+      {
+        "title": "Enregistrer les horodatages YouTube",
+        "description": [
+          "Les onglets avec des vidéos YouTube peuvent maintenant être préservés avec leurs horodatages, vous permettant de reprendre la lecture là où vous vous êtes arrêté.",
+          "Activez cette option dans Paramètres → Fonctionnalités des Sites → Enregistrer les Horodatages YouTube."
+        ],
+        "image": "/static/update/1.5/youtube-timestamps.jpg"
+      },
+      {
+        "title": "Identifier les onglets et groupes par leur titre",
+        "description": [
+          "Les onglets et groupes peuvent maintenant être identifiés par leur titre au lieu d'ID internes. Cela résout le problème du redémarrage de certains navigateurs (comme Google Chrome) où le minuteur de préservation automatique était réinitialisé, ainsi que la connexion entre les groupes dans le navigateur et dans Tabber.",
+          "Trouvez cette option dans Paramètres → Paramètres Avancés → Identifier les Onglets par Titre."
+        ],
+        "image": "/static/update/1.5/identify-tabs-by-title.jpg"
+      },
+      {
+        "title": "Confirmation pour les actions critiques",
+        "description": [
+          "Tabber nécessite désormais une double confirmation pour les actions critiques, comme préserver ou restaurer tous les onglets, afin d'éviter des changements accidentels."
+        ],
+        "image": "/static/update/1.5/confirmations.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "Autres Améliorations",
+      "description": [
+        "Vous pouvez désormais changer d’onglet actif à l’aide des touches fléchées pour une navigation plus rapide.",
+        "Un bouton de support a été ajouté au popup de l’extension.",
+        "Un problème lié à la création d’aperçus pour les onglets inactifs a été résolu."
+      ]
+    }
+  }
+}

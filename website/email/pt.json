@@ -1,0 +1,9 @@
+{
+  "sign_in": {
+    "subject": "Entrar no Tabber",
+    "title": "Clique no botão abaixo para entrar no Tabber.",
+    "button": "Entrar",
+    "footer": "Se você não solicitou um link de entrada, por favor, ignore este e-mail.",
+    "plain_text": "Entrar no Tabber: %link%"
+  }
+}

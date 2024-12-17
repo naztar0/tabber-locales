@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "sign_in": {
+      "title": "Sign In",
+      "description": "Sign in to Tabber via email or social media"
+    },
+    "sign_out": {
+      "title": "Sign Out",
+      "description": "You have been signed out from Tabber"
+    },
+    "error": {
+      "title": "Error",
+      "description": "Something went wrong while signing in"
+    },
+    "verify_request": {
+      "title": "Check your email",
+      "description": "A sign in link has been sent to your email address"
+    }
+  },
+  "sign_in": {
+    "title": "Sign Up to Tabber",
+    "or": "Or",
+    "continue_with": "Continue with %s",
+    "sign_in_with_email": "Sign in with Email",
+    "email_address": "Email Address"
+  },
+  "sign_out": {
+    "title": "You have been signed out",
+    "description": [
+      "You can still use Tabber, but your data will not be backed up and synchronized across devices.",
+      "To enable cloud sync, please sign in again."
+    ],
+    "return": "Return to Tabber"
+  },
+  "error": {
+    "title": "Something went wrong",
+    "description": [
+      "Please try to sign in again.",
+      "You can also try to sign in using a different method.",
+      "If the problem persists, feel free to contact us."
+    ]
+  },
+  "verify_request": {
+    "title": "Check your email",
+    "description": ["A sign in link has been sent to your email address."],
+    "open_gmail": "Open Gmail"
+  }
+}

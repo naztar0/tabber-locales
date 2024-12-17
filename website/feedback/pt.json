@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Feedback",
+    "description": "Ajude-nos a melhorar o Tabber compartilhando seu feedback conosco."
+  },
+  "title": "Estamos tristes em ver você partir! 😢",
+  "description": "Por favor, nos informe por que você está removendo o Tabber para que possamos melhorar nosso serviço. Sua experiência é importante para nós ^_^",
+  "submit": "Enviar",
+  "success": "Obrigado pelo seu feedback! 😊",
+  "items": {
+    "usability_issues": {
+      "label": "Achei o Tabber difícil de usar",
+      "question": "Foi confuso, irritante ou outra coisa?",
+      "suggestion": {
+        "label": "Faça-nos uma pergunta",
+        "link": "/#contact"
+      }
+    },
+    "bug_or_missing_feature": {
+      "label": "Encontrei um bug ou não consegui encontrar um recurso",
+      "question": "Qual foi o bug ou recurso ausente?",
+      "suggestion": {
+        "label": "Contate-nos para obter ajuda",
+        "link": "/#contact"
+      }
+    },
+    "privacy_concerns": {
+      "label": "Tenho preocupações com privacidade (uso de dados, rastreamento, etc.)",
+      "question": "Quais são suas preocupações de privacidade?",
+      "suggestion": {
+        "label": "Confira nossa Política de Privacidade",
+        "link": "/privacy"
+      }
+    },
+    "found_better_alternative": {
+      "label": "Encontrei uma alternativa melhor",
+      "question": "Qual alternativa você encontrou?"
+    },
+    "no_longer_needed": {
+      "label": "Não preciso mais da extensão",
+      "question": "O que mudou em suas necessidades?"
+    },
+    "other": {
+      "label": "Outro",
+      "question": "Qual é o motivo para remover o Tabber?"
+    }
+  }
+}

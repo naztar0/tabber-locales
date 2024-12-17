@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Feedback",
+    "description": "Helfen Sie uns, Tabber zu verbessern, indem Sie Ihr Feedback mit uns teilen."
+  },
+  "title": "Es tut uns leid, dich gehen zu sehen! 😢",
+  "description": "Lass uns bitte wissen, warum du Tabber entfernst, damit wir unseren Service verbessern können. Deine Erfahrung ist uns wichtig ^_^",
+  "submit": "Absenden",
+  "success": "Vielen Dank für dein Feedback! 😊",
+  "items": {
+    "usability_issues": {
+      "label": "Ich fand Tabber schwer zu benutzen",
+      "question": "War es verwirrend, ärgerlich oder etwas anderes?",
+      "suggestion": {
+        "label": "Stelle uns eine Frage",
+        "link": "/#contact"
+      }
+    },
+    "bug_or_missing_feature": {
+      "label": "Ich bin auf einen Fehler gestoßen oder habe eine Funktion vermisst",
+      "question": "Was war der Fehler oder die fehlende Funktion?",
+      "suggestion": {
+        "label": "Kontaktiere uns für Hilfe",
+        "link": "/#contact"
+      }
+    },
+    "privacy_concerns": {
+      "label": "Ich habe Bedenken bezüglich der Privatsphäre (Datenverwendung, Tracking, etc.)",
+      "question": "Was sind deine Datenschutzbedenken?",
+      "suggestion": {
+        "label": "Überprüfe unsere Datenschutzrichtlinie",
+        "link": "/privacy"
+      }
+    },
+    "found_better_alternative": {
+      "label": "Ich habe eine bessere Alternative gefunden",
+      "question": "Welche Alternative hast du gefunden?"
+    },
+    "no_longer_needed": {
+      "label": "Ich benötige die Erweiterung nicht mehr",
+      "question": "Was hat sich bei deinen Bedürfnissen geändert?"
+    },
+    "other": {
+      "label": "Sonstiges",
+      "question": "Was ist der Grund für das Entfernen von Tabber?"
+    }
+  }
+}

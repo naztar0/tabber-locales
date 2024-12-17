@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "最新動態",
+    "description": "Tabber 已更新！快來查看新功能和改進。"
+  },
+  "1.5": {
+    "title": "Tabber 更新至 1.5 版本",
+    "subtitle": "探索最新功能與改進",
+    "content_main": [
+      {
+        "title": "排除群組保存",
+        "description": [
+          "現在，您可以將特定的標籤群組排除在保存之外。只需根據名稱或顏色將群組添加到排除清單。在 Firefox 中無法使用。",
+          "此功能位於 設定 → 排除 → 排除群組。"
+        ],
+        "image": "/static/update/1.5/groups-exclusions.jpg"
+      },
+      {
+        "title": "檢測未保存的表單輸入",
+        "description": [
+          "Tabber 現在會在保存標籤頁之前檢查未保存的表單輸入。如果檢測到未保存的更改，該標籤頁將不會被保存，從而幫助您避免意外的數據丟失。",
+          "您可以在 設定 → 自動保存 → 不保存有未保存表單輸入的標籤頁 中啟用此功能。"
+        ],
+        "image": "/static/update/1.5/unsaved-form-inputs.jpg"
+      },
+      {
+        "title": "保存 YouTube 時間戳",
+        "description": [
+          "現在可以將包含 YouTube 視頻的標籤頁與其時間戳一起保存，從而可以從上次停止的地方繼續播放。",
+          "您可以在 設定 → 網站功能 → 保存 YouTube 時間戳 中啟用此選項。"
+        ],
+        "image": "/static/update/1.5/youtube-timestamps.jpg"
+      },
+      {
+        "title": "通過標題識別標籤頁和群組",
+        "description": [
+          "現在可以通過標題而不是內部 ID 來識別標籤頁和群組。這解決了一些瀏覽器（如 Google Chrome）重新啟動後，自動保存計時器重置以及瀏覽器中群組與 Tabber 中群組之間連接丟失的問題。",
+          "此選項位於 設定 → 高級設定 → 通過標題識別標籤頁。"
+        ],
+        "image": "/static/update/1.5/identify-tabs-by-title.jpg"
+      },
+      {
+        "title": "關鍵操作確認",
+        "description": [
+          "Tabber 現在需要雙擊確認關鍵操作，例如保存或恢復所有標籤頁，以防止意外更改。"
+        ],
+        "image": "/static/update/1.5/confirmations.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "其他改進",
+      "description": [
+        "現在，您可以使用方向鍵切換活動標籤頁，以加快瀏覽速度。",
+        "擴展程式的彈出視窗中新增了支援按鈕。",
+        "已解決建立非活動標籤頁預覽的問題。"
+      ]
+    }
+  }
+}

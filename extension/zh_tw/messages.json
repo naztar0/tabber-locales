@@ -26,6 +26,12 @@
   "theme_background": {
     "message": "背景"
   },
+  "theme_background_animation": {
+    "message": "背景動畫"
+  },
+  "theme_background_custom": {
+    "message": "自訂背景"
+  },
   "use_context_menu": {
     "message": "使用右鍵菜單"
   },
@@ -59,14 +65,32 @@
   "save_previews_to_cloud": {
     "message": "將預覽保存到雲端"
   },
-  "sites_whitelist": {
-    "message": "網站白名單"
+  "exclusions": {
+    "message": "排除"
+  },
+  "sites_exclusions": {
+    "message": "站點排除"
+  },
+  "groups_exclusions": {
+    "message": "群組排除"
   },
   "keyboard_shortcuts": {
     "message": "鍵盤快捷鍵"
   },
+  "sites_features": {
+    "message": "站點功能"
+  },
+  "toolbar_items": {
+    "message": "工具列項目"
+  },
   "advanced_settings": {
     "message": "高級設置"
+  },
+  "click_again_to_confirm": {
+    "message": "再次點擊以確認"
+  },
+  "save_youtube_timestamps": {
+    "message": "儲存YouTube時間戳"
   },
   "home_page": {
     "message": "Tabber | 首頁"
@@ -306,7 +330,7 @@
     "message": "無限制的標籤組"
   },
   "plus_feature_title_2": {
-    "message": "AI 分頁分組"
+    "message": "高級分組AI模型"
   },
   "plus_feature_title_3": {
     "message": "自動雲同步"
@@ -327,7 +351,7 @@
     "message": "您可以對任意數量的標籤進行分組，沒有限制。"
   },
   "plus_feature_desc_2": {
-    "message": "根據內容自動分組分頁。"
+    "message": "強化的AI模型和更高的使用限制。"
   },
   "plus_feature_desc_3": {
     "message": "您的標籤會自動在所有設備上同步。"
@@ -662,6 +686,12 @@
   "sites_whitelist_description": {
     "message": "在新的一行中添加您想要加入白名單的每個頁面的 URL。例如：\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n要在一行上加入多個站點，您可以指定 URL 的一部分：\ngoogle.com\n您還可以通過用斜槓括起文本來指定正則表達式：\n/^https:.*google\\.com/"
   },
+  "groups_whitelist_title": {
+    "message": "永不保留這些群組的標籤頁"
+  },
+  "groups_whitelist_description": {
+    "message": "在新的一行添加每個要加入白名單的群組名稱。例如：\n工作\n學習\n娛樂\n您還可以選擇想加入白名單的群組顏色。"
+  },
   "dynamic_preview_contrast": {
     "message": "動態預覽對比度"
   },
@@ -670,6 +700,9 @@
   },
   "max_deleted_tabs": {
     "message": "最大已刪除分頁數"
+  },
+  "identify_tabs_by_title": {
+    "message": "通過標題識別標籤頁"
   },
   "pause_auto_preserve": {
     "message": "暫停自動保存"
@@ -682,6 +715,12 @@
   },
   "remove_site_from_whitelist": {
     "message": "從白名單中刪除網站"
+  },
+  "never_preserve_this_group": {
+    "message": "永不保留此群組"
+  },
+  "remove_group_from_whitelist": {
+    "message": "從白名單中移除此群組"
   },
   "ai_group_title": {
     "message": "AI 分頁分組"

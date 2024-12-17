@@ -26,6 +26,12 @@
   "theme_background": {
     "message": "Hintergrund"
   },
+  "theme_background_animation": {
+    "message": "Hintergrundanimation"
+  },
+  "theme_background_custom": {
+    "message": "Benutzerdefinierter Hintergrund"
+  },
   "use_context_menu": {
     "message": "Kontextmenü verwenden"
   },
@@ -59,14 +65,32 @@
   "save_previews_to_cloud": {
     "message": "Vorschauen in der Cloud speichern"
   },
-  "sites_whitelist": {
-    "message": "Websites-Ausnahmen"
+  "exclusions": {
+    "message": "Ausschlüsse"
+  },
+  "sites_exclusions": {
+    "message": "Seitenausschlüsse"
+  },
+  "groups_exclusions": {
+    "message": "Gruppenausschlüsse"
   },
   "keyboard_shortcuts": {
     "message": "Tastaturkürzel"
   },
+  "sites_features": {
+    "message": "Seitenfunktionen"
+  },
+  "toolbar_items": {
+    "message": "Symbolleisten-Elemente"
+  },
   "advanced_settings": {
     "message": "Erweiterte Einstellungen"
+  },
+  "click_again_to_confirm": {
+    "message": "Klicken Sie erneut, um zu bestätigen"
+  },
+  "save_youtube_timestamps": {
+    "message": "YouTube-Timestamps speichern"
   },
   "home_page": {
     "message": "Tabber | Startseite"
@@ -306,7 +330,7 @@
     "message": "Unbegrenzte Tab-Gruppen"
   },
   "plus_feature_title_2": {
-    "message": "KI-gestützte Tabs-Gruppierung"
+    "message": "Erweitertes KI-Modell für Gruppierungen"
   },
   "plus_feature_title_3": {
     "message": "Automatische Cloud-Synchronisierung"
@@ -327,7 +351,7 @@
     "message": "Keine Grenzen mehr für die Anzahl der Tabs, die Sie gruppieren können."
   },
   "plus_feature_desc_2": {
-    "message": "Gruppieren Sie Tabs automatisch basierend auf ihrem Inhalt."
+    "message": "Verbessertes KI-Modell und höhere Nutzungslimits."
   },
   "plus_feature_desc_3": {
     "message": "Ihre Tabs werden automatisch über alle Ihre Geräte hinweg synchronisiert."
@@ -662,6 +686,12 @@
   "sites_whitelist_description": {
     "message": "Fügen Sie die URL jeder Seite hinzu, die Sie auf der nächsten Zeile freigeben möchten. Beispiel:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nUm mehrere Sites in einer Zeile freizugeben, können Sie einen Teil der URL angeben:\ngoogle.com\nSie können auch Regex angeben, indem Sie den Text in Schrägstriche einschließen:\n/^https:.*google\\.com/"
   },
+  "groups_whitelist_title": {
+    "message": "Tabs aus diesen Gruppen nie beibehalten"
+  },
+  "groups_whitelist_description": {
+    "message": "Fügen Sie den Namen jeder Gruppe, die Sie auf die Whitelist setzen möchten, in eine neue Zeile ein. Zum Beispiel:\nArbeit\nStudium\nUnterhaltung\nSie können auch Farben der Gruppen auswählen, die Sie auf die Whitelist setzen möchten."
+  },
   "dynamic_preview_contrast": {
     "message": "Dynamischer Vorschaukontrast"
   },
@@ -670,6 +700,9 @@
   },
   "max_deleted_tabs": {
     "message": "Max. gelöschte Tabs"
+  },
+  "identify_tabs_by_title": {
+    "message": "Tabs anhand des Titels identifizieren"
   },
   "pause_auto_preserve": {
     "message": "Automatische Beibehaltung pausieren"
@@ -682,6 +715,12 @@
   },
   "remove_site_from_whitelist": {
     "message": "Website von der Whiteliste entfernen"
+  },
+  "never_preserve_this_group": {
+    "message": "Diese Gruppe nie beibehalten"
+  },
+  "remove_group_from_whitelist": {
+    "message": "Gruppe von der Whitelist entfernen"
   },
   "ai_group_title": {
     "message": "KI-gestützte Tabs-Gruppierung"

@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Tabber - Ultimate Sekme Düzenleme Çözümü",
+    "description": "Kullanılmayan sekmeleri organize sanal sekme gruplarına kaydederek ve tüm cihazlarınızla senkronize ederek taramanızı basitleştirin.",
+    "keywords": "tabber, tabber uzantısı, sekme yöneticisi, sekme grupları aracı, sekme kaydetme uygulaması, tarayıcı sekmelerini düzenle, sanal sekme grupları, tarayıcı sekme düzenleyici, cihazlar arası sekme senkronizasyonu, özelleştirilebilir sekme grupları, tarayıcı verimlilik uzantısı, kullanılmayan sekmeleri yönet, gezinmeyi kolaylaştır, çok cihazlı sekme organizasyonu, sekme önizleme aracı, gezinmeyi basitleştir, en iyi sekme yöneticisi, tarayıcı sekme gruplama uygulaması, sekmeleri kolayca organize et, tarayıcı verimlilik aracı"
+  },
+  "title": "Tabber",
+  "subtitle": "Ultimate Sekme Düzenleme Çözümü",
+  "description": "Kullanılmayan sekmeleri organize sanal sekme gruplarına kaydederek ve tüm cihazlarınızla senkronize ederek taramanızı basitleştirin.",
+  "watch_demo": "Demo İzle",
+  "install": {
+    "description": ["Dağınıklıktan arınmış bir tarama deneyimi için Tabber'ı yükleyin.", "Chrome, Edge, Firefox ve Opera'da kullanılabilir. Sekmelerinizi bugün düzenleyin!"],
+    "info": "Tarayıcı yerleşik sekme grupları manipülasyonu sadece Chrome, Edge ve Opera'da (Opera GX hariç) mevcuttur. En iyi deneyim için, bu tarayıcılardan birinde Tabber kullanmanızı öneririz."
+  },
+  "pricing": {
+    "title": "Tabber ücretsizdir!",
+    "description": "Yalnızca ekstra özel özellikler için ve Tabber'ın geliştirilmesini desteklemek istiyorsanız ödeyin.",
+    "free_features": [
+      "10'a kadar Sekme Grubu",
+      "Gruplandırma için Temel Yapay Zeka Modeli",
+      "Manuel Bulut Senkronizasyonu",
+      "Son Yedekleme Senkronizasyonu",
+      "Standart Arkaplan",
+      "Standart Destek",
+      "Tam Temel İşlevsellik"
+    ],
+    "get_started": "Başlayın",
+    "plus": {
+      "title": "Tabber Plus",
+      "description": "Tabber Plus ile web tarama deneyiminizi yükseltin. Sekme karmaşasına elveda deyin ve çevrimiçi çalışma şeklinizi dönüştürecek üretkenliği artıran araçların dünyasını keşfedin.",
+      "upgrade": "Plus'a Yükselt",
+      "price": "Sadece $%price%/ay"
+    }
+  },
+  "support": {
+    "title": "Size nasıl yardımcı olabiliriz?",
+    "description": "Aşağıdaki kaynaklara göz atın ve herhangi bir sorunuz varsa doğrudan bize ulaşın.",
+    "faq": "SSS'leri Araştır",
+    "form": {
+      "title": "Bize Ulaşın",
+      "name": "İsim",
+      "email": "E-posta",
+      "message": "Mesaj",
+      "submit": "Gönder",
+      "success": "Mesajınız başarıyla gönderildi. En kısa sürede size geri döneceğiz.",
+      "error": "Mesajınızı gönderirken bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+      "disclaimer": ["Bu formu göndererek, ", "hizmet şartlarımızı", " ve ", "gizlilik politikamızı", " kabul etmiş olursunuz."]
+    }
+  },
+  "about": {
+    "paragraphs": [
+      {
+        "title": "Tabber Hakkında",
+        "description": [
+          "Tabber, kullanıcıların kullanılmayan sekmeleri özelleştirilebilir sanal sekme gruplarına kolayca gruplandırıp düzenlemesini sağlayarak dağınık ve verimli bir tarama ortamı sunan, sekmeleri yönetmek için benzersiz sanal tarayıcı benzeri bir arayüz sunarak çevrimiçi deneyiminizi akıcılaştırmak ve geliştirmek için tasarlanmış devrim niteliğinde bir tarayıcı uzantısıdır.",
+          "Tabber ile, sekmeleri ekran görüntüleri aracılığıyla kolayca önizleyebilir, sekme gruplarınızı cihazlar arası sorunsuz erişim için senkronize edebilir ve geniş bir özelleştirme ayarları yelpazesiyle deneyiminizi kişiselleştirebilirsiniz. Sekme karmaşası sorununa basit ve sezgisel bir çözüm sunarak, en önemli olan şeylere odaklanmanızı sağlar."
+        ]
+      },
+      {
+        "title": "Yaratıcı Hakkında",
+        "description": [
+          "Ukrayna'dan adanmış bir yazılım geliştiriciyim, yenilikçi ve kullanıcı dostu yazılım çözümleri yaratmaya tutkulu biriyim. Bağımsız bir geliştirici olarak, işlevsellik ve kullanıcı deneyimine olan bağlılığımı yansıtan çeşitli projeler geliştirdim. Uzmanlık alanımın genişliğini gösteren çalışmalarımı neulen.dev adresinde inceleyebilirsiniz.",
+          "Tabber'ı yaratmaktan aldığım keyfi sizin de kullanırken almanızı umuyorum!"
+        ]
+      }
+    ]
+  }
+}

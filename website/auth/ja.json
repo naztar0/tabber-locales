@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "sign_in": {
+      "title": "ログイン",
+      "description": "メールまたはSNSを使用してTabberにログインします"
+    },
+    "sign_out": {
+      "title": "ログアウト",
+      "description": "Tabberからログアウトしました"
+    },
+    "error": {
+      "title": "エラー",
+      "description": "ログイン中に問題が発生しました"
+    },
+    "verify_request": {
+      "title": "メールを確認してください",
+      "description": "ログインリンクがあなたのメールアドレスに送信されました"
+    }
+  },
+  "sign_in": {
+    "title": "Tabberにサインアップする",
+    "or": "または",
+    "continue_with": "%sで続行",
+    "sign_in_with_email": "メールでサインイン",
+    "email_address": "メールアドレス"
+  },
+  "sign_out": {
+    "title": "サインアウトしました",
+    "description": [
+      "Tabberは引き続き使用できますが、データのバックアップやデバイス間での同期は行われません。",
+      "クラウド同期を有効にするには、もう一度サインインしてください。"
+    ],
+    "return": "Tabberに戻る"
+  },
+  "error": {
+    "title": "何か問題が発生しました",
+    "description": [
+      "もう一度サインインしてください。",
+      "別の方法でサインインすることもできます。",
+      "問題が解決しない場合は、お気軽にお問い合わせください。"
+    ]
+  },
+  "verify_request": {
+    "title": "メールを確認してください",
+    "description": ["サインインリンクがメールアドレスに送信されました。"],
+    "open_gmail": "Gmailを開く"
+  }
+}

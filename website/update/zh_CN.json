@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "最新动态",
+    "description": "Tabber 已更新！快来查看新功能和改进。"
+  },
+  "1.5": {
+    "title": "Tabber 更新至 1.5 版本",
+    "subtitle": "探索最新功能和改进",
+    "content_main": [
+      {
+        "title": "排除组保存",
+        "description": [
+          "现在，您可以将特定的标签组排除在保存之外。只需根据名称或颜色将组添加到排除列表。在 Firefox 中不可用。",
+          "此功能位于 设置 → 排除 → 排除组。"
+        ],
+        "image": "/static/update/1.5/groups-exclusions.jpg"
+      },
+      {
+        "title": "检测未保存的表单输入",
+        "description": [
+          "Tabber 现在会在保存标签页之前检查未保存的表单输入。如果检测到未保存的更改，该标签页将不会被保存，从而帮助您避免意外的数据丢失。",
+          "您可以在 设置 → 自动保存 → 不保存有未保存表单输入的标签页 中启用此功能。"
+        ],
+        "image": "/static/update/1.5/unsaved-form-inputs.jpg"
+      },
+      {
+        "title": "保存 YouTube 时间戳",
+        "description": [
+          "现在可以将包含 YouTube 视频的标签页与其时间戳一起保存，从而可以从上次停止的地方继续播放。",
+          "您可以在 设置 → 网站功能 → 保存 YouTube 时间戳 中激活此选项。"
+        ],
+        "image": "/static/update/1.5/youtube-timestamps.jpg"
+      },
+      {
+        "title": "通过标题识别标签页和组",
+        "description": [
+          "现在可以通过标题而不是内部 ID 来识别标签页和组。这解决了某些浏览器（如 Google Chrome）重启后，自动保存计时器重置以及浏览器中组与 Tabber 中组之间连接丢失的问题。",
+          "此选项位于 设置 → 高级设置 → 通过标题识别标签页。"
+        ],
+        "image": "/static/update/1.5/identify-tabs-by-title.jpg"
+      },
+      {
+        "title": "关键操作确认",
+        "description": [
+          "Tabber 现在需要双击确认关键操作，例如保存或恢复所有标签页，以防止意外更改。"
+        ],
+        "image": "/static/update/1.5/confirmations.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "其他改进",
+      "description": [
+        "现在，您可以使用方向键切换活动标签页，以加快导航速度。",
+        "扩展弹窗中新增了支持按钮。",
+        "解决了生成非活动标签页预览的问题。"
+      ]
+    }
+  }
+}

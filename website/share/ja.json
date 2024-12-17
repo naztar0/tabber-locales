@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": {
+      "default": "%color% %name%",
+      "no_name": "%color% タブグループ"
+    },
+    "description": {
+      "default": "Tabberで%user%が共有したタブグループ",
+      "no_user": "Tabberで共有されたタブグループ"
+    },
+    "not_found": {
+      "title": "見つかりません",
+      "description": "インポートしようとしているタブグループは存在しないか、削除されました。"
+    }
+  },
+  "title": "%user% がタブグループを共有しました！",
+  "somebody": "誰か",
+  "tab": {
+    "zero": "%count% タブ",
+    "one": "%count% タブ",
+    "two": "%count% タブ",
+    "few": "%count% タブ",
+    "many": "%count% タブ",
+    "other": "%count% タブ"
+  },
+  "sign_in_to_import": "サインインしてこのグループをインポートしてください",
+  "requirement": "このグループをインポートするにはTabberが必要です",
+  "import": "インポート",
+  "not_found": {
+    "title": "タブグループが見つかりません",
+    "subtitle": "インポートしようとしているタブグループが存在しないか、削除されています。"
+  }
+}

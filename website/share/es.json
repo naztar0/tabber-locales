@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": {
+      "default": "%color% %name%",
+      "no_name": "%color% Grupo de Pestañas"
+    },
+    "description": {
+      "default": "Grupo de pestañas compartido por %user% en Tabber",
+      "no_user": "Grupo de pestañas compartido en Tabber"
+    },
+    "not_found": {
+      "title": "No encontrado",
+      "description": "El grupo de pestañas que intentas importar no existe o ha sido eliminado."
+    }
+  },
+  "title": "¡%user% compartió un grupo de pestañas contigo!",
+  "somebody": "Alguien",
+  "tab": {
+    "zero": "%count% Pestañas",
+    "one": "%count% Pestaña",
+    "two": "%count% Pestañas",
+    "few": "%count% Pestañas",
+    "many": "%count% Pestañas",
+    "other": "%count% Pestañas"
+  },
+  "sign_in_to_import": "Inicia sesión para importar este grupo",
+  "requirement": "Necesitas Tabber para importar este grupo",
+  "import": "Importar",
+  "not_found": {
+    "title": "Grupo de pestañas no encontrado",
+    "subtitle": "El grupo de pestañas que intentas importar no existe o ha sido eliminado."
+  }
+}

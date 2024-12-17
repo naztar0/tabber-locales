@@ -1,0 +1,55 @@
+{
+  "common": {
+    "tabber": "Tabber",
+    "tabber_plus": "Tabber Plus",
+    "sign_up": "Cadastrar-se",
+    "sign_in": "Entrar",
+    "sign_out": "Sair",
+    "free": "Grátis",
+    "plus": "Plus"
+  },
+  "accept_terms": {
+    "accept": "Aceitar",
+    "content": [
+      "Aviso! Nós utilizamos cookies para fornecer a funcionalidade necessária do site, melhorar sua experiência e analisar nosso tráfego. Ao usar nosso site, você concorda com o uso de cookies e com nossa ",
+      "Política de Privacidade",
+      " e ",
+      "Termos de Serviço",
+      "."
+    ]
+  },
+  "header": {
+    "home": "Início",
+    "install": "Instalar",
+    "pricing": "Preços",
+    "contact": "Contato",
+    "about": "Sobre"
+  },
+  "footer": {
+    "about": "Sobre",
+    "faq": "FAQ",
+    "contact": "Contato",
+    "pricing": "Preços",
+    "credits": "Créditos",
+    "patreon": "Patreon",
+    "telegram": "Telegram",
+    "twitter": "Twitter",
+    "github": "GitHub",
+    "terms": "Termos de Uso",
+    "privacy": "Política de Privacidade",
+    "copyright": "©%year% Tabber. Todos os direitos reservados."
+  },
+  "languages": [
+    ["English", "en"],
+    ["Deutsch", "de"],
+    ["Español", "es"],
+    ["Français", "fr"],
+    ["Português", "pt"],
+    ["Русский", "ru"],
+    ["Türkçe", "tr"],
+    ["Українська", "uk"],
+    ["日本語", "ja"],
+    ["简体中文", "zh_CN"],
+    ["繁體中文", "zh_TW"]
+  ]
+}

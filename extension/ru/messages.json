@@ -26,6 +26,12 @@
   "theme_background": {
     "message": "Фон"
   },
+  "theme_background_animation": {
+    "message": "Анимация фона"
+  },
+  "theme_background_custom": {
+    "message": "Пользовательский фон"
+  },
   "use_context_menu": {
     "message": "Использовать контекстное меню"
   },
@@ -59,14 +65,32 @@
   "save_previews_to_cloud": {
     "message": "Сохранять превью в облаке"
   },
-  "sites_whitelist": {
-    "message": "Белый список сайтов"
+  "exclusions": {
+    "message": "Исключения"
+  },
+  "sites_exclusions": {
+    "message": "Исключения для сайтов"
+  },
+  "groups_exclusions": {
+    "message": "Исключения для групп"
   },
   "keyboard_shortcuts": {
     "message": "Горячие клавиши"
   },
+  "sites_features": {
+    "message": "Функции сайтов"
+  },
+  "toolbar_items": {
+    "message": "Элементы панели инструментов"
+  },
   "advanced_settings": {
     "message": "Расширенные настройки"
+  },
+  "click_again_to_confirm": {
+    "message": "Нажмите ещё раз для подтверждения"
+  },
+  "save_youtube_timestamps": {
+    "message": "Сохранять временные метки YouTube"
   },
   "home_page": {
     "message": "Tabber | Главная страница"
@@ -306,7 +330,7 @@
     "message": "Неограниченные группы вкладок"
   },
   "plus_feature_title_2": {
-    "message": "Группировка вкладок с помощью ИИ"
+    "message": "Продвинутая модель ИИ для группировки"
   },
   "plus_feature_title_3": {
     "message": "Автоматическая облачная синхронизация"
@@ -327,7 +351,7 @@
     "message": "Больше нет ограничений на количество группируемых вкладок."
   },
   "plus_feature_desc_2": {
-    "message": "Автоматически группируйте вкладки по их содержанию."
+    "message": "Улучшенная модель ИИ и увеличенные лимиты использования."
   },
   "plus_feature_desc_3": {
     "message": "Ваши вкладки автоматически синхронизируются со всеми вашими устройствами."
@@ -576,7 +600,7 @@
     "message": "Не сохранять вкладки с воспроизведением звука"
   },
   "auto_preserve_no_preserve_with_unsaved_form": {
-    "message": "Не сохранять вкладки с несохраненными формами"
+    "message": "Не сохранять вкладки с несохраненными данными в формах"
   },
   "auto_preserve_no_preserve_active": {
     "message": "Не сохранять активную вкладку"
@@ -662,6 +686,12 @@
   "sites_whitelist_description": {
     "message": "Добавьте URL каждой страницы, которую вы хотите включить в белый список, на новой строке. Например:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nДля включения нескольких сайтов в одной строке вы можете указать часть URL:\ngoogle.com\nВы также можете указать регулярное выражение, заключив текст в косые черты:\n/^https:.*google\\.com/"
   },
+  "groups_whitelist_title": {
+    "message": "Никогда не сохранять вкладки из этих групп"
+  },
+  "groups_whitelist_description": {
+    "message": "Добавьте название каждой группы, которую вы хотите добавить в белый список, с новой строки. Например:\nРабота\nУчёба\nРазвлечения\nВы также можете выбрать цвета групп, которые хотите добавить в белый список."
+  },
   "dynamic_preview_contrast": {
     "message": "Динамический контраст превью"
   },
@@ -670,6 +700,9 @@
   },
   "max_deleted_tabs": {
     "message": "Макс. кол-во удаленных вкладок"
+  },
+  "identify_tabs_by_title": {
+    "message": "Идентифицировать вкладки по названию"
   },
   "pause_auto_preserve": {
     "message": "Приостановить автосохранение"
@@ -682,6 +715,12 @@
   },
   "remove_site_from_whitelist": {
     "message": "Удалить сайт из белого списка"
+  },
+  "never_preserve_this_group": {
+    "message": "Никогда не сохранять эту группу"
+  },
+  "remove_group_from_whitelist": {
+    "message": "Удалить группу из белого списка"
   },
   "ai_group_title": {
     "message": "Группировка вкладок с помощью ИИ"

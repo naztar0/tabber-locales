@@ -1,0 +1,9 @@
+{
+  "sign_in": {
+    "subject": "Iniciar sesión en Tabber",
+    "title": "Haga clic en el botón a continuación para iniciar sesión en Tabber.",
+    "button": "Iniciar sesión",
+    "footer": "Si no solicitó un enlace de inicio de sesión, por favor ignore este correo electrónico.",
+    "plain_text": "Iniciar sesión en Tabber: %link%"
+  }
+}

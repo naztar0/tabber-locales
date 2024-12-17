@@ -26,6 +26,12 @@
   "theme_background": {
     "message": "Fondo"
   },
+  "theme_background_animation": {
+    "message": "Animación de fondo"
+  },
+  "theme_background_custom": {
+    "message": "Fondo personalizado"
+  },
   "use_context_menu": {
     "message": "Usar menú contextual"
   },
@@ -59,14 +65,32 @@
   "save_previews_to_cloud": {
     "message": "Guardar vistas previas en la nube"
   },
-  "sites_whitelist": {
-    "message": "Lista blanca de sitios"
+  "exclusions": {
+    "message": "Exclusiones"
+  },
+  "sites_exclusions": {
+    "message": "Exclusiones de sitios"
+  },
+  "groups_exclusions": {
+    "message": "Exclusiones de grupos"
   },
   "keyboard_shortcuts": {
     "message": "Atajos de teclado"
   },
+  "sites_features": {
+    "message": "Funciones de sitios"
+  },
+  "toolbar_items": {
+    "message": "Elementos de la barra de herramientas"
+  },
   "advanced_settings": {
     "message": "Configuraciones avanzadas"
+  },
+  "click_again_to_confirm": {
+    "message": "Haz clic de nuevo para confirmar"
+  },
+  "save_youtube_timestamps": {
+    "message": "Guardar marcas de tiempo de YouTube"
   },
   "home_page": {
     "message": "Página de inicio de Tabber"
@@ -306,7 +330,7 @@
     "message": "Grupos de pestañas ilimitados"
   },
   "plus_feature_title_2": {
-    "message": "Agrupación de pestañas con IA"
+    "message": "Modelo avanzado de IA para agrupación"
   },
   "plus_feature_title_3": {
     "message": "Sincronización automática en la nube"
@@ -327,7 +351,7 @@
     "message": "Sin límites en el número de pestañas que puedes agrupar."
   },
   "plus_feature_desc_2": {
-    "message": "Agrupa pestañas automáticamente según su contenido."
+    "message": "Modelo de IA mejorado y límites de uso más altos."
   },
   "plus_feature_desc_3": {
     "message": "Tus pestañas se sincronizan automáticamente en todos tus dispositivos."
@@ -662,6 +686,12 @@
   "sites_whitelist_description": {
     "message": "Agregue la URL de cada página que desea incluir en la lista blanca en una nueva línea. Por ejemplo:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPara incluir varios sitios en una línea, puede especificar parte de la URL:\ngoogle.com\nTambién puede especificar expresiones regulares encerrando el texto entre barras diagonales:\n/^https:.*google\\.com/"
   },
+  "groups_whitelist_title": {
+    "message": "Nunca conservar pestañas de estos grupos"
+  },
+  "groups_whitelist_description": {
+    "message": "Añade el nombre de cada grupo que deseas incluir en la lista blanca en una nueva línea. Por ejemplo:\nTrabajo\nEstudio\nEntretenimiento\nTambién puedes seleccionar los colores de los grupos que deseas incluir en la lista blanca."
+  },
   "dynamic_preview_contrast": {
     "message": "Contraste dinámico de vista previa"
   },
@@ -670,6 +700,9 @@
   },
   "max_deleted_tabs": {
     "message": "Pestañas eliminadas máximas"
+  },
+  "identify_tabs_by_title": {
+    "message": "Identificar pestañas por título"
   },
   "pause_auto_preserve": {
     "message": "Pausar preservación automática"
@@ -682,6 +715,12 @@
   },
   "remove_site_from_whitelist": {
     "message": "Eliminar sitio de la lista blanca"
+  },
+  "never_preserve_this_group": {
+    "message": "Nunca conservar este grupo"
+  },
+  "remove_group_from_whitelist": {
+    "message": "Eliminar grupo de la lista blanca"
   },
   "ai_group_title": {
     "message": "Agrupación de pestañas con IA"

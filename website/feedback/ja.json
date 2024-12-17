@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "フィードバック",
+    "description": "フィードバックを共有して、Tabberの改善にご協力ください。"
+  },
+  "title": "ご利用いただけなくなるのは残念です！ 😢",
+  "description": "Tabber を削除する理由を教えてください。サービス改善に役立てたいと思います。あなたの体験は私たちにとって大切です ^_^",
+  "submit": "送信",
+  "success": "ご意見ありがとうございます！ 😊",
+  "items": {
+    "usability_issues": {
+      "label": "Tabber の使い方が難しかった",
+      "question": "混乱した、イライラした、またはその他の理由ですか？",
+      "suggestion": {
+        "label": "質問をしてください",
+        "link": "/#contact"
+      }
+    },
+    "bug_or_missing_feature": {
+      "label": "バグが発生した、または機能が見つからなかった",
+      "question": "バグまたは見つからなかった機能は何ですか？",
+      "suggestion": {
+        "label": "サポートの連絡をする",
+        "link": "/#contact"
+      }
+    },
+    "privacy_concerns": {
+      "label": "プライバシーに関する懸念があります（データ使用、追跡など）",
+      "question": "プライバシーの懸念は何ですか？",
+      "suggestion": {
+        "label": "プライバシーポリシーをご確認ください",
+        "link": "/privacy"
+      }
+    },
+    "found_better_alternative": {
+      "label": "より良い代替案を見つけた",
+      "question": "どの代替案を見つけましたか？"
+    },
+    "no_longer_needed": {
+      "label": "もうこの拡張機能は必要ありません",
+      "question": "ニーズにどのような変化がありましたか？"
+    },
+    "other": {
+      "label": "その他",
+      "question": "Tabber を削除する理由は何ですか？"
+    }
+  }
+}

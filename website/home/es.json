@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Tabber - Solución definitiva para la organización de pestañas",
+    "description": "Simplifica tu navegación guardando pestañas no utilizadas en grupos organizados de pestañas virtuales y sincronizándolas con todos tus dispositivos.",
+    "keywords": "tabber, extensión tabber, gestor de pestañas, herramienta de grupos de pestañas, aplicación para guardar pestañas, organizar pestañas del navegador, grupos de pestañas virtuales, organizador de pestañas del navegador, sincronización de pestañas entre dispositivos, grupos de pestañas personalizables, extensión de productividad para navegador, gestionar pestañas no utilizadas, optimizar la navegación, organización de pestañas en múltiples dispositivos, herramienta de vista previa de pestañas, simplificar la navegación, mejor gestor de pestañas, aplicación de agrupación de pestañas para navegador, organizar pestañas fácilmente, herramienta de productividad para navegador"
+  },
+  "title": "Tabber",
+  "subtitle": "Solución definitiva para la organización de pestañas",
+  "description": "Simplifica tu navegación guardando pestañas no utilizadas en grupos organizados de pestañas virtuales y sincronizándolas con todos tus dispositivos.",
+  "watch_demo": "Ver demostración",
+  "install": {
+    "description": ["Instala Tabber para una experiencia de navegación sin desorden.", "Disponible en Chrome, Edge, Firefox y Opera. ¡Organiza tus pestañas hoy mismo!"],
+    "info": "La manipulación nativa de grupos de pestañas en el navegador solo está disponible en Chrome, Edge y Opera (no en Opera GX). Para la mejor experiencia, recomendamos usar Tabber en uno de estos navegadores."
+  },
+  "pricing": {
+    "title": "¡Tabber es gratuito!",
+    "description": "Paga solo por características especiales adicionales y si deseas apoyar el desarrollo de Tabber.",
+    "free_features": [
+      "Hasta 10 grupos de pestañas",
+      "Modelo de IA básico para agrupar",
+      "Sincronización manual en la nube",
+      "Sincronización de la última copia de seguridad",
+      "Fondo estándar",
+      "Soporte estándar",
+      "Funcionalidad básica completa"
+    ],
+    "get_started": "Comenzar",
+    "plus": {
+      "title": "Tabber Plus",
+      "description": "Mejora tu experiencia de navegación web con Tabber Plus. Di adiós al desorden de pestañas y descubre un mundo de herramientas que mejoran la productividad y transformarán tu forma de trabajar en línea.",
+      "upgrade": "Actualizar a Plus",
+      "price": "Solo $%price%/mes"
+    }
+  },
+  "support": {
+    "title": "¿Cómo podemos ayudarte?",
+    "description": "Consulta los recursos a continuación y contáctanos directamente si tienes alguna pregunta.",
+    "faq": "Buscar en preguntas frecuentes",
+    "form": {
+      "title": "Contáctanos",
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "message": "Mensaje",
+      "submit": "Enviar",
+      "success": "Tu mensaje se ha enviado con éxito. Nos pondremos en contacto contigo lo antes posible.",
+      "error": "Ocurrió un error al enviar tu mensaje. Por favor, inténtalo de nuevo más tarde.",
+      "disclaimer": ["Al enviar este formulario, aceptas nuestros ", "términos de servicio", " y ", "política de privacidad", "."]
+    }
+  },
+  "about": {
+    "paragraphs": [
+      {
+        "title": "Acerca de Tabber",
+        "description": [
+          "Tabber es una extensión de navegador revolucionaria diseñada para agilizar y mejorar tu experiencia en línea, ofreciendo una interfaz única similar a un navegador virtual para gestionar pestañas. Permite a los usuarios agrupar y organizar fácilmente pestañas no utilizadas en grupos de pestañas virtuales personalizables, proporcionando un entorno de navegación libre de desorden y eficiente.",
+          "Con Tabber, puedes previsualizar fácilmente las pestañas a través de capturas de pantalla, sincronizar tus grupos de pestañas en dispositivos para un acceso sin interrupciones y personalizar tu experiencia con una amplia gama de ajustes de personalización. Es una solución simple e intuitiva para el problema del desorden de pestañas, permitiéndote concentrarte en lo que más importa."
+        ]
+      },
+      {
+        "title": "Acerca del Creador",
+        "description": [
+          "Soy un desarrollador de software dedicado de Ucrania, apasionado por crear soluciones de software innovadoras y fáciles de usar. Como desarrollador independiente, he creado una variedad de proyectos, cada uno reflejando mi compromiso con la funcionalidad y la experiencia del usuario. Puedes explorar mi portafolio de trabajos en neulen.dev, mostrando la amplitud de mi experiencia.",
+          "¡Espero que disfrutes usando Tabber tanto como yo disfruté creándolo!"
+        ]
+      }
+    ]
+  }
+}

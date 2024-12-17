@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": {
+      "default": "%color% %name%",
+      "no_name": "%color% 标签组"
+    },
+    "description": {
+      "default": "由 %user% 在 Tabber 上分享的标签组",
+      "no_user": "在 Tabber 上分享的标签组"
+    },
+    "not_found": {
+      "title": "未找到",
+      "description": "您尝试导入的标签组不存在或已被删除。"
+    }
+  },
+  "title": "%user% 与您分享了一个标签组！",
+  "somebody": "某人",
+  "tab": {
+    "zero": "%count% 标签",
+    "one": "%count% 标签",
+    "two": "%count% 标签",
+    "few": "%count% 标签",
+    "many": "%count% 标签",
+    "other": "%count% 标签"
+  },
+  "sign_in_to_import": "登录以导入此组",
+  "requirement": "需要安装 Tabber 才能导入此组",
+  "import": "导入",
+  "not_found": {
+    "title": "未找到标签组",
+    "subtitle": "您尝试导入的标签组不存在或已被删除。"
+  }
+}

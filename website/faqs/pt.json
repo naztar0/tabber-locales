@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "title": "Perguntas Frequentes",
+    "description": "Perguntas frequentes sobre o Tabber"
+  },
+  "title": "Perguntas Frequentes",
+  "footer": ["Não encontrou a resposta que procurava? Use o seguinte ", "formulário de contato", " ou entre em contato conosco em ", "tabber@neulen.dev", "."],
+  "items": [
+    {
+      "question": "Não consigo capturar aba no Firefox. O que devo fazer?",
+      "answer": [
+        "Isso pode acontecer se as permissões necessárias não forem concedidas.",
+        "Para permiti-las, clique no ícone de extensões no canto superior direito do navegador e selecione «Gerenciar extensões». Depois clique na extensão Tabber, em seguida em «Permissões» e habilite a permissão «Acessar seus dados em todos os sites»."
+      ]
+    },
+    {
+      "question": "Por que as pré-visualizações das abas não estão disponíveis?",
+      "answer": [
+        "Existem várias razões pelas quais isso pode acontecer:",
+        "1. Você desativou a opção «Fazer pré-visualização ao preservar» nas configurações da extensão.",
+        "2. Você preservou todo um grupo de abas com essa aba incluída. Mas as pré-visualizações só estão disponíveis para abas que são preservadas individualmente.",
+        "3. A aba foi carregada da nuvem, mas a pré-visualização foi salva localmente em outro dispositivo ou foi excluída após a última sincronização.",
+        "4. Ocorreu algum outro erro. Tente reiniciar o navegador ou reinstalar a extensão.",
+        "A maioria desses problemas pode ser resolvida ativando o salvamento de pré-visualizações na nuvem nas configurações."
+      ]
+    },
+    {
+      "question": "Como alterar o idioma?",
+      "answer": [
+        "O idioma da extensão é selecionado automaticamente com base no idioma do seu navegador. Para alterá-lo, você precisa mudar o idioma do navegador."
+      ]
+    },
+    {
+      "question": "O que significa sincronização automática com a nuvem?",
+      "answer": [
+        "Isso significa que a extensão sincronizará automaticamente seus dados com a nuvem toda vez que você fizer alterações em suas abas.",
+        "Se você acidentalmente excluir uma aba ou um grupo de abas, você pode sempre restaurá-los a partir dos backups na nuvem."
+      ]
+    },
+    {
+      "question": "Como mover abas entre grupos?",
+      "answer": [
+        "Para mover abas entre grupos, clique e segure a aba que deseja mover e depois arraste-a para o grupo desejado."
+      ]
+    },
+    {
+      "question": "Eu me inscrevi no Tabber Plus, mas ainda não tenho acesso às funcionalidades Plus.",
+      "answer": [
+        "Se você fez login usando sua conta do Patreon, mas ainda não tem acesso às funcionalidades Plus, tente reiniciar o navegador ou reiniciar o dispositivo."
+      ]
+    },
+    {
+      "question": "Como posso cancelar minha assinatura Plus?",
+      "answer": [
+        "Você pode cancelar sua assinatura a qualquer momento. Para isso, acesse sua conta Patreon, selecione «Minhas assinaturas» e clique em «Editar» ao lado de Tabber Plus. Em seguida, clique em «Cancelar assinatura».",
+        "Após isso, sua assinatura será cancelada e você não será cobrado no próximo mês. No entanto, você ainda terá acesso aos recursos do Tabber Plus até o final do período de cobrança atual."
+      ]
+    },
+    {
+      "question": "Como alterar os atalhos do teclado no Firefox?",
+      "answer": [
+        "O Firefox requer que os atalhos do teclado sejam alterados manualmente nas configurações do navegador.",
+        "Para alterá-los, clique no ícone de extensões no canto superior direito do navegador e selecione «Gerenciar extensões». Em seguida, clique no ícone de engrenagem no canto superior direito e selecione «Gerenciar atalhos de extensões»."
+      ]
+    }
+  ]
+}

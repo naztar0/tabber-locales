@@ -26,6 +26,12 @@
   "theme_background": {
     "message": "Fundo"
   },
+  "theme_background_animation": {
+    "message": "Animação de fundo"
+  },
+  "theme_background_custom": {
+    "message": "Fundo personalizado"
+  },
   "use_context_menu": {
     "message": "Usar menu de contexto"
   },
@@ -59,14 +65,32 @@
   "save_previews_to_cloud": {
     "message": "Salvar pré-visualizações na nuvem"
   },
-  "sites_whitelist": {
-    "message": "Lista branca de sites"
+  "exclusions": {
+    "message": "Exclusões"
+  },
+  "sites_exclusions": {
+    "message": "Exclusões de sites"
+  },
+  "groups_exclusions": {
+    "message": "Exclusões de grupos"
   },
   "keyboard_shortcuts": {
     "message": "Atalhos de teclado"
   },
+  "sites_features": {
+    "message": "Recursos dos sites"
+  },
+  "toolbar_items": {
+    "message": "Itens da barra de ferramentas"
+  },
   "advanced_settings": {
     "message": "Configurações avançadas"
+  },
+  "click_again_to_confirm": {
+    "message": "Clique novamente para confirmar"
+  },
+  "save_youtube_timestamps": {
+    "message": "Salvar timestamps do YouTube"
   },
   "home_page": {
     "message": "Tabber | Página Inicial"
@@ -306,7 +330,7 @@
     "message": "Grupos de abas ilimitados"
   },
   "plus_feature_title_2": {
-    "message": "Agrupamento de guias com IA"
+    "message": "Modelo avançado de IA para agrupamento"
   },
   "plus_feature_title_3": {
     "message": "Sincronização automática com a nuvem"
@@ -327,7 +351,7 @@
     "message": "Sem limites para o número de abas que você pode agrupar."
   },
   "plus_feature_desc_2": {
-    "message": "Agrupe guias automaticamente com base em seu conteúdo."
+    "message": "Modelo de IA aprimorado e limites de uso mais altos."
   },
   "plus_feature_desc_3": {
     "message": "Suas abas são sincronizadas automaticamente em todos os seus dispositivos."
@@ -662,6 +686,12 @@
   "sites_whitelist_description": {
     "message": "Adicione a URL de cada página que você deseja incluir na lista branca em uma nova linha. Por exemplo:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPara incluir vários sites em uma linha, você pode especificar parte da URL:\ngoogle.com\nVocê também pode especificar regex cercando o texto com barras:\n/^https:.*google\\.com/"
   },
+  "groups_whitelist_title": {
+    "message": "Nunca preservar abas desses grupos"
+  },
+  "groups_whitelist_description": {
+    "message": "Adicione o nome de cada grupo que você deseja incluir na lista de permissões em uma nova linha. Por exemplo:\nTrabalho\nEstudo\nEntretenimento\nVocê também pode selecionar as cores dos grupos que deseja incluir na lista de permissões."
+  },
   "dynamic_preview_contrast": {
     "message": "Contraste dinâmico de pré-visualização"
   },
@@ -670,6 +700,9 @@
   },
   "max_deleted_tabs": {
     "message": "Abas removidas máximas"
+  },
+  "identify_tabs_by_title": {
+    "message": "Identificar abas pelo título"
   },
   "pause_auto_preserve": {
     "message": "Pausar preservação automática"
@@ -682,6 +715,12 @@
   },
   "remove_site_from_whitelist": {
     "message": "Remover site da lista branca"
+  },
+  "never_preserve_this_group": {
+    "message": "Nunca preservar este grupo"
+  },
+  "remove_group_from_whitelist": {
+    "message": "Remover grupo da lista de permissões"
   },
   "ai_group_title": {
     "message": "Agrupamento de guias com IA"
