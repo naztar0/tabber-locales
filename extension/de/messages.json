@@ -77,6 +77,9 @@
   "keyboard_shortcuts": {
     "message": "Tastaturkürzel"
   },
+  "vertical_tabs": {
+    "message": "Vertikale Tabs"
+  },
   "sites_features": {
     "message": "Seitenfunktionen"
   },
@@ -157,6 +160,21 @@
   },
   "bind_sites": {
     "message": "Seiten binden"
+  },
+  "merge_with": {
+    "message": "Zusammenführen mit"
+  },
+  "no_tab_groups": {
+    "message": "Keine Tab-Gruppen"
+  },
+  "all_tab_groups": {
+    "message": "Alle Tab-Gruppen"
+  },
+  "read_less": {
+    "message": "Weniger anzeigen"
+  },
+  "read_more": {
+    "message": "Mehr anzeigen"
   },
   "name": {
     "message": "Name"
@@ -395,6 +413,9 @@
   "file_upload_error": {
     "message": "Fehler beim Hochladen der Datei"
   },
+  "backup_not_found": {
+    "message": "Sicherung nicht gefunden"
+  },
   "sign_in_to_save_previews": {
     "message": "Melden Sie sich an, um Vorschauen in der Cloud zu speichern"
   },
@@ -485,17 +506,14 @@
   "tutorial_preserve_tab_title": {
     "message": "Bewahren Sie Ihren ersten Tab!"
   },
-  "tutorial_preserve_tab_description_1_1": {
-    "message": "1. Gehen Sie zu "
-  },
-  "tutorial_preserve_tab_description_1_2": {
-    "message": " oder einer anderen Webseite."
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Gehen Sie zu %link% oder einer anderen Website."
   },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Klicken Sie auf das Erweiterungssymbol in der oberen rechten Ecke Ihres Browsers ODER klicken Sie mit der rechten Maustaste auf die Seite."
   },
   "tutorial_preserve_tab_description_3": {
-    "message": "3. Wählen Sie «Tab bewahren»."
+    "message": "3. Wählen Sie <kbd>Tab speichern</kbd>."
   },
   "tutorial_preserve_tab_description_4": {
     "message": "4. Kehren Sie zu Tabber zurück."
@@ -513,25 +531,25 @@
     "message": "Erstellen Sie Ihre erste Tab-Gruppe!"
   },
   "tutorial_create_tab_group_description_1": {
-    "message": "1. Klicken Sie auf die Schaltfläche «+»."
+    "message": "1. Klicken Sie auf die Schaltfläche <kbd>+</kbd>."
   },
   "tutorial_create_tab_group_description_2": {
-    "message": "2. Geben Sie einen Namen für Ihre Tab-Gruppe ein, wählen Sie eine Farbe aus und klicken Sie auf «Erstellen»."
+    "message": "2. Geben Sie einen Namen für Ihre Tab-Gruppe ein, wählen Sie eine Farbe und klicken Sie auf <kbd>Erstellen</kbd>."
   },
-  "tutorial_create_tab_group_description_3_1": {
-    "message": "3. Gehen Sie zu "
-  },
-  "tutorial_create_tab_group_description_3_2": {
-    "message": " oder einer anderen Webseite und bewahren Sie sie."
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Gehen Sie zu %link% oder einer anderen Website und speichern Sie diese."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Kehren Sie zu Tabber zurück."
   },
   "tutorial_create_tab_group_description_5": {
-    "message": "5. Klicken Sie mit der rechten Maustaste auf die Tab-Gruppe, die Sie erstellt haben, und wählen Sie «Wiederherstellen»."
+    "message": "5. Klicken Sie mit der rechten Maustaste auf die erstellte Tab-Gruppe und klicken Sie auf <kbd>Wiederherstellen</kbd>."
   },
   "tutorial_create_tab_group_description_6": {
-    "message": "Wenn Ihr Browser die Gruppierung von Tabs unterstützt, können Sie auch die gesamte Tab-Gruppe bewahren, indem Sie auf «Tab-Gruppe bewahren» auf einer der Webseiten der Gruppe klicken."
+    "message": "Um einen Tab in eine andere Gruppe zu verschieben, ziehen Sie ihn einfach in die gewünschte Gruppe."
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "Wenn Ihr Browser Tab-Gruppierung unterstützt, können Sie auch die gesamte Tab-Gruppe speichern, indem Sie auf einer beliebigen Webseite der Gruppe auf <kbd>Tab-Gruppe speichern</kbd> klicken."
   },
   "tutorial_create_tab_group_arrow": {
     "message": "Hier ist der Knopf!"
@@ -543,7 +561,7 @@
     "message": "Schauen Sie sich die Einstellungsseite an und passen Sie das Erscheinungsbild von Tabber nach Ihren Wünschen an."
   },
   "tutorial_settings_description_2": {
-    "message": "Werfen Sie einen Blick auf den Abschnitt „Automatisch beibehalten“, wenn Sie Tabs automatisch beibehalten möchten."
+    "message": "Schauen Sie sich den Bereich <kbd>Automatisch speichern</kbd> an, wenn Sie Tabs automatisch speichern möchten."
   },
   "tutorial_settings_arrow": {
     "message": "Genau hier!"
@@ -555,18 +573,24 @@
     "message": "Sie können die folgenden Tastenkombinationen auf der Tabber-Seite verwenden:"
   },
   "tutorial_shortcuts_description_2": {
-    "message": "1. Drücken Sie „F11“ oder „F“, um Tabber im Vollbild zu öffnen."
+    "message": "1. <kbd>←</kbd> und <kbd>→</kbd> zum Navigieren zwischen Tabs."
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. Drücken Sie „T“, um den zuletzt geschlossenen Reiter wiederherzustellen."
+    "message": "2. <kbd>↑</kbd> und <kbd>↓</kbd> zum Navigieren zwischen Gruppen."
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. Drücken Sie „Strg + F“, um Tabs zu durchsuchen. („Esc“, um zu verlassen)"
+    "message": "3. <kbd>F11</kbd> oder <kbd>F</kbd> um Tabber im Vollbildmodus zu öffnen."
   },
   "tutorial_shortcuts_description_5": {
-    "message": "4. Drücken Sie „Strg + 1“, um Tabber von jeder Seite aus zu öffnen."
+    "message": "4. <kbd>T</kbd> um den zuletzt geschlossenen Tab wiederherzustellen."
   },
   "tutorial_shortcuts_description_6": {
+    "message": "5. <kbd>Strg + F</kbd> um Tabs zu suchen. (<kbd>Esc</kbd> zum Beenden)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Strg + 1</kbd> um Tabber von jeder Seite zu öffnen."
+  },
+  "tutorial_shortcuts_description_8": {
     "message": "Sie können auch Ihre eigenen globalen Tastenkombinationen in den Einstellungen festlegen."
   },
   "tutorial_sign_in_title": {
@@ -583,6 +607,18 @@
   },
   "tutorial_sign_in_arrow_2": {
     "message": "Klicken Sie hier, um ein Backup in der Cloud zu speichern!"
+  },
+  "tutorial_menu_title": {
+    "message": "Suchen Sie nach erweiterten Funktionen?"
+  },
+  "tutorial_menu_description_1": {
+    "message": "Klicken Sie auf das <kbd>⋮</kbd> Menü, um auf <b>Sortierung</b>, <b>Gruppierung</b>, <b>Suche</b> und mehr zuzugreifen!"
+  },
+  "tutorial_menu_description_2": {
+    "message": "Sie können dieses Tutorial auch jederzeit über das Menü erneut aufrufen."
+  },
+  "tutorial_menu_arrow": {
+    "message": "Hier ist es!"
   },
   "auto_preserve": {
     "message": "Automatisch erhalten"
@@ -728,6 +764,9 @@
   "ai_group_description": {
     "message": "Sie werden Ihre Tabs mit Hilfe von KI gruppieren, die ihre Themen basierend auf Titeln und Links analysiert.\nVor der Gruppierung wird eine Sicherungskopie Ihrer aktuellen Tabs erstellt, sodass Sie jederzeit zurücksetzen können.\nDie Anzahl der Anfragen ist begrenzt und hängt von der Anzahl Ihrer Tabs ab. Sie können ungefähr 2 Anfragen pro Tag mit 50 Tabs machen.\nDas KI-Modell ist nicht perfekt und kann Fehler machen. Sie können die Gruppierung manuell korrigieren.\nSie können die Gruppennamen angeben, die vorhanden sein müssen. Geben Sie sie durch Zeilenumbrüche getrennt an, zum Beispiel:\nMeine Arbeit\nStudium\nUnterhaltung"
   },
+  "ai_group_select_group": {
+    "message": "Tabs gruppieren von"
+  },
   "ai_group_error_unauthorized": {
     "message": "Nicht autorisiert"
   },
@@ -775,5 +814,32 @@
   },
   "bind_sites_description": {
     "message": "Liste der Seiten, die automatisch zu dieser Tab-Gruppe hinzugefügt werden, wenn sie gespeichert werden. Fügen Sie die URL jeder Seite, die Sie binden möchten, in eine neue Zeile ein. Beispiel:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nUm mehrere Sites in einer Zeile freizugeben, können Sie einen Teil der URL angeben:\ngoogle.com\nSie können auch Regex angeben, indem Sie den Text in Schrägstriche einschließen:\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "Hey, psst..."
+  },
+  "review_dialog_description": {
+    "message": "Du nutzt diese Erweiterung schon eine Weile, und es sieht so aus, als würdest du sie mögen! Falls das so ist, würdest du vielleicht eine Bewertung im Store hinterlassen? Das würde mir wirklich helfen, sie weiter zu verbessern. Vielen Dank!"
+  },
+  "v_tabs_position": {
+    "message": "Position"
+  },
+  "v_tabs_left": {
+    "message": "Links"
+  },
+  "v_tabs_right": {
+    "message": "Rechts"
+  },
+  "v_tabs_width": {
+    "message": "Breite"
+  },
+  "v_tabs_size": {
+    "message": "Größe"
+  },
+  "v_tabs_n_more": {
+    "message": "$1 weitere..."
+  },
+  "v_tabs_list": {
+    "message": "Liste der Tabs"
   }
 }

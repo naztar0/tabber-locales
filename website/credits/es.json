@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Créditos",
+    "description": "Conoce a las personas increíbles que apoyan el desarrollo de Tabber"
+  },
+  "title": "Gracias a Nuestros Patrocinadores",
+  "description": "Esta página honra a quienes ayudan a hacer posible Tabber a través de sus suscripciones de Patreon y otras contribuciones.",
+  "subtitle": "Tu suscripción no solo te da acceso a funciones premium — impulsa directamente el desarrollo de Tabber para todos. Desde correcciones de errores hasta nuevas capacidades, tu apoyo marca la diferencia.",
+  "join": "Únete en Patreon",
+  "supporting_since": "Apoyando desde %month% de %year%",
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "questions": [
+      {
+        "question": "¿Cómo puedo incluir mi nombre en esta página?",
+        "answer": "Tu nombre se añadirá a nuestra página de Créditos dentro de las 48 horas siguientes a tu suscripción a través de Patreon."
+      },
+      {
+        "question": "¿Puedo mantenerme en el anonimato?",
+        "answer": "¡Absolutamente! Solo háznoslo saber en tu mensaje de Patreon que prefieres permanecer en el anonimato."
+      },
+      {
+        "question": "¿Cuánto tiempo aparecerá mi nombre aquí?",
+        "answer": "Tu nombre se mostrará mientras tu suscripción esté activa."
+      },
+      {
+        "question": "¿Puedo personalizar cómo aparece mi nombre?",
+        "answer": "¡Sí! Háznoslo saber en tu mensaje de Patreon cómo te gustaría que aparecieran tu nombre y tu foto."
+      }
+    ]
+  },
+  "months": {
+    "0": "enero",
+    "1": "febrero",
+    "2": "marzo",
+    "3": "abril",
+    "4": "mayo",
+    "5": "junio",
+    "6": "julio",
+    "7": "agosto",
+    "8": "septiembre",
+    "9": "octubre",
+    "10": "noviembre",
+    "11": "diciembre"
+  }
+}

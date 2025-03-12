@@ -77,6 +77,9 @@
   "keyboard_shortcuts": {
     "message": "Atalhos de teclado"
   },
+  "vertical_tabs": {
+    "message": "Abas verticais"
+  },
   "sites_features": {
     "message": "Recursos dos sites"
   },
@@ -157,6 +160,21 @@
   },
   "bind_sites": {
     "message": "Vincular sites"
+  },
+  "merge_with": {
+    "message": "Mesclar com"
+  },
+  "no_tab_groups": {
+    "message": "Sem grupos de abas"
+  },
+  "all_tab_groups": {
+    "message": "Todos os grupos de abas"
+  },
+  "read_less": {
+    "message": "Ver menos"
+  },
+  "read_more": {
+    "message": "Ver mais"
   },
   "name": {
     "message": "Nome"
@@ -395,6 +413,9 @@
   "file_upload_error": {
     "message": "Erro de upload de arquivo"
   },
+  "backup_not_found": {
+    "message": "Cópia de segurança não encontrada"
+  },
   "sign_in_to_save_previews": {
     "message": "Entre para salvar pré-visualizações na nuvem"
   },
@@ -485,17 +506,14 @@
   "tutorial_preserve_tab_title": {
     "message": "Vamos preservar sua primeira aba!"
   },
-  "tutorial_preserve_tab_description_1_1": {
-    "message": "1. Acesse o "
-  },
-  "tutorial_preserve_tab_description_1_2": {
-    "message": " ou qualquer outro site."
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Vá para %link% ou qualquer outro site."
   },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Clique no ícone da extensão no canto superior direito do seu navegador OU clique com o botão direito na página."
   },
   "tutorial_preserve_tab_description_3": {
-    "message": "3. Selecione «Preservar aba»."
+    "message": "3. Selecione <kbd>Preservar aba</kbd>."
   },
   "tutorial_preserve_tab_description_4": {
     "message": "4. Volte para o Tabber."
@@ -513,25 +531,25 @@
     "message": "Crie seu primeiro grupo de abas!"
   },
   "tutorial_create_tab_group_description_1": {
-    "message": "1. Clique no botão «+»."
+    "message": "1. Clique no botão <kbd>+</kbd>."
   },
   "tutorial_create_tab_group_description_2": {
-    "message": "2. Digite um nome para o seu grupo de abas, selecione uma cor e clique em «Criar»."
+    "message": "2. Digite um nome para seu grupo de abas, selecione uma cor e clique em <kbd>Criar</kbd>."
   },
-  "tutorial_create_tab_group_description_3_1": {
-    "message": "3. Acesse o "
-  },
-  "tutorial_create_tab_group_description_3_2": {
-    "message": " ou qualquer outro site e preservá-lo."
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Vá para %link% ou qualquer outro site e preserve-o."
   },
   "tutorial_create_tab_group_description_4": {
-    "message": "4. Volte para o Tabber."
+    "message": "4. Retorne ao Tabber."
   },
   "tutorial_create_tab_group_description_5": {
-    "message": "5. Clique com o botão direito no grupo de abas que você criou e clique em «Restaurar»."
+    "message": "5. Clique com o botão direito no grupo de abas que você criou e clique em <kbd>Restaurar</kbd>."
   },
   "tutorial_create_tab_group_description_6": {
-    "message": "Se o seu navegador suportar agrupamento de abas, você também pode preservar todo o grupo de abas clicando em «Preservar grupo de abas» em qualquer uma das páginas da web do grupo."
+    "message": "Para mover uma aba para outro grupo, simplesmente arraste-a para o grupo desejado."
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "Se seu navegador suporta agrupamento de abas, você também pode preservar todo o grupo clicando em <kbd>Preservar grupo de abas</kbd> em qualquer página do grupo."
   },
   "tutorial_create_tab_group_arrow": {
     "message": "Aqui está o botão!"
@@ -543,7 +561,7 @@
     "message": "Consulte a página de configurações e ajuste a aparência do Tabber de acordo com suas preferências."
   },
   "tutorial_settings_description_2": {
-    "message": "Confira a seção «Auto preservar» se desejar preservar automaticamente as abas."
+    "message": "Confira a seção <kbd>Preservação automática</kbd> se você deseja preservar abas automaticamente."
   },
   "tutorial_settings_arrow": {
     "message": "Bem aqui!"
@@ -555,19 +573,25 @@
     "message": "Você pode usar os seguintes atalhos de teclado na página do Tabber:"
   },
   "tutorial_shortcuts_description_2": {
-    "message": "1. Pressione «F11» ou «F» para abrir o Tabber em tela cheia."
+    "message": "1. <kbd>←</kbd> e <kbd>→</kbd> para navegar entre abas."
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. Pressione «T» para restaurar a última aba fechada."
+    "message": "2. <kbd>↑</kbd> e <kbd>↓</kbd> para navegar entre grupos."
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. Pressione «Ctrl + F» para buscar abas. («Esc» para sair)"
+    "message": "3. <kbd>F11</kbd> ou <kbd>F</kbd> para abrir o Tabber em tela cheia."
   },
   "tutorial_shortcuts_description_5": {
-    "message": "4. Pressione «Ctrl + 1» para abrir o Tabber de qualquer página."
+    "message": "4. <kbd>T</kbd> para restaurar a última aba fechada."
   },
   "tutorial_shortcuts_description_6": {
-    "message": "Você também pode configurar seus próprios atalhos globais nas configurações."
+    "message": "5. <kbd>Ctrl + F</kbd> para pesquisar abas. (<kbd>Esc</kbd> para sair)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Ctrl + 1</kbd> para abrir o Tabber de qualquer página."
+  },
+  "tutorial_shortcuts_description_8": {
+    "message": "Você também pode definir seus próprios atalhos globais nas configurações."
   },
   "tutorial_sign_in_title": {
     "message": "Nunca mais perca suas abas!"
@@ -583,6 +607,18 @@
   },
   "tutorial_sign_in_arrow_2": {
     "message": "Clique aqui para salvar backup na nuvem!"
+  },
+  "tutorial_menu_title": {
+    "message": "Procurando recursos avançados?"
+  },
+  "tutorial_menu_description_1": {
+    "message": "Clique no menu <kbd>⋮</kbd> para acessar <b>ordenação</b>, <b>agrupamento</b>, <b>pesquisa</b> e mais!"
+  },
+  "tutorial_menu_description_2": {
+    "message": "Você também pode revisitar este tutorial através do menu a qualquer momento."
+  },
+  "tutorial_menu_arrow": {
+    "message": "Está aqui!"
   },
   "auto_preserve": {
     "message": "Auto preservar"
@@ -728,6 +764,9 @@
   "ai_group_description": {
     "message": "Você vai agrupar suas guias usando IA, que irá analisar seus tópicos com base nos títulos e links.\nAntes do agrupamento, um backup de suas guias atuais será criado, então você sempre poderá desfazer.\nO número de solicitações é limitado e depende do número de suas guias. Você pode fazer aproximadamente 2 solicitações por dia com 50 guias.\nO modelo de IA não é perfeito e pode cometer erros. Você sempre pode corrigir o agrupamento manualmente.\nVocê pode especificar os nomes de grupos que devem estar presentes. Especifique-os separados por quebras de linha, por exemplo:\nMeu Trabalho\nEstudo\nEntretenimento"
   },
+  "ai_group_select_group": {
+    "message": "Agrupar abas de"
+  },
   "ai_group_error_unauthorized": {
     "message": "Não autorizado"
   },
@@ -775,5 +814,32 @@
   },
   "bind_sites_description": {
     "message": "Lista de sites que serão automaticamente adicionados a este grupo de abas quando forem preservados. Adicione a URL de cada página que deseja vincular em uma nova linha. Por exemplo:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPara incluir vários sites em uma linha, você pode especificar parte da URL:\ngoogle.com\nVocê também pode especificar regex cercando o texto com barras:\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "Ei, psst..."
+  },
+  "review_dialog_description": {
+    "message": "Tens usado esta extensão há algum tempo e parece que gostas dela! Se for o caso, poderias deixar uma avaliação na loja? Isso ajudaria imenso a melhorá-la ainda mais. Muito obrigado!"
+  },
+  "v_tabs_position": {
+    "message": "Posição"
+  },
+  "v_tabs_left": {
+    "message": "Esquerda"
+  },
+  "v_tabs_right": {
+    "message": "Direita"
+  },
+  "v_tabs_width": {
+    "message": "Largura"
+  },
+  "v_tabs_size": {
+    "message": "Tamanho"
+  },
+  "v_tabs_n_more": {
+    "message": "Mais $1..."
+  },
+  "v_tabs_list": {
+    "message": "Lista de abas"
   }
 }

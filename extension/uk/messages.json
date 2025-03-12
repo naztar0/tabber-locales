@@ -77,6 +77,9 @@
   "keyboard_shortcuts": {
     "message": "Гарячі клавіші"
   },
+  "vertical_tabs": {
+    "message": "Вертикальні вкладки"
+  },
   "sites_features": {
     "message": "Функції сайтів"
   },
@@ -157,6 +160,21 @@
   },
   "bind_sites": {
     "message": "Прив'язати сайти"
+  },
+  "merge_with": {
+    "message": "Об'єднати з"
+  },
+  "no_tab_groups": {
+    "message": "Немає груп вкладок"
+  },
+  "all_tab_groups": {
+    "message": "Усі групи вкладок"
+  },
+  "read_less": {
+    "message": "Згорнути"
+  },
+  "read_more": {
+    "message": "Розгорнути"
   },
   "name": {
     "message": "Ім'я"
@@ -395,6 +413,9 @@
   "file_upload_error": {
     "message": "Помилка завантаження файлу"
   },
+  "backup_not_found": {
+    "message": "Резервну копію не знайдено"
+  },
   "sign_in_to_save_previews": {
     "message": "Увійдіть, щоб зберегти прев'ю в хмарі"
   },
@@ -485,17 +506,14 @@
   "tutorial_preserve_tab_title": {
     "message": "Збережімо вашу першу вкладку!"
   },
-  "tutorial_preserve_tab_description_1_1": {
-    "message": "1. Перейдіть на "
-  },
-  "tutorial_preserve_tab_description_1_2": {
-    "message": " або на будь-який інший сайт."
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Перейдіть на %link% або будь-який інший сайт."
   },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Клацніть по значку розширення у верхньому правому куті вашого браузера АБО клацніть правою кнопкою миші на сторінці."
   },
   "tutorial_preserve_tab_description_3": {
-    "message": "3. Виберіть «Зберегти вкладку»."
+    "message": "3. Виберіть <kbd>Зберегти вкладку</kbd>."
   },
   "tutorial_preserve_tab_description_4": {
     "message": "4. Поверніться до Tabber."
@@ -513,25 +531,25 @@
     "message": "Створіть свою першу групу вкладок!"
   },
   "tutorial_create_tab_group_description_1": {
-    "message": "1. Клацніть по кнопці «+»."
+    "message": "1. Натисніть кнопку <kbd>+</kbd>."
   },
   "tutorial_create_tab_group_description_2": {
-    "message": "2. Введіть назву для вашої групи вкладок, виберіть колір і клацніть «Створити»."
+    "message": "2. Введіть назву для групи вкладок, виберіть колір та натисніть <kbd>Створити</kbd>."
   },
-  "tutorial_create_tab_group_description_3_1": {
-    "message": "3. Перейдіть на "
-  },
-  "tutorial_create_tab_group_description_3_2": {
-    "message": " або на будь-який інший сайт і збережіть його."
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Перейдіть на %link% або будь-який інший сайт та збережіть його."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Поверніться до Tabber."
   },
   "tutorial_create_tab_group_description_5": {
-    "message": "5. Клацніть правою кнопкою миші по створеній вами групі вкладок та виберіть «Відновити»."
+    "message": "5. Клацніть правою кнопкою миші на створеній групі вкладок та натисніть <kbd>Відновити</kbd>."
   },
   "tutorial_create_tab_group_description_6": {
-    "message": "Якщо ваш браузер підтримує групування вкладок, ви також можете зберегти всю групу вкладок, клацнувши «Зберегти групу вкладок» на будь-якій сторінці групи."
+    "message": "Щоб перемістити вкладку в іншу групу, просто перетягніть її до потрібної групи."
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "Якщо ваш браузер підтримує групування вкладок, ви також можете зберегти всю групу, натиснувши <kbd>Зберегти групу вкладок</kbd> на будь-якій веб-сторінці групи."
   },
   "tutorial_create_tab_group_arrow": {
     "message": "Ось кнопка!"
@@ -543,7 +561,7 @@
     "message": "Загляньте в розділ налаштувань і кастомізуйте Tabber за своїм смаком."
   },
   "tutorial_settings_description_2": {
-    "message": "Перевірте пункт «Автоматичне збереження», якщо хочете автоматично зберігати вкладки."
+    "message": "Ознайомтесь з розділом <kbd>Автоматичне збереження</kbd>, якщо хочете зберігати вкладки автоматично."
   },
   "tutorial_settings_arrow": {
     "message": "Ось тут!"
@@ -555,19 +573,25 @@
     "message": "Ви можете використовувати наступні комбінації клавіш на сторінці Tabber:"
   },
   "tutorial_shortcuts_description_2": {
-    "message": "1. Натисніть «F11» або «F», щоб відкрити Tabber у повноекранному режимі."
+    "message": "1. <kbd>←</kbd> та <kbd>→</kbd> для навігації між вкладками."
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. Натисніть «T», щоб відновити останню закриту вкладку."
+    "message": "2. <kbd>↑</kbd> та <kbd>↓</kbd> для навігації між групами."
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. Натисніть «Ctrl + F», щоб шукати вкладки. («Esc» для виходу)"
+    "message": "3. <kbd>F11</kbd> або <kbd>F</kbd> для відкриття Tabber у повноекранному режимі."
   },
   "tutorial_shortcuts_description_5": {
-    "message": "4. Натисніть «Ctrl + 1», щоб відкрити Tabber з будь-якої сторінки."
+    "message": "4. <kbd>T</kbd> для відновлення останньої закритої вкладки."
   },
   "tutorial_shortcuts_description_6": {
-    "message": "Ви також можете встановити власні глобальні комбінації клавіш в налаштуваннях."
+    "message": "5. <kbd>Ctrl + F</kbd> для пошуку вкладок. (<kbd>Esc</kbd> для виходу)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Ctrl + 1</kbd> для відкриття Tabber з будь-якої сторінки."
+  },
+  "tutorial_shortcuts_description_8": {
+    "message": "Ви також можете налаштувати власні глобальні комбінації клавіш у налаштуваннях."
   },
   "tutorial_sign_in_title": {
     "message": "Більше ніколи не втрачайте свої вкладки!"
@@ -583,6 +607,18 @@
   },
   "tutorial_sign_in_arrow_2": {
     "message": "Клацніть тут, щоб зберегти резервну копію в хмарі!"
+  },
+  "tutorial_menu_title": {
+    "message": "Шукаєте розширені функції?"
+  },
+  "tutorial_menu_description_1": {
+    "message": "Натисніть на меню <kbd>⋮</kbd> для доступу до <b>сортування</b>, <b>групування</b>, <b>пошуку</b> та іншого!"
+  },
+  "tutorial_menu_description_2": {
+    "message": "Ви також можете повернутися до цього туторіалу через меню в будь-який час."
+  },
+  "tutorial_menu_arrow": {
+    "message": "Ось воно!"
   },
   "auto_preserve": {
     "message": "Автоматичне збереження"
@@ -728,6 +764,9 @@
   "ai_group_description": {
     "message": "Ви згрупуєте ваші вкладки за допомогою ШІ, який проаналізує їхні теми на основі заголовків і посилань.\nПеред групуванням буде створено резервну копію ваших поточних вкладок, тому ви завжди зможете повернутися до початкового стану.\nКількість запитів обмежена і залежить від кількості ваших вкладок. Ви можете робити приблизно 2 запити на день при 50 вкладках.\nМодель ШІ не ідеальна і може допускати помилки. Ви завжди зможете виправити групування вручну.\nВи можете вказати назви груп, які мають обов'язково бути присутніми. Вкажіть їх, розділяючи переносами рядків, наприклад:\nМоя робота\nНавчання\nРозваги"
   },
+  "ai_group_select_group": {
+    "message": "Групувати вкладки з"
+  },
   "ai_group_error_unauthorized": {
     "message": "Неавторизовано"
   },
@@ -775,5 +814,32 @@
   },
   "bind_sites_description": {
     "message": "Список сайтів, які будуть автоматично додані до цієї групи вкладок, коли вони будуть збережені. Додайте URL кожної сторінки, яку ви хочете прив'язати, на новому рядку. Наприклад:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nЩоб включити кілька сайтів в одному рядку, ви можете вказати частину URL:\ngoogle.com\nВи також можете вказати регулярний вираз, заключивши текст в скісні риски:\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "Гей, пссс..."
+  },
+  "review_dialog_description": {
+    "message": "Ти вже давно користуєшся цим розширенням, і, здається, воно тобі подобається! Якщо це так, не міг би ти залишити відгук у магазині? Це дійсно допоможе мені його вдосконалювати. Дуже дякую!"
+  },
+  "v_tabs_position": {
+    "message": "Позиція"
+  },
+  "v_tabs_left": {
+    "message": "Зліва"
+  },
+  "v_tabs_right": {
+    "message": "Справа"
+  },
+  "v_tabs_width": {
+    "message": "Ширина"
+  },
+  "v_tabs_size": {
+    "message": "Розмір"
+  },
+  "v_tabs_n_more": {
+    "message": "Ще $1..."
+  },
+  "v_tabs_list": {
+    "message": "Список вкладок"
   }
 }

@@ -55,5 +55,50 @@
         "Resolved an issue with making previews for inactive tabs."
       ]
     }
+  },
+  "1.8": {
+    "title": "Tabber Updated to Version 1.8",
+    "subtitle": "Discover the Latest Features and Enhancements",
+    "content_main": [
+      {
+        "title": "Vertical Tabs",
+        "description": [
+          "The very feature that many have been waiting for so long!",
+          "Now with multiple tabs, navigation between them will be easier. The appearance of this list can be flexibly customized through settings. Also, there will now always be only one row of tabs."
+        ],
+        "image": "/static/update/1.8/vertical-tabs.jpg"
+      },
+      {
+        "title": "Select the tab group for grouping",
+        "description": [
+          "Despite the tautology, here's an equally necessary feature.",
+          "Now you can group not only all preserved tabs but selectively group specific ones. Simply select the desired group in the popup menu."
+        ],
+        "image": "/static/update/1.8/select-tab-group.jpg"
+      },
+      {
+        "title": "Merge tab groups",
+        "description": [
+          "A function for merging tab groups has been added.",
+          "To do this, right-click on a group and select 'Merge with'."
+        ],
+        "image": "/static/update/1.8/merge-tab-groups.jpg"
+      },
+      {
+        "title": "Supporters Page",
+        "description": [
+          "Now when you support the project on Patreon, your name will be displayed on the credits page. You can choose your display name, avatar, or remain anonymous.",
+          "This page can be found in the footer of this site."
+        ],
+        "image": "/static/update/1.8/supporters-page.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "Other Improvements",
+      "description": [
+        "Added icons to the toolbar items select menu.",
+        "Added a default color to the color picker."
+      ]
+    }
   }
 }

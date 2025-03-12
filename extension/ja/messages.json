@@ -77,6 +77,9 @@
   "keyboard_shortcuts": {
     "message": "キーボードショートカット"
   },
+  "vertical_tabs": {
+    "message": "垂直タブ"
+  },
   "sites_features": {
     "message": "サイトの機能"
   },
@@ -157,6 +160,21 @@
   },
   "bind_sites": {
     "message": "サイトをバインド"
+  },
+  "merge_with": {
+    "message": "マージ先"
+  },
+  "no_tab_groups": {
+    "message": "タブグループがありません"
+  },
+  "all_tab_groups": {
+    "message": "すべてのタブグループ"
+  },
+  "read_less": {
+    "message": "閉じる"
+  },
+  "read_more": {
+    "message": "もっと見る"
   },
   "name": {
     "message": "名前"
@@ -395,6 +413,9 @@
   "file_upload_error": {
     "message": "ファイルアップロードエラー"
   },
+  "backup_not_found": {
+    "message": "バックアップが見つかりません"
+  },
   "sign_in_to_save_previews": {
     "message": "クラウドにプレビューを保存するためにサインイン"
   },
@@ -485,17 +506,14 @@
   "tutorial_preserve_tab_title": {
     "message": "最初のタブを保存しましょう！"
   },
-  "tutorial_preserve_tab_description_1_1": {
-    "message": "1. "
-  },
-  "tutorial_preserve_tab_description_1_2": {
-    "message": "または他のウェブサイトにアクセスします。"
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. %link%または他のウェブサイトに移動します。"
   },
   "tutorial_preserve_tab_description_2": {
     "message": "2. ブラウザーの右上にある拡張機能のアイコンをクリックするか、ページを右クリックします。"
   },
   "tutorial_preserve_tab_description_3": {
-    "message": "3. 「タブを保存する」を選択します。"
+    "message": "3. <kbd>タブを保存</kbd>を選択します。"
   },
   "tutorial_preserve_tab_description_4": {
     "message": "4. Tabberに戻ります。"
@@ -513,25 +531,25 @@
     "message": "最初のタブグループを作成しましょう！"
   },
   "tutorial_create_tab_group_description_1": {
-    "message": "1. 「+」ボタンをクリックします。"
+    "message": "1. <kbd>+</kbd>ボタンをクリックします。"
   },
   "tutorial_create_tab_group_description_2": {
-    "message": "2. タブグループの名前を入力し、色を選択して「作成」をクリックします。"
+    "message": "2. タブグループの名前を入力し、色を選択して<kbd>作成</kbd>をクリックします。"
   },
-  "tutorial_create_tab_group_description_3_1": {
-    "message": "3. "
-  },
-  "tutorial_create_tab_group_description_3_2": {
-    "message": "または他のウェブサイトにアクセスして保存します。"
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. %link%または他のウェブサイトに移動して保存します。"
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Tabberに戻ります。"
   },
   "tutorial_create_tab_group_description_5": {
-    "message": "5. 作成したタブグループを右クリックし、「復元」をクリックします。"
+    "message": "5. 作成したタブグループを右クリックし、<kbd>復元</kbd>をクリックします。"
   },
   "tutorial_create_tab_group_description_6": {
-    "message": "ブラウザがタブグルーピングをサポートしている場合、グループ内の任意のウェブページで「タブグループを保存する」をクリックして、タブグループ全体を保存することもできます。"
+    "message": "タブを別のグループに移動するには、目的のグループにドラッグするだけです。"
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "ブラウザがタブのグループ化をサポートしている場合、グループ内の任意のウェブページで<kbd>タブグループを保存</kbd>をクリックしてグループ全体を保存することもできます。"
   },
   "tutorial_create_tab_group_arrow": {
     "message": "こちらがボタンです！"
@@ -543,7 +561,7 @@
     "message": "設定ページを確認して、Tabberの外観とフィールをお好みに調整してください。"
   },
   "tutorial_settings_description_2": {
-    "message": "タブを自動的に保持する場合は、「自動で保持」セクションを確認してください。"
+    "message": "タブを自動的に保存したい場合は、<kbd>自動保存</kbd>セクションをご確認ください。"
   },
   "tutorial_settings_arrow": {
     "message": "ここです！"
@@ -555,19 +573,25 @@
     "message": "Tabberページで次のキーボードショートカットを使用できます："
   },
   "tutorial_shortcuts_description_2": {
-    "message": "1. 「F11」または「F」を押してTabberをフルスクリーンで開きます。"
+    "message": "1. <kbd>←</kbd>と<kbd>→</kbd>でタブ間を移動。"
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. 「T」を押すと、最後に閉じたタブを復元できます。"
+    "message": "2. <kbd>↑</kbd>と<kbd>↓</kbd>でグループ間を移動。"
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. タブを検索するには「Ctrl + F」を押します（終了するには「Esc」）。"
+    "message": "3. <kbd>F11</kbd>または<kbd>F</kbd>でTabberを全画面で開く。"
   },
   "tutorial_shortcuts_description_5": {
-    "message": "4. 任意のページで「Ctrl + 1」を押してTabberを開きます。"
+    "message": "4. <kbd>T</kbd>で最後に閉じたタブを復元。"
   },
   "tutorial_shortcuts_description_6": {
-    "message": "設定で独自のグローバルショートカットも設定できます。"
+    "message": "5. <kbd>Ctrl + F</kbd>でタブを検索。(<kbd>Esc</kbd>で終了)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Ctrl + 1</kbd>で任意のページからTabberを開く。"
+  },
+  "tutorial_shortcuts_description_8": {
+    "message": "設定で独自のグローバルショートカットを設定することもできます。"
   },
   "tutorial_sign_in_title": {
     "message": "もう二度とタブを失わない！"
@@ -583,6 +607,18 @@
   },
   "tutorial_sign_in_arrow_2": {
     "message": "ここをクリックしてクラウドにバックアップを保存！"
+  },
+  "tutorial_menu_title": {
+    "message": "高度な機能をお探しですか？"
+  },
+  "tutorial_menu_description_1": {
+    "message": "<kbd>⋮</kbd>メニューをクリックして、<b>並べ替え</b>、<b>グループ化</b>、<b>検索</b>などにアクセス！"
+  },
+  "tutorial_menu_description_2": {
+    "message": "このチュートリアルはメニューからいつでも再表示できます。"
+  },
+  "tutorial_menu_arrow": {
+    "message": "ここにあります！"
   },
   "auto_preserve": {
     "message": "自動保存"
@@ -728,6 +764,9 @@
   "ai_group_description": {
     "message": "タイトルとリンクに基づいてトピックを解析する AI を使用してタブをグループ化します。\nグループ化する前に、現在のタブのバックアップが作成されるため、いつでも元に戻すことができます。\nリクエスト数はタブの数に応じて制限されています。50 個のタブで 1 日に約 2 回のリクエストが可能です。\nAI モデルは完全ではなく、間違いを起こす可能性があります。手動で修正できます。\n存在する必要のあるグループ名を指定できます。次のように改行で区切って指定してください。\n私の仕事\n勉強\nエンターテインメント"
   },
+  "ai_group_select_group": {
+    "message": "タブのグループ元"
+  },
   "ai_group_error_unauthorized": {
     "message": "認証されていません"
   },
@@ -775,5 +814,32 @@
   },
   "bind_sites_description": {
     "message": "保存されたときにこのタブグループに自動的に追加されるサイトのリスト。バインドしたい各ページのURLを新しい行に追加してください。例:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n1行で複数のサイトをホワイトリストに追加するには、URLの一部を指定できます:\ngoogle.com\nまた、テキストをスラッシュで囲んで正規表現を指定することもできます:\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "ねえ、シーッ…"
+  },
+  "review_dialog_description": {
+    "message": "この拡張機能をしばらく使っているみたいだけど、気に入ってるのかな？ もしそうなら、ストアでレビューを書いてもらえない？ 改善を続けるためにとても助かるんだ。ありがとう！"
+  },
+  "v_tabs_position": {
+    "message": "位置"
+  },
+  "v_tabs_left": {
+    "message": "左"
+  },
+  "v_tabs_right": {
+    "message": "右"
+  },
+  "v_tabs_width": {
+    "message": "幅"
+  },
+  "v_tabs_size": {
+    "message": "サイズ"
+  },
+  "v_tabs_n_more": {
+    "message": "他$1件..."
+  },
+  "v_tabs_list": {
+    "message": "タブリスト"
   }
 }

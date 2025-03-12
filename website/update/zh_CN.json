@@ -55,5 +55,50 @@
         "解决了生成非活动标签页预览的问题。"
       ]
     }
+  },
+  "1.8": {
+    "title": "Tabber更新至1.8版本",
+    "subtitle": "探索最新功能和改进",
+    "content_main": [
+      {
+        "title": "垂直标签栏",
+        "description": [
+          "这是许多人期待已久的功能！",
+          "现在有了多个标签页，在它们之间导航将更加容易。这个列表的外观可以通过设置灵活地自定义。此外，现在将始终只有一行标签页。"
+        ],
+        "image": "/static/update/1.8/vertical-tabs.jpg"
+      },
+      {
+        "title": "选择用于分组的标签组",
+        "description": [
+          "尽管这是同义重复，但这也是同样必要的功能。",
+          "现在您不仅可以对所有保存的标签页进行分组，还可以选择性地对特定标签页进行分组。只需在弹出菜单中选择所需的组即可。"
+        ],
+        "image": "/static/update/1.8/select-tab-group.jpg"
+      },
+      {
+        "title": "合并标签组",
+        "description": [
+          "增加了合并标签组的功能。",
+          "要执行此操作，请右键单击一个组并选择「合并到」。"
+        ],
+        "image": "/static/update/1.8/merge-tab-groups.jpg"
+      },
+      {
+        "title": "支持者页面",
+        "description": [
+          "现在，当您在Patreon上支持项目时，您的名字将显示在鸣谢页面上。您可以选择显示名称、头像或保持匿名。",
+          "此页面可在本站底部找到。"
+        ],
+        "image": "/static/update/1.8/supporters-page.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "其他改进",
+      "description": [
+        "在工具栏项目选择菜单中添加了图标。",
+        "在颜色选择器中添加了默认颜色。"
+      ]
+    }
   }
 }

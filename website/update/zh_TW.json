@@ -55,5 +55,50 @@
         "已解決建立非活動標籤頁預覽的問題。"
       ]
     }
+  },
+  "1.8": {
+    "title": "Tabber更新至1.8版本",
+    "subtitle": "探索最新功能和改進",
+    "content_main": [
+      {
+        "title": "垂直標籤欄",
+        "description": [
+          "這是許多人期待已久的功能！",
+          "現在有了多個標籤頁，在它們之間導航將更加容易。這個列表的外觀可以通過設置靈活地自定義。此外，現在將始終只有一行標籤頁。"
+        ],
+        "image": "/static/update/1.8/vertical-tabs.jpg"
+      },
+      {
+        "title": "選擇用於分組的標籤組",
+        "description": [
+          "儘管這是同義重複，但這也是同樣必要的功能。",
+          "現在您不僅可以對所有保存的標籤頁進行分組，還可以選擇性地對特定標籤頁進行分組。只需在彈出菜單中選擇所需的組即可。"
+        ],
+        "image": "/static/update/1.8/select-tab-group.jpg"
+      },
+      {
+        "title": "合併標籤組",
+        "description": [
+          "增加了合併標籤組的功能。",
+          "要執行此操作，請右鍵單擊一個組並選擇「合併到」。"
+        ],
+        "image": "/static/update/1.8/merge-tab-groups.jpg"
+      },
+      {
+        "title": "支持者頁面",
+        "description": [
+          "現在，當您在Patreon上支持項目時，您的名字將顯示在致謝頁面上。您可以選擇顯示名稱、頭像或保持匿名。",
+          "此頁面可在本站底部找到。"
+        ],
+        "image": "/static/update/1.8/supporters-page.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "其他改進",
+      "description": [
+        "在工具欄項目選擇菜單中添加了圖標。",
+        "在顏色選擇器中添加了默認顏色。"
+      ]
+    }
   }
 }

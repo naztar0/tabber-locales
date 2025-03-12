@@ -77,6 +77,9 @@
   "keyboard_shortcuts": {
     "message": "Klavye kısayolları"
   },
+  "vertical_tabs": {
+    "message": "Dikey sekmeler"
+  },
   "sites_features": {
     "message": "Site özellikleri"
   },
@@ -157,6 +160,21 @@
   },
   "bind_sites": {
     "message": "Siteleri bağla"
+  },
+  "merge_with": {
+    "message": "Şununla birleştir"
+  },
+  "no_tab_groups": {
+    "message": "Sekme grubu yok"
+  },
+  "all_tab_groups": {
+    "message": "Tüm sekme grupları"
+  },
+  "read_less": {
+    "message": "Daha az göster"
+  },
+  "read_more": {
+    "message": "Daha fazla göster"
   },
   "name": {
     "message": "İsim"
@@ -395,6 +413,9 @@
   "file_upload_error": {
     "message": "Dosya yükleme hatası"
   },
+  "backup_not_found": {
+    "message": "Yedekleme bulunamadı"
+  },
   "sign_in_to_save_previews": {
     "message": "Önizlemeleri bulutta kaydetmek için oturum açın"
   },
@@ -485,17 +506,14 @@
   "tutorial_preserve_tab_title": {
     "message": "İlk sekmeyi saklayalım!"
   },
-  "tutorial_preserve_tab_description_1_1": {
-    "message": "1. Şu siteye gidin: "
-  },
-  "tutorial_preserve_tab_description_1_2": {
-    "message": " veya başka bir web sitesine."
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. %link% veya başka bir web sitesine gidin."
   },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Tarayıcınızın sağ üst köşesindeki eklenti simgesine tıklayın YA DA sayfaya sağ tıklayın."
   },
   "tutorial_preserve_tab_description_3": {
-    "message": "3. 'Sekme sakla' seçeneğini seçin."
+    "message": "3. <kbd>Sekmeyi koru</kbd>'yu seçin."
   },
   "tutorial_preserve_tab_description_4": {
     "message": "4. Tabber'a geri dönün."
@@ -513,25 +531,25 @@
     "message": "İlk sekmeler grubunuzu oluşturun!"
   },
   "tutorial_create_tab_group_description_1": {
-    "message": "1. '+' butonuna tıklayın."
+    "message": "1. <kbd>+</kbd> düğmesine tıklayın."
   },
   "tutorial_create_tab_group_description_2": {
-    "message": "2. Sekme grubunuz için bir isim girin, bir renk seçin ve 'Oluştur' düğmesine tıklayın."
+    "message": "2. Sekme grubunuz için bir isim yazın, bir renk seçin ve <kbd>Oluştur</kbd>'a tıklayın."
   },
-  "tutorial_create_tab_group_description_3_1": {
-    "message": "3. Şu siteye gidin: "
-  },
-  "tutorial_create_tab_group_description_3_2": {
-    "message": " veya başka bir web sitesine ve saklayın."
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. %link% veya başka bir web sitesine gidin ve koruyun."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Tabber'a geri dönün."
   },
   "tutorial_create_tab_group_description_5": {
-    "message": "5. Oluşturduğunuz sekmeler grubuna sağ tıklayın ve 'Geri yükle' seçeneğini tıklayın."
+    "message": "5. Oluşturduğunuz sekme grubuna sağ tıklayın ve <kbd>Geri yükle</kbd>'ye tıklayın."
   },
   "tutorial_create_tab_group_description_6": {
-    "message": "Tarayıcınız sekmeleri gruplama özelliğini destekliyorsa, grubun web sayfalarından birinde 'Sekme grubu sakla' seçeneğine tıklayarak tüm sekmeler grubunu saklayabilirsiniz."
+    "message": "Bir sekmeyi başka bir gruba taşımak için, sadece istediğiniz gruba sürükleyin."
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "Tarayıcınız sekme gruplamayı destekliyorsa, grubun herhangi bir web sayfasında <kbd>Sekme grubunu koru</kbd>'ya tıklayarak tüm grubu da koruyabilirsiniz."
   },
   "tutorial_create_tab_group_arrow": {
     "message": "İşte buton!"
@@ -543,7 +561,7 @@
     "message": "Ayarlar sayfasına gidin ve Tabber'ın görünümünü ve hissini isteğinize göre ayarlayın."
   },
   "tutorial_settings_description_2": {
-    "message": "Otomatik olarak sekmeleri korumak istiyorsanız «Otomatik koru» bölümüne göz atın."
+    "message": "Sekmeleri otomatik olarak korumak istiyorsanız <kbd>Otomatik koruma</kbd> bölümüne göz atın."
   },
   "tutorial_settings_arrow": {
     "message": "Tam burada!"
@@ -555,19 +573,25 @@
     "message": "Tabber sayfasında aşağıdaki klavye kısayollarını kullanabilirsiniz:"
   },
   "tutorial_shortcuts_description_2": {
-    "message": "1. Tam ekran modunda Tabber'ı açmak için «F11» veya «F» tuşlarına basın."
+    "message": "1. Sekmeler arasında gezinmek için <kbd>←</kbd> ve <kbd>→</kbd>."
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. Son kapalı sekmeyi geri yüklemek için «T» tuşuna basın."
+    "message": "2. Gruplar arasında gezinmek için <kbd>↑</kbd> ve <kbd>↓</kbd>."
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. Sekmeleri aramak için «Ctrl + F» tuşlarına basın. (Çıkmak için «Esc»)"
+    "message": "3. Tabber'ı tam ekranda açmak için <kbd>F11</kbd> veya <kbd>F</kbd>."
   },
   "tutorial_shortcuts_description_5": {
-    "message": "4. Herhangi bir sayfadan Tabber'ı açmak için «Ctrl + 1» tuşuna basın."
+    "message": "4. Son kapatılan sekmeyi geri yüklemek için <kbd>T</kbd>."
   },
   "tutorial_shortcuts_description_6": {
-    "message": "Ayrıca kendi global kısayollarınızı ayarlayabilirsiniz."
+    "message": "5. Sekmeleri aramak için <kbd>Ctrl + F</kbd>. (Çıkmak için <kbd>Esc</kbd>)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. Herhangi bir sayfadan Tabber'ı açmak için <kbd>Ctrl + 1</kbd>."
+  },
+  "tutorial_shortcuts_description_8": {
+    "message": "Ayarlardan kendi küresel kısayollarınızı da belirleyebilirsiniz."
   },
   "tutorial_sign_in_title": {
     "message": "Artık sekmelerinizi kaybetmeyin!"
@@ -583,6 +607,18 @@
   },
   "tutorial_sign_in_arrow_2": {
     "message": "Bulutta yedekleme kaydetmek için buraya tıklayın!"
+  },
+  "tutorial_menu_title": {
+    "message": "Gelişmiş özellikleri mi arıyorsunuz?"
+  },
+  "tutorial_menu_description_1": {
+    "message": "<b>Sıralama</b>, <b>gruplama</b>, <b>arama</b> ve daha fazlasına erişmek için <kbd>⋮</kbd> menüsüne tıklayın!"
+  },
+  "tutorial_menu_description_2": {
+    "message": "Bu öğreticiyi menü üzerinden istediğiniz zaman tekrar görüntüleyebilirsiniz."
+  },
+  "tutorial_menu_arrow": {
+    "message": "İşte burada!"
   },
   "auto_preserve": {
     "message": "Otomatik koru"
@@ -728,6 +764,9 @@
   "ai_group_description": {
     "message": "Sekmeleri, başlıkları ve bağlantıları temel alarak konularını analiz edecek YZ kullanarak gruplayacaksınız.\nGruplamadan önce, mevcut sekmelerinizin bir yedeklemesi oluşturulacak, böylece her zaman geri dönebilirsiniz.\nİstek sayısı sınırlıdır ve sekmelerinizin sayısına bağlıdır. Yaklaşık olarak 50 sekmede günde 2 istek yapabilirsiniz.\nYZ modeli mükemmel değildir ve hatalar yapabilir. Gruplamayı her zaman manuel olarak düzeltebilirsiniz.\nMevcut olması gereken grup isimlerini belirtebilirsiniz. Bunları satır başlarıyla ayırarak belirtin, örneğin:\nİşim\nÖğrenim\nEğlence"
   },
+  "ai_group_select_group": {
+    "message": "Şuradan sekmeleri grupla"
+  },
   "ai_group_error_unauthorized": {
     "message": "Yetkisiz"
   },
@@ -775,5 +814,32 @@
   },
   "bind_sites_description": {
     "message": "Korunduğunda bu sekme grubuna otomatik olarak eklenecek sitelerin listesi. Bağlamak istediğiniz her sayfanın URL'sini yeni bir satıra ekleyin. Örneğin:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nAynı satırda birden fazla siteyi beyaz listeye almak için URL'nin bir kısmını belirleyebilirsiniz:\ngoogle.com\nAyrıca metni eğik çizgiler arasına alarak regex belirleyebilirsiniz:\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "Hey, psst..."
+  },
+  "review_dialog_description": {
+    "message": "Bu uzantıyı bir süredir kullanıyorsun ve belli ki hoşuna gidiyor! Öyleyse, mağazada bir yorum bırakır mısın? Geliştirmeye devam edebilmem için gerçekten çok yardımcı olur. Çok teşekkürler!"
+  },
+  "v_tabs_position": {
+    "message": "Konum"
+  },
+  "v_tabs_left": {
+    "message": "Sol"
+  },
+  "v_tabs_right": {
+    "message": "Sağ"
+  },
+  "v_tabs_width": {
+    "message": "Genişlik"
+  },
+  "v_tabs_size": {
+    "message": "Boyut"
+  },
+  "v_tabs_n_more": {
+    "message": "$1 daha..."
+  },
+  "v_tabs_list": {
+    "message": "Sekme listesi"
   }
 }

@@ -55,5 +55,50 @@
         "Se resolvió un problema al crear vistas previas de pestañas inactivas."
       ]
     }
+  },
+  "1.8": {
+    "title": "Tabber actualizado a la versión 1.8",
+    "subtitle": "Descubre las últimas características y mejoras",
+    "content_main": [
+      {
+        "title": "Pestañas verticales",
+        "description": [
+          "¡La función que muchos han estado esperando por tanto tiempo!",
+          "Ahora con múltiples pestañas, la navegación entre ellas será más fácil. La apariencia de esta lista puede personalizarse de manera flexible a través de la configuración. Además, ahora siempre habrá una sola fila de pestañas."
+        ],
+        "image": "/static/update/1.8/vertical-tabs.jpg"
+      },
+      {
+        "title": "Seleccionar el grupo de pestañas para agrupar",
+        "description": [
+          "A pesar de la tautología, esta es una función igualmente necesaria.",
+          "Ahora puedes agrupar no solo todas las pestañas guardadas sino seleccionar específicamente cuáles agrupar. Simplemente selecciona el grupo deseado en el menú emergente."
+        ],
+        "image": "/static/update/1.8/select-tab-group.jpg"
+      },
+      {
+        "title": "Fusionar grupos de pestañas",
+        "description": [
+          "Se ha añadido una función para fusionar grupos de pestañas.",
+          "Para hacerlo, haz clic derecho en un grupo y selecciona 'Fusionar con'."
+        ],
+        "image": "/static/update/1.8/merge-tab-groups.jpg"
+      },
+      {
+        "title": "Página de colaboradores",
+        "description": [
+          "Ahora cuando apoyas el proyecto en Patreon, tu nombre se mostrará en la página de créditos. Puedes elegir tu nombre de visualización, avatar o permanecer anónimo.",
+          "Esta página se puede encontrar en el pie de página de este sitio."
+        ],
+        "image": "/static/update/1.8/supporters-page.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "Otras mejoras",
+      "description": [
+        "Se añadieron iconos al menú de selección de elementos de la barra de herramientas.",
+        "Se añadió un color predeterminado al selector de color."
+      ]
+    }
   }
 }

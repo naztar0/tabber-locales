@@ -55,5 +55,50 @@
         "Ein Problem beim Erstellen von Vorschauen für inaktive Tabs wurde behoben."
       ]
     }
+  },
+  "1.8": {
+    "title": "Tabber auf Version 1.8 aktualisiert",
+    "subtitle": "Entdecken Sie die neuesten Funktionen und Verbesserungen",
+    "content_main": [
+      {
+        "title": "Vertikale Tabs",
+        "description": [
+          "Die Funktion, auf die viele so lange gewartet haben!",
+          "Bei mehreren Tabs wird die Navigation zwischen ihnen jetzt einfacher. Das Erscheinungsbild dieser Liste kann über die Einstellungen flexibel angepasst werden. Außerdem wird es jetzt immer nur eine Reihe von Tabs geben."
+        ],
+        "image": "/static/update/1.8/vertical-tabs.jpg"
+      },
+      {
+        "title": "Tab-Gruppe für die Gruppierung auswählen",
+        "description": [
+          "Trotz der Tautologie handelt es sich hier um eine ebenso notwendige Funktion.",
+          "Jetzt können Sie nicht nur alle gespeicherten Tabs gruppieren, sondern auch bestimmte gezielt auswählen. Wählen Sie einfach die gewünschte Gruppe im Popup-Menü aus."
+        ],
+        "image": "/static/update/1.8/select-tab-group.jpg"
+      },
+      {
+        "title": "Tab-Gruppen zusammenführen",
+        "description": [
+          "Eine Funktion zum Zusammenführen von Tab-Gruppen wurde hinzugefügt.",
+          "Klicken Sie dazu mit der rechten Maustaste auf eine Gruppe und wählen Sie 'Zusammenführen mit'."
+        ],
+        "image": "/static/update/1.8/merge-tab-groups.jpg"
+      },
+      {
+        "title": "Unterstützer-Seite",
+        "description": [
+          "Wenn Sie das Projekt auf Patreon unterstützen, wird Ihr Name jetzt auf der Danksagungsseite angezeigt. Sie können Ihren Anzeigenamen, Avatar wählen oder anonym bleiben.",
+          "Diese Seite finden Sie in der Fußzeile dieser Website."
+        ],
+        "image": "/static/update/1.8/supporters-page.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "Weitere Verbesserungen",
+      "description": [
+        "Dem Auswahlmenü für Symbolleistenelemente wurden Symbole hinzugefügt.",
+        "Dem Farbwähler wurde eine Standardfarbe hinzugefügt."
+      ]
+    }
   }
 }

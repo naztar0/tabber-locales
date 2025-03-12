@@ -55,5 +55,50 @@
         "Resolvido um problema na criação de pré-visualizações para abas inativas."
       ]
     }
+  },
+  "1.8": {
+    "title": "Tabber Atualizado para a Versão 1.8",
+    "subtitle": "Descubra os Recursos e Melhorias Mais Recentes",
+    "content_main": [
+      {
+        "title": "Abas Verticais",
+        "description": [
+          "O recurso que muitos esperavam há tanto tempo!",
+          "Agora com múltiplas abas, a navegação entre elas será mais fácil. A aparência desta lista pode ser personalizada de forma flexível através das configurações. Além disso, agora sempre haverá apenas uma linha de abas."
+        ],
+        "image": "/static/update/1.8/vertical-tabs.jpg"
+      },
+      {
+        "title": "Selecionar o grupo de abas para agrupamento",
+        "description": [
+          "Apesar da tautologia, este é um recurso igualmente necessário.",
+          "Agora você pode agrupar não apenas todas as abas preservadas, mas seletivamente agrupar abas específicas. Basta selecionar o grupo desejado no menu pop-up."
+        ],
+        "image": "/static/update/1.8/select-tab-group.jpg"
+      },
+      {
+        "title": "Mesclar grupos de abas",
+        "description": [
+          "Uma função para mesclar grupos de abas foi adicionada.",
+          "Para fazer isso, clique com o botão direito em um grupo e selecione 'Mesclar com'."
+        ],
+        "image": "/static/update/1.8/merge-tab-groups.jpg"
+      },
+      {
+        "title": "Página de Apoiadores",
+        "description": [
+          "Agora, quando você apoia o projeto no Patreon, seu nome será exibido na página de créditos. Você pode escolher seu nome de exibição, avatar ou permanecer anônimo.",
+          "Esta página pode ser encontrada no rodapé deste site."
+        ],
+        "image": "/static/update/1.8/supporters-page.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "Outras Melhorias",
+      "description": [
+        "Adicionados ícones ao menu de seleção de itens da barra de ferramentas.",
+        "Adicionada uma cor padrão ao seletor de cores."
+      ]
+    }
   }
 }

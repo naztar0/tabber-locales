@@ -55,5 +55,50 @@
         "Un problème lié à la création d’aperçus pour les onglets inactifs a été résolu."
       ]
     }
+  },
+  "1.8": {
+    "title": "Tabber mis à jour vers la version 1.8",
+    "subtitle": "Découvrez les dernières fonctionnalités et améliorations",
+    "content_main": [
+      {
+        "title": "Onglets verticaux",
+        "description": [
+          "La fonctionnalité que beaucoup attendaient depuis si longtemps !",
+          "Maintenant, avec plusieurs onglets, la navigation entre eux sera plus facile. L'apparence de cette liste peut être personnalisée de manière flexible via les paramètres. De plus, il n'y aura désormais qu'une seule rangée d'onglets."
+        ],
+        "image": "/static/update/1.8/vertical-tabs.jpg"
+      },
+      {
+        "title": "Sélectionner le groupe d'onglets pour le regroupement",
+        "description": [
+          "Malgré la tautologie, voici une fonctionnalité tout aussi nécessaire.",
+          "Vous pouvez maintenant regrouper non seulement tous les onglets conservés mais aussi sélectivement regrouper des onglets spécifiques. Sélectionnez simplement le groupe souhaité dans le menu contextuel."
+        ],
+        "image": "/static/update/1.8/select-tab-group.jpg"
+      },
+      {
+        "title": "Fusionner les groupes d'onglets",
+        "description": [
+          "Une fonction de fusion des groupes d'onglets a été ajoutée.",
+          "Pour ce faire, faites un clic droit sur un groupe et sélectionnez 'Fusionner avec'."
+        ],
+        "image": "/static/update/1.8/merge-tab-groups.jpg"
+      },
+      {
+        "title": "Page des contributeurs",
+        "description": [
+          "Désormais, lorsque vous soutenez le projet sur Patreon, votre nom s'affiche sur la page des crédits. Vous pouvez choisir votre nom d'affichage, votre avatar ou rester anonyme.",
+          "Cette page est accessible depuis le pied de page de ce site."
+        ],
+        "image": "/static/update/1.8/supporters-page.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "Autres améliorations",
+      "description": [
+        "Ajout d'icônes au menu de sélection des éléments de la barre d'outils.",
+        "Ajout d'une couleur par défaut au sélecteur de couleurs."
+      ]
+    }
   }
 }

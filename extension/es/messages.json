@@ -77,6 +77,9 @@
   "keyboard_shortcuts": {
     "message": "Atajos de teclado"
   },
+  "vertical_tabs": {
+    "message": "Pestañas verticales"
+  },
   "sites_features": {
     "message": "Funciones de sitios"
   },
@@ -157,6 +160,21 @@
   },
   "bind_sites": {
     "message": "Vincular sitios"
+  },
+  "merge_with": {
+    "message": "Fusionar con"
+  },
+  "no_tab_groups": {
+    "message": "Sin grupos de pestañas"
+  },
+  "all_tab_groups": {
+    "message": "Todos los grupos de pestañas"
+  },
+  "read_less": {
+    "message": "Leer menos"
+  },
+  "read_more": {
+    "message": "Leer más"
   },
   "name": {
     "message": "Nombre"
@@ -395,6 +413,9 @@
   "file_upload_error": {
     "message": "Error de subida de archivo"
   },
+  "backup_not_found": {
+    "message": "Copia de seguridad no encontrada"
+  },
   "sign_in_to_save_previews": {
     "message": "Inicia sesión para guardar vistas previas en la nube"
   },
@@ -485,17 +506,14 @@
   "tutorial_preserve_tab_title": {
     "message": "¡Conserva tu primera pestaña!"
   },
-  "tutorial_preserve_tab_description_1_1": {
-    "message": "1. Ve a "
-  },
-  "tutorial_preserve_tab_description_1_2": {
-    "message": " o a cualquier otro sitio web."
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Ve a %link% o cualquier otro sitio web."
   },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Haz clic en el icono de la extensión en la esquina superior derecha de tu navegador O haz clic derecho en la página."
   },
   "tutorial_preserve_tab_description_3": {
-    "message": "3. Selecciona «Conservar pestaña»."
+    "message": "3. Selecciona <kbd>Conservar pestaña</kbd>."
   },
   "tutorial_preserve_tab_description_4": {
     "message": "4. Regresa a Tabber."
@@ -513,25 +531,25 @@
     "message": "¡Crea tu primer grupo de pestañas!"
   },
   "tutorial_create_tab_group_description_1": {
-    "message": "1. Haz clic en el botón «+»."
+    "message": "1. Haz clic en el botón <kbd>+</kbd>."
   },
   "tutorial_create_tab_group_description_2": {
-    "message": "2. Escribe un nombre para tu grupo de pestañas, selecciona un color y haz clic en «Crear»."
+    "message": "2. Escribe un nombre para tu grupo de pestañas, selecciona un color y haz clic en <kbd>Crear</kbd>."
   },
-  "tutorial_create_tab_group_description_3_1": {
-    "message": "3. Ve a "
-  },
-  "tutorial_create_tab_group_description_3_2": {
-    "message": " o a cualquier otro sitio web y consérvalo."
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Ve a %link% o cualquier otro sitio web y consérvalo."
   },
   "tutorial_create_tab_group_description_4": {
-    "message": "4. Regresa a Tabber."
+    "message": "4. Vuelve a Tabber."
   },
   "tutorial_create_tab_group_description_5": {
-    "message": "5. Haz clic derecho en el grupo de pestañas que creaste y selecciona «Restaurar»."
+    "message": "5. Haz clic derecho en el grupo de pestañas que creaste y haz clic en <kbd>Restaurar</kbd>."
   },
   "tutorial_create_tab_group_description_6": {
-    "message": "Si tu navegador soporta agrupación de pestañas, también puedes conservar todo el grupo de pestañas haciendo clic en «Conservar grupo de pestañas» en cualquiera de las páginas web del grupo."
+    "message": "Para mover una pestaña a otro grupo, simplemente arrástrala al grupo deseado."
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "Si tu navegador admite la agrupación de pestañas, también puedes conservar todo el grupo haciendo clic en <kbd>Conservar grupo de pestañas</kbd> en cualquiera de las páginas web del grupo."
   },
   "tutorial_create_tab_group_arrow": {
     "message": "¡Aquí está el botón!"
@@ -543,7 +561,7 @@
     "message": "Consulte la página de configuración y ajuste el aspecto de Tabber según sus preferencias."
   },
   "tutorial_settings_description_2": {
-    "message": "Consulte la sección «Preservar automáticamente» si desea preservar pestañas automáticamente."
+    "message": "Revisa la sección <kbd>Conservación automática</kbd> si deseas conservar pestañas automáticamente."
   },
   "tutorial_settings_arrow": {
     "message": "¡Justo aquí!"
@@ -555,19 +573,25 @@
     "message": "Puede utilizar las siguientes combinaciones de teclas en la página de Tabber:"
   },
   "tutorial_shortcuts_description_2": {
-    "message": "1. Presione «F11» o «F» para abrir Tabber a pantalla completa."
+    "message": "1. <kbd>←</kbd> y <kbd>→</kbd> para navegar entre pestañas."
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. Presione «T» para restaurar la última pestaña cerrada."
+    "message": "2. <kbd>↑</kbd> y <kbd>↓</kbd> para navegar entre grupos."
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. Presione «Ctrl + F» para buscar pestañas. («Esc» para salir)"
+    "message": "3. <kbd>F11</kbd> o <kbd>F</kbd> para abrir Tabber en pantalla completa."
   },
   "tutorial_shortcuts_description_5": {
-    "message": "4. Presiona «Ctrl + 1» para abrir Tabber desde cualquier página."
+    "message": "4. <kbd>T</kbd> para restaurar la última pestaña cerrada."
   },
   "tutorial_shortcuts_description_6": {
-    "message": "También puede configurar sus propias combinaciones de teclas globales en la configuración."
+    "message": "5. <kbd>Ctrl + F</kbd> para buscar pestañas. (<kbd>Esc</kbd> para salir)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Ctrl + 1</kbd> para abrir Tabber desde cualquier página."
+  },
+  "tutorial_shortcuts_description_8": {
+    "message": "También puedes configurar tus propios atajos globales en la configuración."
   },
   "tutorial_sign_in_title": {
     "message": "¡Nunca más pierdas tus pestañas!"
@@ -583,6 +607,18 @@
   },
   "tutorial_sign_in_arrow_2": {
     "message": "¡Haz clic aquí para guardar una copia de seguridad en la nube!"
+  },
+  "tutorial_menu_title": {
+    "message": "¿Buscas funciones avanzadas?"
+  },
+  "tutorial_menu_description_1": {
+    "message": "¡Haz clic en el menú <kbd>⋮</kbd> para acceder a <b>ordenar</b>, <b>agrupar</b>, <b>buscar</b> y más!"
+  },
+  "tutorial_menu_description_2": {
+    "message": "También puedes volver a ver este tutorial a través del menú en cualquier momento."
+  },
+  "tutorial_menu_arrow": {
+    "message": "¡Aquí está!"
   },
   "auto_preserve": {
     "message": "Autoconservar"
@@ -728,6 +764,9 @@
   "ai_group_description": {
     "message": "Vas a agrupar tus pestañas usando IA, que analizará sus temas basándose en los títulos y enlaces.\nAntes de agrupar, se creará una copia de seguridad de tus pestañas actuales, para que siempre puedas revertir los cambios.\nEl número de solicitudes está limitado y depende del número de tus pestañas. Puedes hacer aproximadamente 2 solicitudes por día con 50 pestañas.\nEl modelo de IA no es perfecto y puede cometer errores. Puedes corregir la agrupación manualmente.\nPuedes especificar los nombres de grupo que deben estar presentes. Especifícalos separados por saltos de línea, por ejemplo:\nMi Trabajo\nEstudios\nEntretenimiento"
   },
+  "ai_group_select_group": {
+    "message": "Agrupar pestañas de"
+  },
   "ai_group_error_unauthorized": {
     "message": "No autorizado"
   },
@@ -775,5 +814,32 @@
   },
   "bind_sites_description": {
     "message": "Lista de sitios que se agregarán automáticamente a este grupo de pestañas cuando se guarden. Agregue la URL de cada página que desea vincular en una nueva línea. Por ejemplo:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPara incluir varios sitios en una línea, puede especificar parte de la URL:\ngoogle.com\nTambién puede especificar expresiones regulares encerrando el texto entre barras diagonales:\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "Ey, pssst..."
+  },
+  "review_dialog_description": {
+    "message": "Has estado usando esta extensión por un tiempo, ¡y parece que te gusta! Si es así, ¿te importaría dejar una reseña en la tienda? Me ayudaría mucho a seguir mejorándola. ¡Muchas gracias!"
+  },
+  "v_tabs_position": {
+    "message": "Posición"
+  },
+  "v_tabs_left": {
+    "message": "Izquierda"
+  },
+  "v_tabs_right": {
+    "message": "Derecha"
+  },
+  "v_tabs_width": {
+    "message": "Ancho"
+  },
+  "v_tabs_size": {
+    "message": "Tamaño"
+  },
+  "v_tabs_n_more": {
+    "message": "$1 más..."
+  },
+  "v_tabs_list": {
+    "message": "Lista de pestañas"
   }
 }

@@ -55,5 +55,50 @@
         "Pasif sekmeler için önizleme oluşturma sorunu çözüldü."
       ]
     }
+  },
+  "1.8": {
+    "title": "Tabber 1.8 Sürümüne Güncellendi",
+    "subtitle": "En Son Özellikleri ve İyileştirmeleri Keşfedin",
+    "content_main": [
+      {
+        "title": "Dikey Sekmeler",
+        "description": [
+          "Birçok kişinin uzun zamandır beklediği özellik!",
+          "Artık birden fazla sekme ile, sekmeler arasında gezinmek daha kolay olacak. Bu listenin görünümü ayarlar aracılığıyla esnek bir şekilde özelleştirilebilir. Ayrıca, artık her zaman sadece bir sıra sekme olacak."
+        ],
+        "image": "/static/update/1.8/vertical-tabs.jpg"
+      },
+      {
+        "title": "Gruplandırma için sekme grubunu seçin",
+        "description": [
+          "Totolojiye rağmen, işte eşit derecede gerekli bir özellik.",
+          "Artık sadece kaydedilmiş tüm sekmeleri değil, belirli sekmeleri seçici olarak gruplayabilirsiniz. Açılır menüden istediğiniz grubu seçmeniz yeterli."
+        ],
+        "image": "/static/update/1.8/select-tab-group.jpg"
+      },
+      {
+        "title": "Sekme gruplarını birleştir",
+        "description": [
+          "Sekme gruplarını birleştirme işlevi eklendi.",
+          "Bunu yapmak için, bir gruba sağ tıklayın ve 'Şununla birleştir'i seçin."
+        ],
+        "image": "/static/update/1.8/merge-tab-groups.jpg"
+      },
+      {
+        "title": "Destekçiler Sayfası",
+        "description": [
+          "Artık Patreon üzerinden projeyi desteklediğinizde, adınız teşekkürler sayfasında görüntülenecek. Görünen adınızı, avatarınızı seçebilir veya anonim kalabilirsiniz.",
+          "Bu sayfaya sitenin alt bilgisinden ulaşabilirsiniz."
+        ],
+        "image": "/static/update/1.8/supporters-page.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "Diğer İyileştirmeler",
+      "description": [
+        "Araç çubuğu öğeleri seçim menüsüne simgeler eklendi.",
+        "Renk seçiciye varsayılan renk eklendi."
+      ]
+    }
   }
 }

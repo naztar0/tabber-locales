@@ -77,6 +77,9 @@
   "keyboard_shortcuts": {
     "message": "键盘快捷键"
   },
+  "vertical_tabs": {
+    "message": "垂直标签页"
+  },
   "sites_features": {
     "message": "站点功能"
   },
@@ -157,6 +160,21 @@
   },
   "bind_sites": {
     "message": "绑定网站"
+  },
+  "merge_with": {
+    "message": "合并到"
+  },
+  "no_tab_groups": {
+    "message": "没有标签组"
+  },
+  "all_tab_groups": {
+    "message": "所有标签组"
+  },
+  "read_less": {
+    "message": "收起"
+  },
+  "read_more": {
+    "message": "查看更多"
   },
   "name": {
     "message": "名称"
@@ -395,6 +413,9 @@
   "file_upload_error": {
     "message": "文件上传错误"
   },
+  "backup_not_found": {
+    "message": "备份未找到"
+  },
   "sign_in_to_save_previews": {
     "message": "登录以在云端保存预览"
   },
@@ -485,17 +506,14 @@
   "tutorial_preserve_tab_title": {
     "message": "让我们保存您的第一个标签！"
   },
-  "tutorial_preserve_tab_description_1_1": {
-    "message": "1. 转到 "
-  },
-  "tutorial_preserve_tab_description_1_2": {
-    "message": " 或任何其他网站。"
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. 前往%link%或任何其他网站。"
   },
   "tutorial_preserve_tab_description_2": {
     "message": "2. 点击浏览器右上角的扩展图标或在页面上右击。"
   },
   "tutorial_preserve_tab_description_3": {
-    "message": "3. 选择“保存标签”。"
+    "message": "3. 选择<kbd>保存标签页</kbd>。"
   },
   "tutorial_preserve_tab_description_4": {
     "message": "4. 返回Tabber。"
@@ -513,25 +531,25 @@
     "message": "创建您的第一个标签组！"
   },
   "tutorial_create_tab_group_description_1": {
-    "message": "1. 点击“+”按钮。"
+    "message": "1. 点击<kbd>+</kbd>按钮。"
   },
   "tutorial_create_tab_group_description_2": {
-    "message": "2. 为您的标签组输入名称，选择颜色并点击“创建”。"
+    "message": "2. 为标签页组输入名称，选择颜色，然后点击<kbd>创建</kbd>。"
   },
-  "tutorial_create_tab_group_description_3_1": {
-    "message": "3. 转到 "
-  },
-  "tutorial_create_tab_group_description_3_2": {
-    "message": " 或任何其他网站并保存。"
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. 前往%link%或任何其他网站并保存它。"
   },
   "tutorial_create_tab_group_description_4": {
-    "message": "4. 返回Tabber。"
+    "message": "4. 返回到Tabber。"
   },
   "tutorial_create_tab_group_description_5": {
-    "message": "5. 右击您创建的标签组，然后点击“恢复”。"
+    "message": "5. 右键点击你创建的标签页组，然后点击<kbd>恢复</kbd>。"
   },
   "tutorial_create_tab_group_description_6": {
-    "message": "如果您的浏览器支持标签分组，您也可以通过在组的任一网页上点击“保存标签组”来保存整个标签组。"
+    "message": "要将标签页移动到另一个组，只需将其拖动到目标组即可。"
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "如果你的浏览器支持标签页分组，你也可以通过在组内任何网页上点击<kbd>保存标签页组</kbd>来保存整个组。"
   },
   "tutorial_create_tab_group_arrow": {
     "message": "这是按钮！"
@@ -543,7 +561,7 @@
     "message": "查看设置页面，根据自己的喜好调整Tabber的外观和感觉。"
   },
   "tutorial_settings_description_2": {
-    "message": "如果要自动保存标签，请查看「自动保存」部分。"
+    "message": "如果你想自动保存标签页，请查看<kbd>自动保存</kbd>部分。"
   },
   "tutorial_settings_arrow": {
     "message": "就在这里！"
@@ -555,19 +573,25 @@
     "message": "您可以在Tabber页面上使用以下键盘快捷键："
   },
   "tutorial_shortcuts_description_2": {
-    "message": "1. 按下「F11」或「F」以全屏打开Tabber。"
+    "message": "1. <kbd>←</kbd>和<kbd>→</kbd>在标签页之间导航。"
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. 按「T」可恢复上次关闭的标签页。"
+    "message": "2. <kbd>↑</kbd>和<kbd>↓</kbd>在组之间导航。"
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. 按下「Ctrl + F」搜索标签。（按「Esc」退出）"
+    "message": "3. <kbd>F11</kbd>或<kbd>F</kbd>全屏打开Tabber。"
   },
   "tutorial_shortcuts_description_5": {
-    "message": "4. 按「Ctrl + 1」从任何页面打开Tabber。"
+    "message": "4. <kbd>T</kbd>恢复最后关闭的标签页。"
   },
   "tutorial_shortcuts_description_6": {
-    "message": "您还可以在设置中设置自己的全局快捷键。"
+    "message": "5. <kbd>Ctrl + F</kbd>搜索标签页。(<kbd>Esc</kbd>退出)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Ctrl + 1</kbd>从任意页面打开Tabber。"
+  },
+  "tutorial_shortcuts_description_8": {
+    "message": "你也可以在设置中设定自己的全局快捷键。"
   },
   "tutorial_sign_in_title": {
     "message": "再也不会丢失标签！"
@@ -583,6 +607,18 @@
   },
   "tutorial_sign_in_arrow_2": {
     "message": "点击此处将备份保存到云端！"
+  },
+  "tutorial_menu_title": {
+    "message": "寻找高级功能？"
+  },
+  "tutorial_menu_description_1": {
+    "message": "点击<kbd>⋮</kbd>菜单访问<b>排序</b>、<b>分组</b>、<b>搜索</b>等功能！"
+  },
+  "tutorial_menu_description_2": {
+    "message": "你随时可以通过菜单重新查看本教程。"
+  },
+  "tutorial_menu_arrow": {
+    "message": "就在这里！"
   },
   "auto_preserve": {
     "message": "自动保存"
@@ -728,6 +764,9 @@
   "ai_group_description": {
     "message": "您将使用 AI 分组标签页,它会根据标题和链接分析主题。\n分组前会创建当前标签页的备份,您随时可以恢复。\n请求次数有限,取决于您的标签页数量。大约每天可以对 50 个标签页发出 2 次请求。\nAI 模型并不完美,可能会出错。您可以随时手动纠正分组。\n您可以指定必须存在的分组名称。请使用换行符分隔,例如:\n我的工作\n学习\n娱乐"
   },
+  "ai_group_select_group": {
+    "message": "从以下来源分组标签页"
+  },
   "ai_group_error_unauthorized": {
     "message": "未授权"
   },
@@ -775,5 +814,32 @@
   },
   "bind_sites_description": {
     "message": "保存时将自动添加到此标签组的网站列表。将您要绑定的每个页面的 URL 添加到新行。例如：\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n要在一行上加入多个站点，您可以指定URL的一部分：\ngoogle.com\n您还可以通过用斜杠括起文本来指定正则表达式：\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "嘿，嘘..."
+  },
+  "review_dialog_description": {
+    "message": "你已经使用这个扩展一段时间了，看来你挺喜欢的！如果是这样，你能在商店里留个评价吗？这对我改进它会有很大帮助。非常感谢！"
+  },
+  "v_tabs_position": {
+    "message": "位置"
+  },
+  "v_tabs_left": {
+    "message": "左侧"
+  },
+  "v_tabs_right": {
+    "message": "右侧"
+  },
+  "v_tabs_width": {
+    "message": "宽度"
+  },
+  "v_tabs_size": {
+    "message": "大小"
+  },
+  "v_tabs_n_more": {
+    "message": "还有$1个..."
+  },
+  "v_tabs_list": {
+    "message": "标签页列表"
   }
 }

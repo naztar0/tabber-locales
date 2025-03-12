@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Teşekkürler",
+    "description": "Tabber'in gelişimini destekleyen harika insanlarla tanışın"
+  },
+  "title": "Destekçilerimize Teşekkürler",
+  "description": "Bu sayfa, Patreon abonelikleri ve diğer katkıları aracılığıyla Tabber'ı mümkün kılmaya yardımcı olanlara teşekkür eder.",
+  "subtitle": "Aboneliğiniz size sadece premium özelliklere erişim sağlamakla kalmıyor — doğrudan herkes için Tabber'ın geliştirilmesini destekliyor. Hata düzeltmelerinden yeni özelliklere kadar, desteğiniz fark yaratıyor.",
+  "join": "Patreon'da Katılın",
+  "supporting_since": "%month% %year% tarihinden beri destekliyor",
+  "faq": {
+    "title": "Sık Sorulan Sorular",
+    "questions": [
+      {
+        "question": "Adımı bu sayfaya nasıl ekletirim?",
+        "answer": "Adınız, Patreon üzerinden abone olduktan sonra 48 saat içinde Teşekkürler sayfamıza eklenecektir."
+      },
+      {
+        "question": "Anonim kalabilir miyim?",
+        "answer": "Kesinlikle! Patreon mesajınızda anonim kalmayı tercih ettiğinizi bize bildirmeniz yeterlidir."
+      },
+      {
+        "question": "Adım burada ne kadar süre görünecek?",
+        "answer": "Aboneliğiniz aktif olduğu sürece adınız görüntülenecektir."
+      },
+      {
+        "question": "Adımın nasıl görüneceğini özelleştirebilir miyim?",
+        "answer": "Evet! Patreon mesajınızda adınızın ve resminizin nasıl görünmesini istediğinizi bize bildirin."
+      }
+    ]
+  },
+  "months": {
+    "0": "Ocak",
+    "1": "Şubat",
+    "2": "Mart",
+    "3": "Nisan",
+    "4": "Mayıs",
+    "5": "Haziran",
+    "6": "Temmuz",
+    "7": "Ağustos",
+    "8": "Eylül",
+    "9": "Ekim",
+    "10": "Kasım",
+    "11": "Aralık"
+  }
+}

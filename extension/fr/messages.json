@@ -77,6 +77,9 @@
   "keyboard_shortcuts": {
     "message": "Raccourcis clavier"
   },
+  "vertical_tabs": {
+    "message": "Onglets verticaux"
+  },
   "sites_features": {
     "message": "Fonctionnalités des sites"
   },
@@ -157,6 +160,21 @@
   },
   "bind_sites": {
     "message": "Lier des sites"
+  },
+  "merge_with": {
+    "message": "Fusionner avec"
+  },
+  "no_tab_groups": {
+    "message": "Aucun groupe d'onglets"
+  },
+  "all_tab_groups": {
+    "message": "Tous les groupes d'onglets"
+  },
+  "read_less": {
+    "message": "Afficher moins"
+  },
+  "read_more": {
+    "message": "Afficher plus"
   },
   "name": {
     "message": "Nom"
@@ -395,6 +413,9 @@
   "file_upload_error": {
     "message": "Erreur de téléversement de fichier"
   },
+  "backup_not_found": {
+    "message": "Sauvegarde non trouvée"
+  },
   "sign_in_to_save_previews": {
     "message": "Connectez-vous pour sauvegarder les aperçus dans le cloud"
   },
@@ -485,17 +506,14 @@
   "tutorial_preserve_tab_title": {
     "message": "Sauvegardons votre premier onglet !"
   },
-  "tutorial_preserve_tab_description_1_1": {
-    "message": "1. Allez sur "
-  },
-  "tutorial_preserve_tab_description_1_2": {
-    "message": " ou tout autre site web."
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Allez sur %link% ou tout autre site web."
   },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Cliquez sur l'icône de l'extension dans le coin supérieur droit de votre navigateur OU cliquez avec le bouton droit sur la page."
   },
   "tutorial_preserve_tab_description_3": {
-    "message": "3. Sélectionnez «Conserver l'onglet»."
+    "message": "3. Sélectionnez <kbd>Conserver l'onglet</kbd>."
   },
   "tutorial_preserve_tab_description_4": {
     "message": "4. Retournez à Tabber."
@@ -513,25 +531,25 @@
     "message": "Créez votre premier groupe d'onglets !"
   },
   "tutorial_create_tab_group_description_1": {
-    "message": "1. Cliquez sur le bouton «+»."
+    "message": "1. Cliquez sur le bouton <kbd>+</kbd>."
   },
   "tutorial_create_tab_group_description_2": {
-    "message": "2. Entrez un nom pour votre groupe d'onglets, sélectionnez une couleur et cliquez sur «Créer»."
+    "message": "2. Saisissez un nom pour votre groupe d'onglets, sélectionnez une couleur et cliquez sur <kbd>Créer</kbd>."
   },
-  "tutorial_create_tab_group_description_3_1": {
-    "message": "3. Allez sur "
-  },
-  "tutorial_create_tab_group_description_3_2": {
-    "message": " ou tout autre site web et conservez-le."
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Allez sur %link% ou tout autre site web et conservez-le."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Retournez à Tabber."
   },
   "tutorial_create_tab_group_description_5": {
-    "message": "5. Cliquez avec le bouton droit sur le groupe d'onglets que vous avez créé et cliquez sur «Restaurer»."
+    "message": "5. Faites un clic droit sur le groupe d'onglets créé et cliquez sur <kbd>Restaurer</kbd>."
   },
   "tutorial_create_tab_group_description_6": {
-    "message": "Si votre navigateur prend en charge le regroupement d'onglets, vous pouvez également conserver tout le groupe d'onglets en cliquant sur «Conserver le groupe d'onglets» sur l'une des pages web du groupe."
+    "message": "Pour déplacer un onglet vers un autre groupe, faites-le simplement glisser vers le groupe souhaité."
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "Si votre navigateur prend en charge le regroupement d'onglets, vous pouvez également conserver tout le groupe en cliquant sur <kbd>Conserver le groupe d'onglets</kbd> sur n'importe quelle page web du groupe."
   },
   "tutorial_create_tab_group_arrow": {
     "message": "Voici le bouton !"
@@ -543,7 +561,7 @@
     "message": "Consultez la page des paramètres et ajustez l'apparence de Tabber selon vos préférences."
   },
   "tutorial_settings_description_2": {
-    "message": "Consultez la section «Préserver automatiquement» si vous souhaitez préserver automatiquement les onglets."
+    "message": "Consultez la section <kbd>Conservation automatique</kbd> si vous souhaitez conserver automatiquement les onglets."
   },
   "tutorial_settings_arrow": {
     "message": "Juste ici !"
@@ -555,18 +573,24 @@
     "message": "Vous pouvez utiliser les raccourcis clavier suivants sur la page Tabber :"
   },
   "tutorial_shortcuts_description_2": {
-    "message": "1. Appuyez sur «F11» ou «F» pour ouvrir Tabber en plein écran."
+    "message": "1. <kbd>←</kbd> et <kbd>→</kbd> pour naviguer entre les onglets."
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. Appuyez sur «T» pour restaurer le dernier onglet fermé."
+    "message": "2. <kbd>↑</kbd> et <kbd>↓</kbd> pour naviguer entre les groupes."
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. Appuyez sur «Ctrl + F» pour rechercher des onglets. («Esc» pour quitter)"
+    "message": "3. <kbd>F11</kbd> ou <kbd>F</kbd> pour ouvrir Tabber en plein écran."
   },
   "tutorial_shortcuts_description_5": {
-    "message": "4. Appuyez sur «Ctrl + 1» pour ouvrir Tabber depuis n'importe quelle page."
+    "message": "4. <kbd>T</kbd> pour restaurer le dernier onglet fermé."
   },
   "tutorial_shortcuts_description_6": {
+    "message": "5. <kbd>Ctrl + F</kbd> pour rechercher des onglets. (<kbd>Échap</kbd> pour quitter)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Ctrl + 1</kbd> pour ouvrir Tabber depuis n'importe quelle page."
+  },
+  "tutorial_shortcuts_description_8": {
     "message": "Vous pouvez également définir vos propres raccourcis globaux dans les paramètres."
   },
   "tutorial_sign_in_title": {
@@ -583,6 +607,18 @@
   },
   "tutorial_sign_in_arrow_2": {
     "message": "Cliquez ici pour sauvegarder la sauvegarde dans le cloud !"
+  },
+  "tutorial_menu_title": {
+    "message": "Vous recherchez des fonctionnalités avancées ?"
+  },
+  "tutorial_menu_description_1": {
+    "message": "Cliquez sur le menu <kbd>⋮</kbd> pour accéder au <b>tri</b>, au <b>regroupement</b>, à la <b>recherche</b> et plus encore !"
+  },
+  "tutorial_menu_description_2": {
+    "message": "Vous pouvez également revoir ce tutoriel via le menu à tout moment."
+  },
+  "tutorial_menu_arrow": {
+    "message": "Le voici !"
   },
   "auto_preserve": {
     "message": "Auto-préservation"
@@ -728,6 +764,9 @@
   "ai_group_description": {
     "message": "Vous allez regrouper vos onglets en utilisant l'IA, qui analysera leurs sujets en se basant sur les titres et les liens.\nAvant le regroupement, une sauvegarde de vos onglets actuels sera créée, vous pouvez donc toujours revenir en arrière.\nLe nombre de requêtes est limité et dépend du nombre de vos onglets. Vous pouvez faire environ 2 requêtes par jour avec 50 onglets.\nLe modèle d'IA n'est pas parfait et peut commettre des erreurs. Vous pouvez toujours corriger manuellement le regroupement.\nVous pouvez spécifier les noms de groupe qui doivent être présents. Spécifiez-les séparés par des sauts de ligne, par exemple :\nMon travail\nÉtudes\nDivertissement"
   },
+  "ai_group_select_group": {
+    "message": "Grouper les onglets de"
+  },
   "ai_group_error_unauthorized": {
     "message": "Non autorisé"
   },
@@ -775,5 +814,32 @@
   },
   "bind_sites_description": {
     "message": "Liste des sites qui seront automatiquement ajoutés à ce groupe d'onglets lorsqu'ils seront conservés. Ajoutez l'URL de chaque page que vous souhaitez lier sur une nouvelle ligne. Par exemple :\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPour ajouter plusieurs sites sur une seule ligne, vous pouvez spécifier une partie de l'URL :\ngoogle.com\nVous pouvez également spécifier des expressions régulières en enfermant le texte entre des barres obliques :\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "Hé, psst..."
+  },
+  "review_dialog_description": {
+    "message": "Tu utilises cette extension depuis un moment, et il semble qu’elle te plaise ! Si c’est le cas, pourrais-tu laisser un avis sur la boutique ? Cela m’aiderait vraiment à continuer à l’améliorer. Un grand merci !"
+  },
+  "v_tabs_position": {
+    "message": "Position"
+  },
+  "v_tabs_left": {
+    "message": "Gauche"
+  },
+  "v_tabs_right": {
+    "message": "Droite"
+  },
+  "v_tabs_width": {
+    "message": "Largeur"
+  },
+  "v_tabs_size": {
+    "message": "Taille"
+  },
+  "v_tabs_n_more": {
+    "message": "$1 de plus..."
+  },
+  "v_tabs_list": {
+    "message": "Liste des onglets"
   }
 }

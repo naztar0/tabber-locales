@@ -77,6 +77,9 @@
   "keyboard_shortcuts": {
     "message": "鍵盤快捷鍵"
   },
+  "vertical_tabs": {
+    "message": "垂直分頁"
+  },
   "sites_features": {
     "message": "站點功能"
   },
@@ -157,6 +160,21 @@
   },
   "bind_sites": {
     "message": "綁定網站"
+  },
+  "merge_with": {
+    "message": "合併至"
+  },
+  "no_tab_groups": {
+    "message": "沒有分頁群組"
+  },
+  "all_tab_groups": {
+    "message": "所有分頁群組"
+  },
+  "read_less": {
+    "message": "收合"
+  },
+  "read_more": {
+    "message": "展開更多"
   },
   "name": {
     "message": "名稱"
@@ -395,6 +413,9 @@
   "file_upload_error": {
     "message": "文件上傳錯誤"
   },
+  "backup_not_found": {
+    "message": "備份未找到"
+  },
   "sign_in_to_save_previews": {
     "message": "登錄以在雲端保存預覽"
   },
@@ -485,17 +506,14 @@
   "tutorial_preserve_tab_title": {
     "message": "讓我們保存您的第一個標籤！"
   },
-  "tutorial_preserve_tab_description_1_1": {
-    "message": "1. 轉到 "
-  },
-  "tutorial_preserve_tab_description_1_2": {
-    "message": " 或任何其他網站。"
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. 前往%link%或任何其他網站。"
   },
   "tutorial_preserve_tab_description_2": {
     "message": "2. 點擊瀏覽器右上角的擴展圖標或在頁面上右擊。"
   },
   "tutorial_preserve_tab_description_3": {
-    "message": "3. 選擇“保存標籤”。"
+    "message": "3. 選擇<kbd>儲存分頁</kbd>。"
   },
   "tutorial_preserve_tab_description_4": {
     "message": "4. 返回Tabber。"
@@ -513,25 +531,25 @@
     "message": "創建您的第一個標籤組！"
   },
   "tutorial_create_tab_group_description_1": {
-    "message": "1. 點擊“+”按鈕。"
+    "message": "1. 點擊<kbd>+</kbd>按鈕。"
   },
   "tutorial_create_tab_group_description_2": {
-    "message": "2. 為您的標籤組輸入名稱，選擇顏色並點擊“創建”。"
+    "message": "2. 為分頁群組輸入名稱，選擇顏色，然後點擊<kbd>建立</kbd>。"
   },
-  "tutorial_create_tab_group_description_3_1": {
-    "message": "3. 轉到 "
-  },
-  "tutorial_create_tab_group_description_3_2": {
-    "message": " 或任何其他網站並保存。"
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. 前往%link%或任何其他網站並儲存它。"
   },
   "tutorial_create_tab_group_description_4": {
-    "message": "4. 返回Tabber。"
+    "message": "4. 返回到Tabber。"
   },
   "tutorial_create_tab_group_description_5": {
-    "message": "5. 右擊您創建的標籤組，然後點擊“恢復”。"
+    "message": "5. 右鍵點擊你建立的分頁群組，然後點擊<kbd>還原</kbd>。"
   },
   "tutorial_create_tab_group_description_6": {
-    "message": "如果您的瀏覽器支持標籤分組，您也可以通過在組的任一網頁上點擊“保存標籤組”來保存整個標籤組。"
+    "message": "要將分頁移動到另一個群組，只需將其拖曳到目標群組即可。"
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "如果你的瀏覽器支援分頁群組功能，你也可以透過在群組內任何網頁上點擊<kbd>儲存分頁群組</kbd>來儲存整個群組。"
   },
   "tutorial_create_tab_group_arrow": {
     "message": "這是按鈕！"
@@ -543,7 +561,7 @@
     "message": "查看設置頁面，根據自己的喜好調整Tabber的外觀和感覺。"
   },
   "tutorial_settings_description_2": {
-    "message": "如果要自動保存標籤，請查看「自動保存」部分。"
+    "message": "如果你想自動儲存分頁，請查看<kbd>自動儲存</kbd>部分。"
   },
   "tutorial_settings_arrow": {
     "message": "就在這裡！"
@@ -555,19 +573,25 @@
     "message": "您可以在Tabber頁面上使用以下鍵盤快捷鍵："
   },
   "tutorial_shortcuts_description_2": {
-    "message": "1. 按下「F11」或「F」以全屏打開Tabber。"
+    "message": "1. <kbd>←</kbd>和<kbd>→</kbd>在分頁之間導覽。"
   },
   "tutorial_shortcuts_description_3": {
-    "message": "2. 按「T」可還原上次關閉的分頁。"
+    "message": "2. <kbd>↑</kbd>和<kbd>↓</kbd>在群組之間導覽。"
   },
   "tutorial_shortcuts_description_4": {
-    "message": "3. 按下「Ctrl + F」搜索標籤。（按「Esc」退出）"
+    "message": "3. <kbd>F11</kbd>或<kbd>F</kbd>全螢幕開啟Tabber。"
   },
   "tutorial_shortcuts_description_5": {
-    "message": "4. 按「Ctrl + 1」從任何頁面打開Tabber。"
+    "message": "4. <kbd>T</kbd>還原最後關閉的分頁。"
   },
   "tutorial_shortcuts_description_6": {
-    "message": "您還可以在設置中設置自己的全局快捷鍵。"
+    "message": "5. <kbd>Ctrl + F</kbd>搜尋分頁。(<kbd>Esc</kbd>退出)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Ctrl + 1</kbd>從任意頁面開啟Tabber。"
+  },
+  "tutorial_shortcuts_description_8": {
+    "message": "你也可以在設定中設定自己的全域快速鍵。"
   },
   "tutorial_sign_in_title": {
     "message": "再也不會丟失標籤！"
@@ -583,6 +607,18 @@
   },
   "tutorial_sign_in_arrow_2": {
     "message": "點擊此處將備份保存到雲端！"
+  },
+  "tutorial_menu_title": {
+    "message": "尋找進階功能？"
+  },
+  "tutorial_menu_description_1": {
+    "message": "點擊<kbd>⋮</kbd>選單存取<b>排序</b>、<b>分組</b>、<b>搜尋</b>等功能！"
+  },
+  "tutorial_menu_description_2": {
+    "message": "你隨時可以透過選單重新查看本教學。"
+  },
+  "tutorial_menu_arrow": {
+    "message": "就在這裡！"
   },
   "auto_preserve": {
     "message": "自動保存"
@@ -728,6 +764,9 @@
   "ai_group_description": {
     "message": "您將使用 AI 分組分頁,它會根據標題和連結分析主題。\n分組前會建立目前分頁的備份,您隨時可以復原。\n請求次數有限,取決於您的分頁數量。大約每天可以對 50 個分頁發出 2 次請求。\nAI 模型並不完美,可能會出錯。您可以隨時手動矯正分組。\n您可以指定必須存在的分組名稱。請使用換行符分隔,例如:\n我的工作\n學習\n娛樂"
   },
+  "ai_group_select_group": {
+    "message": "從以下來源分組頁籤"
+  },
   "ai_group_error_unauthorized": {
     "message": "未獲授權"
   },
@@ -775,5 +814,32 @@
   },
   "bind_sites_description": {
     "message": "保存時將自動添加到此標籤組的網站列表。將您要綁定的每個頁面的 URL 添加到新行。例如：\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n要在一行上加入多個站點，您可以指定 URL 的一部分：\ngoogle.com\n您還可以通過用斜槓括起文本來指定正則表達式：\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "嘿，噓..."
+  },
+  "review_dialog_description": {
+    "message": "你已經使用這個擴充功能一段時間了，看起來你挺喜歡的！如果是這樣，你可以在商店裡留個評論嗎？這對我改進它會有很大幫助。非常感謝！"
+  },
+  "v_tabs_position": {
+    "message": "位置"
+  },
+  "v_tabs_left": {
+    "message": "左側"
+  },
+  "v_tabs_right": {
+    "message": "右側"
+  },
+  "v_tabs_width": {
+    "message": "寬度"
+  },
+  "v_tabs_size": {
+    "message": "大小"
+  },
+  "v_tabs_n_more": {
+    "message": "還有$1個..."
+  },
+  "v_tabs_list": {
+    "message": "分頁清單"
   }
 }

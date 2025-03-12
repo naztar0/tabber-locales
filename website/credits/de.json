@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Danksagungen",
+    "description": "Lernen Sie die großartigen Menschen kennen, die die Entwicklung von Tabber unterstützen"
+  },
+  "title": "Danke an unsere Unterstützer",
+  "description": "Diese Seite ehrt diejenigen, die durch ihre Patreon-Abonnements und andere Beiträge helfen, Tabber zu ermöglichen.",
+  "subtitle": "Ihr Abonnement gibt Ihnen nicht nur Zugang zu Premium-Funktionen — es treibt direkt die Entwicklung von Tabber für alle voran. Von Fehlerbehebungen bis hin zu neuen Funktionen, Ihre Unterstützung macht einen Unterschied.",
+  "join": "Bei Patreon beitreten",
+  "supporting_since": "Unterstützt seit %month% %year%",
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Wie kommt mein Name auf diese Seite?",
+        "answer": "Ihr Name wird innerhalb von 48 Stunden nach dem Abonnement über Patreon zu unserer Danksagungsseite hinzugefügt."
+      },
+      {
+        "question": "Kann ich anonym bleiben?",
+        "answer": "Auf jeden Fall! Teilen Sie uns einfach in Ihrer Patreon-Nachricht mit, dass Sie anonym bleiben möchten."
+      },
+      {
+        "question": "Wie lange wird mein Name hier erscheinen?",
+        "answer": "Ihr Name wird angezeigt, solange Ihr Abonnement aktiv ist."
+      },
+      {
+        "question": "Kann ich anpassen, wie mein Name erscheint?",
+        "answer": "Ja! Teilen Sie uns in Ihrer Patreon-Nachricht mit, wie Ihr Name und Bild erscheinen sollen."
+      }
+    ]
+  },
+  "months": {
+    "0": "Januar",
+    "1": "Februar",
+    "2": "März",
+    "3": "April",
+    "4": "Mai",
+    "5": "Juni",
+    "6": "Juli",
+    "7": "August",
+    "8": "September",
+    "9": "Oktober",
+    "10": "November",
+    "11": "Dezember"
+  }
+}
