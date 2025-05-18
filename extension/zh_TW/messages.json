@@ -41,11 +41,11 @@
   "close_tab_on_preserve": {
     "message": "保存時關閉標籤"
   },
-  "make_previews_of_inactive_tabs": {
-    "message": "製作非活動標籤的預覽"
-  },
   "make_preview_on_preserve": {
     "message": "保存時生成預覽"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "製作非活動標籤的預覽"
   },
   "show_notification_on_preserve": {
     "message": "保存時顯示通知"
@@ -239,9 +239,6 @@
   "open_tabber": {
     "message": "打開 Tabber"
   },
-  "home_page_title": {
-    "message": "Tabber"
-  },
   "home_page_subtitle": {
     "message": "終極標籤組織解決方案"
   },
@@ -331,9 +328,6 @@
   },
   "about_description": {
     "message": "通過將未使用的標籤保存到虛擬標籤組並與所有設備同步來簡化您的瀏覽。\n有關更多信息，請訪問%Tabber關於頁面%。"
-  },
-  "tabber_plus": {
-    "message": "Tabber Plus"
   },
   "plus_active": {
     "message": "活躍"
