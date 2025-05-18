@@ -140,6 +140,9 @@
   "cancel": {
     "message": "Cancelar"
   },
+  "ok": {
+    "message": "OK"
+  },
   "save": {
     "message": "Guardar"
   },
@@ -236,6 +239,9 @@
   "open_tabber": {
     "message": "Abrir Tabber"
   },
+  "home_page_title": {
+    "message": "Tabber"
+  },
   "home_page_subtitle": {
     "message": "Solución definitiva para la organización de pestañas"
   },
@@ -308,6 +314,9 @@
   "tutorial_via_options_menu": {
     "message": "A través del menú de opciones"
   },
+  "tutorial": {
+    "message": "Tutorial"
+  },
   "finish": {
     "message": "Finalizar"
   },
@@ -322,6 +331,9 @@
   },
   "about_description": {
     "message": "Simplifica tu navegación conservando pestañas no utilizadas en grupos organizados de pestañas virtuales y sincronízalas con todos tus dispositivos.\nVisita la página %Acerca de Tabber% para más información."
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
   },
   "plus_active": {
     "message": "Activo"
@@ -376,6 +388,9 @@
   },
   "plus_price": {
     "message": "Solo $1/mes"
+  },
+  "error": {
+    "message": "Error"
   },
   "tab_group_limit": {
     "message": "Actualiza a Tabber Plus para crear más grupos de pestañas"
