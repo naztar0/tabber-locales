@@ -140,6 +140,9 @@
   "cancel": {
     "message": "キャンセル"
   },
+  "ok": {
+    "message": "OK"
+  },
   "save": {
     "message": "保存"
   },
@@ -236,6 +239,9 @@
   "open_tabber": {
     "message": "Tabberを開く"
   },
+  "home_page_title": {
+    "message": "Tabber"
+  },
   "home_page_subtitle": {
     "message": "究極のタブ整理ソリューション"
   },
@@ -325,6 +331,9 @@
   },
   "about_description": {
     "message": "使用していないタブを仮想タブの整理されたグループに保存し、すべてのデバイスと同期して、ブラウジングを簡単にする。\n詳細は%Tabberについてのページ%をご覧ください。"
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
   },
   "plus_active": {
     "message": "アクティブ"
