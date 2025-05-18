@@ -41,11 +41,11 @@
   "close_tab_on_preserve": {
     "message": "Закрыть вкладку при сохранении"
   },
-  "make_previews_of_inactive_tabs": {
-    "message": "Создавать превью неактивных вкладок"
-  },
   "make_preview_on_preserve": {
     "message": "Создать превью при сохранении"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "Создавать превью неактивных вкладок"
   },
   "show_notification_on_preserve": {
     "message": "Показать уведомление при сохранении"
@@ -139,9 +139,6 @@
   },
   "cancel": {
     "message": "Отмена"
-  },
-  "ok": {
-    "message": "OK"
   },
   "save": {
     "message": "Сохранить"
@@ -239,9 +236,6 @@
   "open_tabber": {
     "message": "Открыть Tabber"
   },
-  "home_page_title": {
-    "message": "Tabber"
-  },
   "home_page_subtitle": {
     "message": "Идеальное решение для организации вкладок"
   },
@@ -331,9 +325,6 @@
   },
   "about_description": {
     "message": "Упростите серфинг, сохраняя неиспользуемые вкладки в организованные группы виртуальных вкладок и синхронизируя их со всеми устройствами.\nПосетите %страницу о Tabber% для получения дополнительной информации."
-  },
-  "tabber_plus": {
-    "message": "Tabber Plus"
   },
   "plus_active": {
     "message": "Активно"
