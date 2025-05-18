@@ -2,6 +2,8 @@ This repo only contains Tabber Extension and Website locales.
 You can use this repo to contribute to the translation of Tabber.
 You can also use this repo to report bugs, issues, and feature requests.
 
+You can help translate Tabber by joining the project here: [Tabber on Crowdin](https://crowdin.com/project/tabber)
+
 ## What is Tabber?
 
 [<img src="https://lh3.googleusercontent.com/9lSz5KY9Dp2S_uK2UYGSmt-_DE4qtZK5JidHG3-fS2cTkKGL_pavH8usVc6Yegn8KfjzOQGHJw3iLa7JtGTYCrJsqPk=w1024" width="100%" />](https://tabber.top/)

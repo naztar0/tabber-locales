@@ -1,0 +1,3 @@
+files:
+  - source: /extension/en/messages.json
+    translation: /extension/%two_letters_code%/%original_file_name%
