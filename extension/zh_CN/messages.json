@@ -239,6 +239,9 @@
   "open_tabber": {
     "message": "打开 Tabber"
   },
+  "home_page_title": {
+    "message": "Tabber"
+  },
   "home_page_subtitle": {
     "message": "终极标签组织解决方案"
   },
@@ -328,6 +331,9 @@
   },
   "about_description": {
     "message": "通过将未使用的标签保存到虚拟标签组并与所有设备同步来简化您的浏览。\n有关更多信息，请访问%Tabber关于页面%。"
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
   },
   "plus_active": {
     "message": "活跃"
