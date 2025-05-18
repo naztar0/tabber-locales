@@ -41,11 +41,11 @@
   "close_tab_on_preserve": {
     "message": "Fechar aba ao preservar"
   },
-  "make_previews_of_inactive_tabs": {
-    "message": "Criar pré-visualizações de abas inativas"
-  },
   "make_preview_on_preserve": {
     "message": "Criar pré-visualização ao preservar"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "Criar pré-visualizações de abas inativas"
   },
   "show_notification_on_preserve": {
     "message": "Mostrar notificação ao preservar"
@@ -139,9 +139,6 @@
   },
   "cancel": {
     "message": "Cancelar"
-  },
-  "ok": {
-    "message": "OK"
   },
   "save": {
     "message": "Salvar"
@@ -239,9 +236,6 @@
   "open_tabber": {
     "message": "Abrir Tabber"
   },
-  "home_page_title": {
-    "message": "Tabber"
-  },
   "home_page_subtitle": {
     "message": "Solução Suprema de Organização de Abas"
   },
@@ -314,9 +308,6 @@
   "tutorial_via_options_menu": {
     "message": "Usar menu de opções"
   },
-  "tutorial": {
-    "message": "Tutorial"
-  },
   "finish": {
     "message": "Finalizar"
   },
@@ -331,9 +322,6 @@
   },
   "about_description": {
     "message": "Simplifique sua navegação preservando abas não utilizadas em grupos organizados de abas virtuais e sincronize-os com todos os dispositivos.\nVisite a página %Sobre Tabber% para mais informações."
-  },
-  "tabber_plus": {
-    "message": "Tabber Plus"
   },
   "plus_active": {
     "message": "Ativo"
