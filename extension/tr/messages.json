@@ -239,6 +239,9 @@
   "open_tabber": {
     "message": "Tabber'ı aç"
   },
+  "home_page_title": {
+    "message": "Tabber"
+  },
   "home_page_subtitle": {
     "message": "Nihai Sekme Organizasyon Çözümü"
   },
@@ -328,6 +331,9 @@
   },
   "about_description": {
     "message": "Kullanılmayan sekmeleri sanal sekme gruplarına kaydederek ve tüm cihazlarla senkronize ederek taramanızı basitleştirin.\nDaha fazla bilgi için %Tabber Hakkında sayfasını% ziyaret edin."
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
   },
   "plus_active": {
     "message": "Aktif"
