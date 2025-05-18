@@ -41,11 +41,11 @@
   "close_tab_on_preserve": {
     "message": "保存時にタブを閉じる"
   },
-  "make_previews_of_inactive_tabs": {
-    "message": "非アクティブなタブのプレビューを作成する"
-  },
   "make_preview_on_preserve": {
     "message": "保存時にプレビューを作成する"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "非アクティブなタブのプレビューを作成する"
   },
   "show_notification_on_preserve": {
     "message": "保存時に通知を表示する"
@@ -139,9 +139,6 @@
   },
   "cancel": {
     "message": "キャンセル"
-  },
-  "ok": {
-    "message": "OK"
   },
   "save": {
     "message": "保存"
@@ -239,9 +236,6 @@
   "open_tabber": {
     "message": "Tabberを開く"
   },
-  "home_page_title": {
-    "message": "Tabber"
-  },
   "home_page_subtitle": {
     "message": "究極のタブ整理ソリューション"
   },
@@ -331,9 +325,6 @@
   },
   "about_description": {
     "message": "使用していないタブを仮想タブの整理されたグループに保存し、すべてのデバイスと同期して、ブラウジングを簡単にする。\n詳細は%Tabberについてのページ%をご覧ください。"
-  },
-  "tabber_plus": {
-    "message": "Tabber Plus"
   },
   "plus_active": {
     "message": "アクティブ"
