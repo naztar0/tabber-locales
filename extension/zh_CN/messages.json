@@ -41,11 +41,11 @@
   "close_tab_on_preserve": {
     "message": "保存时关闭标签"
   },
-  "make_previews_of_inactive_tabs": {
-    "message": "制作非活动标签的预览"
-  },
   "make_preview_on_preserve": {
     "message": "保存时生成预览"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "制作非活动标签的预览"
   },
   "show_notification_on_preserve": {
     "message": "保存时显示通知"
@@ -239,9 +239,6 @@
   "open_tabber": {
     "message": "打开 Tabber"
   },
-  "home_page_title": {
-    "message": "Tabber"
-  },
   "home_page_subtitle": {
     "message": "终极标签组织解决方案"
   },
@@ -331,9 +328,6 @@
   },
   "about_description": {
     "message": "通过将未使用的标签保存到虚拟标签组并与所有设备同步来简化您的浏览。\n有关更多信息，请访问%Tabber关于页面%。"
-  },
-  "tabber_plus": {
-    "message": "Tabber Plus"
   },
   "plus_active": {
     "message": "活跃"
