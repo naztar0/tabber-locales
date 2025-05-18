@@ -65,9 +65,6 @@
   "save_previews_to_cloud": {
     "message": "Sauvegarder les aperçus dans le cloud"
   },
-  "exclusions": {
-    "message": "Exclusions"
-  },
   "sites_exclusions": {
     "message": "Exclusions de sites"
   },
@@ -139,9 +136,6 @@
   },
   "cancel": {
     "message": "Annuler"
-  },
-  "ok": {
-    "message": "OK"
   },
   "save": {
     "message": "Sauvegarder"
@@ -239,9 +233,6 @@
   "open_tabber": {
     "message": "Ouvrir Tabber"
   },
-  "home_page_title": {
-    "message": "Tabber"
-  },
   "home_page_subtitle": {
     "message": "Solution Ultime d'Organisation d'Onglets"
   },
@@ -320,9 +311,6 @@
   "finish": {
     "message": "Terminer"
   },
-  "support": {
-    "message": "Support"
-  },
   "about": {
     "message": "À propos"
   },
@@ -331,9 +319,6 @@
   },
   "about_description": {
     "message": "Simplifiez votre navigation en conservant les onglets inutilisés dans des groupes organisés d'onglets virtuels et synchronisez-les avec tous vos appareils.\nVisitez la page %À propos de Tabber% pour plus d'informations."
-  },
-  "tabber_plus": {
-    "message": "Tabber Plus"
   },
   "plus_active": {
     "message": "Actif"
@@ -653,21 +638,6 @@
   "auto_sync_interval": {
     "message": "Intervalle"
   },
-  "interval_1_min": {
-    "message": "1 minute"
-  },
-  "interval_5_min": {
-    "message": "5 minutes"
-  },
-  "interval_10_min": {
-    "message": "10 minutes"
-  },
-  "interval_15_min": {
-    "message": "15 minutes"
-  },
-  "interval_30_min": {
-    "message": "30 minutes"
-  },
   "interval_1_hour": {
     "message": "1 heure"
   },
@@ -820,9 +790,6 @@
   },
   "review_dialog_description": {
     "message": "Tu utilises cette extension depuis un moment, et il semble qu’elle te plaise ! Si c’est le cas, pourrais-tu laisser un avis sur la boutique ? Cela m’aiderait vraiment à continuer à l’améliorer. Un grand merci !"
-  },
-  "v_tabs_position": {
-    "message": "Position"
   },
   "v_tabs_left": {
     "message": "Gauche"
