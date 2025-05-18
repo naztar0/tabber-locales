@@ -17,9 +17,6 @@
   "theme_dark": {
     "message": "Dunkel"
   },
-  "theme_system": {
-    "message": "System"
-  },
   "theme_color": {
     "message": "Primärfarbe"
   },
@@ -140,9 +137,6 @@
   "cancel": {
     "message": "Abbrechen"
   },
-  "ok": {
-    "message": "OK"
-  },
   "save": {
     "message": "Speichern"
   },
@@ -175,12 +169,6 @@
   },
   "read_more": {
     "message": "Mehr anzeigen"
-  },
-  "name": {
-    "message": "Name"
-  },
-  "tabs": {
-    "message": "Tabs"
   },
   "show": {
     "message": "Anzeigen"
@@ -238,9 +226,6 @@
   },
   "open_tabber": {
     "message": "Tabber öffnen"
-  },
-  "home_page_title": {
-    "message": "Tabber"
   },
   "home_page_subtitle": {
     "message": "Ultimative Lösung für Tab-Organisation"
@@ -314,9 +299,6 @@
   "tutorial_via_options_menu": {
     "message": "Über das Optionsmenü"
   },
-  "tutorial": {
-    "message": "Tutorial"
-  },
   "finish": {
     "message": "Fertigstellen"
   },
@@ -331,9 +313,6 @@
   },
   "about_description": {
     "message": "Vereinfachen Sie Ihr Browsen, indem Sie ungenutzte Tabs in organisierten Gruppen virtueller Tabs aufbewahren und mit allen Geräten synchronisieren.\nBesuchen Sie die %Tabber-Über-Seite% für weitere Informationen."
-  },
-  "tabber_plus": {
-    "message": "Tabber Plus"
   },
   "plus_active": {
     "message": "Aktiv"
@@ -820,9 +799,6 @@
   },
   "review_dialog_description": {
     "message": "Du nutzt diese Erweiterung schon eine Weile, und es sieht so aus, als würdest du sie mögen! Falls das so ist, würdest du vielleicht eine Bewertung im Store hinterlassen? Das würde mir wirklich helfen, sie weiter zu verbessern. Vielen Dank!"
-  },
-  "v_tabs_position": {
-    "message": "Position"
   },
   "v_tabs_left": {
     "message": "Links"
