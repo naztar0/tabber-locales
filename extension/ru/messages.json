@@ -140,6 +140,9 @@
   "cancel": {
     "message": "Отмена"
   },
+  "ok": {
+    "message": "ОК"
+  },
   "save": {
     "message": "Сохранить"
   },
@@ -236,6 +239,9 @@
   "open_tabber": {
     "message": "Открыть Tabber"
   },
+  "home_page_title": {
+    "message": "Tabber"
+  },
   "home_page_subtitle": {
     "message": "Идеальное решение для организации вкладок"
   },
@@ -325,6 +331,9 @@
   },
   "about_description": {
     "message": "Упростите серфинг, сохраняя неиспользуемые вкладки в организованные группы виртуальных вкладок и синхронизируя их со всеми устройствами.\nПосетите %страницу о Tabber% для получения дополнительной информации."
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
   },
   "plus_active": {
     "message": "Активно"
