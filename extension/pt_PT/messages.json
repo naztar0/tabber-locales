@@ -41,11 +41,11 @@
   "close_tab_on_preserve": {
     "message": "Fechar aba ao preservar"
   },
-  "make_previews_of_inactive_tabs": {
-    "message": "Criar pré-visualizações de abas inativas"
-  },
   "make_preview_on_preserve": {
     "message": "Criar pré-visualização ao preservar"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "Criar pré-visualizações de abas inativas"
   },
   "show_notification_on_preserve": {
     "message": "Mostrar notificação ao preservar"

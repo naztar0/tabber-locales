@@ -41,11 +41,11 @@
   "close_tab_on_preserve": {
     "message": "Закрыть вкладку при сохранении"
   },
-  "make_previews_of_inactive_tabs": {
-    "message": "Создавать превью неактивных вкладок"
-  },
   "make_preview_on_preserve": {
     "message": "Создать превью при сохранении"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "Создавать превью неактивных вкладок"
   },
   "show_notification_on_preserve": {
     "message": "Показать уведомление при сохранении"
@@ -141,7 +141,7 @@
     "message": "Отмена"
   },
   "ok": {
-    "message": "OK"
+    "message": "ОК"
   },
   "save": {
     "message": "Сохранить"

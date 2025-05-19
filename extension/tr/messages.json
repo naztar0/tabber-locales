@@ -41,11 +41,11 @@
   "close_tab_on_preserve": {
     "message": "Saklarken sekmeyi kapat"
   },
-  "make_previews_of_inactive_tabs": {
-    "message": "Pasif sekmelerin önizlemelerini oluştur"
-  },
   "make_preview_on_preserve": {
     "message": "Saklarken önizleme yap"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "Pasif sekmelerin önizlemelerini oluştur"
   },
   "show_notification_on_preserve": {
     "message": "Saklarken bildirim göster"

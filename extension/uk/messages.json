@@ -41,11 +41,11 @@
   "close_tab_on_preserve": {
     "message": "Закрити вкладку при збереженні"
   },
-  "make_previews_of_inactive_tabs": {
-    "message": "Створювати прев'ю неактивних вкладок"
-  },
   "make_preview_on_preserve": {
     "message": "Створити прев'ю при збереженні"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "Створювати прев'ю неактивних вкладок"
   },
   "show_notification_on_preserve": {
     "message": "Показати сповіщення при збереженні"

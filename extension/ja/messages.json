@@ -41,11 +41,11 @@
   "close_tab_on_preserve": {
     "message": "保存時にタブを閉じる"
   },
-  "make_previews_of_inactive_tabs": {
-    "message": "非アクティブなタブのプレビューを作成する"
-  },
   "make_preview_on_preserve": {
     "message": "保存時にプレビューを作成する"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "非アクティブなタブのプレビューを作成する"
   },
   "show_notification_on_preserve": {
     "message": "保存時に通知を表示する"

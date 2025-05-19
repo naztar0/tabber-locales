@@ -41,11 +41,11 @@
   "close_tab_on_preserve": {
     "message": "保存時關閉標籤"
   },
-  "make_previews_of_inactive_tabs": {
-    "message": "製作非活動標籤的預覽"
-  },
   "make_preview_on_preserve": {
     "message": "保存時生成預覽"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "製作非活動標籤的預覽"
   },
   "show_notification_on_preserve": {
     "message": "保存時顯示通知"
