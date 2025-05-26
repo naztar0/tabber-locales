@@ -506,6 +506,9 @@
   "tutorial_preserve_tab_title": {
     "message": "Låt oss bevara din första flik!"
   },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Gå till %link% eller någon annan webbplats."
+  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Klicka på tilläggsikonen uppe till höger i webbläsaren ELLER högerklicka på sidan."
   },
@@ -532,6 +535,9 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Skriv ett namn på gruppen, välj färg och klicka <kbd>Skapa</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Gå till %link% eller någon annan webbplats och bevara den."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Gå tillbaka till Tabber."
