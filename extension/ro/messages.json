@@ -506,9 +506,6 @@
   "tutorial_preserve_tab_title": {
     "message": "Hai să păstrăm prima ta filă!"
   },
-  "tutorial_preserve_tab_description_1": {
-    "message": "1. Accesează %link% sau orice alt site."
-  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Clic pe pictograma extensiei din colțul din dreapta sus al browserului SAU clic dreapta pe pagină."
   },
@@ -535,9 +532,6 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Introdu un nume pentru grup, alege o culoare și apasă <kbd>Creează</kbd>."
-  },
-  "tutorial_create_tab_group_description_3": {
-    "message": "3. Accesează %link% sau alt site și păstrează-l."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Revin-o în Tabber."
