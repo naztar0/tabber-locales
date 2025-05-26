@@ -506,6 +506,9 @@
   "tutorial_preserve_tab_title": {
     "message": "Salviamo la tua prima scheda!"
   },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Vai su %link% o su qualsiasi altro sito."
+  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Clicca sull'icona dell'estensione in alto a destra nel browser OPPURE clicca con il tasto destro sulla pagina."
   },
@@ -532,6 +535,9 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Inserisci un nome per il gruppo, scegli un colore e clicca su <kbd>Crea</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Vai su %link% o su un altro sito e salvalo."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Torna su Tabber."
