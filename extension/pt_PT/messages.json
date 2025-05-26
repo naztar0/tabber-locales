@@ -506,6 +506,9 @@
   "tutorial_preserve_tab_title": {
     "message": "Vamos preservar sua primeira aba!"
   },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Vá para %link% ou qualquer outro site."
+  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Clique no ícone da extensão no canto superior direito do seu navegador OU clique com o botão direito na página."
   },
@@ -532,6 +535,9 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Digite um nome para seu grupo de abas, selecione uma cor e clique em <kbd>Criar</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Vá para %link% ou qualquer outro site e preserve-o."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Retorne ao Tabber."
