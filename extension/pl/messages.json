@@ -506,9 +506,6 @@
   "tutorial_preserve_tab_title": {
     "message": "Zachowaj swoją pierwszą kartę!"
   },
-  "tutorial_preserve_tab_description_1": {
-    "message": "1. Przejdź do %link% lub dowolnej innej strony."
-  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Kliknij ikonę rozszerzenia w prawym górnym rogu przeglądarki LUB kliknij prawym przyciskiem na stronie."
   },
@@ -535,9 +532,6 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Wpisz nazwę grupy, wybierz kolor i kliknij <kbd>Utwórz</kbd>."
-  },
-  "tutorial_create_tab_group_description_3": {
-    "message": "3. Przejdź do %link% lub innej strony i ją zachowaj."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Wróć do Tabber."
