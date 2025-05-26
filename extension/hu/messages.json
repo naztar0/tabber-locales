@@ -506,9 +506,6 @@
   "tutorial_preserve_tab_title": {
     "message": "Őrizzük meg az első füledet!"
   },
-  "tutorial_preserve_tab_description_1": {
-    "message": "1. Látogass el a %link% oldalra vagy bármely más webhelyre."
-  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Kattints a bővítmény ikonra a böngésző jobb felső sarkában VAGY jobb klikkelj az oldalra."
   },
@@ -535,9 +532,6 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Adj nevet a csoportnak, válassz egy színt, majd kattints a <kbd>Létrehozás</kbd> gombra."
-  },
-  "tutorial_create_tab_group_description_3": {
-    "message": "3. Látogass el a %link% oldalra vagy más webhelyre, majd őrizd meg azt."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Térj vissza a Tabberhez."
