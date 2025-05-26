@@ -506,6 +506,9 @@
   "tutorial_preserve_tab_title": {
     "message": "Tallennetaan ensimmäinen välilehtesi!"
   },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Siirry sivulle %link% tai jollekin muulle verkkosivulle."
+  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Napsauta selainikkunan oikeassa yläkulmassa olevaa laajennuskuvaketta TAI napsauta sivua hiiren oikealla."
   },
@@ -532,6 +535,9 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Anna ryhmällesi nimi, valitse väri ja napsauta <kbd>Luo</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Siirry sivulle %link% tai muulle verkkosivulle ja tallenna se."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Palaa Tabberiin."
