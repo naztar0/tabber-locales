@@ -506,6 +506,9 @@
   "tutorial_preserve_tab_title": {
     "message": "Давайте сохраним вашу первую вкладку!"
   },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Перейдите на %link% или любой другой сайт."
+  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Кликните на иконку расширения в правом верхнем углу вашего браузера ИЛИ кликните правой кнопкой мыши по странице."
   },
@@ -532,6 +535,9 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Введите название для группы вкладок, выберите цвет и нажмите <kbd>Создать</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Перейдите на %link% или любой другой сайт и сохраните его."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Вернитесь в Tabber."
