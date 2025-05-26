@@ -506,9 +506,6 @@
   "tutorial_preserve_tab_title": {
     "message": "Sauvegardons votre premier onglet !"
   },
-  "tutorial_preserve_tab_description_1": {
-    "message": "1. Allez sur %link% ou tout autre site web."
-  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Cliquez sur l'icône de l'extension dans le coin supérieur droit de votre navigateur OU cliquez avec le bouton droit sur la page."
   },
@@ -535,9 +532,6 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Saisissez un nom pour votre groupe d'onglets, sélectionnez une couleur et cliquez sur <kbd>Créer</kbd>."
-  },
-  "tutorial_create_tab_group_description_3": {
-    "message": "3. Allez sur %link% ou tout autre site web et conservez-le."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Retournez à Tabber."
