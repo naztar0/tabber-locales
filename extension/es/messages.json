@@ -506,6 +506,9 @@
   "tutorial_preserve_tab_title": {
     "message": "¡Conserva tu primera pestaña!"
   },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Ve a %link% o cualquier otro sitio web."
+  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Haz clic en el icono de la extensión en la esquina superior derecha de tu navegador O haz clic derecho en la página."
   },
@@ -532,6 +535,9 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Escribe un nombre para tu grupo de pestañas, selecciona un color y haz clic en <kbd>Crear</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Ve a %link% o cualquier otro sitio web y consérvalo."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Vuelve a Tabber."
