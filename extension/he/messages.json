@@ -506,6 +506,9 @@
   "tutorial_preserve_tab_title": {
     "message": "בוא נשמור את הלשונית הראשונה שלך!"
   },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. עבור ל-%link% או לכל אתר אחר."
+  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. לחץ על סמל התוסף בפינה העליונה של הדפדפן או לחץ לחיצה ימנית על הדף."
   },
@@ -532,6 +535,9 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. הקלד שם לקבוצה, בחר צבע ולחץ על <kbd>צור</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. גש ל-%link% או לכל אתר אחר ושמור אותו."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. חזור ל-Tabber."
