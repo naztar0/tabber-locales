@@ -506,9 +506,6 @@
   "tutorial_preserve_tab_title": {
     "message": "Ας αποθηκεύσουμε την πρώτη σας καρτέλα!"
   },
-  "tutorial_preserve_tab_description_1": {
-    "message": "1. Μεταβείτε στο %link% ή σε οποιοδήποτε άλλο ιστότοπο."
-  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Κάντε κλικ στο εικονίδιο της επέκτασης πάνω δεξιά στον browser Ή κάντε δεξί κλικ στη σελίδα."
   },
@@ -535,9 +532,6 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Πληκτρολογήστε όνομα για την ομάδα, επιλέξτε χρώμα και πατήστε <kbd>Δημιουργία</kbd>."
-  },
-  "tutorial_create_tab_group_description_3": {
-    "message": "3. Μεταβείτε στο %link% ή σε άλλο ιστότοπο και αποθηκεύστε τον."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Επιστρέψτε στο Tabber."
