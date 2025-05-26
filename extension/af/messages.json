@@ -1,1 +1,845 @@
-{}
+{
+  "extension_name": {
+    "message": "Tabber - Oortjie-organiseerder"
+  },
+  "extension_description": {
+    "message": "Vereenvoudig jou blaai-ervaring deur ongebruikte oortjies in georganiseerde groepe te groepeer"
+  },
+  "extension_default_title": {
+    "message": "Tabber – Die Uiteindelike Oortjie-organisasie-oplossing"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "theme_light": {
+    "message": "Lig"
+  },
+  "theme_dark": {
+    "message": "Donker"
+  },
+  "theme_system": {
+    "message": "Stelsel"
+  },
+  "theme_color": {
+    "message": "Primêre kleur"
+  },
+  "theme_background": {
+    "message": "Agtergrond"
+  },
+  "theme_background_animation": {
+    "message": "Agtergrond-animasie"
+  },
+  "theme_background_custom": {
+    "message": "Pasmaakte agtergrond"
+  },
+  "use_context_menu": {
+    "message": "Gebruik kontekskieslys"
+  },
+  "double_click_to_restore": {
+    "message": "Dubbelklik om te herstel"
+  },
+  "close_tab_on_preserve": {
+    "message": "Sluit oortjie wanneer dit bewaar word"
+  },
+  "make_preview_on_preserve": {
+    "message": "Skep voorskou wanneer bewaar"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "Skep voorskoue van onaktiewe oortjies"
+  },
+  "show_notification_on_preserve": {
+    "message": "Wys kennisgewing wanneer bewaar word"
+  },
+  "delete_tab_on_restore": {
+    "message": "Verwyder oortjie tydens herstel"
+  },
+  "restore_to_group": {
+    "message": "Herstel oortjie na groep"
+  },
+  "add_new_tab_to_start": {
+    "message": "Voeg nuwe oortjie aan begin toe"
+  },
+  "add_new_tab_to_last_active_group": {
+    "message": "Voeg nuwe oortjie by laaste aktiewe groep"
+  },
+  "save_previews_to_cloud": {
+    "message": "Stoor voorskoue in die wolk"
+  },
+  "exclusions": {
+    "message": "Uitsluitings"
+  },
+  "sites_exclusions": {
+    "message": "Webwerf-uitsluitings"
+  },
+  "groups_exclusions": {
+    "message": "Groepuitsluitings"
+  },
+  "keyboard_shortcuts": {
+    "message": "Sleutelbordkortpaaie"
+  },
+  "vertical_tabs": {
+    "message": "Vertikale oortjies"
+  },
+  "sites_features": {
+    "message": "Webwerf-funksies"
+  },
+  "toolbar_items": {
+    "message": "Nutsbalk-items"
+  },
+  "advanced_settings": {
+    "message": "Gevorderde instellings"
+  },
+  "click_again_to_confirm": {
+    "message": "Klik weer om te bevestig"
+  },
+  "save_youtube_timestamps": {
+    "message": "Stoor YouTube-tydstempels"
+  },
+  "home_page": {
+    "message": "Tabber | Tuisblad"
+  },
+  "restore_closed_tab": {
+    "message": "Herstel geslote oortjie"
+  },
+  "preserve_all_tabs": {
+    "message": "Bewaar alle oortjies"
+  },
+  "restore_all_tabs": {
+    "message": "Herstel alle oortjies"
+  },
+  "restore_all_tabs_by_group": {
+    "message": "Per groep"
+  },
+  "restore_all_tabs_by_window": {
+    "message": "Per venster"
+  },
+  "restore_all_tabs_close_after_restore": {
+    "message": "Sluit na herstel"
+  },
+  "preserve_all_tabs_close_after_preserve": {
+    "message": "Sluit na bewaring"
+  },
+  "clear_all_data": {
+    "message": "Vee alle data uit"
+  },
+  "clear_all_data_confirm": {
+    "message": "Is jy seker jy wil alle data uitvee?"
+  },
+  "clear_all_data_confirm_description": {
+    "message": "Dit sal al jou gestoorde oortjies en groepe uitvee. Hierdie aksie kan nie ongedaan gemaak word nie."
+  },
+  "clean_up_junk": {
+    "message": "Maak gemors skoon"
+  },
+  "clean_up_junk_confirm": {
+    "message": "Is jy seker jy wil die gemors verwyder?"
+  },
+  "clean_up_junk_confirm_description": {
+    "message": "Leë oortjiegroepe en duplikaat-oortjies sal verwyder word. Hierdie aksie kan nie ongedaan gemaak word nie."
+  },
+  "cancel": {
+    "message": "Kanselleer"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "save": {
+    "message": "Stoor"
+  },
+  "create": {
+    "message": "Skep"
+  },
+  "delete": {
+    "message": "Verwyder"
+  },
+  "restore": {
+    "message": "Herstel"
+  },
+  "share": {
+    "message": "Deel"
+  },
+  "bind_sites": {
+    "message": "Bind webwerwe"
+  },
+  "merge_with": {
+    "message": "Voeg saam met"
+  },
+  "no_tab_groups": {
+    "message": "Geen oortjiegroepe nie"
+  },
+  "all_tab_groups": {
+    "message": "Alle oortjiegroepe"
+  },
+  "read_less": {
+    "message": "Lees minder"
+  },
+  "read_more": {
+    "message": "Lees meer"
+  },
+  "name": {
+    "message": "Naam"
+  },
+  "tabs": {
+    "message": "Oortjies"
+  },
+  "show": {
+    "message": "Wys"
+  },
+  "other": {
+    "message": "Ander"
+  },
+  "close": {
+    "message": "Sluit"
+  },
+  "allow": {
+    "message": "Laat toe"
+  },
+  "deny": {
+    "message": "Weier"
+  },
+  "proceed": {
+    "message": "Gaan voort"
+  },
+  "main_tab_group": {
+    "message": "Hoofgroep"
+  },
+  "tab_preserved": {
+    "message": "Oortjie bewaar"
+  },
+  "tab_group_preserved": {
+    "message": "Oortjiegroep bewaar"
+  },
+  "tab_preserved_message": {
+    "message": "«$1» is bewaar"
+  },
+  "tab_group_preserved_message": {
+    "message": "Groep «$1» is bewaar"
+  },
+  "preserve_tab": {
+    "message": "Bewaar oortjie"
+  },
+  "preserve_tab_group": {
+    "message": "Bewaar oortjiegroep"
+  },
+  "sign_in": {
+    "message": "Teken in"
+  },
+  "sign_up": {
+    "message": "Registreer"
+  },
+  "sign_out": {
+    "message": "Teken uit"
+  },
+  "signed_in_successfully": {
+    "message": "Ingeteken suksesvol"
+  },
+  "signed_out_successfully": {
+    "message": "Uitgeteken suksesvol"
+  },
+  "open_tabber": {
+    "message": "Open Tabber"
+  },
+  "home_page_title": {
+    "message": "Tabber"
+  },
+  "home_page_subtitle": {
+    "message": "Uiteindelike Oortjie-organisasie-oplossing"
+  },
+  "home_page_description": {
+    "message": "Vereenvoudig jou blaai deur ongebruikte oortjies te bewaar in georganiseerde groepe van virtuele oortjies en dit met al jou toestelle te sinkroniseer."
+  },
+  "home_page_watch_demo": {
+    "message": "Kyk demonstrasie"
+  },
+  "home_page_scroll_down": {
+    "message": "Blaai af"
+  },
+  "no_preview_click_to_restore": {
+    "message": "Klik om te herstel"
+  },
+  "no_preview_double_click_to_restore": {
+    "message": "Dubbelklik om te herstel"
+  },
+  "no_preview_faq_q1": {
+    "message": "Hoekom is daar nie 'n voorskou van hierdie oortjie beskikbaar nie?"
+  },
+  "no_preview_faq_a1": {
+    "message": "Hierdie oortjie is deel van 'n bewaarde oortjiegroep."
+  },
+  "no_preview_faq_a2": {
+    "message": "Voorskoue is in die instellings gedeaktiveer."
+  },
+  "no_preview_faq_a3": {
+    "message": "Oortjie is vanaf die wolk gelaai, maar die voorskou is plaaslik gestoor. Jy kan wolkvoorskou-stoor aktiveer in die instellings."
+  },
+  "no_preview_faq_a4": {
+    "message": "Iets het verkeerd geloop. Probeer die blaaier herlaai, herstel en bewaar die oortjie weer. Indien dit nie werk nie, aktiveer wolkvoorskou-stoor in die instellings."
+  },
+  "tutorial_preserve_tabs": {
+    "message": "Bewaar oortjies"
+  },
+  "tutorial_via_context_menu": {
+    "message": "Via kontekskieslys"
+  },
+  "tutorial_open_in_new_tab": {
+    "message": "Maak oop in nuwe oortjie"
+  },
+  "tutorial_reload": {
+    "message": "Herlaai"
+  },
+  "tutorial_view_page_source": {
+    "message": "Bekyk bladsybron"
+  },
+  "tutorial_or": {
+    "message": "Of"
+  },
+  "tutorial_via_extension_popup": {
+    "message": "Via uitbreidingsopspringvenster"
+  },
+  "tutorial_pin_extension": {
+    "message": "Speld uitbreiding vas →"
+  },
+  "tutorial_restore_tabs": {
+    "message": "Herstel oortjies"
+  },
+  "tutorial_click_on_content": {
+    "message": "Klik op inhoud"
+  },
+  "tutorial_right_click_on_group": {
+    "message": "Regs-kliek op groep"
+  },
+  "tutorial_my_group": {
+    "message": "My groep"
+  },
+  "tutorial_via_options_menu": {
+    "message": "Via opsieskieslys"
+  },
+  "tutorial": {
+    "message": "Handleiding"
+  },
+  "finish": {
+    "message": "Voltooi"
+  },
+  "support": {
+    "message": "Ondersteuning"
+  },
+  "about": {
+    "message": "Oor"
+  },
+  "about_title": {
+    "message": "Tabber – Uiteindelike Oortjie-organisasie-oplossing v$1"
+  },
+  "about_description": {
+    "message": "Vereenvoudig jou blaai deur ongebruikte oortjies te bewaar in georganiseerde groepe van virtuele oortjies en dit met al jou toestelle te sinkroniseer.\nBesoek die %Tabber Oor-bladsy% vir meer inligting."
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
+  },
+  "plus_active": {
+    "message": "Aktief"
+  },
+  "plus_upgrade": {
+    "message": "Opgradeer na Plus"
+  },
+  "plus_description": {
+    "message": "Verhoog jou webblaaier-ervaring met Tabber Plus. Sê totsiens aan oortjiechaos en ontdek 'n wêreld van produktiwiteit-verbeterende gereedskap wat jou aanlyn werkwyse sal transformeer."
+  },
+  "plus_feature_title_1": {
+    "message": "Onbeperkte Oortjiegroepe"
+  },
+  "plus_feature_title_2": {
+    "message": "Gevorderde KI-model vir Groepering"
+  },
+  "plus_feature_title_3": {
+    "message": "Outo-wolksinkronisering"
+  },
+  "plus_feature_title_4": {
+    "message": "Volledige Sinkronisasiegeskiedenis"
+  },
+  "plus_feature_title_5": {
+    "message": "Pasmaakte Agtergrond"
+  },
+  "plus_feature_title_6": {
+    "message": "Prioriteitsondersteuning"
+  },
+  "plus_feature_title_7": {
+    "message": "Eksklusiewe Patreon-plasings"
+  },
+  "plus_feature_desc_1": {
+    "message": "Geen beperking meer op hoeveel oortjies jy kan groepeer nie."
+  },
+  "plus_feature_desc_2": {
+    "message": "Verbeterde KI-model en hoër gebruikslimiete."
+  },
+  "plus_feature_desc_3": {
+    "message": "Jou oortjies word outomaties oor al jou toestelle gesinkroniseer."
+  },
+  "plus_feature_desc_4": {
+    "message": "Kry toegang tot jou volledige sinkronisasiegeskiedenis en herstel enige rugsteun."
+  },
+  "plus_feature_desc_5": {
+    "message": "Pas 'n eie agtergrond toe op bladsye sonder voorskoue."
+  },
+  "plus_feature_desc_6": {
+    "message": "Vrae en bekommernisse word vinnig aangespreek, vir 'n gladde ervaring."
+  },
+  "plus_feature_desc_7": {
+    "message": "Kry eksklusiewe toegang tot Patreon-plasings, meningspeilings en die nuutste wenke en opdaterings."
+  },
+  "plus_price": {
+    "message": "Slegs $1/maand"
+  },
+  "error": {
+    "message": "Fout"
+  },
+  "tab_group_limit": {
+    "message": "Opgradeer na Tabber Plus om meer oortjiegroepe te skep"
+  },
+  "sync_to_cloud": {
+    "message": "Sinkroniseer na wolk"
+  },
+  "sign_in_to_sync": {
+    "message": "Teken in om jou oortjies met die wolk te sinkroniseer"
+  },
+  "sync_history": {
+    "message": "Sinkronisasiegeskiedenis"
+  },
+  "sync_success": {
+    "message": "Sinkronisering suksesvol"
+  },
+  "sync_error": {
+    "message": "Sinkroniseringsfout"
+  },
+  "file_upload_error": {
+    "message": "Lêeroplaaifout"
+  },
+  "backup_not_found": {
+    "message": "Rugsteun nie gevind nie"
+  },
+  "sign_in_to_save_previews": {
+    "message": "Teken in om voorskoue in die wolk te stoor"
+  },
+  "sync_from_cloud": {
+    "message": "Sinkroniseer vanaf wolk"
+  },
+  "sync_from_cloud_title": {
+    "message": "Sinkroniseer oortjies vanaf wolk"
+  },
+  "sync_from_cloud_description": {
+    "message": "Jy het oortjies in die wolk gestoor. Jy kan dit met jou huidige oortjies saamsmelt of dit vervang. As jy saamsmelt kies, sal jou huidige oortjies met die wolk-oortjies saamgevoeg word en duplikate sal oorgeslaan word. As jy vervang kies, sal al jou huidige oortjies verlore gaan."
+  },
+  "sync_from_cloud_merge": {
+    "message": "Saamsmelt"
+  },
+  "sync_from_cloud_replace": {
+    "message": "Vervang"
+  },
+  "sync_with_merge": {
+    "message": "Herstel met saamsmelting"
+  },
+  "sync_with_replace": {
+    "message": "Herstel met vervanging"
+  },
+  "all_tabs_preserved": {
+    "message": "Alle oortjies bewaar"
+  },
+  "all_tabs_preserved_message": {
+    "message": "Alle oortjies is bewaar"
+  },
+  "no_data": {
+    "message": "Geen data"
+  },
+  "group_tabs": {
+    "message": "Groepeer oortjies"
+  },
+  "group_tabs_by_domain": {
+    "message": "Volgens domein"
+  },
+  "group_tabs_with_ai": {
+    "message": "Met KI"
+  },
+  "sort_tabs": {
+    "message": "Sorteer oortjies"
+  },
+  "sort_tabs_by_title": {
+    "message": "Volgens titel"
+  },
+  "sort_tabs_by_url": {
+    "message": "Volgens URL"
+  },
+  "sort_tabs_by_date": {
+    "message": "Volgens datum"
+  },
+  "sort_tabs_asc": {
+    "message": "Oplopend"
+  },
+  "sort_tabs_desc": {
+    "message": "Aflopend"
+  },
+  "sort_tabs_only_current_group": {
+    "message": "Slegs huidige groep"
+  },
+  "search_tabs": {
+    "message": "Soek oortjies"
+  },
+  "restore_group_error": {
+    "message": "Kan nie oortjiegroep skep nie. Jou blaaier ondersteun moontlik nie hierdie funksie nie."
+  },
+  "capture_tab_error": {
+    "message": "Kan nie oortjie vaslê nie. Jy het moontlik nie die vereiste toestemmings toegestaan nie."
+  },
+  "invalid_regex": {
+    "message": "Ongeldige regex: $1"
+  },
+  "request_permission_title": {
+    "message": "Toestemming vereis"
+  },
+  "request_permission_description": {
+    "message": "Tabber het jou toestemming nodig om toegang tot jou blaaieroortjies te kry. Dit is nodig om oortjie-voorskoue te skep. As jy nie hierdie toestemming gee nie, sal die funksie gedeaktiveer word."
+  },
+  "tutorial_welcome_title": {
+    "message": "Hallo"
+  },
+  "tutorial_welcome_description": {
+    "message": "Kom ons doen 'n vinnige toer deur Tabber sodat jy beter verstaan hoe dit werk."
+  },
+  "tutorial_preserve_tab_title": {
+    "message": "Kom ons bewaar jou eerste oortjie!"
+  },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Gaan na %link% of enige ander webwerf."
+  },
+  "tutorial_preserve_tab_description_2": {
+    "message": "2. Klik op die uitbreidingsikoon regs bo in jou blaaier OF regs-kliek op die bladsy."
+  },
+  "tutorial_preserve_tab_description_3": {
+    "message": "3. Kies <kbd>Bewaar oortjie</kbd>."
+  },
+  "tutorial_preserve_tab_description_4": {
+    "message": "4. Gaan terug na Tabber."
+  },
+  "tutorial_preserve_tab_description_5": {
+    "message": "5. Klik op die oortjie wat jy bewaar het."
+  },
+  "tutorial_preserve_tab_description_6": {
+    "message": "6. Om die oortjie te herstel, klik net op die voorskou daarvan."
+  },
+  "tutorial_preserve_tab_arrow": {
+    "message": "Speld uitbreiding vas aan nutsbalk"
+  },
+  "tutorial_create_tab_group_title": {
+    "message": "Skep jou eerste oortjiegroep!"
+  },
+  "tutorial_create_tab_group_description_1": {
+    "message": "1. Klik op die <kbd>+</kbd> knoppie."
+  },
+  "tutorial_create_tab_group_description_2": {
+    "message": "2. Tik 'n naam vir jou groep, kies 'n kleur en klik <kbd>Skep</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Gaan na %link% of enige ander webwerf en bewaar dit."
+  },
+  "tutorial_create_tab_group_description_4": {
+    "message": "4. Gaan terug na Tabber."
+  },
+  "tutorial_create_tab_group_description_5": {
+    "message": "5. Regs-kliek op die groep wat jy geskep het en klik op <kbd>Herstel</kbd>."
+  },
+  "tutorial_create_tab_group_description_6": {
+    "message": "Om 'n oortjie na 'n ander groep te skuif, sleep dit net na die gewenste groep."
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "As jou blaaier groepe ondersteun, kan jy ook die hele groep bewaar deur op enige bladsy van daardie groep <kbd>Bewaar oortjiegroep</kbd> te kies."
+  },
+  "tutorial_create_tab_group_arrow": {
+    "message": "Hier is die knoppie!"
+  },
+  "tutorial_settings_title": {
+    "message": "Pas dit aan soos jy wil!"
+  },
+  "tutorial_settings_description_1": {
+    "message": "Gaan na die instellingsblad en pas die voorkoms van Tabber aan volgens jou smaak."
+  },
+  "tutorial_settings_description_2": {
+    "message": "Kyk na die <kbd>Outo-bewaar</kbd> afdeling as jy outomatiese bewaring wil aktiveer."
+  },
+  "tutorial_settings_arrow": {
+    "message": "Reg hier!"
+  },
+  "tutorial_shortcuts_title": {
+    "message": "Handige kortpaaie!"
+  },
+  "tutorial_shortcuts_description_1": {
+    "message": "Jy kan die volgende kortpaaie op die Tabber-blad gebruik:"
+  },
+  "tutorial_shortcuts_description_2": {
+    "message": "1. <kbd>←</kbd> en <kbd>→</kbd> om tussen oortjies te navigeer."
+  },
+  "tutorial_shortcuts_description_3": {
+    "message": "2. <kbd>↑</kbd> en <kbd>↓</kbd> om tussen groepe te navigeer."
+  },
+  "tutorial_shortcuts_description_4": {
+    "message": "3. <kbd>F11</kbd> of <kbd>F</kbd> om Tabber in volskerm te open."
+  },
+  "tutorial_shortcuts_description_5": {
+    "message": "4. <kbd>T</kbd> om die laaste geslote oortjie te herstel."
+  },
+  "tutorial_shortcuts_description_6": {
+    "message": "5. <kbd>Ctrl + F</kbd> om oortjies te soek. (<kbd>Esc</kbd> om te sluit)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Ctrl + 1</kbd> om Tabber vanaf enige bladsy te open."
+  },
+  "tutorial_shortcuts_description_8": {
+    "message": "Jy kan ook jou eie globale kortpaaie instel in die instellings."
+  },
+  "tutorial_sign_in_title": {
+    "message": "Moet nooit weer jou oortjies verloor nie!"
+  },
+  "tutorial_sign_in_description_1": {
+    "message": "Teken nou in om wolk-rugsteun, sinkronisering tussen toestelle, en voorskou-stoor in die wolk te aktiveer sonder om jou toestel se geheue te belas."
+  },
+  "tutorial_sign_in_description_2": {
+    "message": "Dis opsioneel – jy kan Tabber steeds gebruik sonder om in te teken."
+  },
+  "tutorial_sign_in_arrow_1": {
+    "message": "Klik hier om in te teken!"
+  },
+  "tutorial_sign_in_arrow_2": {
+    "message": "Klik hier om rugsteun in die wolk te stoor!"
+  },
+  "tutorial_menu_title": {
+    "message": "Soek jy gevorderde funksies?"
+  },
+  "tutorial_menu_description_1": {
+    "message": "Klik op die <kbd>⋮</kbd> kieslys vir toegang tot <b>sorteer</b>, <b>groepeer</b>, <b>soek</b> en meer!"
+  },
+  "tutorial_menu_description_2": {
+    "message": "Jy kan ook hierdie handleiding weer besoek enige tyd via die kieslys."
+  },
+  "tutorial_menu_arrow": {
+    "message": "Hier is dit!"
+  },
+  "auto_preserve": {
+    "message": "Outo-bewaar"
+  },
+  "auto_preserve_enabled": {
+    "message": "Geaktiveer"
+  },
+  "auto_preserve_interval": {
+    "message": "Interval"
+  },
+  "auto_preserve_no_preserve_pinned": {
+    "message": "Moenie vasgespelde oortjies bewaar nie"
+  },
+  "auto_preserve_no_preserve_audible": {
+    "message": "Moenie oortjies met klank bewaar nie"
+  },
+  "auto_preserve_no_preserve_with_unsaved_form": {
+    "message": "Moenie oortjies met ongestoorde vormdata bewaar nie"
+  },
+  "auto_preserve_no_preserve_active": {
+    "message": "Moenie aktiewe oortjie bewaar nie"
+  },
+  "auto_preserve_no_preserve_when_offline": {
+    "message": "Moenie oortjies bewaar wanneer vanlyn nie"
+  },
+  "auto_sync": {
+    "message": "Outo-wolksinkronisering"
+  },
+  "auto_sync_enabled": {
+    "message": "Geaktiveer"
+  },
+  "auto_sync_interval": {
+    "message": "Sinkroniseerinterval"
+  },
+  "interval_1_min": {
+    "message": "1 minuut"
+  },
+  "interval_5_min": {
+    "message": "5 minute"
+  },
+  "interval_10_min": {
+    "message": "10 minute"
+  },
+  "interval_15_min": {
+    "message": "15 minute"
+  },
+  "interval_30_min": {
+    "message": "30 minute"
+  },
+  "interval_1_hour": {
+    "message": "1 uur"
+  },
+  "interval_2_hours": {
+    "message": "2 ure"
+  },
+  "interval_4_hours": {
+    "message": "4 ure"
+  },
+  "interval_6_hours": {
+    "message": "6 ure"
+  },
+  "interval_12_hours": {
+    "message": "12 ure"
+  },
+  "interval_1_day": {
+    "message": "1 dag"
+  },
+  "interval_2_days": {
+    "message": "2 dae"
+  },
+  "interval_3_days": {
+    "message": "3 dae"
+  },
+  "interval_1_week": {
+    "message": "1 week"
+  },
+  "interval_2_weeks": {
+    "message": "2 weke"
+  },
+  "theme_background_title": {
+    "message": "Verander agtergrond"
+  },
+  "theme_background_description": {
+    "message": "Kies 'n agtergrond vir bladsye sonder voorskoue"
+  },
+  "theme_background_adjust": {
+    "message": "Verstel agtergrondhelderheid"
+  },
+  "drop_file_here": {
+    "message": "Los lêer hier"
+  },
+  "upload_file_or": {
+    "message": "of"
+  },
+  "upload_file": {
+    "message": "Laai lêer op"
+  },
+  "sites_whitelist_title": {
+    "message": "Moet nooit oortjies van hierdie webwerwe bewaar nie"
+  },
+  "sites_whitelist_description": {
+    "message": "Voeg die URL van elke bladsy wat jy wil uitsluit op 'n nuwe reël by. Byvoorbeeld:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nOm verskeie werwe op een reël te spesifiseer, kan jy 'n deel van die URL gebruik:\ngoogle.com\nJy kan ook 'n regex gebruik deur die teks tussen skuinsstrepe te plaas:\n/^https:.*google\\.com/"
+  },
+  "groups_whitelist_title": {
+    "message": "Moet nooit oortjies van hierdie groepe bewaar nie"
+  },
+  "groups_whitelist_description": {
+    "message": "Voeg die naam van elke groep wat jy wil uitsluit op 'n nuwe reël by. Byvoorbeeld:\nWerk\nStudie\nVermaak\nJy kan ook kleure van groepe kies wat uitgesluit moet word."
+  },
+  "dynamic_preview_contrast": {
+    "message": "Dinamiese voorskoukontras"
+  },
+  "disable_animations": {
+    "message": "Deaktiveer animasies"
+  },
+  "max_deleted_tabs": {
+    "message": "Maksimum aantal verwyderde oortjies"
+  },
+  "identify_tabs_by_title": {
+    "message": "Identifiseer oortjies volgens titel"
+  },
+  "pause_auto_preserve": {
+    "message": "Pouseer outo-bewaar"
+  },
+  "resume_auto_preserve": {
+    "message": "Hervat outo-bewaar ($1)"
+  },
+  "never_preserve_this_site": {
+    "message": "Moet nooit hierdie webwerf bewaar nie"
+  },
+  "remove_site_from_whitelist": {
+    "message": "Verwyder webwerf van witlys"
+  },
+  "never_preserve_this_group": {
+    "message": "Moet nooit hierdie groep bewaar nie"
+  },
+  "remove_group_from_whitelist": {
+    "message": "Verwyder groep van witlys"
+  },
+  "ai_group_title": {
+    "message": "KI-gedrewe oortjie-groepering"
+  },
+  "ai_group_description": {
+    "message": "Jy gaan jou oortjies groepeer met behulp van KI, wat hul onderwerpe op grond van titels en skakels sal analiseer.\nVoor groepering sal 'n rugsteun van jou huidige oortjies geskep word, sodat jy altyd kan terugrol.\nDie aantal versoeke is beperk en hang af van jou aantal oortjies. Jy kan ongeveer 2 versoeke per dag maak met 50 oortjies.\nDie KI-model is nie perfek nie en mag foute maak. Jy kan die groepering altyd handmatig aanpas.\nJy kan ook die groepe benoem wat beslis ingesluit moet wees. Skryf hulle op aparte reëls, byvoorbeeld:\nMy Werk\nStudie\nVermaak"
+  },
+  "ai_group_select_group": {
+    "message": "Groepeer oortjies vanaf"
+  },
+  "ai_group_error_unauthorized": {
+    "message": "Ongemagtig"
+  },
+  "ai_group_error_no_license": {
+    "message": "Geen lisensie"
+  },
+  "ai_group_error_quota_exceeded": {
+    "message": "Kwota oorskry"
+  },
+  "ai_group_error_backup_not_found": {
+    "message": "Rugsteun nie gevind nie"
+  },
+  "ai_group_error_invalid_data": {
+    "message": "Ongeldige data"
+  },
+  "ai_group_error_no_result": {
+    "message": "Geen resultaat"
+  },
+  "ai_group_error_invalid_result": {
+    "message": "Ongeldige resultaat"
+  },
+  "ai_group_error_connection": {
+    "message": "Verbindingsfout"
+  },
+  "ai_group_error_unknown": {
+    "message": "Onbekende fout"
+  },
+  "share_tab_group_title": {
+    "message": "Deel oortjiegroep"
+  },
+  "share_tab_group_description": {
+    "message": "Deel hierdie oortjiegroep met ander. Enigiemand met die skakel sal dit kan sien en enige oortjie uit die groep kan herstel. Voorskoue van oortjies sal slegs vir jou beskikbaar wees.\nAs jy die groep opdateer, sal die veranderinge vir almal wat toegang het sigbaar wees.\nJy kan ook skryfregte toeken om ander toe te laat om die groep te wysig."
+  },
+  "share_tab_group_write_permission": {
+    "message": "Skryfregte"
+  },
+  "share_tab_group_revoke_access": {
+    "message": "Herroep toegang"
+  },
+  "sign_in_to_share": {
+    "message": "Teken in om oortjiegroepe te deel"
+  },
+  "bind_sites_title": {
+    "message": "Bind webwerwe aan oortjiegroep"
+  },
+  "bind_sites_description": {
+    "message": "Lys van webwerwe wat outomaties by hierdie groep gevoeg sal word wanneer dit bewaar word. Voeg die URL van elke bladsy wat jy wil bind op 'n nuwe reël by. Byvoorbeeld:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nOm verskeie webwerwe in een reël te spesifiseer, kan jy net 'n deel van die URL gebruik:\ngoogle.com\nJy kan ook regex gebruik deur die teks tussen skuinsstrepe te plaas:\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "Haai, Pssst..."
+  },
+  "review_dialog_description": {
+    "message": "Jy gebruik hierdie uitbreiding al 'n rukkie, en dit lyk of jy daarvan hou! As dit so is, sal jy asseblief 'n resensie in die winkel los? Dit sal my regtig help om dit verder te verbeter. Baie dankie!"
+  },
+  "v_tabs_position": {
+    "message": "Posisie"
+  },
+  "v_tabs_left": {
+    "message": "Links"
+  },
+  "v_tabs_right": {
+    "message": "Regs"
+  },
+  "v_tabs_width": {
+    "message": "Breedte"
+  },
+  "v_tabs_size": {
+    "message": "Grootte"
+  },
+  "v_tabs_n_more": {
+    "message": "$1 meer..."
+  },
+  "v_tabs_list": {
+    "message": "Lys van oortjies"
+  }
+}

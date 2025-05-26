@@ -1,1 +1,845 @@
-{}
+{
+  "extension_name": {
+    "message": "Tabber - Trình Tổ Chức Tab"
+  },
+  "extension_description": {
+    "message": "Đơn giản hóa việc duyệt web bằng cách nhóm các tab không sử dụng thành các nhóm có tổ chức"
+  },
+  "extension_default_title": {
+    "message": "Tabber – Giải Pháp Tổ Chức Tab Tối Ưu"
+  },
+  "theme": {
+    "message": "Chủ đề"
+  },
+  "theme_light": {
+    "message": "Sáng"
+  },
+  "theme_dark": {
+    "message": "Tối"
+  },
+  "theme_system": {
+    "message": "Hệ thống"
+  },
+  "theme_color": {
+    "message": "Màu chính"
+  },
+  "theme_background": {
+    "message": "Nền"
+  },
+  "theme_background_animation": {
+    "message": "Hiệu ứng nền"
+  },
+  "theme_background_custom": {
+    "message": "Nền tùy chỉnh"
+  },
+  "use_context_menu": {
+    "message": "Sử dụng menu chuột phải"
+  },
+  "double_click_to_restore": {
+    "message": "Nhấp đúp để khôi phục"
+  },
+  "close_tab_on_preserve": {
+    "message": "Đóng tab khi lưu"
+  },
+  "make_preview_on_preserve": {
+    "message": "Tạo bản xem trước khi lưu"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "Tạo bản xem trước cho tab không hoạt động"
+  },
+  "show_notification_on_preserve": {
+    "message": "Hiện thông báo khi lưu"
+  },
+  "delete_tab_on_restore": {
+    "message": "Xóa tab khi khôi phục"
+  },
+  "restore_to_group": {
+    "message": "Khôi phục tab vào nhóm"
+  },
+  "add_new_tab_to_start": {
+    "message": "Thêm tab mới vào đầu"
+  },
+  "add_new_tab_to_last_active_group": {
+    "message": "Thêm tab mới vào nhóm đang hoạt động gần nhất"
+  },
+  "save_previews_to_cloud": {
+    "message": "Lưu bản xem trước lên đám mây"
+  },
+  "exclusions": {
+    "message": "Loại trừ"
+  },
+  "sites_exclusions": {
+    "message": "Loại trừ trang web"
+  },
+  "groups_exclusions": {
+    "message": "Loại trừ nhóm"
+  },
+  "keyboard_shortcuts": {
+    "message": "Phím tắt"
+  },
+  "vertical_tabs": {
+    "message": "Tab dọc"
+  },
+  "sites_features": {
+    "message": "Tính năng trang web"
+  },
+  "toolbar_items": {
+    "message": "Các mục thanh công cụ"
+  },
+  "advanced_settings": {
+    "message": "Cài đặt nâng cao"
+  },
+  "click_again_to_confirm": {
+    "message": "Nhấp lần nữa để xác nhận"
+  },
+  "save_youtube_timestamps": {
+    "message": "Lưu mốc thời gian YouTube"
+  },
+  "home_page": {
+    "message": "Tabber | Trang chủ"
+  },
+  "restore_closed_tab": {
+    "message": "Khôi phục tab đã đóng"
+  },
+  "preserve_all_tabs": {
+    "message": "Lưu tất cả tab"
+  },
+  "restore_all_tabs": {
+    "message": "Khôi phục tất cả tab"
+  },
+  "restore_all_tabs_by_group": {
+    "message": "Theo nhóm"
+  },
+  "restore_all_tabs_by_window": {
+    "message": "Theo cửa sổ"
+  },
+  "restore_all_tabs_close_after_restore": {
+    "message": "Đóng sau khi khôi phục"
+  },
+  "preserve_all_tabs_close_after_preserve": {
+    "message": "Đóng sau khi lưu"
+  },
+  "clear_all_data": {
+    "message": "Xóa toàn bộ dữ liệu"
+  },
+  "clear_all_data_confirm": {
+    "message": "Bạn có chắc chắn muốn xóa toàn bộ dữ liệu không?"
+  },
+  "clear_all_data_confirm_description": {
+    "message": "Hành động này sẽ xóa tất cả các tab và nhóm đã lưu. Không thể hoàn tác."
+  },
+  "clean_up_junk": {
+    "message": "Dọn dẹp dữ liệu rác"
+  },
+  "clean_up_junk_confirm": {
+    "message": "Bạn có chắc chắn muốn dọn dẹp dữ liệu rác?"
+  },
+  "clean_up_junk_confirm_description": {
+    "message": "Hành động này sẽ xóa các nhóm tab trống và tab trùng lặp. Không thể hoàn tác."
+  },
+  "cancel": {
+    "message": "Hủy"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "save": {
+    "message": "Lưu"
+  },
+  "create": {
+    "message": "Tạo"
+  },
+  "delete": {
+    "message": "Xóa"
+  },
+  "restore": {
+    "message": "Khôi phục"
+  },
+  "share": {
+    "message": "Chia sẻ"
+  },
+  "bind_sites": {
+    "message": "Liên kết trang"
+  },
+  "merge_with": {
+    "message": "Gộp với"
+  },
+  "no_tab_groups": {
+    "message": "Không có nhóm tab nào"
+  },
+  "all_tab_groups": {
+    "message": "Tất cả nhóm tab"
+  },
+  "read_less": {
+    "message": "Thu gọn"
+  },
+  "read_more": {
+    "message": "Xem thêm"
+  },
+  "name": {
+    "message": "Tên"
+  },
+  "tabs": {
+    "message": "Tab"
+  },
+  "show": {
+    "message": "Hiển thị"
+  },
+  "other": {
+    "message": "Khác"
+  },
+  "close": {
+    "message": "Đóng"
+  },
+  "allow": {
+    "message": "Cho phép"
+  },
+  "deny": {
+    "message": "Từ chối"
+  },
+  "proceed": {
+    "message": "Tiếp tục"
+  },
+  "main_tab_group": {
+    "message": "Chính"
+  },
+  "tab_preserved": {
+    "message": "Tab đã được lưu"
+  },
+  "tab_group_preserved": {
+    "message": "Nhóm tab đã được lưu"
+  },
+  "tab_preserved_message": {
+    "message": "«$1» đã được lưu"
+  },
+  "tab_group_preserved_message": {
+    "message": "Nhóm «$1» đã được lưu"
+  },
+  "preserve_tab": {
+    "message": "Lưu tab"
+  },
+  "preserve_tab_group": {
+    "message": "Lưu nhóm tab"
+  },
+  "sign_in": {
+    "message": "Đăng nhập"
+  },
+  "sign_up": {
+    "message": "Đăng ký"
+  },
+  "sign_out": {
+    "message": "Đăng xuất"
+  },
+  "signed_in_successfully": {
+    "message": "Đăng nhập thành công"
+  },
+  "signed_out_successfully": {
+    "message": "Đăng xuất thành công"
+  },
+  "open_tabber": {
+    "message": "Mở Tabber"
+  },
+  "home_page_title": {
+    "message": "Tabber"
+  },
+  "home_page_subtitle": {
+    "message": "Giải Pháp Tổ Chức Tab Tối Ưu"
+  },
+  "home_page_description": {
+    "message": "Đơn giản hóa việc duyệt web bằng cách lưu các tab không dùng thành các nhóm tab ảo có tổ chức và đồng bộ chúng với tất cả thiết bị."
+  },
+  "home_page_watch_demo": {
+    "message": "Xem demo"
+  },
+  "home_page_scroll_down": {
+    "message": "Cuộn xuống"
+  },
+  "no_preview_click_to_restore": {
+    "message": "Nhấp để khôi phục"
+  },
+  "no_preview_double_click_to_restore": {
+    "message": "Nhấp đúp để khôi phục"
+  },
+  "no_preview_faq_q1": {
+    "message": "Tại sao không có bản xem trước của tab này?"
+  },
+  "no_preview_faq_a1": {
+    "message": "Tab này là một phần của nhóm tab đã được lưu."
+  },
+  "no_preview_faq_a2": {
+    "message": "Xem trước đã bị tắt trong cài đặt."
+  },
+  "no_preview_faq_a3": {
+    "message": "Tab được tải từ đám mây nhưng bản xem trước được lưu cục bộ. Bạn có thể bật lưu xem trước lên đám mây trong phần cài đặt."
+  },
+  "no_preview_faq_a4": {
+    "message": "Đã xảy ra lỗi. Thử khởi động lại trình duyệt, sau đó khôi phục và lưu lại tab. Nếu vẫn không được, hãy bật tính năng lưu bản xem trước lên đám mây trong cài đặt."
+  },
+  "tutorial_preserve_tabs": {
+    "message": "Lưu tab"
+  },
+  "tutorial_via_context_menu": {
+    "message": "Qua menu chuột phải"
+  },
+  "tutorial_open_in_new_tab": {
+    "message": "Mở trong tab mới"
+  },
+  "tutorial_reload": {
+    "message": "Tải lại"
+  },
+  "tutorial_view_page_source": {
+    "message": "Xem mã nguồn trang"
+  },
+  "tutorial_or": {
+    "message": "Hoặc"
+  },
+  "tutorial_via_extension_popup": {
+    "message": "Qua cửa sổ bật lên của tiện ích"
+  },
+  "tutorial_pin_extension": {
+    "message": "Ghim tiện ích →"
+  },
+  "tutorial_restore_tabs": {
+    "message": "Khôi phục tab"
+  },
+  "tutorial_click_on_content": {
+    "message": "Nhấp vào nội dung"
+  },
+  "tutorial_right_click_on_group": {
+    "message": "Nhấp chuột phải vào nhóm"
+  },
+  "tutorial_my_group": {
+    "message": "Nhóm của tôi"
+  },
+  "tutorial_via_options_menu": {
+    "message": "Qua menu tùy chọn"
+  },
+  "tutorial": {
+    "message": "Hướng dẫn"
+  },
+  "finish": {
+    "message": "Hoàn tất"
+  },
+  "support": {
+    "message": "Hỗ trợ"
+  },
+  "about": {
+    "message": "Giới thiệu"
+  },
+  "about_title": {
+    "message": "Tabber – Giải Pháp Tổ Chức Tab Tối Ưu v$1"
+  },
+  "about_description": {
+    "message": "Đơn giản hóa việc duyệt web bằng cách lưu các tab không sử dụng thành các nhóm tab ảo có tổ chức và đồng bộ chúng với tất cả thiết bị.\nTruy cập %Tabber About page% để biết thêm thông tin."
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
+  },
+  "plus_active": {
+    "message": "Đang hoạt động"
+  },
+  "plus_upgrade": {
+    "message": "Nâng cấp lên Plus"
+  },
+  "plus_description": {
+    "message": "Nâng cao trải nghiệm duyệt web của bạn với Tabber Plus. Tạm biệt tình trạng lộn xộn tab và khám phá các công cụ nâng cao hiệu suất sẽ thay đổi cách bạn làm việc trực tuyến."
+  },
+  "plus_feature_title_1": {
+    "message": "Không giới hạn nhóm tab"
+  },
+  "plus_feature_title_2": {
+    "message": "Mô hình AI nâng cao để nhóm"
+  },
+  "plus_feature_title_3": {
+    "message": "Tự động đồng bộ đám mây"
+  },
+  "plus_feature_title_4": {
+    "message": "Lịch sử đồng bộ đầy đủ"
+  },
+  "plus_feature_title_5": {
+    "message": "Nền tùy chỉnh"
+  },
+  "plus_feature_title_6": {
+    "message": "Hỗ trợ ưu tiên"
+  },
+  "plus_feature_title_7": {
+    "message": "Bài viết độc quyền trên Patreon"
+  },
+  "plus_feature_desc_1": {
+    "message": "Không còn giới hạn số lượng tab bạn có thể nhóm lại."
+  },
+  "plus_feature_desc_2": {
+    "message": "Mô hình AI nâng cao và giới hạn sử dụng cao hơn."
+  },
+  "plus_feature_desc_3": {
+    "message": "Các tab của bạn sẽ tự động được đồng bộ trên tất cả thiết bị."
+  },
+  "plus_feature_desc_4": {
+    "message": "Truy cập lịch sử đồng bộ đầy đủ và khôi phục mọi bản sao lưu."
+  },
+  "plus_feature_desc_5": {
+    "message": "Áp dụng nền tùy chỉnh cho các trang không có bản xem trước."
+  },
+  "plus_feature_desc_6": {
+    "message": "Mọi câu hỏi và vấn đề sẽ được xử lý nhanh chóng, đảm bảo trải nghiệm mượt mà."
+  },
+  "plus_feature_desc_7": {
+    "message": "Truy cập độc quyền các bài viết trên Patreon, khảo sát và cập nhật mẹo mới nhất."
+  },
+  "plus_price": {
+    "message": "Chỉ $1/tháng"
+  },
+  "error": {
+    "message": "Lỗi"
+  },
+  "tab_group_limit": {
+    "message": "Nâng cấp lên Tabber Plus để tạo thêm nhóm tab"
+  },
+  "sync_to_cloud": {
+    "message": "Đồng bộ lên đám mây"
+  },
+  "sign_in_to_sync": {
+    "message": "Đăng nhập để đồng bộ tab lên đám mây"
+  },
+  "sync_history": {
+    "message": "Lịch sử đồng bộ"
+  },
+  "sync_success": {
+    "message": "Đồng bộ thành công"
+  },
+  "sync_error": {
+    "message": "Lỗi đồng bộ"
+  },
+  "file_upload_error": {
+    "message": "Lỗi tải tệp lên"
+  },
+  "backup_not_found": {
+    "message": "Không tìm thấy bản sao lưu"
+  },
+  "sign_in_to_save_previews": {
+    "message": "Đăng nhập để lưu bản xem trước lên đám mây"
+  },
+  "sync_from_cloud": {
+    "message": "Đồng bộ từ đám mây"
+  },
+  "sync_from_cloud_title": {
+    "message": "Đồng bộ tab từ đám mây"
+  },
+  "sync_from_cloud_description": {
+    "message": "Bạn có các tab được lưu trong đám mây. Bạn có thể gộp chúng với các tab hiện tại hoặc thay thế chúng. Nếu chọn gộp, các tab hiện tại của bạn sẽ được kết hợp với các tab từ đám mây, bỏ qua các bản trùng. Nếu chọn thay thế, tất cả tab hiện tại sẽ bị mất."
+  },
+  "sync_from_cloud_merge": {
+    "message": "Gộp"
+  },
+  "sync_from_cloud_replace": {
+    "message": "Thay thế"
+  },
+  "sync_with_merge": {
+    "message": "Khôi phục bằng cách gộp"
+  },
+  "sync_with_replace": {
+    "message": "Khôi phục bằng cách thay thế"
+  },
+  "all_tabs_preserved": {
+    "message": "Tất cả tab đã được lưu"
+  },
+  "all_tabs_preserved_message": {
+    "message": "Tất cả tab đã được lưu thành công"
+  },
+  "no_data": {
+    "message": "Không có dữ liệu"
+  },
+  "group_tabs": {
+    "message": "Nhóm tab"
+  },
+  "group_tabs_by_domain": {
+    "message": "Theo tên miền"
+  },
+  "group_tabs_with_ai": {
+    "message": "Bằng AI"
+  },
+  "sort_tabs": {
+    "message": "Sắp xếp tab"
+  },
+  "sort_tabs_by_title": {
+    "message": "Theo tiêu đề"
+  },
+  "sort_tabs_by_url": {
+    "message": "Theo URL"
+  },
+  "sort_tabs_by_date": {
+    "message": "Theo ngày"
+  },
+  "sort_tabs_asc": {
+    "message": "Tăng dần"
+  },
+  "sort_tabs_desc": {
+    "message": "Giảm dần"
+  },
+  "sort_tabs_only_current_group": {
+    "message": "Chỉ nhóm hiện tại"
+  },
+  "search_tabs": {
+    "message": "Tìm kiếm tab"
+  },
+  "restore_group_error": {
+    "message": "Không thể tạo nhóm tab. Trình duyệt của bạn có thể không hỗ trợ tính năng này."
+  },
+  "capture_tab_error": {
+    "message": "Không thể chụp tab. Có thể bạn chưa cấp quyền cần thiết."
+  },
+  "invalid_regex": {
+    "message": "Biểu thức chính quy không hợp lệ: $1"
+  },
+  "request_permission_title": {
+    "message": "Yêu cầu quyền"
+  },
+  "request_permission_description": {
+    "message": "Tabber cần quyền truy cập vào các tab của trình duyệt. Điều này cần thiết để tạo bản xem trước. Nếu bạn không cấp quyền, tính năng này sẽ bị vô hiệu hóa."
+  },
+  "tutorial_welcome_title": {
+    "message": "Xin chào"
+  },
+  "tutorial_welcome_description": {
+    "message": "Hãy cùng khám phá hướng dẫn sử dụng Tabber để hiểu rõ hơn cách hoạt động của nó."
+  },
+  "tutorial_preserve_tab_title": {
+    "message": "Hãy lưu tab đầu tiên của bạn!"
+  },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Truy cập %link% hoặc bất kỳ trang web nào khác."
+  },
+  "tutorial_preserve_tab_description_2": {
+    "message": "2. Nhấp vào biểu tượng tiện ích ở góc trên bên phải trình duyệt hoặc nhấp chuột phải vào trang."
+  },
+  "tutorial_preserve_tab_description_3": {
+    "message": "3. Chọn <kbd>Lưu tab</kbd>."
+  },
+  "tutorial_preserve_tab_description_4": {
+    "message": "4. Quay lại Tabber."
+  },
+  "tutorial_preserve_tab_description_5": {
+    "message": "5. Nhấp vào tab bạn đã lưu."
+  },
+  "tutorial_preserve_tab_description_6": {
+    "message": "6. Để khôi phục tab, chỉ cần nhấp vào bản xem trước của nó."
+  },
+  "tutorial_preserve_tab_arrow": {
+    "message": "Ghim tiện ích lên thanh công cụ"
+  },
+  "tutorial_create_tab_group_title": {
+    "message": "Tạo nhóm tab đầu tiên của bạn!"
+  },
+  "tutorial_create_tab_group_description_1": {
+    "message": "1. Nhấp vào nút <kbd>+</kbd>."
+  },
+  "tutorial_create_tab_group_description_2": {
+    "message": "2. Nhập tên cho nhóm, chọn màu và nhấn <kbd>Tạo</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Truy cập %link% hoặc bất kỳ trang web nào và lưu nó."
+  },
+  "tutorial_create_tab_group_description_4": {
+    "message": "4. Quay lại Tabber."
+  },
+  "tutorial_create_tab_group_description_5": {
+    "message": "5. Nhấp chuột phải vào nhóm tab vừa tạo và chọn <kbd>Khôi phục</kbd>."
+  },
+  "tutorial_create_tab_group_description_6": {
+    "message": "Để di chuyển tab sang nhóm khác, chỉ cần kéo nó đến nhóm mong muốn."
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "Nếu trình duyệt của bạn hỗ trợ nhóm tab, bạn cũng có thể lưu cả nhóm bằng cách nhấn <kbd>Lưu nhóm tab</kbd> trên bất kỳ trang nào trong nhóm."
+  },
+  "tutorial_create_tab_group_arrow": {
+    "message": "Đây là nút đó!"
+  },
+  "tutorial_settings_title": {
+    "message": "Tùy chỉnh theo cách của bạn!"
+  },
+  "tutorial_settings_description_1": {
+    "message": "Khám phá trang cài đặt và điều chỉnh giao diện Tabber theo sở thích của bạn."
+  },
+  "tutorial_settings_description_2": {
+    "message": "Xem phần <kbd>Tự động lưu</kbd> nếu bạn muốn lưu tab tự động."
+  },
+  "tutorial_settings_arrow": {
+    "message": "Ngay đây!"
+  },
+  "tutorial_shortcuts_title": {
+    "message": "Phím tắt tiện dụng!"
+  },
+  "tutorial_shortcuts_description_1": {
+    "message": "Bạn có thể sử dụng các phím tắt sau trên trang Tabber:"
+  },
+  "tutorial_shortcuts_description_2": {
+    "message": "1. <kbd>←</kbd> và <kbd>→</kbd> để chuyển giữa các tab."
+  },
+  "tutorial_shortcuts_description_3": {
+    "message": "2. <kbd>↑</kbd> và <kbd>↓</kbd> để chuyển giữa các nhóm."
+  },
+  "tutorial_shortcuts_description_4": {
+    "message": "3. <kbd>F11</kbd> hoặc <kbd>F</kbd> để mở toàn màn hình."
+  },
+  "tutorial_shortcuts_description_5": {
+    "message": "4. <kbd>T</kbd> để khôi phục tab đã đóng gần nhất."
+  },
+  "tutorial_shortcuts_description_6": {
+    "message": "5. <kbd>Ctrl + F</kbd> để tìm tab. (<kbd>Esc</kbd> để thoát)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Ctrl + 1</kbd> để mở Tabber từ bất kỳ trang nào."
+  },
+  "tutorial_shortcuts_description_8": {
+    "message": "Bạn cũng có thể thiết lập phím tắt toàn cục của riêng mình trong cài đặt."
+  },
+  "tutorial_sign_in_title": {
+    "message": "Không bao giờ mất tab nữa!"
+  },
+  "tutorial_sign_in_description_1": {
+    "message": "Giờ đây bạn có thể đăng nhập để bật sao lưu đám mây, đồng bộ dữ liệu giữa các thiết bị và lưu bản xem trước tab mà không làm đầy bộ nhớ thiết bị."
+  },
+  "tutorial_sign_in_description_2": {
+    "message": "Tính năng này là tùy chọn, bạn vẫn có thể sử dụng Tabber mà không cần đăng nhập."
+  },
+  "tutorial_sign_in_arrow_1": {
+    "message": "Nhấp vào đây để đăng nhập!"
+  },
+  "tutorial_sign_in_arrow_2": {
+    "message": "Nhấp vào đây để lưu sao lưu lên đám mây!"
+  },
+  "tutorial_menu_title": {
+    "message": "Bạn đang tìm tính năng nâng cao?"
+  },
+  "tutorial_menu_description_1": {
+    "message": "Nhấp vào menu <kbd>⋮</kbd> để truy cập <b>sắp xếp</b>, <b>nhóm</b>, <b>tìm kiếm</b> và nhiều hơn nữa!"
+  },
+  "tutorial_menu_description_2": {
+    "message": "Bạn cũng có thể mở lại hướng dẫn này bất cứ lúc nào qua menu."
+  },
+  "tutorial_menu_arrow": {
+    "message": "Đây rồi!"
+  },
+  "auto_preserve": {
+    "message": "Tự động lưu"
+  },
+  "auto_preserve_enabled": {
+    "message": "Đã bật"
+  },
+  "auto_preserve_interval": {
+    "message": "Khoảng thời gian"
+  },
+  "auto_preserve_no_preserve_pinned": {
+    "message": "Không lưu các tab được ghim"
+  },
+  "auto_preserve_no_preserve_audible": {
+    "message": "Không lưu các tab đang phát âm thanh"
+  },
+  "auto_preserve_no_preserve_with_unsaved_form": {
+    "message": "Không lưu các tab có biểu mẫu chưa lưu"
+  },
+  "auto_preserve_no_preserve_active": {
+    "message": "Không lưu tab đang hoạt động"
+  },
+  "auto_preserve_no_preserve_when_offline": {
+    "message": "Không lưu tab khi trình duyệt offline"
+  },
+  "auto_sync": {
+    "message": "Tự động đồng bộ đám mây"
+  },
+  "auto_sync_enabled": {
+    "message": "Đã bật"
+  },
+  "auto_sync_interval": {
+    "message": "Khoảng thời gian"
+  },
+  "interval_1_min": {
+    "message": "1 phút"
+  },
+  "interval_5_min": {
+    "message": "5 phút"
+  },
+  "interval_10_min": {
+    "message": "10 phút"
+  },
+  "interval_15_min": {
+    "message": "15 phút"
+  },
+  "interval_30_min": {
+    "message": "30 phút"
+  },
+  "interval_1_hour": {
+    "message": "1 giờ"
+  },
+  "interval_2_hours": {
+    "message": "2 giờ"
+  },
+  "interval_4_hours": {
+    "message": "4 giờ"
+  },
+  "interval_6_hours": {
+    "message": "6 giờ"
+  },
+  "interval_12_hours": {
+    "message": "12 giờ"
+  },
+  "interval_1_day": {
+    "message": "1 ngày"
+  },
+  "interval_2_days": {
+    "message": "2 ngày"
+  },
+  "interval_3_days": {
+    "message": "3 ngày"
+  },
+  "interval_1_week": {
+    "message": "1 tuần"
+  },
+  "interval_2_weeks": {
+    "message": "2 tuần"
+  },
+  "theme_background_title": {
+    "message": "Thay đổi nền"
+  },
+  "theme_background_description": {
+    "message": "Chọn nền cho các trang không có bản xem trước"
+  },
+  "theme_background_adjust": {
+    "message": "Điều chỉnh độ sáng nền"
+  },
+  "drop_file_here": {
+    "message": "Thả tệp vào đây"
+  },
+  "upload_file_or": {
+    "message": "hoặc"
+  },
+  "upload_file": {
+    "message": "Tải lên tệp"
+  },
+  "sites_whitelist_title": {
+    "message": "Không bao giờ lưu tab từ các trang web này"
+  },
+  "sites_whitelist_description": {
+    "message": "Thêm URL của từng trang bạn muốn đưa vào danh sách trắng trên một dòng mới. Ví dụ:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nĐể đưa nhiều trang vào cùng một dòng, bạn có thể chỉ định một phần của URL:\ngoogle.com\nBạn cũng có thể sử dụng regex bằng cách đặt trong dấu gạch chéo:\n/^https:.*google\\.com/"
+  },
+  "groups_whitelist_title": {
+    "message": "Không bao giờ lưu tab từ các nhóm này"
+  },
+  "groups_whitelist_description": {
+    "message": "Thêm tên của từng nhóm bạn muốn đưa vào danh sách trắng trên một dòng mới. Ví dụ:\nCông việc\nHọc tập\nGiải trí\nBạn cũng có thể chọn màu của nhóm muốn đưa vào danh sách trắng."
+  },
+  "dynamic_preview_contrast": {
+    "message": "Tương phản xem trước động"
+  },
+  "disable_animations": {
+    "message": "Tắt hoạt ảnh"
+  },
+  "max_deleted_tabs": {
+    "message": "Số tab đã xóa tối đa"
+  },
+  "identify_tabs_by_title": {
+    "message": "Nhận diện tab theo tiêu đề"
+  },
+  "pause_auto_preserve": {
+    "message": "Tạm dừng tự động lưu"
+  },
+  "resume_auto_preserve": {
+    "message": "Tiếp tục tự động lưu ($1)"
+  },
+  "never_preserve_this_site": {
+    "message": "Không bao giờ lưu trang này"
+  },
+  "remove_site_from_whitelist": {
+    "message": "Xóa trang khỏi danh sách trắng"
+  },
+  "never_preserve_this_group": {
+    "message": "Không bao giờ lưu nhóm này"
+  },
+  "remove_group_from_whitelist": {
+    "message": "Xóa nhóm khỏi danh sách trắng"
+  },
+  "ai_group_title": {
+    "message": "Nhóm tab bằng AI"
+  },
+  "ai_group_description": {
+    "message": "Bạn sắp nhóm các tab của mình bằng AI, hệ thống sẽ phân tích chủ đề dựa trên tiêu đề và liên kết.\nTrước khi nhóm, một bản sao lưu sẽ được tạo để bạn có thể hoàn tác.\nSố lần yêu cầu có giới hạn và phụ thuộc vào số lượng tab. Khoảng 2 lần mỗi ngày với 50 tab.\nAI không hoàn hảo và có thể sai. Bạn luôn có thể chỉnh sửa nhóm thủ công.\nBạn có thể chỉ định tên nhóm bắt buộc, mỗi tên trên một dòng. Ví dụ:\nCông việc\nHọc tập\nGiải trí"
+  },
+  "ai_group_select_group": {
+    "message": "Nhóm tab từ"
+  },
+  "ai_group_error_unauthorized": {
+    "message": "Chưa được xác thực"
+  },
+  "ai_group_error_no_license": {
+    "message": "Không có giấy phép"
+  },
+  "ai_group_error_quota_exceeded": {
+    "message": "Vượt quá giới hạn"
+  },
+  "ai_group_error_backup_not_found": {
+    "message": "Không tìm thấy sao lưu"
+  },
+  "ai_group_error_invalid_data": {
+    "message": "Dữ liệu không hợp lệ"
+  },
+  "ai_group_error_no_result": {
+    "message": "Không có kết quả"
+  },
+  "ai_group_error_invalid_result": {
+    "message": "Kết quả không hợp lệ"
+  },
+  "ai_group_error_connection": {
+    "message": "Lỗi kết nối"
+  },
+  "ai_group_error_unknown": {
+    "message": "Lỗi không xác định"
+  },
+  "share_tab_group_title": {
+    "message": "Chia sẻ nhóm tab"
+  },
+  "share_tab_group_description": {
+    "message": "Chia sẻ nhóm tab này với người khác. Ai có liên kết đều có thể xem và khôi phục bất kỳ tab nào. Chỉ bạn có thể xem bản xem trước.\nNếu bạn cập nhật nhóm, thay đổi sẽ áp dụng cho tất cả người có quyền truy cập.\nBạn cũng có thể cấp quyền chỉnh sửa để người khác thay đổi nhóm."
+  },
+  "share_tab_group_write_permission": {
+    "message": "Quyền chỉnh sửa"
+  },
+  "share_tab_group_revoke_access": {
+    "message": "Thu hồi quyền truy cập"
+  },
+  "sign_in_to_share": {
+    "message": "Đăng nhập để chia sẻ nhóm tab"
+  },
+  "bind_sites_title": {
+    "message": "Liên kết trang với nhóm tab"
+  },
+  "bind_sites_description": {
+    "message": "Danh sách các trang web sẽ được tự động thêm vào nhóm tab này khi bạn lưu chúng. Thêm URL của từng trang bạn muốn liên kết vào một dòng riêng. Ví dụ:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nĐể liên kết nhiều trang cùng lúc, bạn có thể chỉ cần ghi một phần URL, ví dụ:\ngoogle.com\nBạn cũng có thể sử dụng biểu thức chính quy bằng cách đặt chúng giữa hai dấu gạch chéo:\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "Này, pssst..."
+  },
+  "review_dialog_description": {
+    "message": "Bạn đã dùng tiện ích này một thời gian rồi và có vẻ bạn thích nó! Nếu đúng, bạn có thể để lại đánh giá trên cửa hàng không? Điều đó sẽ giúp mình rất nhiều để cải tiến thêm. Cảm ơn bạn rất nhiều!"
+  },
+  "v_tabs_position": {
+    "message": "Vị trí"
+  },
+  "v_tabs_left": {
+    "message": "Bên trái"
+  },
+  "v_tabs_right": {
+    "message": "Bên phải"
+  },
+  "v_tabs_width": {
+    "message": "Chiều rộng"
+  },
+  "v_tabs_size": {
+    "message": "Kích thước"
+  },
+  "v_tabs_n_more": {
+    "message": "$1 nữa..."
+  },
+  "v_tabs_list": {
+    "message": "Danh sách tab"
+  }
+}

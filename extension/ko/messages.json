@@ -1,1 +1,845 @@
-{}
+{
+  "extension_name": {
+    "message": "Tabber - 탭 정리 도우미"
+  },
+  "extension_description": {
+    "message": "사용하지 않는 탭을 정리된 그룹으로 묶어 브라우징을 간편하게"
+  },
+  "extension_default_title": {
+    "message": "Tabber – 궁극의 탭 정리 솔루션"
+  },
+  "theme": {
+    "message": "테마"
+  },
+  "theme_light": {
+    "message": "라이트"
+  },
+  "theme_dark": {
+    "message": "다크"
+  },
+  "theme_system": {
+    "message": "시스템"
+  },
+  "theme_color": {
+    "message": "주 색상"
+  },
+  "theme_background": {
+    "message": "배경"
+  },
+  "theme_background_animation": {
+    "message": "배경 애니메이션"
+  },
+  "theme_background_custom": {
+    "message": "맞춤 배경"
+  },
+  "use_context_menu": {
+    "message": "컨텍스트 메뉴 사용"
+  },
+  "double_click_to_restore": {
+    "message": "더블 클릭으로 복원"
+  },
+  "close_tab_on_preserve": {
+    "message": "보존 시 탭 닫기"
+  },
+  "make_preview_on_preserve": {
+    "message": "보존 시 미리보기 생성"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "비활성 탭 미리보기 생성"
+  },
+  "show_notification_on_preserve": {
+    "message": "보존 시 알림 표시"
+  },
+  "delete_tab_on_restore": {
+    "message": "복원 시 탭 삭제"
+  },
+  "restore_to_group": {
+    "message": "탭을 그룹으로 복원"
+  },
+  "add_new_tab_to_start": {
+    "message": "새 탭을 맨 앞에 추가"
+  },
+  "add_new_tab_to_last_active_group": {
+    "message": "새 탭을 마지막으로 활성화된 그룹에 추가"
+  },
+  "save_previews_to_cloud": {
+    "message": "미리보기를 클라우드에 저장"
+  },
+  "exclusions": {
+    "message": "제외 항목"
+  },
+  "sites_exclusions": {
+    "message": "사이트 제외"
+  },
+  "groups_exclusions": {
+    "message": "그룹 제외"
+  },
+  "keyboard_shortcuts": {
+    "message": "단축키"
+  },
+  "vertical_tabs": {
+    "message": "세로 탭"
+  },
+  "sites_features": {
+    "message": "사이트 기능"
+  },
+  "toolbar_items": {
+    "message": "도구 모음 항목"
+  },
+  "advanced_settings": {
+    "message": "고급 설정"
+  },
+  "click_again_to_confirm": {
+    "message": "한 번 더 클릭하여 확인"
+  },
+  "save_youtube_timestamps": {
+    "message": "YouTube 타임스탬프 저장"
+  },
+  "home_page": {
+    "message": "Tabber | 홈 페이지"
+  },
+  "restore_closed_tab": {
+    "message": "닫은 탭 복원"
+  },
+  "preserve_all_tabs": {
+    "message": "모든 탭 보존"
+  },
+  "restore_all_tabs": {
+    "message": "모든 탭 복원"
+  },
+  "restore_all_tabs_by_group": {
+    "message": "그룹별로"
+  },
+  "restore_all_tabs_by_window": {
+    "message": "창별로"
+  },
+  "restore_all_tabs_close_after_restore": {
+    "message": "복원 후 닫기"
+  },
+  "preserve_all_tabs_close_after_preserve": {
+    "message": "보존 후 닫기"
+  },
+  "clear_all_data": {
+    "message": "모든 데이터 지우기"
+  },
+  "clear_all_data_confirm": {
+    "message": "정말 모든 데이터를 지우시겠습니까?"
+  },
+  "clear_all_data_confirm_description": {
+    "message": "저장된 모든 탭과 그룹이 삭제됩니다. 이 작업은 되돌릴 수 없습니다."
+  },
+  "clean_up_junk": {
+    "message": "불필요한 항목 정리"
+  },
+  "clean_up_junk_confirm": {
+    "message": "정말 불필요한 항목을 정리하시겠습니까?"
+  },
+  "clean_up_junk_confirm_description": {
+    "message": "비어 있는 탭 그룹과 중복 탭이 삭제됩니다. 이 작업은 되돌릴 수 없습니다."
+  },
+  "cancel": {
+    "message": "취소"
+  },
+  "ok": {
+    "message": "확인"
+  },
+  "save": {
+    "message": "저장"
+  },
+  "create": {
+    "message": "생성"
+  },
+  "delete": {
+    "message": "삭제"
+  },
+  "restore": {
+    "message": "복원"
+  },
+  "share": {
+    "message": "공유"
+  },
+  "bind_sites": {
+    "message": "사이트 연결"
+  },
+  "merge_with": {
+    "message": "다음과 병합"
+  },
+  "no_tab_groups": {
+    "message": "탭 그룹 없음"
+  },
+  "all_tab_groups": {
+    "message": "모든 탭 그룹"
+  },
+  "read_less": {
+    "message": "간략히"
+  },
+  "read_more": {
+    "message": "자세히 보기"
+  },
+  "name": {
+    "message": "이름"
+  },
+  "tabs": {
+    "message": "탭"
+  },
+  "show": {
+    "message": "보기"
+  },
+  "other": {
+    "message": "기타"
+  },
+  "close": {
+    "message": "닫기"
+  },
+  "allow": {
+    "message": "허용"
+  },
+  "deny": {
+    "message": "거부"
+  },
+  "proceed": {
+    "message": "진행"
+  },
+  "main_tab_group": {
+    "message": "메인"
+  },
+  "tab_preserved": {
+    "message": "탭 보존됨"
+  },
+  "tab_group_preserved": {
+    "message": "탭 그룹 보존됨"
+  },
+  "tab_preserved_message": {
+    "message": "«$1» 탭이 보존되었습니다"
+  },
+  "tab_group_preserved_message": {
+    "message": "«$1» 그룹이 보존되었습니다"
+  },
+  "preserve_tab": {
+    "message": "탭 보존"
+  },
+  "preserve_tab_group": {
+    "message": "탭 그룹 보존"
+  },
+  "sign_in": {
+    "message": "로그인"
+  },
+  "sign_up": {
+    "message": "가입"
+  },
+  "sign_out": {
+    "message": "로그아웃"
+  },
+  "signed_in_successfully": {
+    "message": "로그인 성공"
+  },
+  "signed_out_successfully": {
+    "message": "로그아웃 성공"
+  },
+  "open_tabber": {
+    "message": "Tabber 열기"
+  },
+  "home_page_title": {
+    "message": "Tabber"
+  },
+  "home_page_subtitle": {
+    "message": "궁극의 탭 정리 솔루션"
+  },
+  "home_page_description": {
+    "message": "사용하지 않는 탭을 가상 탭 그룹으로 보존하고, 모든 기기에서 동기화하세요."
+  },
+  "home_page_watch_demo": {
+    "message": "데모 보기"
+  },
+  "home_page_scroll_down": {
+    "message": "아래로 스크롤"
+  },
+  "no_preview_click_to_restore": {
+    "message": "클릭하여 복원"
+  },
+  "no_preview_double_click_to_restore": {
+    "message": "더블 클릭으로 복원"
+  },
+  "no_preview_faq_q1": {
+    "message": "이 탭의 미리보기를 볼 수 없는 이유는?"
+  },
+  "no_preview_faq_a1": {
+    "message": "이 탭은 탭 그룹 보존의 일부입니다."
+  },
+  "no_preview_faq_a2": {
+    "message": "미리보기가 설정에서 비활성화되어 있습니다."
+  },
+  "no_preview_faq_a3": {
+    "message": "탭은 클라우드에서 불러왔지만, 미리보기는 로컬에 저장되어 있습니다. 설정에서 클라우드 미리보기 저장을 활성화할 수 있습니다."
+  },
+  "no_preview_faq_a4": {
+    "message": "문제가 발생했습니다. 브라우저를 다시 시작한 뒤 탭을 다시 복원 및 보존해보세요. 그래도 안되면 클라우드 미리보기 저장을 설정에서 활성화해보세요."
+  },
+  "tutorial_preserve_tabs": {
+    "message": "탭 보존하기"
+  },
+  "tutorial_via_context_menu": {
+    "message": "컨텍스트 메뉴 사용"
+  },
+  "tutorial_open_in_new_tab": {
+    "message": "새 탭에서 열기"
+  },
+  "tutorial_reload": {
+    "message": "새로고침"
+  },
+  "tutorial_view_page_source": {
+    "message": "페이지 소스 보기"
+  },
+  "tutorial_or": {
+    "message": "또는"
+  },
+  "tutorial_via_extension_popup": {
+    "message": "확장 프로그램 팝업 사용"
+  },
+  "tutorial_pin_extension": {
+    "message": "확장 프로그램 고정 →"
+  },
+  "tutorial_restore_tabs": {
+    "message": "탭 복원하기"
+  },
+  "tutorial_click_on_content": {
+    "message": "콘텐츠 클릭"
+  },
+  "tutorial_right_click_on_group": {
+    "message": "그룹 우클릭"
+  },
+  "tutorial_my_group": {
+    "message": "내 그룹"
+  },
+  "tutorial_via_options_menu": {
+    "message": "옵션 메뉴 사용"
+  },
+  "tutorial": {
+    "message": "튜토리얼"
+  },
+  "finish": {
+    "message": "완료"
+  },
+  "support": {
+    "message": "지원"
+  },
+  "about": {
+    "message": "정보"
+  },
+  "about_title": {
+    "message": "Tabber – 궁극의 탭 정리 솔루션 v$1"
+  },
+  "about_description": {
+    "message": "사용하지 않는 탭을 정리된 가상 탭 그룹으로 보존하고, 모든 기기에서 동기화하세요.\n자세한 내용은 %Tabber 소개 페이지%를 방문하세요."
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
+  },
+  "plus_active": {
+    "message": "활성화됨"
+  },
+  "plus_upgrade": {
+    "message": "Plus로 업그레이드"
+  },
+  "plus_description": {
+    "message": "Tabber Plus로 웹 브라우징 경험을 향상하세요. 탭 혼란을 없애고 생산성을 높이는 도구들을 통해 온라인 작업 방식이 완전히 달라집니다."
+  },
+  "plus_feature_title_1": {
+    "message": "무제한 탭 그룹"
+  },
+  "plus_feature_title_2": {
+    "message": "고급 AI 그룹핑 모델"
+  },
+  "plus_feature_title_3": {
+    "message": "자동 클라우드 동기화"
+  },
+  "plus_feature_title_4": {
+    "message": "전체 동기화 기록"
+  },
+  "plus_feature_title_5": {
+    "message": "맞춤 배경"
+  },
+  "plus_feature_title_6": {
+    "message": "우선 지원"
+  },
+  "plus_feature_title_7": {
+    "message": "Patreon 독점 게시물"
+  },
+  "plus_feature_desc_1": {
+    "message": "그룹으로 묶을 수 있는 탭 수에 제한이 없습니다."
+  },
+  "plus_feature_desc_2": {
+    "message": "향상된 AI 모델과 더 높은 사용 한도."
+  },
+  "plus_feature_desc_3": {
+    "message": "모든 기기에서 탭이 자동으로 동기화됩니다."
+  },
+  "plus_feature_desc_4": {
+    "message": "전체 동기화 기록에 접근하고 어떤 백업이든 복원할 수 있습니다."
+  },
+  "plus_feature_desc_5": {
+    "message": "미리보기가 없는 페이지에 사용자 지정 배경을 적용하세요."
+  },
+  "plus_feature_desc_6": {
+    "message": "문의 사항과 문제가 신속히 처리되어 원활한 사용 경험을 보장합니다."
+  },
+  "plus_feature_desc_7": {
+    "message": "Patreon의 독점 게시물, 설문조사, 최신 업데이트와 팁들을 확인하세요."
+  },
+  "plus_price": {
+    "message": "월 $1만으로 이용 가능"
+  },
+  "error": {
+    "message": "오류"
+  },
+  "tab_group_limit": {
+    "message": "더 많은 탭 그룹을 만들려면 Tabber Plus로 업그레이드하세요"
+  },
+  "sync_to_cloud": {
+    "message": "클라우드로 동기화"
+  },
+  "sign_in_to_sync": {
+    "message": "탭을 클라우드와 동기화하려면 로그인하세요"
+  },
+  "sync_history": {
+    "message": "동기화 기록"
+  },
+  "sync_success": {
+    "message": "동기화 성공"
+  },
+  "sync_error": {
+    "message": "동기화 오류"
+  },
+  "file_upload_error": {
+    "message": "파일 업로드 오류"
+  },
+  "backup_not_found": {
+    "message": "백업을 찾을 수 없습니다"
+  },
+  "sign_in_to_save_previews": {
+    "message": "미리보기를 클라우드에 저장하려면 로그인하세요"
+  },
+  "sync_from_cloud": {
+    "message": "클라우드에서 동기화"
+  },
+  "sync_from_cloud_title": {
+    "message": "클라우드에서 탭 동기화"
+  },
+  "sync_from_cloud_description": {
+    "message": "클라우드에 저장된 탭이 있습니다. 이를 현재 탭과 병합하거나 대체할 수 있습니다. 병합을 선택하면 현재 탭은 클라우드 탭과 병합되며 중복은 제거됩니다. 대체를 선택하면 현재 탭이 모두 사라집니다."
+  },
+  "sync_from_cloud_merge": {
+    "message": "병합"
+  },
+  "sync_from_cloud_replace": {
+    "message": "대체"
+  },
+  "sync_with_merge": {
+    "message": "병합하여 복원"
+  },
+  "sync_with_replace": {
+    "message": "대체하여 복원"
+  },
+  "all_tabs_preserved": {
+    "message": "모든 탭이 보존됨"
+  },
+  "all_tabs_preserved_message": {
+    "message": "모든 탭이 성공적으로 보존되었습니다"
+  },
+  "no_data": {
+    "message": "데이터 없음"
+  },
+  "group_tabs": {
+    "message": "탭 그룹화"
+  },
+  "group_tabs_by_domain": {
+    "message": "도메인별"
+  },
+  "group_tabs_with_ai": {
+    "message": "AI로 그룹화"
+  },
+  "sort_tabs": {
+    "message": "탭 정렬"
+  },
+  "sort_tabs_by_title": {
+    "message": "제목순"
+  },
+  "sort_tabs_by_url": {
+    "message": "URL순"
+  },
+  "sort_tabs_by_date": {
+    "message": "날짜순"
+  },
+  "sort_tabs_asc": {
+    "message": "오름차순"
+  },
+  "sort_tabs_desc": {
+    "message": "내림차순"
+  },
+  "sort_tabs_only_current_group": {
+    "message": "현재 그룹만"
+  },
+  "search_tabs": {
+    "message": "탭 검색"
+  },
+  "restore_group_error": {
+    "message": "탭 그룹을 만들 수 없습니다. 브라우저가 이 기능을 지원하지 않을 수 있습니다."
+  },
+  "capture_tab_error": {
+    "message": "탭을 캡처할 수 없습니다. 필요한 권한이 허용되지 않았을 수 있습니다."
+  },
+  "invalid_regex": {
+    "message": "잘못된 정규식: $1"
+  },
+  "request_permission_title": {
+    "message": "필요한 권한"
+  },
+  "request_permission_description": {
+    "message": "Tabber는 브라우저의 탭에 접근할 수 있는 권한이 필요합니다. 이 권한은 탭 미리보기를 생성하기 위해 필요합니다. 이 권한을 부여하지 않으면 해당 기능은 비활성화됩니다."
+  },
+  "tutorial_welcome_title": {
+    "message": "안녕하세요"
+  },
+  "tutorial_welcome_description": {
+    "message": "Tabber 사용법에 대한 튜토리얼을 함께 살펴보며 작동 방식을 이해해 봅시다."
+  },
+  "tutorial_preserve_tab_title": {
+    "message": "첫 번째 탭을 보존해봅시다!"
+  },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. %link% 또는 다른 웹사이트로 이동하세요."
+  },
+  "tutorial_preserve_tab_description_2": {
+    "message": "2. 브라우저 우측 상단의 확장 프로그램 아이콘을 클릭하거나 페이지에서 마우스 오른쪽 버튼을 클릭하세요."
+  },
+  "tutorial_preserve_tab_description_3": {
+    "message": "3. <kbd>탭 보존</kbd>을 선택하세요."
+  },
+  "tutorial_preserve_tab_description_4": {
+    "message": "4. Tabber로 돌아오세요."
+  },
+  "tutorial_preserve_tab_description_5": {
+    "message": "5. 보존된 탭을 클릭하세요."
+  },
+  "tutorial_preserve_tab_description_6": {
+    "message": "6. 탭을 복원하려면 미리보기를 클릭하면 됩니다."
+  },
+  "tutorial_preserve_tab_arrow": {
+    "message": "확장 프로그램을 툴바에 고정"
+  },
+  "tutorial_create_tab_group_title": {
+    "message": "첫 번째 탭 그룹을 만들어보세요!"
+  },
+  "tutorial_create_tab_group_description_1": {
+    "message": "1. <kbd>+</kbd> 버튼을 클릭하세요."
+  },
+  "tutorial_create_tab_group_description_2": {
+    "message": "2. 그룹 이름을 입력하고 색상을 선택한 후 <kbd>생성</kbd>을 클릭하세요."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. %link% 또는 다른 웹사이트로 이동해 보존하세요."
+  },
+  "tutorial_create_tab_group_description_4": {
+    "message": "4. Tabber로 돌아오세요."
+  },
+  "tutorial_create_tab_group_description_5": {
+    "message": "5. 생성한 탭 그룹에서 마우스 오른쪽 버튼을 클릭한 후 <kbd>복원</kbd>을 클릭하세요."
+  },
+  "tutorial_create_tab_group_description_6": {
+    "message": "다른 그룹으로 탭을 이동하려면 원하는 그룹으로 드래그하면 됩니다."
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "브라우저가 탭 그룹 기능을 지원한다면 그룹의 웹페이지에서 <kbd>탭 그룹 보존</kbd>을 클릭해 전체 그룹을 보존할 수 있습니다."
+  },
+  "tutorial_create_tab_group_arrow": {
+    "message": "이 버튼입니다!"
+  },
+  "tutorial_settings_title": {
+    "message": "나만의 설정으로 맞춤화하세요!"
+  },
+  "tutorial_settings_description_1": {
+    "message": "설정 페이지에서 Tabber의 외형과 동작을 원하는 대로 조정할 수 있습니다."
+  },
+  "tutorial_settings_description_2": {
+    "message": "탭을 자동으로 보존하고 싶다면 <kbd>자동 보존</kbd> 섹션을 확인해보세요."
+  },
+  "tutorial_settings_arrow": {
+    "message": "바로 여기 있습니다!"
+  },
+  "tutorial_shortcuts_title": {
+    "message": "유용한 단축키!"
+  },
+  "tutorial_shortcuts_description_1": {
+    "message": "Tabber 페이지에서는 다음 단축키를 사용할 수 있습니다:"
+  },
+  "tutorial_shortcuts_description_2": {
+    "message": "1. <kbd>←</kbd> 및 <kbd>→</kbd> 키로 탭 사이를 이동."
+  },
+  "tutorial_shortcuts_description_3": {
+    "message": "2. <kbd>↑</kbd> 및 <kbd>↓</kbd> 키로 그룹 간 이동."
+  },
+  "tutorial_shortcuts_description_4": {
+    "message": "3. <kbd>F11</kbd> 또는 <kbd>F</kbd> 키로 전체 화면 모드 활성화."
+  },
+  "tutorial_shortcuts_description_5": {
+    "message": "4. <kbd>T</kbd> 키로 마지막에 닫은 탭 복원."
+  },
+  "tutorial_shortcuts_description_6": {
+    "message": "5. <kbd>Ctrl + F</kbd> 키로 탭 검색. (<kbd>Esc</kbd>로 종료)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Ctrl + 1</kbd> 키로 어느 페이지에서든 Tabber 열기."
+  },
+  "tutorial_shortcuts_description_8": {
+    "message": "설정에서 글로벌 단축키를 직접 설정할 수도 있습니다."
+  },
+  "tutorial_sign_in_title": {
+    "message": "더 이상 탭을 잃어버리지 마세요!"
+  },
+  "tutorial_sign_in_description_1": {
+    "message": "이제 계정에 로그인하여 클라우드 백업을 활성화하고, 기기 간 데이터 동기화를 하며, 장치의 메모리를 차지하지 않고 클라우드에 탭 미리보기를 저장할 수 있습니다."
+  },
+  "tutorial_sign_in_description_2": {
+    "message": "이 기능은 선택 사항이며, 로그인 없이도 Tabber를 사용할 수 있습니다."
+  },
+  "tutorial_sign_in_arrow_1": {
+    "message": "여기를 클릭해 로그인하세요!"
+  },
+  "tutorial_sign_in_arrow_2": {
+    "message": "여기를 클릭해 클라우드에 백업 저장!"
+  },
+  "tutorial_menu_title": {
+    "message": "고급 기능을 찾고 계신가요?"
+  },
+  "tutorial_menu_description_1": {
+    "message": "<kbd>⋮</kbd> 메뉴를 클릭하면 <b>정렬</b>, <b>그룹화</b>, <b>검색</b> 등의 기능을 사용할 수 있습니다!"
+  },
+  "tutorial_menu_description_2": {
+    "message": "언제든지 이 튜토리얼을 메뉴에서 다시 볼 수 있습니다."
+  },
+  "tutorial_menu_arrow": {
+    "message": "여기 있어요!"
+  },
+  "auto_preserve": {
+    "message": "자동 보존"
+  },
+  "auto_preserve_enabled": {
+    "message": "활성화됨"
+  },
+  "auto_preserve_interval": {
+    "message": "간격"
+  },
+  "auto_preserve_no_preserve_pinned": {
+    "message": "고정된 탭은 보존하지 않기"
+  },
+  "auto_preserve_no_preserve_audible": {
+    "message": "소리 재생 중인 탭은 보존하지 않기"
+  },
+  "auto_preserve_no_preserve_with_unsaved_form": {
+    "message": "작성 중인 양식이 있는 탭은 보존하지 않기"
+  },
+  "auto_preserve_no_preserve_active": {
+    "message": "활성 탭은 보존하지 않기"
+  },
+  "auto_preserve_no_preserve_when_offline": {
+    "message": "오프라인 상태일 때는 보존하지 않기"
+  },
+  "auto_sync": {
+    "message": "자동 클라우드 동기화"
+  },
+  "auto_sync_enabled": {
+    "message": "활성화됨"
+  },
+  "auto_sync_interval": {
+    "message": "간격"
+  },
+  "interval_1_min": {
+    "message": "1분"
+  },
+  "interval_5_min": {
+    "message": "5분"
+  },
+  "interval_10_min": {
+    "message": "10분"
+  },
+  "interval_15_min": {
+    "message": "15분"
+  },
+  "interval_30_min": {
+    "message": "30분"
+  },
+  "interval_1_hour": {
+    "message": "1시간"
+  },
+  "interval_2_hours": {
+    "message": "2시간"
+  },
+  "interval_4_hours": {
+    "message": "4시간"
+  },
+  "interval_6_hours": {
+    "message": "6시간"
+  },
+  "interval_12_hours": {
+    "message": "12시간"
+  },
+  "interval_1_day": {
+    "message": "1일"
+  },
+  "interval_2_days": {
+    "message": "2일"
+  },
+  "interval_3_days": {
+    "message": "3일"
+  },
+  "interval_1_week": {
+    "message": "1주일"
+  },
+  "interval_2_weeks": {
+    "message": "2주일"
+  },
+  "theme_background_title": {
+    "message": "배경 변경"
+  },
+  "theme_background_description": {
+    "message": "미리보기가 없는 페이지의 배경을 선택하세요"
+  },
+  "theme_background_adjust": {
+    "message": "배경 밝기 조절"
+  },
+  "drop_file_here": {
+    "message": "여기에 파일을 놓으세요"
+  },
+  "upload_file_or": {
+    "message": "또는"
+  },
+  "upload_file": {
+    "message": "파일 업로드"
+  },
+  "sites_whitelist_title": {
+    "message": "이 웹사이트의 탭은 절대 보존하지 않음"
+  },
+  "sites_whitelist_description": {
+    "message": "화이트리스트에 추가하려는 각 페이지의 URL을 줄 바꿈으로 입력하세요. 예시:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n여러 사이트를 한 줄에 입력하려면 URL 일부만 지정하세요:\ngoogle.com\n정규식을 사용하려면 슬래시로 감싸세요:\n/^https:.*google\\.com/"
+  },
+  "groups_whitelist_title": {
+    "message": "이 그룹의 탭은 절대 보존하지 않음"
+  },
+  "groups_whitelist_description": {
+    "message": "화이트리스트에 추가하려는 각 그룹 이름을 줄 바꿈으로 입력하세요. 예시:\n업무\n학습\n엔터테인먼트\n또한 화이트리스트에 추가할 그룹의 색상을 선택할 수도 있습니다."
+  },
+  "dynamic_preview_contrast": {
+    "message": "동적 미리보기 대비"
+  },
+  "disable_animations": {
+    "message": "애니메이션 비활성화"
+  },
+  "max_deleted_tabs": {
+    "message": "최대 삭제된 탭 수"
+  },
+  "identify_tabs_by_title": {
+    "message": "제목으로 탭 식별"
+  },
+  "pause_auto_preserve": {
+    "message": "자동 보존 일시 중지"
+  },
+  "resume_auto_preserve": {
+    "message": "자동 보존 재개 ($1)"
+  },
+  "never_preserve_this_site": {
+    "message": "이 사이트는 절대 보존하지 않기"
+  },
+  "remove_site_from_whitelist": {
+    "message": "화이트리스트에서 사이트 제거"
+  },
+  "never_preserve_this_group": {
+    "message": "이 그룹은 절대 보존하지 않기"
+  },
+  "remove_group_from_whitelist": {
+    "message": "화이트리스트에서 그룹 제거"
+  },
+  "ai_group_title": {
+    "message": "AI 기반 탭 그룹화"
+  },
+  "ai_group_description": {
+    "message": "AI가 탭의 제목과 링크를 분석하여 주제를 파악하고 그룹화합니다.\n그룹화 전에 현재 탭의 백업이 생성되어 언제든지 되돌릴 수 있습니다.\n요청 횟수는 제한되어 있으며 탭 수에 따라 달라집니다. 약 50개의 탭으로 하루에 약 2회 요청할 수 있습니다.\nAI 모델은 완벽하지 않으며 오류가 발생할 수 있습니다. 수동으로 그룹화를 조정할 수 있습니다.\n필수로 포함되어야 할 그룹 이름을 줄 바꿈으로 입력할 수 있습니다. 예:\n내 작업\n학습\n엔터테인먼트"
+  },
+  "ai_group_select_group": {
+    "message": "다음에서 탭 그룹화"
+  },
+  "ai_group_error_unauthorized": {
+    "message": "인증되지 않음"
+  },
+  "ai_group_error_no_license": {
+    "message": "라이선스 없음"
+  },
+  "ai_group_error_quota_exceeded": {
+    "message": "쿼터 초과"
+  },
+  "ai_group_error_backup_not_found": {
+    "message": "백업을 찾을 수 없음"
+  },
+  "ai_group_error_invalid_data": {
+    "message": "잘못된 데이터"
+  },
+  "ai_group_error_no_result": {
+    "message": "결과 없음"
+  },
+  "ai_group_error_invalid_result": {
+    "message": "잘못된 결과"
+  },
+  "ai_group_error_connection": {
+    "message": "연결 오류"
+  },
+  "ai_group_error_unknown": {
+    "message": "알 수 없는 오류"
+  },
+  "share_tab_group_title": {
+    "message": "탭 그룹 공유"
+  },
+  "share_tab_group_description": {
+    "message": "이 탭 그룹을 다른 사람과 공유하세요. 링크를 가진 누구나 이 그룹의 모든 탭을 보고 복원할 수 있습니다.\n미리보기는 본인만 볼 수 있습니다.\n그룹을 업데이트하면 모든 사용자의 보기에도 변경사항이 적용됩니다.\n편집 권한을 부여하여 다른 사람이 이 그룹을 수정할 수 있도록 설정할 수도 있습니다."
+  },
+  "share_tab_group_write_permission": {
+    "message": "편집 권한"
+  },
+  "share_tab_group_revoke_access": {
+    "message": "접근 권한 취소"
+  },
+  "sign_in_to_share": {
+    "message": "탭 그룹을 공유하려면 로그인하세요"
+  },
+  "bind_sites_title": {
+    "message": "탭 그룹에 사이트 연결"
+  },
+  "bind_sites_description": {
+    "message": "이 그룹에 보존 시 자동으로 추가될 사이트 목록입니다. 각 페이지의 URL을 줄 바꿈으로 입력하세요. 예:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n여러 사이트를 한 줄에 입력하려면 URL 일부를 지정하세요:\ngoogle.com\n정규식을 사용하려면 슬래시로 감싸세요:\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "이봐요, 잠깐만요..."
+  },
+  "review_dialog_description": {
+    "message": "이 확장 프로그램을 꽤 오랫동안 사용 중이시네요. 마음에 드신다면 스토어에 리뷰를 남겨주실 수 있을까요? 덕분에 더 나은 확장을 만들 수 있습니다. 정말 감사합니다!"
+  },
+  "v_tabs_position": {
+    "message": "위치"
+  },
+  "v_tabs_left": {
+    "message": "왼쪽"
+  },
+  "v_tabs_right": {
+    "message": "오른쪽"
+  },
+  "v_tabs_width": {
+    "message": "너비"
+  },
+  "v_tabs_size": {
+    "message": "크기"
+  },
+  "v_tabs_n_more": {
+    "message": "$1개 더..."
+  },
+  "v_tabs_list": {
+    "message": "탭 목록"
+  }
+}

@@ -1,1 +1,845 @@
-{}
+{
+  "extension_name": {
+    "message": "Tabber - Flikorganiserare"
+  },
+  "extension_description": {
+    "message": "Förenkla din surfning genom att gruppera oanvända flikar i organiserade grupper"
+  },
+  "extension_default_title": {
+    "message": "Tabber – Den ultimata lösningen för flikhantering"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "theme_light": {
+    "message": "Ljust"
+  },
+  "theme_dark": {
+    "message": "Mörkt"
+  },
+  "theme_system": {
+    "message": "System"
+  },
+  "theme_color": {
+    "message": "Primärfärg"
+  },
+  "theme_background": {
+    "message": "Bakgrund"
+  },
+  "theme_background_animation": {
+    "message": "Bakgrundsanimation"
+  },
+  "theme_background_custom": {
+    "message": "Anpassad bakgrund"
+  },
+  "use_context_menu": {
+    "message": "Använd snabbmeny"
+  },
+  "double_click_to_restore": {
+    "message": "Dubbelklicka för att återställa"
+  },
+  "close_tab_on_preserve": {
+    "message": "Stäng flik vid bevarande"
+  },
+  "make_preview_on_preserve": {
+    "message": "Skapa förhandsvisning vid bevarande"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "Skapa förhandsvisningar av inaktiva flikar"
+  },
+  "show_notification_on_preserve": {
+    "message": "Visa avisering vid bevarande"
+  },
+  "delete_tab_on_restore": {
+    "message": "Ta bort flik vid återställning"
+  },
+  "restore_to_group": {
+    "message": "Återställ flik till grupp"
+  },
+  "add_new_tab_to_start": {
+    "message": "Lägg till ny flik i början"
+  },
+  "add_new_tab_to_last_active_group": {
+    "message": "Lägg till ny flik i senaste aktiva gruppen"
+  },
+  "save_previews_to_cloud": {
+    "message": "Spara förhandsvisningar i molnet"
+  },
+  "exclusions": {
+    "message": "Undantag"
+  },
+  "sites_exclusions": {
+    "message": "Undantag för webbplatser"
+  },
+  "groups_exclusions": {
+    "message": "Undantag för grupper"
+  },
+  "keyboard_shortcuts": {
+    "message": "Tangentbordsgenvägar"
+  },
+  "vertical_tabs": {
+    "message": "Vertikala flikar"
+  },
+  "sites_features": {
+    "message": "Webbplatsfunktioner"
+  },
+  "toolbar_items": {
+    "message": "Verktygsfältsobjekt"
+  },
+  "advanced_settings": {
+    "message": "Avancerade inställningar"
+  },
+  "click_again_to_confirm": {
+    "message": "Klicka igen för att bekräfta"
+  },
+  "save_youtube_timestamps": {
+    "message": "Spara YouTube-tidsstämplar"
+  },
+  "home_page": {
+    "message": "Tabber | Startsida"
+  },
+  "restore_closed_tab": {
+    "message": "Återställ stängd flik"
+  },
+  "preserve_all_tabs": {
+    "message": "Bevara alla flikar"
+  },
+  "restore_all_tabs": {
+    "message": "Återställ alla flikar"
+  },
+  "restore_all_tabs_by_group": {
+    "message": "Efter grupp"
+  },
+  "restore_all_tabs_by_window": {
+    "message": "Efter fönster"
+  },
+  "restore_all_tabs_close_after_restore": {
+    "message": "Stäng efter återställning"
+  },
+  "preserve_all_tabs_close_after_preserve": {
+    "message": "Stäng efter bevarande"
+  },
+  "clear_all_data": {
+    "message": "Rensa all data"
+  },
+  "clear_all_data_confirm": {
+    "message": "Är du säker på att du vill rensa all data?"
+  },
+  "clear_all_data_confirm_description": {
+    "message": "Detta kommer att radera alla sparade flikar och grupper. Denna åtgärd kan inte ångras."
+  },
+  "clean_up_junk": {
+    "message": "Rensa skräp"
+  },
+  "clean_up_junk_confirm": {
+    "message": "Är du säker på att du vill rensa skräpet?"
+  },
+  "clean_up_junk_confirm_description": {
+    "message": "Detta tar bort tomma flikgrupper och dubbletter. Denna åtgärd kan inte ångras."
+  },
+  "cancel": {
+    "message": "Avbryt"
+  },
+  "ok": {
+    "message": "OK"
+  },
+  "save": {
+    "message": "Spara"
+  },
+  "create": {
+    "message": "Skapa"
+  },
+  "delete": {
+    "message": "Ta bort"
+  },
+  "restore": {
+    "message": "Återställ"
+  },
+  "share": {
+    "message": "Dela"
+  },
+  "bind_sites": {
+    "message": "Länka webbplatser"
+  },
+  "merge_with": {
+    "message": "Sammanfoga med"
+  },
+  "no_tab_groups": {
+    "message": "Inga flikgrupper"
+  },
+  "all_tab_groups": {
+    "message": "Alla flikgrupper"
+  },
+  "read_less": {
+    "message": "Läs mindre"
+  },
+  "read_more": {
+    "message": "Läs mer"
+  },
+  "name": {
+    "message": "Namn"
+  },
+  "tabs": {
+    "message": "Flikar"
+  },
+  "show": {
+    "message": "Visa"
+  },
+  "other": {
+    "message": "Annat"
+  },
+  "close": {
+    "message": "Stäng"
+  },
+  "allow": {
+    "message": "Tillåt"
+  },
+  "deny": {
+    "message": "Neka"
+  },
+  "proceed": {
+    "message": "Fortsätt"
+  },
+  "main_tab_group": {
+    "message": "Huvud"
+  },
+  "tab_preserved": {
+    "message": "Flik bevarad"
+  },
+  "tab_group_preserved": {
+    "message": "Flikgrupp bevarad"
+  },
+  "tab_preserved_message": {
+    "message": "«$1» har bevarats"
+  },
+  "tab_group_preserved_message": {
+    "message": "Gruppen «$1» har bevarats"
+  },
+  "preserve_tab": {
+    "message": "Bevara flik"
+  },
+  "preserve_tab_group": {
+    "message": "Bevara flikgrupp"
+  },
+  "sign_in": {
+    "message": "Logga in"
+  },
+  "sign_up": {
+    "message": "Skapa konto"
+  },
+  "sign_out": {
+    "message": "Logga ut"
+  },
+  "signed_in_successfully": {
+    "message": "Inloggning lyckades"
+  },
+  "signed_out_successfully": {
+    "message": "Utloggning lyckades"
+  },
+  "open_tabber": {
+    "message": "Öppna Tabber"
+  },
+  "home_page_title": {
+    "message": "Tabber"
+  },
+  "home_page_subtitle": {
+    "message": "Den ultimata lösningen för flikhantering"
+  },
+  "home_page_description": {
+    "message": "Förenkla din surfning genom att bevara oanvända flikar i organiserade virtuella grupper och synkronisera dem med alla dina enheter."
+  },
+  "home_page_watch_demo": {
+    "message": "Titta på demo"
+  },
+  "home_page_scroll_down": {
+    "message": "Skrolla ner"
+  },
+  "no_preview_click_to_restore": {
+    "message": "Klicka för att återställa"
+  },
+  "no_preview_double_click_to_restore": {
+    "message": "Dubbelklicka för att återställa"
+  },
+  "no_preview_faq_q1": {
+    "message": "Varför finns det ingen förhandsvisning av denna flik?"
+  },
+  "no_preview_faq_a1": {
+    "message": "Denna flik är en del av en bevarad flikgrupp."
+  },
+  "no_preview_faq_a2": {
+    "message": "Förhandsvisningar är inaktiverade i inställningarna."
+  },
+  "no_preview_faq_a3": {
+    "message": "Fliken laddades från molnet men förhandsvisningen sparades lokalt. Du kan aktivera molnsparning i inställningarna."
+  },
+  "no_preview_faq_a4": {
+    "message": "Något gick fel. Försök starta om webbläsaren, återställ och bevara fliken igen. Om det inte hjälper kan du aktivera molnsparning i inställningarna."
+  },
+  "tutorial_preserve_tabs": {
+    "message": "Bevara flikar"
+  },
+  "tutorial_via_context_menu": {
+    "message": "Via snabbmeny"
+  },
+  "tutorial_open_in_new_tab": {
+    "message": "Öppna i ny flik"
+  },
+  "tutorial_reload": {
+    "message": "Ladda om"
+  },
+  "tutorial_view_page_source": {
+    "message": "Visa sidkällan"
+  },
+  "tutorial_or": {
+    "message": "Eller"
+  },
+  "tutorial_via_extension_popup": {
+    "message": "Via tilläggsfönster"
+  },
+  "tutorial_pin_extension": {
+    "message": "Fäst tillägget →"
+  },
+  "tutorial_restore_tabs": {
+    "message": "Återställ flikar"
+  },
+  "tutorial_click_on_content": {
+    "message": "Klicka på innehåll"
+  },
+  "tutorial_right_click_on_group": {
+    "message": "Högerklicka på grupp"
+  },
+  "tutorial_my_group": {
+    "message": "Min grupp"
+  },
+  "tutorial_via_options_menu": {
+    "message": "Via inställningsmenyn"
+  },
+  "tutorial": {
+    "message": "Guide"
+  },
+  "finish": {
+    "message": "Avsluta"
+  },
+  "support": {
+    "message": "Support"
+  },
+  "about": {
+    "message": "Om"
+  },
+  "about_title": {
+    "message": "Tabber – Den ultimata lösningen för flikhantering v$1"
+  },
+  "about_description": {
+    "message": "Förenkla din surfning genom att bevara oanvända flikar i organiserade virtuella grupper och synkronisera dem med alla dina enheter.\nBesök %Tabber Om-sidan% för mer information."
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
+  },
+  "plus_active": {
+    "message": "Aktiv"
+  },
+  "plus_upgrade": {
+    "message": "Uppgradera till Plus"
+  },
+  "plus_description": {
+    "message": "Uppgradera din webbsurfning med Tabber Plus. Säg hejdå till flikkaos och upptäck en värld av produktivitetshöjande verktyg som förändrar hur du arbetar online."
+  },
+  "plus_feature_title_1": {
+    "message": "Obegränsade flikgrupper"
+  },
+  "plus_feature_title_2": {
+    "message": "Avancerad AI-modell för gruppering"
+  },
+  "plus_feature_title_3": {
+    "message": "Automatisk molnsynkronisering"
+  },
+  "plus_feature_title_4": {
+    "message": "Fullständig synkhistorik"
+  },
+  "plus_feature_title_5": {
+    "message": "Anpassad bakgrund"
+  },
+  "plus_feature_title_6": {
+    "message": "Prioriterad support"
+  },
+  "plus_feature_title_7": {
+    "message": "Exklusiva Patreon-inlägg"
+  },
+  "plus_feature_desc_1": {
+    "message": "Inga fler begränsningar för hur många flikar du kan gruppera."
+  },
+  "plus_feature_desc_2": {
+    "message": "Förbättrad AI-modell och högre användningsgränser."
+  },
+  "plus_feature_desc_3": {
+    "message": "Dina flikar synkroniseras automatiskt mellan alla dina enheter."
+  },
+  "plus_feature_desc_4": {
+    "message": "Få tillgång till hela synkhistoriken och återställ vilken säkerhetskopia som helst."
+  },
+  "plus_feature_desc_5": {
+    "message": "Använd en egen bakgrund på sidor utan förhandsvisning."
+  },
+  "plus_feature_desc_6": {
+    "message": "Alla frågor och funderingar hanteras snabbt för att säkerställa en smidig upplevelse."
+  },
+  "plus_feature_desc_7": {
+    "message": "Få exklusiv tillgång till Patreon-inlägg, omröstningar och håll dig uppdaterad med de senaste nyheterna, tipsen och trixen."
+  },
+  "plus_price": {
+    "message": "Bara $1/månad"
+  },
+  "error": {
+    "message": "Fel"
+  },
+  "tab_group_limit": {
+    "message": "Uppgradera till Tabber Plus för att skapa fler flikgrupper"
+  },
+  "sync_to_cloud": {
+    "message": "Synkronisera till molnet"
+  },
+  "sign_in_to_sync": {
+    "message": "Logga in för att synkronisera dina flikar med molnet"
+  },
+  "sync_history": {
+    "message": "Synkhistorik"
+  },
+  "sync_success": {
+    "message": "Synkronisering lyckades"
+  },
+  "sync_error": {
+    "message": "Synkroniseringsfel"
+  },
+  "file_upload_error": {
+    "message": "Filöverföringsfel"
+  },
+  "backup_not_found": {
+    "message": "Säkerhetskopia hittades inte"
+  },
+  "sign_in_to_save_previews": {
+    "message": "Logga in för att spara förhandsvisningar i molnet"
+  },
+  "sync_from_cloud": {
+    "message": "Synkronisera från molnet"
+  },
+  "sync_from_cloud_title": {
+    "message": "Synkronisera flikar från molnet"
+  },
+  "sync_from_cloud_description": {
+    "message": "Du har flikar sparade i molnet. Du kan slå samman dem med dina nuvarande flikar eller ersätta dem. Vid sammanslagning kombineras flikarna och dubbletter tas bort. Vid ersättning raderas dina nuvarande flikar."
+  },
+  "sync_from_cloud_merge": {
+    "message": "Slå samman"
+  },
+  "sync_from_cloud_replace": {
+    "message": "Ersätt"
+  },
+  "sync_with_merge": {
+    "message": "Återställ med sammanslagning"
+  },
+  "sync_with_replace": {
+    "message": "Återställ med ersättning"
+  },
+  "all_tabs_preserved": {
+    "message": "Alla flikar bevarade"
+  },
+  "all_tabs_preserved_message": {
+    "message": "Alla flikar har bevarats"
+  },
+  "no_data": {
+    "message": "Ingen data"
+  },
+  "group_tabs": {
+    "message": "Gruppera flikar"
+  },
+  "group_tabs_by_domain": {
+    "message": "Efter domän"
+  },
+  "group_tabs_with_ai": {
+    "message": "Med AI"
+  },
+  "sort_tabs": {
+    "message": "Sortera flikar"
+  },
+  "sort_tabs_by_title": {
+    "message": "Efter titel"
+  },
+  "sort_tabs_by_url": {
+    "message": "Efter URL"
+  },
+  "sort_tabs_by_date": {
+    "message": "Efter datum"
+  },
+  "sort_tabs_asc": {
+    "message": "Stigande"
+  },
+  "sort_tabs_desc": {
+    "message": "Fallande"
+  },
+  "sort_tabs_only_current_group": {
+    "message": "Endast aktuell grupp"
+  },
+  "search_tabs": {
+    "message": "Sök i flikar"
+  },
+  "restore_group_error": {
+    "message": "Det gick inte att skapa flikgrupp. Din webbläsare stöder kanske inte den här funktionen."
+  },
+  "capture_tab_error": {
+    "message": "Det gick inte att fånga flik. Du har kanske inte gett de nödvändiga behörigheterna."
+  },
+  "invalid_regex": {
+    "message": "Ogiltigt regex: $1"
+  },
+  "request_permission_title": {
+    "message": "Behörighet krävs"
+  },
+  "request_permission_description": {
+    "message": "Tabber behöver tillgång till dina flikar i webbläsaren. Detta krävs för att skapa förhandsvisningar. Om du inte vill ge denna behörighet kommer funktionen att inaktiveras."
+  },
+  "tutorial_welcome_title": {
+    "message": "Hej"
+  },
+  "tutorial_welcome_description": {
+    "message": "Låt oss gå igenom en guide för att använda Tabber och bättre förstå hur det fungerar."
+  },
+  "tutorial_preserve_tab_title": {
+    "message": "Låt oss bevara din första flik!"
+  },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Gå till %link% eller någon annan webbplats."
+  },
+  "tutorial_preserve_tab_description_2": {
+    "message": "2. Klicka på tilläggsikonen uppe till höger i webbläsaren ELLER högerklicka på sidan."
+  },
+  "tutorial_preserve_tab_description_3": {
+    "message": "3. Välj <kbd>Bevara flik</kbd>."
+  },
+  "tutorial_preserve_tab_description_4": {
+    "message": "4. Gå tillbaka till Tabber."
+  },
+  "tutorial_preserve_tab_description_5": {
+    "message": "5. Klicka på fliken du bevarade."
+  },
+  "tutorial_preserve_tab_description_6": {
+    "message": "6. För att återställa fliken, klicka bara på dess förhandsvisning."
+  },
+  "tutorial_preserve_tab_arrow": {
+    "message": "Fäst tillägget i verktygsfältet"
+  },
+  "tutorial_create_tab_group_title": {
+    "message": "Skapa din första flikgrupp!"
+  },
+  "tutorial_create_tab_group_description_1": {
+    "message": "1. Klicka på knappen <kbd>+</kbd>."
+  },
+  "tutorial_create_tab_group_description_2": {
+    "message": "2. Skriv ett namn på gruppen, välj färg och klicka <kbd>Skapa</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Gå till %link% eller någon annan webbplats och bevara den."
+  },
+  "tutorial_create_tab_group_description_4": {
+    "message": "4. Gå tillbaka till Tabber."
+  },
+  "tutorial_create_tab_group_description_5": {
+    "message": "5. Högerklicka på gruppen du skapade och klicka <kbd>Återställ</kbd>."
+  },
+  "tutorial_create_tab_group_description_6": {
+    "message": "För att flytta en flik till en annan grupp, dra den till önskad grupp."
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "Om din webbläsare stöder flikgruppering kan du även bevara hela gruppen genom att klicka <kbd>Bevara flikgrupp</kbd> på någon av gruppens sidor."
+  },
+  "tutorial_create_tab_group_arrow": {
+    "message": "Här är knappen!"
+  },
+  "tutorial_settings_title": {
+    "message": "Anpassa efter dina behov!"
+  },
+  "tutorial_settings_description_1": {
+    "message": "Gå till inställningssidan och anpassa Tabbers utseende och funktioner som du vill."
+  },
+  "tutorial_settings_description_2": {
+    "message": "Kolla avsnittet <kbd>Automatiskt bevarande</kbd> om du vill att flikar ska bevaras automatiskt."
+  },
+  "tutorial_settings_arrow": {
+    "message": "Precis här!"
+  },
+  "tutorial_shortcuts_title": {
+    "message": "Smidiga kortkommandon!"
+  },
+  "tutorial_shortcuts_description_1": {
+    "message": "Du kan använda följande kortkommandon på Tabber-sidan:"
+  },
+  "tutorial_shortcuts_description_2": {
+    "message": "1. <kbd>←</kbd> och <kbd>→</kbd> för att navigera mellan flikar."
+  },
+  "tutorial_shortcuts_description_3": {
+    "message": "2. <kbd>↑</kbd> och <kbd>↓</kbd> för att navigera mellan grupper."
+  },
+  "tutorial_shortcuts_description_4": {
+    "message": "3. <kbd>F11</kbd> eller <kbd>F</kbd> för att öppna Tabber i helskärm."
+  },
+  "tutorial_shortcuts_description_5": {
+    "message": "4. <kbd>T</kbd> för att återställa senast stängda flik."
+  },
+  "tutorial_shortcuts_description_6": {
+    "message": "5. <kbd>Ctrl + F</kbd> för att söka flikar. (<kbd>Esc</kbd> för att avsluta)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Ctrl + 1</kbd> för att öppna Tabber från valfri sida."
+  },
+  "tutorial_shortcuts_description_8": {
+    "message": "Du kan även ställa in egna globala genvägar i inställningarna."
+  },
+  "tutorial_sign_in_title": {
+    "message": "Förlora aldrig dina flikar igen!"
+  },
+  "tutorial_sign_in_description_1": {
+    "message": "Nu kan du logga in på ditt konto för att aktivera molnbackup, synkronisering mellan enheter och spara förhandsvisningar i molnet utan att belasta enhetens minne."
+  },
+  "tutorial_sign_in_description_2": {
+    "message": "Detta är valfritt – du kan fortfarande använda Tabber utan att logga in."
+  },
+  "tutorial_sign_in_arrow_1": {
+    "message": "Klicka här för att logga in!"
+  },
+  "tutorial_sign_in_arrow_2": {
+    "message": "Klicka här för att spara backup i molnet!"
+  },
+  "tutorial_menu_title": {
+    "message": "Letar du efter avancerade funktioner?"
+  },
+  "tutorial_menu_description_1": {
+    "message": "Klicka på menyn <kbd>⋮</kbd> för att få tillgång till <b>sortering</b>, <b>gruppering</b>, <b>sökning</b> och mycket mer!"
+  },
+  "tutorial_menu_description_2": {
+    "message": "Du kan också gå tillbaka till den här guiden när som helst via menyn."
+  },
+  "tutorial_menu_arrow": {
+    "message": "Här är den!"
+  },
+  "auto_preserve": {
+    "message": "Automatiskt bevarande"
+  },
+  "auto_preserve_enabled": {
+    "message": "Aktiverat"
+  },
+  "auto_preserve_interval": {
+    "message": "Intervall"
+  },
+  "auto_preserve_no_preserve_pinned": {
+    "message": "Bevara inte fastnålade flikar"
+  },
+  "auto_preserve_no_preserve_audible": {
+    "message": "Bevara inte flikar som spelar ljud"
+  },
+  "auto_preserve_no_preserve_with_unsaved_form": {
+    "message": "Bevara inte flikar med osparade formulär"
+  },
+  "auto_preserve_no_preserve_active": {
+    "message": "Bevara inte aktiv flik"
+  },
+  "auto_preserve_no_preserve_when_offline": {
+    "message": "Bevara inte flikar när webbläsaren är offline"
+  },
+  "auto_sync": {
+    "message": "Automatisk molnsynkronisering"
+  },
+  "auto_sync_enabled": {
+    "message": "Aktiverat"
+  },
+  "auto_sync_interval": {
+    "message": "Intervall"
+  },
+  "interval_1_min": {
+    "message": "1 minut"
+  },
+  "interval_5_min": {
+    "message": "5 minuter"
+  },
+  "interval_10_min": {
+    "message": "10 minuter"
+  },
+  "interval_15_min": {
+    "message": "15 minuter"
+  },
+  "interval_30_min": {
+    "message": "30 minuter"
+  },
+  "interval_1_hour": {
+    "message": "1 timme"
+  },
+  "interval_2_hours": {
+    "message": "2 timmar"
+  },
+  "interval_4_hours": {
+    "message": "4 timmar"
+  },
+  "interval_6_hours": {
+    "message": "6 timmar"
+  },
+  "interval_12_hours": {
+    "message": "12 timmar"
+  },
+  "interval_1_day": {
+    "message": "1 dag"
+  },
+  "interval_2_days": {
+    "message": "2 dagar"
+  },
+  "interval_3_days": {
+    "message": "3 dagar"
+  },
+  "interval_1_week": {
+    "message": "1 vecka"
+  },
+  "interval_2_weeks": {
+    "message": "2 veckor"
+  },
+  "theme_background_title": {
+    "message": "Byt bakgrund"
+  },
+  "theme_background_description": {
+    "message": "Välj en bakgrund för sidor utan förhandsvisning"
+  },
+  "theme_background_adjust": {
+    "message": "Justera bakgrundens ljusstyrka"
+  },
+  "drop_file_here": {
+    "message": "Släpp fil här"
+  },
+  "upload_file_or": {
+    "message": "eller"
+  },
+  "upload_file": {
+    "message": "Ladda upp fil"
+  },
+  "sites_whitelist_title": {
+    "message": "Bevara aldrig flikar från dessa webbplatser"
+  },
+  "sites_whitelist_description": {
+    "message": "Lägg till webbadressen för varje sida du vill vitlista på en ny rad. Exempel:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nFör att vitlista flera webbplatser i en rad kan du ange en del av URL:en istället:\ngoogle.com\nDu kan också använda regex genom att omge texten med snedstreck:\n/^https:.*google\\.com/"
+  },
+  "groups_whitelist_title": {
+    "message": "Bevara aldrig flikar från dessa grupper"
+  },
+  "groups_whitelist_description": {
+    "message": "Lägg till namnet på varje grupp du vill vitlista på en ny rad. Exempel:\nArbete\nStudier\nUnderhållning\nDu kan också välja färger för de grupper du vill vitlista."
+  },
+  "dynamic_preview_contrast": {
+    "message": "Dynamisk förhandsvisningskontrast"
+  },
+  "disable_animations": {
+    "message": "Inaktivera animationer"
+  },
+  "max_deleted_tabs": {
+    "message": "Max antal borttagna flikar"
+  },
+  "identify_tabs_by_title": {
+    "message": "Identifiera flikar via titel"
+  },
+  "pause_auto_preserve": {
+    "message": "Pausa automatiskt bevarande"
+  },
+  "resume_auto_preserve": {
+    "message": "Återuppta automatiskt bevarande ($1)"
+  },
+  "never_preserve_this_site": {
+    "message": "Bevara aldrig denna webbplats"
+  },
+  "remove_site_from_whitelist": {
+    "message": "Ta bort webbplats från vitlista"
+  },
+  "never_preserve_this_group": {
+    "message": "Bevara aldrig denna grupp"
+  },
+  "remove_group_from_whitelist": {
+    "message": "Ta bort grupp från vitlista"
+  },
+  "ai_group_title": {
+    "message": "AI-baserad flikgruppering"
+  },
+  "ai_group_description": {
+    "message": "Du kommer att gruppera dina flikar med hjälp av AI, som analyserar deras innehåll baserat på titlar och länkar.\nInnan gruppering skapas en säkerhetskopia av dina aktuella flikar, så att du alltid kan ångra.\nAntalet förfrågningar är begränsat och beror på hur många flikar du har. Du kan göra ungefär 2 förfrågningar per dag med 50 flikar.\nAI-modellen är inte perfekt och kan göra misstag. Du kan alltid justera grupperingen manuellt.\nDu kan ange gruppnamn som måste finnas med. Skriv dem separerade med radbrytningar, exempelvis:\nMitt arbete\nStudier\nUnderhållning"
+  },
+  "ai_group_select_group": {
+    "message": "Gruppera flikar från"
+  },
+  "ai_group_error_unauthorized": {
+    "message": "Ej auktoriserad"
+  },
+  "ai_group_error_no_license": {
+    "message": "Ingen licens"
+  },
+  "ai_group_error_quota_exceeded": {
+    "message": "Kvot överskriden"
+  },
+  "ai_group_error_backup_not_found": {
+    "message": "Säkerhetskopia hittades inte"
+  },
+  "ai_group_error_invalid_data": {
+    "message": "Ogiltiga data"
+  },
+  "ai_group_error_no_result": {
+    "message": "Inget resultat"
+  },
+  "ai_group_error_invalid_result": {
+    "message": "Ogiltigt resultat"
+  },
+  "ai_group_error_connection": {
+    "message": "Anslutningsfel"
+  },
+  "ai_group_error_unknown": {
+    "message": "Okänt fel"
+  },
+  "share_tab_group_title": {
+    "message": "Dela flikgrupp"
+  },
+  "share_tab_group_description": {
+    "message": "Dela denna flikgrupp med andra. Alla med länken kan se och återställa vilken flik som helst från gruppen. Förhandsvisningar är bara synliga för dig.\nOm du uppdaterar flikgruppen kommer ändringarna gälla för alla som har åtkomst.\nDu kan också aktivera redigeringsrättigheter så att andra kan ändra gruppen."
+  },
+  "share_tab_group_write_permission": {
+    "message": "Skrivbehörighet"
+  },
+  "share_tab_group_revoke_access": {
+    "message": "Återkalla åtkomst"
+  },
+  "sign_in_to_share": {
+    "message": "Logga in för att dela flikgrupper"
+  },
+  "bind_sites_title": {
+    "message": "Länka webbplatser till flikgrupp"
+  },
+  "bind_sites_description": {
+    "message": "Lista över webbplatser som automatiskt kommer att läggas till i denna flikgrupp när de bevaras. Lägg till varje URL på en ny rad. Exempel:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nFör att länka flera sidor i en rad kan du ange en del av URL:en istället:\ngoogle.com\nDu kan även använda regex genom att omge texten med snedstreck:\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "Hej, psst..."
+  },
+  "review_dialog_description": {
+    "message": "Du har använt detta tillägg ett tag nu, och det verkar som att du gillar det! I så fall – skulle du vilja lämna en recension i butiken? Det skulle verkligen hjälpa mig att fortsätta förbättra det. Tack så mycket!"
+  },
+  "v_tabs_position": {
+    "message": "Position"
+  },
+  "v_tabs_left": {
+    "message": "Vänster"
+  },
+  "v_tabs_right": {
+    "message": "Höger"
+  },
+  "v_tabs_width": {
+    "message": "Bredd"
+  },
+  "v_tabs_size": {
+    "message": "Storlek"
+  },
+  "v_tabs_n_more": {
+    "message": "$1 fler..."
+  },
+  "v_tabs_list": {
+    "message": "Fliklista"
+  }
+}

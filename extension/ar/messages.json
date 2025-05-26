@@ -1,1 +1,845 @@
-{}
+{
+  "extension_name": {
+    "message": "Tabber - منظم التبويبات"
+  },
+  "extension_description": {
+    "message": "بسّط تصفحك عن طريق تجميع التبويبات غير المستخدمة في مجموعات منظمة"
+  },
+  "extension_default_title": {
+    "message": "Tabber – الحل الأمثل لتنظيم التبويبات"
+  },
+  "theme": {
+    "message": "المظهر"
+  },
+  "theme_light": {
+    "message": "فاتح"
+  },
+  "theme_dark": {
+    "message": "داكن"
+  },
+  "theme_system": {
+    "message": "حسب النظام"
+  },
+  "theme_color": {
+    "message": "اللون الأساسي"
+  },
+  "theme_background": {
+    "message": "الخلفية"
+  },
+  "theme_background_animation": {
+    "message": "تحريك الخلفية"
+  },
+  "theme_background_custom": {
+    "message": "خلفية مخصصة"
+  },
+  "use_context_menu": {
+    "message": "استخدام قائمة السياق"
+  },
+  "double_click_to_restore": {
+    "message": "انقر مرتين للاستعادة"
+  },
+  "close_tab_on_preserve": {
+    "message": "إغلاق التبويب عند الحفظ"
+  },
+  "make_preview_on_preserve": {
+    "message": "إنشاء معاينة عند الحفظ"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "إنشاء معاينات للتبويبات غير النشطة"
+  },
+  "show_notification_on_preserve": {
+    "message": "إظهار إشعار عند الحفظ"
+  },
+  "delete_tab_on_restore": {
+    "message": "حذف التبويب عند الاستعادة"
+  },
+  "restore_to_group": {
+    "message": "استعادة التبويب إلى مجموعة"
+  },
+  "add_new_tab_to_start": {
+    "message": "إضافة التبويب الجديد في البداية"
+  },
+  "add_new_tab_to_last_active_group": {
+    "message": "إضافة التبويب الجديد إلى آخر مجموعة نشطة"
+  },
+  "save_previews_to_cloud": {
+    "message": "حفظ المعاينات في السحابة"
+  },
+  "exclusions": {
+    "message": "الاستثناءات"
+  },
+  "sites_exclusions": {
+    "message": "استثناءات المواقع"
+  },
+  "groups_exclusions": {
+    "message": "استثناءات المجموعات"
+  },
+  "keyboard_shortcuts": {
+    "message": "اختصارات لوحة المفاتيح"
+  },
+  "vertical_tabs": {
+    "message": "تبويبات عمودية"
+  },
+  "sites_features": {
+    "message": "ميزات المواقع"
+  },
+  "toolbar_items": {
+    "message": "عناصر شريط الأدوات"
+  },
+  "advanced_settings": {
+    "message": "إعدادات متقدمة"
+  },
+  "click_again_to_confirm": {
+    "message": "انقر مرة أخرى للتأكيد"
+  },
+  "save_youtube_timestamps": {
+    "message": "حفظ توقيتات يوتيوب"
+  },
+  "home_page": {
+    "message": "Tabber | الصفحة الرئيسية"
+  },
+  "restore_closed_tab": {
+    "message": "استعادة التبويب المغلق"
+  },
+  "preserve_all_tabs": {
+    "message": "حفظ جميع التبويبات"
+  },
+  "restore_all_tabs": {
+    "message": "استعادة جميع التبويبات"
+  },
+  "restore_all_tabs_by_group": {
+    "message": "حسب المجموعة"
+  },
+  "restore_all_tabs_by_window": {
+    "message": "حسب النافذة"
+  },
+  "restore_all_tabs_close_after_restore": {
+    "message": "إغلاق بعد الاستعادة"
+  },
+  "preserve_all_tabs_close_after_preserve": {
+    "message": "إغلاق بعد الحفظ"
+  },
+  "clear_all_data": {
+    "message": "مسح جميع البيانات"
+  },
+  "clear_all_data_confirm": {
+    "message": "هل أنت متأكد أنك تريد مسح جميع البيانات؟"
+  },
+  "clear_all_data_confirm_description": {
+    "message": "سيؤدي هذا إلى حذف جميع التبويبات والمجموعات المحفوظة. هذا الإجراء لا يمكن التراجع عنه."
+  },
+  "clean_up_junk": {
+    "message": "تنظيف الفوضى"
+  },
+  "clean_up_junk_confirm": {
+    "message": "هل أنت متأكد أنك تريد تنظيف الفوضى؟"
+  },
+  "clean_up_junk_confirm_description": {
+    "message": "سيتم حذف المجموعات الفارغة والتبويبات المكررة. لا يمكن التراجع عن هذا الإجراء."
+  },
+  "cancel": {
+    "message": "إلغاء"
+  },
+  "ok": {
+    "message": "موافق"
+  },
+  "save": {
+    "message": "حفظ"
+  },
+  "create": {
+    "message": "إنشاء"
+  },
+  "delete": {
+    "message": "حذف"
+  },
+  "restore": {
+    "message": "استعادة"
+  },
+  "share": {
+    "message": "مشاركة"
+  },
+  "bind_sites": {
+    "message": "ربط المواقع"
+  },
+  "merge_with": {
+    "message": "دمج مع"
+  },
+  "no_tab_groups": {
+    "message": "لا توجد مجموعات تبويبات"
+  },
+  "all_tab_groups": {
+    "message": "كل مجموعات التبويبات"
+  },
+  "read_less": {
+    "message": "عرض أقل"
+  },
+  "read_more": {
+    "message": "عرض المزيد"
+  },
+  "name": {
+    "message": "الاسم"
+  },
+  "tabs": {
+    "message": "التبويبات"
+  },
+  "show": {
+    "message": "عرض"
+  },
+  "other": {
+    "message": "أخرى"
+  },
+  "close": {
+    "message": "إغلاق"
+  },
+  "allow": {
+    "message": "سماح"
+  },
+  "deny": {
+    "message": "رفض"
+  },
+  "proceed": {
+    "message": "متابعة"
+  },
+  "main_tab_group": {
+    "message": "رئيسي"
+  },
+  "tab_preserved": {
+    "message": "تم حفظ التبويب"
+  },
+  "tab_group_preserved": {
+    "message": "تم حفظ مجموعة التبويبات"
+  },
+  "tab_preserved_message": {
+    "message": "«$1» تم حفظها"
+  },
+  "tab_group_preserved_message": {
+    "message": "المجموعة «$1» تم حفظها"
+  },
+  "preserve_tab": {
+    "message": "حفظ التبويب"
+  },
+  "preserve_tab_group": {
+    "message": "حفظ مجموعة التبويبات"
+  },
+  "sign_in": {
+    "message": "تسجيل الدخول"
+  },
+  "sign_up": {
+    "message": "تسجيل حساب"
+  },
+  "sign_out": {
+    "message": "تسجيل الخروج"
+  },
+  "signed_in_successfully": {
+    "message": "تم تسجيل الدخول بنجاح"
+  },
+  "signed_out_successfully": {
+    "message": "تم تسجيل الخروج بنجاح"
+  },
+  "open_tabber": {
+    "message": "فتح Tabber"
+  },
+  "home_page_title": {
+    "message": "Tabber"
+  },
+  "home_page_subtitle": {
+    "message": "الحل الأمثل لتنظيم التبويبات"
+  },
+  "home_page_description": {
+    "message": "بسّط تصفحك بحفظ التبويبات غير المستخدمة في مجموعات افتراضية منظمة ومزامنتها مع جميع أجهزتك."
+  },
+  "home_page_watch_demo": {
+    "message": "مشاهدة العرض التوضيحي"
+  },
+  "home_page_scroll_down": {
+    "message": "مرّر للأسفل"
+  },
+  "no_preview_click_to_restore": {
+    "message": "انقر للاستعادة"
+  },
+  "no_preview_double_click_to_restore": {
+    "message": "انقر مرتين للاستعادة"
+  },
+  "no_preview_faq_q1": {
+    "message": "لماذا لا تتوفر معاينة لهذا التبويب؟"
+  },
+  "no_preview_faq_a1": {
+    "message": "هذا التبويب جزء من حفظ مجموعة تبويبات."
+  },
+  "no_preview_faq_a2": {
+    "message": "المعاينة معطلة في الإعدادات."
+  },
+  "no_preview_faq_a3": {
+    "message": "تم تحميل التبويب من السحابة لكن المعاينة محفوظة محليًا. يمكنك تفعيل حفظ المعاينات في السحابة من الإعدادات."
+  },
+  "no_preview_faq_a4": {
+    "message": "حدث خطأ ما. حاول إعادة تشغيل المتصفح ثم حفظ التبويب واستعادته مجددًا. إذا لم تنجح، يمكنك تفعيل حفظ المعاينات في السحابة من الإعدادات."
+  },
+  "tutorial_preserve_tabs": {
+    "message": "حفظ التبويبات"
+  },
+  "tutorial_via_context_menu": {
+    "message": "من خلال قائمة السياق"
+  },
+  "tutorial_open_in_new_tab": {
+    "message": "فتح في تبويب جديد"
+  },
+  "tutorial_reload": {
+    "message": "إعادة تحميل"
+  },
+  "tutorial_view_page_source": {
+    "message": "عرض مصدر الصفحة"
+  },
+  "tutorial_or": {
+    "message": "أو"
+  },
+  "tutorial_via_extension_popup": {
+    "message": "من خلال نافذة الإضافة المنبثقة"
+  },
+  "tutorial_pin_extension": {
+    "message": "ثبّت الإضافة →"
+  },
+  "tutorial_restore_tabs": {
+    "message": "استعادة التبويبات"
+  },
+  "tutorial_click_on_content": {
+    "message": "انقر على المحتوى"
+  },
+  "tutorial_right_click_on_group": {
+    "message": "انقر بزر الفأرة الأيمن على المجموعة"
+  },
+  "tutorial_my_group": {
+    "message": "مجموعتي"
+  },
+  "tutorial_via_options_menu": {
+    "message": "من خلال قائمة الخيارات"
+  },
+  "tutorial": {
+    "message": "الدليل"
+  },
+  "finish": {
+    "message": "إنهاء"
+  },
+  "support": {
+    "message": "الدعم"
+  },
+  "about": {
+    "message": "حول"
+  },
+  "about_title": {
+    "message": "Tabber – الحل الأمثل لتنظيم التبويبات v$1"
+  },
+  "about_description": {
+    "message": "بسّط تصفحك بحفظ التبويبات غير المستخدمة في مجموعات افتراضية منظمة ومزامنتها مع جميع أجهزتك.\nقم بزيارة %صفحة Tabber% لمزيد من المعلومات."
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
+  },
+  "plus_active": {
+    "message": "نشط"
+  },
+  "plus_upgrade": {
+    "message": "الترقية إلى Plus"
+  },
+  "plus_description": {
+    "message": "ارتقِ بتجربة التصفح لديك مع Tabber Plus. وداعًا لفوضى التبويبات، واكتشف أدوات تعزز الإنتاجية وتغير طريقة عملك على الإنترنت."
+  },
+  "plus_feature_title_1": {
+    "message": "مجموعات تبويبات غير محدودة"
+  },
+  "plus_feature_title_2": {
+    "message": "نموذج ذكاء اصطناعي متقدم للتجميع"
+  },
+  "plus_feature_title_3": {
+    "message": "مزامنة سحابية تلقائية"
+  },
+  "plus_feature_title_4": {
+    "message": "سجل مزامنة كامل"
+  },
+  "plus_feature_title_5": {
+    "message": "خلفية مخصصة"
+  },
+  "plus_feature_title_6": {
+    "message": "دعم ذو أولوية"
+  },
+  "plus_feature_title_7": {
+    "message": "منشورات حصرية على Patreon"
+  },
+  "plus_feature_desc_1": {
+    "message": "لا حدود بعد الآن لعدد التبويبات التي يمكنك تجميعها."
+  },
+  "plus_feature_desc_2": {
+    "message": "نموذج ذكاء اصطناعي محسّن وحدود استخدام أعلى."
+  },
+  "plus_feature_desc_3": {
+    "message": "تتم مزامنة تبويباتك تلقائيًا عبر جميع أجهزتك."
+  },
+  "plus_feature_desc_4": {
+    "message": "يمكنك الوصول إلى سجل المزامنة الكامل واستعادة أي نسخة احتياطية."
+  },
+  "plus_feature_desc_5": {
+    "message": "طبّق خلفية مخصصة للصفحات التي لا تحتوي على معاينات."
+  },
+  "plus_feature_desc_6": {
+    "message": "جميع استفساراتك سيتم الرد عليها بسرعة لضمان تجربة سلسة."
+  },
+  "plus_feature_desc_7": {
+    "message": "احصل على وصول حصري لمنشورات واستطلاعات Patreon وابقَ على اطلاع بأحدث التحديثات والنصائح والحيل."
+  },
+  "plus_price": {
+    "message": "فقط $1/شهريًا"
+  },
+  "error": {
+    "message": "خطأ"
+  },
+  "tab_group_limit": {
+    "message": "قم بالترقية إلى Tabber Plus لإنشاء المزيد من مجموعات التبويبات"
+  },
+  "sync_to_cloud": {
+    "message": "مزامنة إلى السحابة"
+  },
+  "sign_in_to_sync": {
+    "message": "سجّل الدخول لمزامنة تبويباتك مع السحابة"
+  },
+  "sync_history": {
+    "message": "سجل المزامنة"
+  },
+  "sync_success": {
+    "message": "تمت المزامنة بنجاح"
+  },
+  "sync_error": {
+    "message": "خطأ في المزامنة"
+  },
+  "file_upload_error": {
+    "message": "خطأ في رفع الملف"
+  },
+  "backup_not_found": {
+    "message": "النسخة الاحتياطية غير موجودة"
+  },
+  "sign_in_to_save_previews": {
+    "message": "سجّل الدخول لحفظ المعاينات في السحابة"
+  },
+  "sync_from_cloud": {
+    "message": "مزامنة من السحابة"
+  },
+  "sync_from_cloud_title": {
+    "message": "مزامنة التبويبات من السحابة"
+  },
+  "sync_from_cloud_description": {
+    "message": "لديك تبويبات محفوظة في السحابة. يمكنك دمجها مع التبويبات الحالية أو استبدالها. إذا اخترت الدمج، سيتم دمج التبويبات الحالية مع السحابية، وسيتم تجاهل التكرارات. إذا اخترت الاستبدال، سيتم فقدان جميع التبويبات الحالية."
+  },
+  "sync_from_cloud_merge": {
+    "message": "دمج"
+  },
+  "sync_from_cloud_replace": {
+    "message": "استبدال"
+  },
+  "sync_with_merge": {
+    "message": "استعادة مع الدمج"
+  },
+  "sync_with_replace": {
+    "message": "استعادة مع الاستبدال"
+  },
+  "all_tabs_preserved": {
+    "message": "تم حفظ جميع التبويبات"
+  },
+  "all_tabs_preserved_message": {
+    "message": "تم حفظ جميع التبويبات بنجاح"
+  },
+  "no_data": {
+    "message": "لا توجد بيانات"
+  },
+  "group_tabs": {
+    "message": "تجميع التبويبات"
+  },
+  "group_tabs_by_domain": {
+    "message": "حسب النطاق"
+  },
+  "group_tabs_with_ai": {
+    "message": "باستخدام الذكاء الاصطناعي"
+  },
+  "sort_tabs": {
+    "message": "فرز التبويبات"
+  },
+  "sort_tabs_by_title": {
+    "message": "حسب العنوان"
+  },
+  "sort_tabs_by_url": {
+    "message": "حسب الرابط"
+  },
+  "sort_tabs_by_date": {
+    "message": "حسب التاريخ"
+  },
+  "sort_tabs_asc": {
+    "message": "تصاعدي"
+  },
+  "sort_tabs_desc": {
+    "message": "تنازلي"
+  },
+  "sort_tabs_only_current_group": {
+    "message": "المجموعة الحالية فقط"
+  },
+  "search_tabs": {
+    "message": "بحث في التبويبات"
+  },
+  "restore_group_error": {
+    "message": "تعذر إنشاء مجموعة التبويبات. قد لا يدعم المتصفح هذه الميزة."
+  },
+  "capture_tab_error": {
+    "message": "تعذر التقاط التبويب. ربما لم يتم منح الأذونات اللازمة."
+  },
+  "invalid_regex": {
+    "message": "تعبير نمطي غير صالح: $1"
+  },
+  "request_permission_title": {
+    "message": "إذن مطلوب"
+  },
+  "request_permission_description": {
+    "message": "يحتاج Tabber إلى إذن للوصول إلى تبويبات المتصفح. هذا ضروري لإنشاء معاينات التبويبات. إذا لم تمنح الإذن، سيتم تعطيل هذه الميزة."
+  },
+  "tutorial_welcome_title": {
+    "message": "مرحبًا"
+  },
+  "tutorial_welcome_description": {
+    "message": "دعنا نبدأ بجولة تعليمية لاستخدام Tabber لفهم كيفية عمله بشكل أفضل."
+  },
+  "tutorial_preserve_tab_title": {
+    "message": "لنحفظ أول تبويب لك!"
+  },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. اذهب إلى %link% أو أي موقع آخر."
+  },
+  "tutorial_preserve_tab_description_2": {
+    "message": "2. انقر على أيقونة الإضافة في الزاوية العلوية اليمنى من المتصفح أو انقر بزر الفأرة الأيمن على الصفحة."
+  },
+  "tutorial_preserve_tab_description_3": {
+    "message": "3. اختر <kbd>حفظ التبويب</kbd>."
+  },
+  "tutorial_preserve_tab_description_4": {
+    "message": "4. عد إلى Tabber."
+  },
+  "tutorial_preserve_tab_description_5": {
+    "message": "5. انقر على التبويب الذي حفظته."
+  },
+  "tutorial_preserve_tab_description_6": {
+    "message": "6. لاستعادة التبويب، فقط انقر على معاينته."
+  },
+  "tutorial_preserve_tab_arrow": {
+    "message": "ثبّت الإضافة في شريط الأدوات"
+  },
+  "tutorial_create_tab_group_title": {
+    "message": "أنشئ أول مجموعة تبويبات لك!"
+  },
+  "tutorial_create_tab_group_description_1": {
+    "message": "1. انقر على زر <kbd>+</kbd>."
+  },
+  "tutorial_create_tab_group_description_2": {
+    "message": "2. أدخل اسمًا لمجموعة التبويبات، اختر لونًا، ثم انقر على <kbd>إنشاء</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. اذهب إلى %link% أو أي موقع آخر واحفظه."
+  },
+  "tutorial_create_tab_group_description_4": {
+    "message": "4. عد إلى Tabber."
+  },
+  "tutorial_create_tab_group_description_5": {
+    "message": "5. انقر بزر الفأرة الأيمن على المجموعة التي أنشأتها ثم اختر <kbd>استعادة</kbd>."
+  },
+  "tutorial_create_tab_group_description_6": {
+    "message": "لنقل تبويب إلى مجموعة أخرى، اسحبه ببساطة إلى المجموعة المطلوبة."
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "إذا كان متصفحك يدعم تجميع التبويبات، يمكنك أيضًا حفظ المجموعة الكاملة عبر النقر على <kbd>حفظ مجموعة التبويبات</kbd> من أي صفحة ضمن المجموعة."
+  },
+  "tutorial_create_tab_group_arrow": {
+    "message": "هذا هو الزر!"
+  },
+  "tutorial_settings_title": {
+    "message": "خصّص تجربتك!"
+  },
+  "tutorial_settings_description_1": {
+    "message": "استعرض صفحة الإعدادات وعدّل مظهر ووظائف Tabber كما تحب."
+  },
+  "tutorial_settings_description_2": {
+    "message": "اطّلع على قسم <kbd>الحفظ التلقائي</kbd> إذا كنت ترغب في حفظ التبويبات تلقائيًا."
+  },
+  "tutorial_settings_arrow": {
+    "message": "من هنا!"
+  },
+  "tutorial_shortcuts_title": {
+    "message": "اختصارات مفيدة!"
+  },
+  "tutorial_shortcuts_description_1": {
+    "message": "يمكنك استخدام الاختصارات التالية داخل صفحة Tabber:"
+  },
+  "tutorial_shortcuts_description_2": {
+    "message": "1. <kbd>←</kbd> و <kbd>→</kbd> للتنقل بين التبويبات."
+  },
+  "tutorial_shortcuts_description_3": {
+    "message": "2. <kbd>↑</kbd> و <kbd>↓</kbd> للتنقل بين المجموعات."
+  },
+  "tutorial_shortcuts_description_4": {
+    "message": "3. <kbd>F11</kbd> أو <kbd>F</kbd> لفتح Tabber بوضع ملء الشاشة."
+  },
+  "tutorial_shortcuts_description_5": {
+    "message": "4. <kbd>T</kbd> لاستعادة آخر تبويب مغلق."
+  },
+  "tutorial_shortcuts_description_6": {
+    "message": "5. <kbd>Ctrl + F</kbd> للبحث في التبويبات. (<kbd>Esc</kbd> للخروج)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Ctrl + 1</kbd> لفتح Tabber من أي صفحة."
+  },
+  "tutorial_shortcuts_description_8": {
+    "message": "يمكنك أيضًا إعداد اختصاراتك العالمية الخاصة من الإعدادات."
+  },
+  "tutorial_sign_in_title": {
+    "message": "لن تفقد تبويباتك مرة أخرى!"
+  },
+  "tutorial_sign_in_description_1": {
+    "message": "يمكنك الآن تسجيل الدخول لحفظ النسخ الاحتياطية، ومزامنة بياناتك بين الأجهزة، وتخزين معاينات التبويبات على السحابة دون استهلاك ذاكرة الجهاز."
+  },
+  "tutorial_sign_in_description_2": {
+    "message": "هذا اختياري، لا يزال بإمكانك استخدام Tabber بدون تسجيل الدخول."
+  },
+  "tutorial_sign_in_arrow_1": {
+    "message": "انقر هنا لتسجيل الدخول!"
+  },
+  "tutorial_sign_in_arrow_2": {
+    "message": "انقر هنا لحفظ النسخة الاحتياطية في السحابة!"
+  },
+  "tutorial_menu_title": {
+    "message": "هل تبحث عن ميزات متقدمة؟"
+  },
+  "tutorial_menu_description_1": {
+    "message": "انقر على قائمة <kbd>⋮</kbd> للوصول إلى <b>الفرز</b>، <b>التجميع</b>، <b>البحث</b>، والمزيد!"
+  },
+  "tutorial_menu_description_2": {
+    "message": "يمكنك أيضًا الرجوع إلى هذا الدليل في أي وقت من خلال القائمة."
+  },
+  "tutorial_menu_arrow": {
+    "message": "ها هو!"
+  },
+  "auto_preserve": {
+    "message": "الحفظ التلقائي"
+  },
+  "auto_preserve_enabled": {
+    "message": "مُفعّل"
+  },
+  "auto_preserve_interval": {
+    "message": "الفاصل الزمني"
+  },
+  "auto_preserve_no_preserve_pinned": {
+    "message": "عدم حفظ التبويبات المثبتة"
+  },
+  "auto_preserve_no_preserve_audible": {
+    "message": "عدم حفظ التبويبات التي تشغّل صوتًا"
+  },
+  "auto_preserve_no_preserve_with_unsaved_form": {
+    "message": "عدم حفظ التبويبات ذات النماذج غير المحفوظة"
+  },
+  "auto_preserve_no_preserve_active": {
+    "message": "عدم حفظ التبويب النشط"
+  },
+  "auto_preserve_no_preserve_when_offline": {
+    "message": "عدم الحفظ عند عدم الاتصال بالإنترنت"
+  },
+  "auto_sync": {
+    "message": "مزامنة سحابية تلقائية"
+  },
+  "auto_sync_enabled": {
+    "message": "مفعلة"
+  },
+  "auto_sync_interval": {
+    "message": "الفاصل الزمني"
+  },
+  "interval_1_min": {
+    "message": "1 دقيقة"
+  },
+  "interval_5_min": {
+    "message": "5 دقائق"
+  },
+  "interval_10_min": {
+    "message": "10 دقائق"
+  },
+  "interval_15_min": {
+    "message": "15 دقيقة"
+  },
+  "interval_30_min": {
+    "message": "30 دقيقة"
+  },
+  "interval_1_hour": {
+    "message": "1 ساعة"
+  },
+  "interval_2_hours": {
+    "message": "2 ساعتان"
+  },
+  "interval_4_hours": {
+    "message": "4 ساعات"
+  },
+  "interval_6_hours": {
+    "message": "6 ساعات"
+  },
+  "interval_12_hours": {
+    "message": "12 ساعة"
+  },
+  "interval_1_day": {
+    "message": "1 يوم"
+  },
+  "interval_2_days": {
+    "message": "2 يومان"
+  },
+  "interval_3_days": {
+    "message": "3 أيام"
+  },
+  "interval_1_week": {
+    "message": "1 أسبوع"
+  },
+  "interval_2_weeks": {
+    "message": "2 أسبوعان"
+  },
+  "theme_background_title": {
+    "message": "تغيير الخلفية"
+  },
+  "theme_background_description": {
+    "message": "اختر خلفية للصفحات التي لا تحتوي على معاينات"
+  },
+  "theme_background_adjust": {
+    "message": "ضبط سطوع الخلفية"
+  },
+  "drop_file_here": {
+    "message": "اسحب الملف هنا"
+  },
+  "upload_file_or": {
+    "message": "أو"
+  },
+  "upload_file": {
+    "message": "رفع ملف"
+  },
+  "sites_whitelist_title": {
+    "message": "عدم حفظ التبويبات من هذه المواقع"
+  },
+  "sites_whitelist_description": {
+    "message": "أضف عنوان URL لكل صفحة ترغب في استثنائها في سطر جديد. على سبيل المثال:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nلإدراج مواقع متعددة في سطر واحد يمكنك كتابة جزء من عنوان URL بدلاً من ذلك:\ngoogle.com\nكما يمكنك استخدام تعبيرات نمطية بوضع النص بين شرطات مائلة:\n/^https:.*google\\.com/"
+  },
+  "groups_whitelist_title": {
+    "message": "عدم حفظ التبويبات من هذه المجموعات"
+  },
+  "groups_whitelist_description": {
+    "message": "أضف اسم كل مجموعة ترغب في استثنائها في سطر جديد. على سبيل المثال:\nالعمل\nالدراسة\nالترفيه\nيمكنك أيضًا تحديد ألوان المجموعات التي ترغب في استثنائها."
+  },
+  "dynamic_preview_contrast": {
+    "message": "تباين المعاينة الديناميكي"
+  },
+  "disable_animations": {
+    "message": "تعطيل التحريكات"
+  },
+  "max_deleted_tabs": {
+    "message": "الحد الأقصى للتبويبات المحذوفة"
+  },
+  "identify_tabs_by_title": {
+    "message": "تمييز التبويبات حسب العنوان"
+  },
+  "pause_auto_preserve": {
+    "message": "إيقاف الحفظ التلقائي مؤقتًا"
+  },
+  "resume_auto_preserve": {
+    "message": "استئناف الحفظ التلقائي ($1)"
+  },
+  "never_preserve_this_site": {
+    "message": "عدم حفظ هذا الموقع مطلقًا"
+  },
+  "remove_site_from_whitelist": {
+    "message": "إزالة الموقع من القائمة البيضاء"
+  },
+  "never_preserve_this_group": {
+    "message": "عدم حفظ هذه المجموعة مطلقًا"
+  },
+  "remove_group_from_whitelist": {
+    "message": "إزالة المجموعة من القائمة البيضاء"
+  },
+  "ai_group_title": {
+    "message": "تجميع التبويبات بالذكاء الاصطناعي"
+  },
+  "ai_group_description": {
+    "message": "أنت على وشك تجميع التبويبات باستخدام الذكاء الاصطناعي الذي سيحلل مواضيعها بناءً على العناوين والروابط.\nقبل التجميع، سيتم إنشاء نسخة احتياطية من التبويبات الحالية لتتمكن من التراجع في أي وقت.\nعدد الطلبات محدود ويعتمد على عدد التبويبات. يمكنك إجراء تقريبًا طلبين يوميًا إذا كان لديك 50 تبويبًا.\nالنموذج ليس مثاليًا وقد يرتكب أخطاء، ويمكنك دائمًا تعديل التجميع يدويًا.\nيمكنك تحديد أسماء المجموعات التي يجب أن تكون موجودة، وافصل بينها بسطر جديد، مثل:\nعملي\nالدراسة\nالترفيه"
+  },
+  "ai_group_select_group": {
+    "message": "تجميع التبويبات من"
+  },
+  "ai_group_error_unauthorized": {
+    "message": "غير مصرح"
+  },
+  "ai_group_error_no_license": {
+    "message": "لا توجد رخصة"
+  },
+  "ai_group_error_quota_exceeded": {
+    "message": "تم تجاوز الحصة"
+  },
+  "ai_group_error_backup_not_found": {
+    "message": "النسخة الاحتياطية غير موجودة"
+  },
+  "ai_group_error_invalid_data": {
+    "message": "بيانات غير صالحة"
+  },
+  "ai_group_error_no_result": {
+    "message": "لا توجد نتائج"
+  },
+  "ai_group_error_invalid_result": {
+    "message": "نتيجة غير صالحة"
+  },
+  "ai_group_error_connection": {
+    "message": "خطأ في الاتصال"
+  },
+  "ai_group_error_unknown": {
+    "message": "خطأ غير معروف"
+  },
+  "share_tab_group_title": {
+    "message": "مشاركة مجموعة التبويبات"
+  },
+  "share_tab_group_description": {
+    "message": "شارك هذه المجموعة من التبويبات مع الآخرين. سيتمكن أي شخص لديه الرابط من عرض واستعادة أي تبويب من هذه المجموعة. المعاينات ستكون مرئية لك فقط.\nإذا قمت بتحديث هذه المجموعة، سيتم تطبيق التغييرات على كل من لديه حق الوصول.\nيمكنك أيضًا منح صلاحية التعديل للآخرين لتعديل هذه المجموعة."
+  },
+  "share_tab_group_write_permission": {
+    "message": "صلاحية الكتابة"
+  },
+  "share_tab_group_revoke_access": {
+    "message": "إلغاء الوصول"
+  },
+  "sign_in_to_share": {
+    "message": "سجّل الدخول لمشاركة مجموعات التبويبات"
+  },
+  "bind_sites_title": {
+    "message": "ربط المواقع بمجموعة التبويبات"
+  },
+  "bind_sites_description": {
+    "message": "قائمة المواقع التي سيتم إضافتها تلقائيًا إلى هذه المجموعة عند حفظها. أضف عنوان URL لكل موقع في سطر جديد. على سبيل المثال:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nيمكنك أيضًا استخدام جزء من الرابط:\ngoogle.com\nأو استخدام تعبير نمطي محاط بشرطتين مائلتين:\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "مرحبًا، لحظة فقط..."
+  },
+  "review_dialog_description": {
+    "message": "لقد كنت تستخدم هذا الامتداد منذ فترة، ويبدو أنه يعجبك! إن كان كذلك، هل يمكنك ترك تقييم في المتجر؟ هذا سيساعدني كثيرًا في تحسينه. شكرًا جزيلًا!"
+  },
+  "v_tabs_position": {
+    "message": "الموضع"
+  },
+  "v_tabs_left": {
+    "message": "يسار"
+  },
+  "v_tabs_right": {
+    "message": "يمين"
+  },
+  "v_tabs_width": {
+    "message": "العرض"
+  },
+  "v_tabs_size": {
+    "message": "الحجم"
+  },
+  "v_tabs_n_more": {
+    "message": "$1 أخرى..."
+  },
+  "v_tabs_list": {
+    "message": "قائمة التبويبات"
+  }
+}

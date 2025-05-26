@@ -1,1 +1,845 @@
-{}
+{
+  "extension_name": {
+    "message": "Tabber - מארגן לשוניות"
+  },
+  "extension_description": {
+    "message": "פשטו את הגלישה שלכם על ידי קיבוץ לשוניות לא פעילות לקבוצות מסודרות"
+  },
+  "extension_default_title": {
+    "message": "Tabber – הפתרון האולטימטיבי לארגון לשוניות"
+  },
+  "theme": {
+    "message": "ערכת נושא"
+  },
+  "theme_light": {
+    "message": "בהיר"
+  },
+  "theme_dark": {
+    "message": "כהה"
+  },
+  "theme_system": {
+    "message": "מערכת"
+  },
+  "theme_color": {
+    "message": "צבע עיקרי"
+  },
+  "theme_background": {
+    "message": "רקע"
+  },
+  "theme_background_animation": {
+    "message": "אנימציית רקע"
+  },
+  "theme_background_custom": {
+    "message": "רקע מותאם אישית"
+  },
+  "use_context_menu": {
+    "message": "השתמש בתפריט ההקשר"
+  },
+  "double_click_to_restore": {
+    "message": "לחיצה כפולה לשחזור"
+  },
+  "close_tab_on_preserve": {
+    "message": "סגור לשונית בעת שמירה"
+  },
+  "make_preview_on_preserve": {
+    "message": "צור תצוגה מקדימה בעת שמירה"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "צור תצוגות מקדימות ללשוניות לא פעילות"
+  },
+  "show_notification_on_preserve": {
+    "message": "הצג התראה בעת שמירה"
+  },
+  "delete_tab_on_restore": {
+    "message": "מחק לשונית בעת שחזור"
+  },
+  "restore_to_group": {
+    "message": "שחזר לשונית לקבוצה"
+  },
+  "add_new_tab_to_start": {
+    "message": "הוסף לשונית חדשה בתחילה"
+  },
+  "add_new_tab_to_last_active_group": {
+    "message": "הוסף לשונית חדשה לקבוצה הפעילה האחרונה"
+  },
+  "save_previews_to_cloud": {
+    "message": "שמור תצוגות מקדימות בענן"
+  },
+  "exclusions": {
+    "message": "חריגים"
+  },
+  "sites_exclusions": {
+    "message": "חריגים לאתרים"
+  },
+  "groups_exclusions": {
+    "message": "חריגים לקבוצות"
+  },
+  "keyboard_shortcuts": {
+    "message": "קיצורי מקלדת"
+  },
+  "vertical_tabs": {
+    "message": "לשוניות אנכיות"
+  },
+  "sites_features": {
+    "message": "תכונות אתרים"
+  },
+  "toolbar_items": {
+    "message": "פריטי סרגל כלים"
+  },
+  "advanced_settings": {
+    "message": "הגדרות מתקדמות"
+  },
+  "click_again_to_confirm": {
+    "message": "לחץ שוב לאישור"
+  },
+  "save_youtube_timestamps": {
+    "message": "שמור חותמות זמן של YouTube"
+  },
+  "home_page": {
+    "message": "Tabber | דף הבית"
+  },
+  "restore_closed_tab": {
+    "message": "שחזר לשונית סגורה"
+  },
+  "preserve_all_tabs": {
+    "message": "שמור את כל הלשוניות"
+  },
+  "restore_all_tabs": {
+    "message": "שחזר את כל הלשוניות"
+  },
+  "restore_all_tabs_by_group": {
+    "message": "לפי קבוצה"
+  },
+  "restore_all_tabs_by_window": {
+    "message": "לפי חלון"
+  },
+  "restore_all_tabs_close_after_restore": {
+    "message": "סגור לאחר שחזור"
+  },
+  "preserve_all_tabs_close_after_preserve": {
+    "message": "סגור לאחר שמירה"
+  },
+  "clear_all_data": {
+    "message": "נקה את כל הנתונים"
+  },
+  "clear_all_data_confirm": {
+    "message": "האם אתה בטוח שברצונך לנקות את כל הנתונים?"
+  },
+  "clear_all_data_confirm_description": {
+    "message": "זה ימחק את כל הלשוניות והקבוצות השמורות שלך. פעולה זו אינה ניתנת לביטול."
+  },
+  "clean_up_junk": {
+    "message": "נקה נתונים מיותרים"
+  },
+  "clean_up_junk_confirm": {
+    "message": "האם אתה בטוח שברצונך לנקות נתונים מיותרים?"
+  },
+  "clean_up_junk_confirm_description": {
+    "message": "זה ימחק קבוצות לשוניות ריקות ולשוניות כפולות. פעולה זו אינה ניתנת לביטול."
+  },
+  "cancel": {
+    "message": "בטל"
+  },
+  "ok": {
+    "message": "אישור"
+  },
+  "save": {
+    "message": "שמור"
+  },
+  "create": {
+    "message": "צור"
+  },
+  "delete": {
+    "message": "מחק"
+  },
+  "restore": {
+    "message": "שחזר"
+  },
+  "share": {
+    "message": "שתף"
+  },
+  "bind_sites": {
+    "message": "קשר אתרים"
+  },
+  "merge_with": {
+    "message": "מזג עם"
+  },
+  "no_tab_groups": {
+    "message": "אין קבוצות לשוניות"
+  },
+  "all_tab_groups": {
+    "message": "כל קבוצות הלשוניות"
+  },
+  "read_less": {
+    "message": "קרא פחות"
+  },
+  "read_more": {
+    "message": "קרא עוד"
+  },
+  "name": {
+    "message": "שם"
+  },
+  "tabs": {
+    "message": "לשוניות"
+  },
+  "show": {
+    "message": "הצג"
+  },
+  "other": {
+    "message": "אחר"
+  },
+  "close": {
+    "message": "סגור"
+  },
+  "allow": {
+    "message": "אפשר"
+  },
+  "deny": {
+    "message": "דחה"
+  },
+  "proceed": {
+    "message": "המשך"
+  },
+  "main_tab_group": {
+    "message": "ראשי"
+  },
+  "tab_preserved": {
+    "message": "לשונית נשמרה"
+  },
+  "tab_group_preserved": {
+    "message": "קבוצת לשוניות נשמרה"
+  },
+  "tab_preserved_message": {
+    "message": "«$1» נשמרה"
+  },
+  "tab_group_preserved_message": {
+    "message": "הקבוצה «$1» נשמרה"
+  },
+  "preserve_tab": {
+    "message": "שמור לשונית"
+  },
+  "preserve_tab_group": {
+    "message": "שמור קבוצת לשוניות"
+  },
+  "sign_in": {
+    "message": "התחבר"
+  },
+  "sign_up": {
+    "message": "הירשם"
+  },
+  "sign_out": {
+    "message": "התנתק"
+  },
+  "signed_in_successfully": {
+    "message": "התחברת בהצלחה"
+  },
+  "signed_out_successfully": {
+    "message": "התנתקת בהצלחה"
+  },
+  "open_tabber": {
+    "message": "פתח את Tabber"
+  },
+  "home_page_title": {
+    "message": "Tabber"
+  },
+  "home_page_subtitle": {
+    "message": "הפתרון האולטימטיבי לארגון לשוניות"
+  },
+  "home_page_description": {
+    "message": "פשטו את הגלישה שלכם על ידי שמירת לשוניות לא פעילות בקבוצות וירטואליות מסודרות וסנכרון שלהן עם כל המכשירים שלכם."
+  },
+  "home_page_watch_demo": {
+    "message": "צפה בהדגמה"
+  },
+  "home_page_scroll_down": {
+    "message": "גלול למטה"
+  },
+  "no_preview_click_to_restore": {
+    "message": "לחץ לשחזור"
+  },
+  "no_preview_double_click_to_restore": {
+    "message": "לחץ פעמיים לשחזור"
+  },
+  "no_preview_faq_q1": {
+    "message": "למה התצוגה המקדימה של הלשונית הזו אינה זמינה?"
+  },
+  "no_preview_faq_a1": {
+    "message": "לשונית זו היא חלק מקבוצת לשוניות שנשמרה."
+  },
+  "no_preview_faq_a2": {
+    "message": "התצוגה המקדימה הושבתה בהגדרות."
+  },
+  "no_preview_faq_a3": {
+    "message": "הלשונית נטענה מהענן, אך התצוגה נשמרה מקומית. ניתן לאפשר שמירת תצוגה בענן בהגדרות."
+  },
+  "no_preview_faq_a4": {
+    "message": "משהו השתבש. נסה להפעיל מחדש את הדפדפן, ואז לשחזר ולשמור את הלשונית מחדש. אם זה לא עוזר, ניתן לאפשר שמירה בענן בהגדרות."
+  },
+  "tutorial_preserve_tabs": {
+    "message": "שמור לשוניות"
+  },
+  "tutorial_via_context_menu": {
+    "message": "דרך תפריט ההקשר"
+  },
+  "tutorial_open_in_new_tab": {
+    "message": "פתח בלשונית חדשה"
+  },
+  "tutorial_reload": {
+    "message": "טען מחדש"
+  },
+  "tutorial_view_page_source": {
+    "message": "הצג קוד מקור של הדף"
+  },
+  "tutorial_or": {
+    "message": "או"
+  },
+  "tutorial_via_extension_popup": {
+    "message": "דרך חלונית התוסף"
+  },
+  "tutorial_pin_extension": {
+    "message": "הצמד את התוסף →"
+  },
+  "tutorial_restore_tabs": {
+    "message": "שחזור לשוניות"
+  },
+  "tutorial_click_on_content": {
+    "message": "לחץ על תוכן"
+  },
+  "tutorial_right_click_on_group": {
+    "message": "קליק ימני על קבוצה"
+  },
+  "tutorial_my_group": {
+    "message": "הקבוצה שלי"
+  },
+  "tutorial_via_options_menu": {
+    "message": "דרך תפריט האפשרויות"
+  },
+  "tutorial": {
+    "message": "מדריך"
+  },
+  "finish": {
+    "message": "סיום"
+  },
+  "support": {
+    "message": "תמיכה"
+  },
+  "about": {
+    "message": "אודות"
+  },
+  "about_title": {
+    "message": "Tabber – הפתרון האולטימטיבי לארגון לשוניות v$1"
+  },
+  "about_description": {
+    "message": "פשטו את הגלישה שלכם על ידי שמירת לשוניות לא פעילות בקבוצות וירטואליות מסודרות וסנכרון שלהן עם כל המכשירים שלכם.\nבקרו ב-%Tabber עמוד אודות% למידע נוסף."
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
+  },
+  "plus_active": {
+    "message": "פעיל"
+  },
+  "plus_upgrade": {
+    "message": "שדרג ל-Plus"
+  },
+  "plus_description": {
+    "message": "שפרו את חוויית הגלישה שלכם עם Tabber Plus. אמרו שלום לבלאגן הלשוניות וגלו כלים לשיפור הפרודוקטיביות שישנו את הדרך בה אתם עובדים אונליין."
+  },
+  "plus_feature_title_1": {
+    "message": "קבוצות לשוניות ללא הגבלה"
+  },
+  "plus_feature_title_2": {
+    "message": "מודל AI מתקדם לקיבוץ"
+  },
+  "plus_feature_title_3": {
+    "message": "סנכרון ענן אוטומטי"
+  },
+  "plus_feature_title_4": {
+    "message": "היסטוריית סנכרון מלאה"
+  },
+  "plus_feature_title_5": {
+    "message": "רקע מותאם אישית"
+  },
+  "plus_feature_title_6": {
+    "message": "תמיכה עדיפה"
+  },
+  "plus_feature_title_7": {
+    "message": "פוסטים בלעדיים ב-Patreon"
+  },
+  "plus_feature_desc_1": {
+    "message": "אין יותר מגבלה על מספר הלשוניות שניתן לקבץ."
+  },
+  "plus_feature_desc_2": {
+    "message": "מודל AI משופר ומגבלות שימוש מוגדלות."
+  },
+  "plus_feature_desc_3": {
+    "message": "הלשוניות שלך מסתנכרנות אוטומטית בין כל המכשירים שלך."
+  },
+  "plus_feature_desc_4": {
+    "message": "גישה מלאה להיסטוריית הסנכרונים ואפשרות לשחזר כל גיבוי."
+  },
+  "plus_feature_desc_5": {
+    "message": "החל רקע מותאם אישית על עמודים ללא תצוגה מקדימה."
+  },
+  "plus_feature_desc_6": {
+    "message": "שאלות ובעיות יטופלו במהירות, לחוויית שימוש חלקה."
+  },
+  "plus_feature_desc_7": {
+    "message": "קבלו גישה בלעדית לפוסטים, סקרים ועדכונים ב-Patreon עם טיפים וטריקים."
+  },
+  "plus_price": {
+    "message": "רק $1 לחודש"
+  },
+  "error": {
+    "message": "שגיאה"
+  },
+  "tab_group_limit": {
+    "message": "שדרג ל-Tabber Plus כדי ליצור עוד קבוצות לשוניות"
+  },
+  "sync_to_cloud": {
+    "message": "סנכרן לענן"
+  },
+  "sign_in_to_sync": {
+    "message": "התחבר כדי לסנכרן את הלשוניות לענן"
+  },
+  "sync_history": {
+    "message": "היסטוריית סנכרון"
+  },
+  "sync_success": {
+    "message": "הסנכרון הצליח"
+  },
+  "sync_error": {
+    "message": "שגיאת סנכרון"
+  },
+  "file_upload_error": {
+    "message": "שגיאה בהעלאת קובץ"
+  },
+  "backup_not_found": {
+    "message": "הגיבוי לא נמצא"
+  },
+  "sign_in_to_save_previews": {
+    "message": "התחבר כדי לשמור תצוגות מקדימות בענן"
+  },
+  "sync_from_cloud": {
+    "message": "סנכרן מהענן"
+  },
+  "sync_from_cloud_title": {
+    "message": "סנכרן לשוניות מהענן"
+  },
+  "sync_from_cloud_description": {
+    "message": "יש לך לשוניות שמורות בענן. תוכל למזג אותן עם הלשוניות הנוכחיות או להחליפן. בבחירה של מיזוג, הלשוניות הנוכחיות ימוזגו עם אלו מהענן, וכפילויות יוסרו. בבחירה של החלפה, כל הלשוניות הנוכחיות יימחקו."
+  },
+  "sync_from_cloud_merge": {
+    "message": "מזג"
+  },
+  "sync_from_cloud_replace": {
+    "message": "החלף"
+  },
+  "sync_with_merge": {
+    "message": "שחזר עם מיזוג"
+  },
+  "sync_with_replace": {
+    "message": "שחזר עם החלפה"
+  },
+  "all_tabs_preserved": {
+    "message": "כל הלשוניות נשמרו"
+  },
+  "all_tabs_preserved_message": {
+    "message": "כל הלשוניות נשמרו בהצלחה"
+  },
+  "no_data": {
+    "message": "אין נתונים"
+  },
+  "group_tabs": {
+    "message": "קבץ לשוניות"
+  },
+  "group_tabs_by_domain": {
+    "message": "לפי דומיין"
+  },
+  "group_tabs_with_ai": {
+    "message": "באמצעות AI"
+  },
+  "sort_tabs": {
+    "message": "מיין לשוניות"
+  },
+  "sort_tabs_by_title": {
+    "message": "לפי כותרת"
+  },
+  "sort_tabs_by_url": {
+    "message": "לפי כתובת"
+  },
+  "sort_tabs_by_date": {
+    "message": "לפי תאריך"
+  },
+  "sort_tabs_asc": {
+    "message": "סדר עולה"
+  },
+  "sort_tabs_desc": {
+    "message": "סדר יורד"
+  },
+  "sort_tabs_only_current_group": {
+    "message": "רק בקבוצה הנוכחית"
+  },
+  "search_tabs": {
+    "message": "חפש לשוניות"
+  },
+  "restore_group_error": {
+    "message": "לא ניתן ליצור קבוצת לשוניות. ייתכן שהדפדפן שלך אינו תומך בתכונה זו."
+  },
+  "capture_tab_error": {
+    "message": "לא ניתן ללכוד את הלשונית. ייתכן שלא הענקת את ההרשאות הנדרשות."
+  },
+  "invalid_regex": {
+    "message": "ביטוי רגולרי לא חוקי: $1"
+  },
+  "request_permission_title": {
+    "message": "נדרשת הרשאה"
+  },
+  "request_permission_description": {
+    "message": "Tabber זקוק להרשאה כדי לגשת ללשוניות בדפדפן שלך. זה נדרש כדי ליצור תצוגות מקדימות. אם אינך רוצה לאשר זאת, תכונה זו תושבת."
+  },
+  "tutorial_welcome_title": {
+    "message": "שלום"
+  },
+  "tutorial_welcome_description": {
+    "message": "בוא נעבור על מדריך השימוש ב-Tabber כדי להבין טוב יותר כיצד הוא פועל."
+  },
+  "tutorial_preserve_tab_title": {
+    "message": "בוא נשמור את הלשונית הראשונה שלך!"
+  },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. עבור ל-%link% או לכל אתר אחר."
+  },
+  "tutorial_preserve_tab_description_2": {
+    "message": "2. לחץ על סמל התוסף בפינה העליונה של הדפדפן או לחץ לחיצה ימנית על הדף."
+  },
+  "tutorial_preserve_tab_description_3": {
+    "message": "3. בחר ב-<kbd>שמור לשונית</kbd>."
+  },
+  "tutorial_preserve_tab_description_4": {
+    "message": "4. חזור ל-Tabber."
+  },
+  "tutorial_preserve_tab_description_5": {
+    "message": "5. לחץ על הלשונית ששמרת."
+  },
+  "tutorial_preserve_tab_description_6": {
+    "message": "6. כדי לשחזר את הלשונית, פשוט לחץ על התצוגה המקדימה שלה."
+  },
+  "tutorial_preserve_tab_arrow": {
+    "message": "הצמד את התוסף לסרגל הכלים"
+  },
+  "tutorial_create_tab_group_title": {
+    "message": "צור את קבוצת הלשוניות הראשונה שלך!"
+  },
+  "tutorial_create_tab_group_description_1": {
+    "message": "1. לחץ על כפתור <kbd>+</kbd>."
+  },
+  "tutorial_create_tab_group_description_2": {
+    "message": "2. הקלד שם לקבוצה, בחר צבע ולחץ על <kbd>צור</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. גש ל-%link% או לכל אתר אחר ושמור אותו."
+  },
+  "tutorial_create_tab_group_description_4": {
+    "message": "4. חזור ל-Tabber."
+  },
+  "tutorial_create_tab_group_description_5": {
+    "message": "5. לחץ לחיצה ימנית על הקבוצה שיצרת ולחץ על <kbd>שחזר</kbd>."
+  },
+  "tutorial_create_tab_group_description_6": {
+    "message": "כדי להעביר לשונית לקבוצה אחרת, פשוט גרור אותה אל הקבוצה הרצויה."
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "אם הדפדפן שלך תומך בקיבוץ לשוניות, תוכל לשמור את כל הקבוצה דרך <kbd>שמור קבוצת לשוניות</kbd> בכל עמוד מקבוצת הלשוניות."
+  },
+  "tutorial_create_tab_group_arrow": {
+    "message": "הנה הכפתור!"
+  },
+  "tutorial_settings_title": {
+    "message": "התאם אישית את החוויה!"
+  },
+  "tutorial_settings_description_1": {
+    "message": "גש לעמוד ההגדרות והתאם את המראה והתחושה של Tabber לפי טעמך."
+  },
+  "tutorial_settings_description_2": {
+    "message": "בדוק את אזור <kbd>שמור אוטומטית</kbd> אם אתה רוצה לשמור לשוניות אוטומטית."
+  },
+  "tutorial_settings_arrow": {
+    "message": "נמצא ממש כאן!"
+  },
+  "tutorial_shortcuts_title": {
+    "message": "קיצורים נוחים!"
+  },
+  "tutorial_shortcuts_description_1": {
+    "message": "תוכל להשתמש בקיצורי המקלדת הבאים בעמוד של Tabber:"
+  },
+  "tutorial_shortcuts_description_2": {
+    "message": "1. <kbd>←</kbd> ו-<kbd>→</kbd> לניווט בין לשוניות."
+  },
+  "tutorial_shortcuts_description_3": {
+    "message": "2. <kbd>↑</kbd> ו-<kbd>↓</kbd> לניווט בין קבוצות."
+  },
+  "tutorial_shortcuts_description_4": {
+    "message": "3. <kbd>F11</kbd> או <kbd>F</kbd> לפתיחה במסך מלא."
+  },
+  "tutorial_shortcuts_description_5": {
+    "message": "4. <kbd>T</kbd> לשחזור הלשונית הסגורה האחרונה."
+  },
+  "tutorial_shortcuts_description_6": {
+    "message": "5. <kbd>Ctrl + F</kbd> לחיפוש לשוניות. (<kbd>Esc</kbd> ליציאה)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Ctrl + 1</kbd> לפתיחת Tabber מכל עמוד."
+  },
+  "tutorial_shortcuts_description_8": {
+    "message": "ניתן גם להגדיר קיצורי מקשים גלובליים משלך בהגדרות."
+  },
+  "tutorial_sign_in_title": {
+    "message": "לעולם אל תאבד את הלשוניות שלך שוב!"
+  },
+  "tutorial_sign_in_description_1": {
+    "message": "כעת תוכל להתחבר לחשבונך כדי להפעיל גיבויים בענן, לסנכרן נתונים בין מכשירים ולשמור תצוגות מקדימות בענן מבלי להעמיס על זיכרון המכשיר."
+  },
+  "tutorial_sign_in_description_2": {
+    "message": "התחברות אינה חובה – ניתן להשתמש ב-Tabber גם ללא חשבון."
+  },
+  "tutorial_sign_in_arrow_1": {
+    "message": "לחץ כאן כדי להתחבר!"
+  },
+  "tutorial_sign_in_arrow_2": {
+    "message": "לחץ כאן כדי לשמור גיבוי בענן!"
+  },
+  "tutorial_menu_title": {
+    "message": "מחפש תכונות מתקדמות?"
+  },
+  "tutorial_menu_description_1": {
+    "message": "לחץ על תפריט <kbd>⋮</kbd> כדי לגשת ל-<b>מיון</b>, <b>קיבוץ</b>, <b>חיפוש</b> ועוד!"
+  },
+  "tutorial_menu_description_2": {
+    "message": "תוכל גם לחזור למדריך זה בכל עת דרך התפריט."
+  },
+  "tutorial_menu_arrow": {
+    "message": "הנה זה!"
+  },
+  "auto_preserve": {
+    "message": "שמור אוטומטית"
+  },
+  "auto_preserve_enabled": {
+    "message": "פעיל"
+  },
+  "auto_preserve_interval": {
+    "message": "מרווח"
+  },
+  "auto_preserve_no_preserve_pinned": {
+    "message": "אל תשמור לשוניות מוצמדות"
+  },
+  "auto_preserve_no_preserve_audible": {
+    "message": "אל תשמור לשוניות עם שמע פעיל"
+  },
+  "auto_preserve_no_preserve_with_unsaved_form": {
+    "message": "אל תשמור לשוניות עם טפסים לא שמורים"
+  },
+  "auto_preserve_no_preserve_active": {
+    "message": "אל תשמור את הלשונית הפעילה"
+  },
+  "auto_preserve_no_preserve_when_offline": {
+    "message": "אל תשמור לשוניות כשהדפדפן לא מקוון"
+  },
+  "auto_sync": {
+    "message": "סנכרון ענן אוטומטי"
+  },
+  "auto_sync_enabled": {
+    "message": "פעיל"
+  },
+  "auto_sync_interval": {
+    "message": "מרווח"
+  },
+  "interval_1_min": {
+    "message": "דקה אחת"
+  },
+  "interval_5_min": {
+    "message": "5 דקות"
+  },
+  "interval_10_min": {
+    "message": "10 דקות"
+  },
+  "interval_15_min": {
+    "message": "15 דקות"
+  },
+  "interval_30_min": {
+    "message": "30 דקות"
+  },
+  "interval_1_hour": {
+    "message": "שעה אחת"
+  },
+  "interval_2_hours": {
+    "message": "שעתיים"
+  },
+  "interval_4_hours": {
+    "message": "4 שעות"
+  },
+  "interval_6_hours": {
+    "message": "6 שעות"
+  },
+  "interval_12_hours": {
+    "message": "12 שעות"
+  },
+  "interval_1_day": {
+    "message": "יום אחד"
+  },
+  "interval_2_days": {
+    "message": "יומיים"
+  },
+  "interval_3_days": {
+    "message": "3 ימים"
+  },
+  "interval_1_week": {
+    "message": "שבוע אחד"
+  },
+  "interval_2_weeks": {
+    "message": "שבועיים"
+  },
+  "theme_background_title": {
+    "message": "שנה רקע"
+  },
+  "theme_background_description": {
+    "message": "בחר רקע לעמודים ללא תצוגות מקדימות"
+  },
+  "theme_background_adjust": {
+    "message": "כוונן בהירות הרקע"
+  },
+  "drop_file_here": {
+    "message": "שחרר קובץ כאן"
+  },
+  "upload_file_or": {
+    "message": "או"
+  },
+  "upload_file": {
+    "message": "העלה קובץ"
+  },
+  "sites_whitelist_title": {
+    "message": "לעולם אל תשמור לשוניות מאתרים אלו"
+  },
+  "sites_whitelist_description": {
+    "message": "הוסף את כתובת ה-URL של כל עמוד שברצונך לא לשמור בשורה נפרדת. לדוגמה:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nכדי לא לכלול מספר אתרים בשורה אחת, ניתן לציין חלק מהכתובת בלבד\ngoogle.com\nניתן גם לציין ביטוי רגולרי עי שימוש בסלאשים בתחילה ובסוף:\n/^https:.*google\\.com/"
+  },
+  "groups_whitelist_title": {
+    "message": "לעולם אל תשמור לשוניות מהקבוצות הבאות"
+  },
+  "groups_whitelist_description": {
+    "message": "הזן את שם כל קבוצה שברצונך לכלול ברשימת ההיתרים, שורה לכל קבוצה. לדוגמה:\nעבודה\nלימודים\nבידור\nניתן גם לבחור צבעים של קבוצות שברצונך להחריג."
+  },
+  "dynamic_preview_contrast": {
+    "message": "ניגודיות דינמית לתצוגה מקדימה"
+  },
+  "disable_animations": {
+    "message": "בטל אנימציות"
+  },
+  "max_deleted_tabs": {
+    "message": "מקסימום לשוניות שנמחקו"
+  },
+  "identify_tabs_by_title": {
+    "message": "זיהוי לשוניות לפי כותרת"
+  },
+  "pause_auto_preserve": {
+    "message": "השהה שמירה אוטומטית"
+  },
+  "resume_auto_preserve": {
+    "message": "חדש שמירה אוטומטית ($1)"
+  },
+  "never_preserve_this_site": {
+    "message": "אל תשמור אתר זה"
+  },
+  "remove_site_from_whitelist": {
+    "message": "הסר אתר מרשימת ההיתרים"
+  },
+  "never_preserve_this_group": {
+    "message": "אל תשמור קבוצה זו"
+  },
+  "remove_group_from_whitelist": {
+    "message": "הסר קבוצה מרשימת ההיתרים"
+  },
+  "ai_group_title": {
+    "message": "קיבוץ לשוניות באמצעות AI"
+  },
+  "ai_group_description": {
+    "message": "אתה עומד לקבץ את הלשוניות שלך באמצעות בינה מלאכותית, אשר תנתח את הנושאים שלהן לפי כותרות וקישורים.\nלפני הקיבוץ תיווצר גיבוי של הלשוניות הנוכחיות, כך שתוכל תמיד לחזור אחורה.\nמספר הבקשות מוגבל ותלוי במספר הלשוניות שלך. ניתן לבצע כ-2 בקשות ביום עבור 50 לשוניות.\nהמודל אינו מושלם ועלול לטעות – תמיד תוכל לתקן את הקיבוץ ידנית.\nניתן לציין שמות קבוצות שצריכים להופיע בהכרח, בשורות נפרדות. לדוגמה:\nהעבודה שלי\nלימודים\nבידור"
+  },
+  "ai_group_select_group": {
+    "message": "קבץ לשוניות מתוך"
+  },
+  "ai_group_error_unauthorized": {
+    "message": "לא מורשה"
+  },
+  "ai_group_error_no_license": {
+    "message": "אין רישיון"
+  },
+  "ai_group_error_quota_exceeded": {
+    "message": "חרגת מהמכסה"
+  },
+  "ai_group_error_backup_not_found": {
+    "message": "הגיבוי לא נמצא"
+  },
+  "ai_group_error_invalid_data": {
+    "message": "נתונים שגויים"
+  },
+  "ai_group_error_no_result": {
+    "message": "אין תוצאה"
+  },
+  "ai_group_error_invalid_result": {
+    "message": "תוצאה לא חוקית"
+  },
+  "ai_group_error_connection": {
+    "message": "שגיאת חיבור"
+  },
+  "ai_group_error_unknown": {
+    "message": "שגיאה לא ידועה"
+  },
+  "share_tab_group_title": {
+    "message": "שתף קבוצת לשוניות"
+  },
+  "share_tab_group_description": {
+    "message": "שתף את קבוצת הלשוניות הזו עם אחרים. כל מי שיש לו את הקישור יוכל לצפות ולשחזר כל לשונית מהקבוצה.\nהתצוגה המקדימה תהיה זמינה רק עבורך.\nאם תעדכן את הקבוצה, השינויים יחולו על כל מי שיש לו גישה.\nניתן גם לאפשר הרשאות עריכה כדי לאפשר לאחרים לערוך את הקבוצה."
+  },
+  "share_tab_group_write_permission": {
+    "message": "הרשאת עריכה"
+  },
+  "share_tab_group_revoke_access": {
+    "message": "בטל גישה"
+  },
+  "sign_in_to_share": {
+    "message": "התחבר כדי לשתף קבוצות לשוניות"
+  },
+  "bind_sites_title": {
+    "message": "קשר אתרים לקבוצת לשוניות"
+  },
+  "bind_sites_description": {
+    "message": "רשימת אתרים שיתווספו אוטומטית לקבוצת הלשוניות הזו כאשר הם נשמרים. הוסף את כתובת ה-URL של כל עמוד שברצונך לקשר בשורה נפרדת. לדוגמה:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nכדי לקשר מספר אתרים בשורה אחת, ניתן לציין חלק מהכתובת בלבד:\ngoogle.com\nניתן גם לציין ביטוי רגולרי בתוך סלאשים:\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "היי, פסס..."
+  },
+  "review_dialog_description": {
+    "message": "אתה משתמש בתוסף הזה כבר זמן מה, ונראה שאתה מרוצה! אם כך, האם תוכל להשאיר ביקורת בחנות? זה ממש יעזור לי להמשיך ולשפר אותו. תודה רבה!"
+  },
+  "v_tabs_position": {
+    "message": "מיקום"
+  },
+  "v_tabs_left": {
+    "message": "שמאל"
+  },
+  "v_tabs_right": {
+    "message": "ימין"
+  },
+  "v_tabs_width": {
+    "message": "רוחב"
+  },
+  "v_tabs_size": {
+    "message": "גודל"
+  },
+  "v_tabs_n_more": {
+    "message": "$1 נוספים..."
+  },
+  "v_tabs_list": {
+    "message": "רשימת לשוניות"
+  }
+}

@@ -1,1 +1,845 @@
-{}
+{
+  "extension_name": {
+    "message": "Tabber – Organizator kartica"
+  },
+  "extension_description": {
+    "message": "Pojednostavite pretraživanje grupisanjem nekorišćenih kartica u organizovane grupe"
+  },
+  "extension_default_title": {
+    "message": "Tabber – Krajnje rešenje za organizaciju kartica"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "theme_light": {
+    "message": "Svetla"
+  },
+  "theme_dark": {
+    "message": "Tamna"
+  },
+  "theme_system": {
+    "message": "Sistemska"
+  },
+  "theme_color": {
+    "message": "Primarna boja"
+  },
+  "theme_background": {
+    "message": "Pozadina"
+  },
+  "theme_background_animation": {
+    "message": "Animacija pozadine"
+  },
+  "theme_background_custom": {
+    "message": "Prilagođena pozadina"
+  },
+  "use_context_menu": {
+    "message": "Koristi kontekstni meni"
+  },
+  "double_click_to_restore": {
+    "message": "Dvoklik za vraćanje"
+  },
+  "close_tab_on_preserve": {
+    "message": "Zatvori karticu pri čuvanju"
+  },
+  "make_preview_on_preserve": {
+    "message": "Kreiraj pregled pri čuvanju"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "Kreiraj preglede neaktivnih kartica"
+  },
+  "show_notification_on_preserve": {
+    "message": "Prikaži obaveštenje pri čuvanju"
+  },
+  "delete_tab_on_restore": {
+    "message": "Obriši karticu pri vraćanju"
+  },
+  "restore_to_group": {
+    "message": "Vrati karticu u grupu"
+  },
+  "add_new_tab_to_start": {
+    "message": "Dodaj novu karticu na početak"
+  },
+  "add_new_tab_to_last_active_group": {
+    "message": "Dodaj novu karticu u poslednju aktivnu grupu"
+  },
+  "save_previews_to_cloud": {
+    "message": "Sačuvaj preglede u oblaku"
+  },
+  "exclusions": {
+    "message": "Izuzeci"
+  },
+  "sites_exclusions": {
+    "message": "Izuzeci za sajtove"
+  },
+  "groups_exclusions": {
+    "message": "Izuzeci za grupe"
+  },
+  "keyboard_shortcuts": {
+    "message": "Prečice na tastaturi"
+  },
+  "vertical_tabs": {
+    "message": "Vertikalne kartice"
+  },
+  "sites_features": {
+    "message": "Funkcije sajtova"
+  },
+  "toolbar_items": {
+    "message": "Stavke alatne trake"
+  },
+  "advanced_settings": {
+    "message": "Napredna podešavanja"
+  },
+  "click_again_to_confirm": {
+    "message": "Kliknite ponovo za potvrdu"
+  },
+  "save_youtube_timestamps": {
+    "message": "Sačuvaj YouTube vremenske oznake"
+  },
+  "home_page": {
+    "message": "Tabber | Početna strana"
+  },
+  "restore_closed_tab": {
+    "message": "Vrati zatvorenu karticu"
+  },
+  "preserve_all_tabs": {
+    "message": "Sačuvaj sve kartice"
+  },
+  "restore_all_tabs": {
+    "message": "Vrati sve kartice"
+  },
+  "restore_all_tabs_by_group": {
+    "message": "Po grupi"
+  },
+  "restore_all_tabs_by_window": {
+    "message": "Po prozoru"
+  },
+  "restore_all_tabs_close_after_restore": {
+    "message": "Zatvori nakon vraćanja"
+  },
+  "preserve_all_tabs_close_after_preserve": {
+    "message": "Zatvori nakon čuvanja"
+  },
+  "clear_all_data": {
+    "message": "Obriši sve podatke"
+  },
+  "clear_all_data_confirm": {
+    "message": "Da li ste sigurni da želite da obrišete sve podatke?"
+  },
+  "clear_all_data_confirm_description": {
+    "message": "Ovo će izbrisati sve sačuvane kartice i grupe. Ova radnja je nepovratna."
+  },
+  "clean_up_junk": {
+    "message": "Očisti smeće"
+  },
+  "clean_up_junk_confirm": {
+    "message": "Da li ste sigurni da želite da očistite smeće?"
+  },
+  "clean_up_junk_confirm_description": {
+    "message": "Ovo će izbrisati prazne grupe kartica i duplikate. Ova radnja se ne može opozvati."
+  },
+  "cancel": {
+    "message": "Otkaži"
+  },
+  "ok": {
+    "message": "U redu"
+  },
+  "save": {
+    "message": "Sačuvaj"
+  },
+  "create": {
+    "message": "Kreiraj"
+  },
+  "delete": {
+    "message": "Obriši"
+  },
+  "restore": {
+    "message": "Vrati"
+  },
+  "share": {
+    "message": "Podeli"
+  },
+  "bind_sites": {
+    "message": "Poveži sajtove"
+  },
+  "merge_with": {
+    "message": "Spoji sa"
+  },
+  "no_tab_groups": {
+    "message": "Nema grupa kartica"
+  },
+  "all_tab_groups": {
+    "message": "Sve grupe kartica"
+  },
+  "read_less": {
+    "message": "Prikaži manje"
+  },
+  "read_more": {
+    "message": "Prikaži više"
+  },
+  "name": {
+    "message": "Naziv"
+  },
+  "tabs": {
+    "message": "Kartice"
+  },
+  "show": {
+    "message": "Prikaži"
+  },
+  "other": {
+    "message": "Ostalo"
+  },
+  "close": {
+    "message": "Zatvori"
+  },
+  "allow": {
+    "message": "Dozvoli"
+  },
+  "deny": {
+    "message": "Odbij"
+  },
+  "proceed": {
+    "message": "Nastavi"
+  },
+  "main_tab_group": {
+    "message": "Glavna"
+  },
+  "tab_preserved": {
+    "message": "Kartica sačuvana"
+  },
+  "tab_group_preserved": {
+    "message": "Grupa kartica sačuvana"
+  },
+  "tab_preserved_message": {
+    "message": "„$1” je sačuvana"
+  },
+  "tab_group_preserved_message": {
+    "message": "Grupa „$1” je sačuvana"
+  },
+  "preserve_tab": {
+    "message": "Sačuvaj karticu"
+  },
+  "preserve_tab_group": {
+    "message": "Sačuvaj grupu kartica"
+  },
+  "sign_in": {
+    "message": "Prijavi se"
+  },
+  "sign_up": {
+    "message": "Registruj se"
+  },
+  "sign_out": {
+    "message": "Odjavi se"
+  },
+  "signed_in_successfully": {
+    "message": "Uspešno prijavljeni"
+  },
+  "signed_out_successfully": {
+    "message": "Uspešno odjavljeni"
+  },
+  "open_tabber": {
+    "message": "Otvori Tabber"
+  },
+  "home_page_title": {
+    "message": "Tabber"
+  },
+  "home_page_subtitle": {
+    "message": "Krajnje rešenje za organizaciju kartica"
+  },
+  "home_page_description": {
+    "message": "Pojednostavite pretraživanje čuvanjem nekorišćenih kartica u organizovane grupe virtuelnih kartica i sinhronizujte ih sa svim uređajima."
+  },
+  "home_page_watch_demo": {
+    "message": "Pogledaj demonstraciju"
+  },
+  "home_page_scroll_down": {
+    "message": "Skroluj nadole"
+  },
+  "no_preview_click_to_restore": {
+    "message": "Kliknite da vratite"
+  },
+  "no_preview_double_click_to_restore": {
+    "message": "Dvokliknite da vratite"
+  },
+  "no_preview_faq_q1": {
+    "message": "Zašto pregled ove kartice nije dostupan?"
+  },
+  "no_preview_faq_a1": {
+    "message": "Ova kartica je deo sačuvane grupe kartica."
+  },
+  "no_preview_faq_a2": {
+    "message": "Pregled je isključen u podešavanjima."
+  },
+  "no_preview_faq_a3": {
+    "message": "Kartica je učitana iz oblaka, ali pregled je sačuvan lokalno. Možete omogućiti čuvanje pregleda u oblaku u podešavanjima."
+  },
+  "no_preview_faq_a4": {
+    "message": "Nešto nije u redu. Pokušajte da restartujete pregledač, zatim vratite i ponovo sačuvate karticu. Ako ne pomogne, omogućite čuvanje pregleda u oblaku u podešavanjima."
+  },
+  "tutorial_preserve_tabs": {
+    "message": "Sačuvaj kartice"
+  },
+  "tutorial_via_context_menu": {
+    "message": "Preko kontekstnog menija"
+  },
+  "tutorial_open_in_new_tab": {
+    "message": "Otvori u novoj kartici"
+  },
+  "tutorial_reload": {
+    "message": "Osveži stranicu"
+  },
+  "tutorial_view_page_source": {
+    "message": "Prikaži izvor stranice"
+  },
+  "tutorial_or": {
+    "message": "Ili"
+  },
+  "tutorial_via_extension_popup": {
+    "message": "Preko iskačućeg prozora dodatka"
+  },
+  "tutorial_pin_extension": {
+    "message": "Zakači dodatak →"
+  },
+  "tutorial_restore_tabs": {
+    "message": "Vrati kartice"
+  },
+  "tutorial_click_on_content": {
+    "message": "Klikni na sadržaj"
+  },
+  "tutorial_right_click_on_group": {
+    "message": "Desni klik na grupu"
+  },
+  "tutorial_my_group": {
+    "message": "Moja grupa"
+  },
+  "tutorial_via_options_menu": {
+    "message": "Preko menija opcija"
+  },
+  "tutorial": {
+    "message": "Uputstvo"
+  },
+  "finish": {
+    "message": "Završi"
+  },
+  "support": {
+    "message": "Podrška"
+  },
+  "about": {
+    "message": "O aplikaciji"
+  },
+  "about_title": {
+    "message": "Tabber – Krajnje rešenje za organizaciju kartica v$1"
+  },
+  "about_description": {
+    "message": "Pojednostavite pretraživanje čuvanjem nekorišćenih kartica u organizovane grupe virtuelnih kartica i sinhronizujte ih sa svim uređajima.\nPosetite %Tabber stranicu O nama% za više informacija."
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
+  },
+  "plus_active": {
+    "message": "Aktivan"
+  },
+  "plus_upgrade": {
+    "message": "Nadogradi na Plus"
+  },
+  "plus_description": {
+    "message": "Unapredite svoje pretraživanje uz Tabber Plus. Recite zbogom haosu kartica i otkrijte svet alata za povećanje produktivnosti koji će promeniti način na koji radite online."
+  },
+  "plus_feature_title_1": {
+    "message": "Neograničene grupe kartica"
+  },
+  "plus_feature_title_2": {
+    "message": "Napredni AI model za grupisanje"
+  },
+  "plus_feature_title_3": {
+    "message": "Automatska sinhronizacija sa oblakom"
+  },
+  "plus_feature_title_4": {
+    "message": "Kompletna istorija sinhronizacije"
+  },
+  "plus_feature_title_5": {
+    "message": "Prilagođena pozadina"
+  },
+  "plus_feature_title_6": {
+    "message": "Prioritetna podrška"
+  },
+  "plus_feature_title_7": {
+    "message": "Ekskluzivne objave na Patreonu"
+  },
+  "plus_feature_desc_1": {
+    "message": "Više nema ograničenja u broju grupa koje možete kreirati."
+  },
+  "plus_feature_desc_2": {
+    "message": "Poboljšani AI model i viši limiti korišćenja."
+  },
+  "plus_feature_desc_3": {
+    "message": "Vaše kartice se automatski sinhronizuju sa svim vašim uređajima."
+  },
+  "plus_feature_desc_4": {
+    "message": "Pristup kompletnoj istoriji sinhronizacije i vraćanju bilo koje kopije."
+  },
+  "plus_feature_desc_5": {
+    "message": "Postavite prilagođenu pozadinu za stranice bez pregleda."
+  },
+  "plus_feature_desc_6": {
+    "message": "Vaša pitanja i problemi biće brzo rešeni, za nesmetano iskustvo."
+  },
+  "plus_feature_desc_7": {
+    "message": "Dobijte ekskluzivan pristup objavama, anketama i novostima na Patreonu."
+  },
+  "plus_price": {
+    "message": "Samo $1/mesec"
+  },
+  "error": {
+    "message": "Greška"
+  },
+  "tab_group_limit": {
+    "message": "Nadogradite na Tabber Plus da biste kreirali više grupa kartica"
+  },
+  "sync_to_cloud": {
+    "message": "Sinhronizuj u oblak"
+  },
+  "sign_in_to_sync": {
+    "message": "Prijavite se da sinhronizujete kartice sa oblakom"
+  },
+  "sync_history": {
+    "message": "Istorija sinhronizacije"
+  },
+  "sync_success": {
+    "message": "Sinhronizacija uspešna"
+  },
+  "sync_error": {
+    "message": "Greška u sinhronizaciji"
+  },
+  "file_upload_error": {
+    "message": "Greška pri otpremanju fajla"
+  },
+  "backup_not_found": {
+    "message": "Rezervna kopija nije pronađena"
+  },
+  "sign_in_to_save_previews": {
+    "message": "Prijavite se da sačuvate preglede u oblak"
+  },
+  "sync_from_cloud": {
+    "message": "Sinhronizuj iz oblaka"
+  },
+  "sync_from_cloud_title": {
+    "message": "Sinhronizuj kartice iz oblaka"
+  },
+  "sync_from_cloud_description": {
+    "message": "Imate sačuvane kartice u oblaku. Možete ih spojiti sa trenutnim karticama ili ih zameniti. Ako odaberete spajanje, vaše trenutne kartice će biti spojene sa onima iz oblaka, a duplikati će biti izostavljeni. Ako odaberete zamenu, sve vaše trenutne kartice će biti izgubljene."
+  },
+  "sync_from_cloud_merge": {
+    "message": "Spoji"
+  },
+  "sync_from_cloud_replace": {
+    "message": "Zameni"
+  },
+  "sync_with_merge": {
+    "message": "Vrati sa spajanjem"
+  },
+  "sync_with_replace": {
+    "message": "Vrati sa zamenom"
+  },
+  "all_tabs_preserved": {
+    "message": "Sve kartice su sačuvane"
+  },
+  "all_tabs_preserved_message": {
+    "message": "Sve kartice su uspešno sačuvane"
+  },
+  "no_data": {
+    "message": "Nema podataka"
+  },
+  "group_tabs": {
+    "message": "Grupiši kartice"
+  },
+  "group_tabs_by_domain": {
+    "message": "Po domenu"
+  },
+  "group_tabs_with_ai": {
+    "message": "Uz pomoć AI"
+  },
+  "sort_tabs": {
+    "message": "Sortiraj kartice"
+  },
+  "sort_tabs_by_title": {
+    "message": "Po naslovu"
+  },
+  "sort_tabs_by_url": {
+    "message": "Po URL-u"
+  },
+  "sort_tabs_by_date": {
+    "message": "Po datumu"
+  },
+  "sort_tabs_asc": {
+    "message": "Rastuće"
+  },
+  "sort_tabs_desc": {
+    "message": "Opadajuće"
+  },
+  "sort_tabs_only_current_group": {
+    "message": "Samo trenutna grupa"
+  },
+  "search_tabs": {
+    "message": "Pretraži kartice"
+  },
+  "restore_group_error": {
+    "message": "Nije moguće kreirati grupu kartica. Vaš pregledač možda ne podržava ovu funkciju."
+  },
+  "capture_tab_error": {
+    "message": "Nije moguće sačuvati karticu. Možda niste dozvolili potrebne dozvole."
+  },
+  "invalid_regex": {
+    "message": "Nevažeći regularni izraz: $1"
+  },
+  "request_permission_title": {
+    "message": "Potreban je pristanak"
+  },
+  "request_permission_description": {
+    "message": "Tabber treba dozvolu da pristupi karticama vašeg pregledača. Ovo je neophodno za kreiranje pregleda. Ako ne želite da dodelite ovu dozvolu, funkcija će biti onemogućena."
+  },
+  "tutorial_welcome_title": {
+    "message": "Zdravo"
+  },
+  "tutorial_welcome_description": {
+    "message": "Hajde da prođemo kroz uputstvo za korišćenje Tabbera i bolje razumemo kako funkcioniše."
+  },
+  "tutorial_preserve_tab_title": {
+    "message": "Hajde da sačuvamo vašu prvu karticu!"
+  },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Posetite %link% ili bilo koji drugi sajt."
+  },
+  "tutorial_preserve_tab_description_2": {
+    "message": "2. Kliknite na ikonicu ekstenzije u gornjem desnom uglu vašeg pregledača ILI desnim klikom na stranicu."
+  },
+  "tutorial_preserve_tab_description_3": {
+    "message": "3. Izaberite <kbd>Sačuvaj karticu</kbd>."
+  },
+  "tutorial_preserve_tab_description_4": {
+    "message": "4. Vratite se u Tabber."
+  },
+  "tutorial_preserve_tab_description_5": {
+    "message": "5. Kliknite na sačuvanu karticu."
+  },
+  "tutorial_preserve_tab_description_6": {
+    "message": "6. Da biste vratili karticu, jednostavno kliknite na njen pregled."
+  },
+  "tutorial_preserve_tab_arrow": {
+    "message": "Zakačite ekstenziju na traku sa alatkama"
+  },
+  "tutorial_create_tab_group_title": {
+    "message": "Kreirajte svoju prvu grupu kartica!"
+  },
+  "tutorial_create_tab_group_description_1": {
+    "message": "1. Kliknite na dugme <kbd>+</kbd>."
+  },
+  "tutorial_create_tab_group_description_2": {
+    "message": "2. Unesite ime grupe, izaberite boju i kliknite na <kbd>Kreiraj</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Posetite %link% ili bilo koji drugi sajt i sačuvajte ga."
+  },
+  "tutorial_create_tab_group_description_4": {
+    "message": "4. Vratite se u Tabber."
+  },
+  "tutorial_create_tab_group_description_5": {
+    "message": "5. Desni klik na kreiranu grupu kartica i kliknite na <kbd>Vrati</kbd>."
+  },
+  "tutorial_create_tab_group_description_6": {
+    "message": "Za premeštanje kartice u drugu grupu, samo je prevucite u željenu grupu."
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "Ako vaš pregledač podržava grupisanje, možete sačuvati celu grupu klikom na <kbd>Sačuvaj grupu kartica</kbd> na bilo kojoj stranici iz grupe."
+  },
+  "tutorial_create_tab_group_arrow": {
+    "message": "Evo dugmeta!"
+  },
+  "tutorial_settings_title": {
+    "message": "Prilagodite sebi!"
+  },
+  "tutorial_settings_description_1": {
+    "message": "Pogledajte podešavanja i prilagodite izgled i ponašanje Tabbera po svom ukusu."
+  },
+  "tutorial_settings_description_2": {
+    "message": "Pogledajte odeljak <kbd>Automatsko čuvanje</kbd> ako želite da kartice budu sačuvane automatski."
+  },
+  "tutorial_settings_arrow": {
+    "message": "Ovde!"
+  },
+  "tutorial_shortcuts_title": {
+    "message": "Korisne prečice!"
+  },
+  "tutorial_shortcuts_description_1": {
+    "message": "Možete koristiti sledeće prečice na tastaturi na stranici Tabber:"
+  },
+  "tutorial_shortcuts_description_2": {
+    "message": "1. <kbd>←</kbd> i <kbd>→</kbd> za navigaciju između kartica."
+  },
+  "tutorial_shortcuts_description_3": {
+    "message": "2. <kbd>↑</kbd> i <kbd>↓</kbd> za navigaciju između grupa."
+  },
+  "tutorial_shortcuts_description_4": {
+    "message": "3. <kbd>F11</kbd> ili <kbd>F</kbd> za otvaranje Tabbera preko celog ekrana."
+  },
+  "tutorial_shortcuts_description_5": {
+    "message": "4. <kbd>T</kbd> za vraćanje poslednje zatvorene kartice."
+  },
+  "tutorial_shortcuts_description_6": {
+    "message": "5. <kbd>Ctrl + F</kbd> za pretragu kartica. (<kbd>Esc</kbd> za izlaz)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Ctrl + 1</kbd> za otvaranje Tabbera sa bilo koje stranice."
+  },
+  "tutorial_shortcuts_description_8": {
+    "message": "Takođe možete podesiti svoje globalne prečice u podešavanjima."
+  },
+  "tutorial_sign_in_title": {
+    "message": "Nikada više ne gubite svoje kartice!"
+  },
+  "tutorial_sign_in_description_1": {
+    "message": "Sada možete da se prijavite na svoj nalog kako biste omogućili čuvanje rezervnih kopija u oblaku, sinhronizaciju podataka između uređaja i čuvanje pregleda kartica bez zauzimanja memorije uređaja."
+  },
+  "tutorial_sign_in_description_2": {
+    "message": "Ovo nije obavezno, Tabber možete koristiti i bez prijavljivanja."
+  },
+  "tutorial_sign_in_arrow_1": {
+    "message": "Kliknite ovde za prijavu!"
+  },
+  "tutorial_sign_in_arrow_2": {
+    "message": "Kliknite ovde da sačuvate rezervnu kopiju u oblaku!"
+  },
+  "tutorial_menu_title": {
+    "message": "Tražite napredne funkcije?"
+  },
+  "tutorial_menu_description_1": {
+    "message": "Kliknite na meni <kbd>⋮</kbd> za pristup <b>sortiranju</b>, <b>grupisanju</b>, <b>pretrazi</b> i još mnogo toga!"
+  },
+  "tutorial_menu_description_2": {
+    "message": "Uvek možete ponovo pokrenuti ovo uputstvo putem menija."
+  },
+  "tutorial_menu_arrow": {
+    "message": "Evo ga!"
+  },
+  "auto_preserve": {
+    "message": "Automatsko čuvanje"
+  },
+  "auto_preserve_enabled": {
+    "message": "Omogućeno"
+  },
+  "auto_preserve_interval": {
+    "message": "Interval"
+  },
+  "auto_preserve_no_preserve_pinned": {
+    "message": "Ne čuvaj zakačene kartice"
+  },
+  "auto_preserve_no_preserve_audible": {
+    "message": "Ne čuvaj kartice koje puštaju zvuk"
+  },
+  "auto_preserve_no_preserve_with_unsaved_form": {
+    "message": "Ne čuvaj kartice sa nesačuvanim unosima u formama"
+  },
+  "auto_preserve_no_preserve_active": {
+    "message": "Ne čuvaj aktivnu karticu"
+  },
+  "auto_preserve_no_preserve_when_offline": {
+    "message": "Ne čuvaj kada je pregledač van mreže"
+  },
+  "auto_sync": {
+    "message": "Automatska sinhronizacija sa oblakom"
+  },
+  "auto_sync_enabled": {
+    "message": "Omogućeno"
+  },
+  "auto_sync_interval": {
+    "message": "Interval"
+  },
+  "interval_1_min": {
+    "message": "1 minut"
+  },
+  "interval_5_min": {
+    "message": "5 minuta"
+  },
+  "interval_10_min": {
+    "message": "10 minuta"
+  },
+  "interval_15_min": {
+    "message": "15 minuta"
+  },
+  "interval_30_min": {
+    "message": "30 minuta"
+  },
+  "interval_1_hour": {
+    "message": "1 sat"
+  },
+  "interval_2_hours": {
+    "message": "2 sata"
+  },
+  "interval_4_hours": {
+    "message": "4 sata"
+  },
+  "interval_6_hours": {
+    "message": "6 sati"
+  },
+  "interval_12_hours": {
+    "message": "12 sati"
+  },
+  "interval_1_day": {
+    "message": "1 dan"
+  },
+  "interval_2_days": {
+    "message": "2 dana"
+  },
+  "interval_3_days": {
+    "message": "3 dana"
+  },
+  "interval_1_week": {
+    "message": "1 nedelja"
+  },
+  "interval_2_weeks": {
+    "message": "2 nedelje"
+  },
+  "theme_background_title": {
+    "message": "Promeni pozadinu"
+  },
+  "theme_background_description": {
+    "message": "Izaberite pozadinu za stranice bez pregleda"
+  },
+  "theme_background_adjust": {
+    "message": "Podesi osvetljenje pozadine"
+  },
+  "drop_file_here": {
+    "message": "Prevucite fajl ovde"
+  },
+  "upload_file_or": {
+    "message": "ili"
+  },
+  "upload_file": {
+    "message": "Otpremi fajl"
+  },
+  "sites_whitelist_title": {
+    "message": "Nikada ne čuvaj kartice sa ovih sajtova"
+  },
+  "sites_whitelist_description": {
+    "message": "Dodajte URL svake stranice koju želite da izuzmete, po jednu u red. Na primer:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nDa biste izuzeli više sajtova u jednoj liniji, možete navesti deo URL-a:\ngoogle.com\nTakođe možete koristiti regularne izraze između kosih crta:\n/^https:.*google\\.com/"
+  },
+  "groups_whitelist_title": {
+    "message": "Nikada ne čuvaj kartice iz ovih grupa"
+  },
+  "groups_whitelist_description": {
+    "message": "Dodajte ime svake grupe koju želite da izuzmete, po jedno po redu. Na primer:\nPosao\nStudije\nZabava\nTakođe možete izabrati boje grupa koje želite da izuzmete."
+  },
+  "dynamic_preview_contrast": {
+    "message": "Dinamički kontrast pregleda"
+  },
+  "disable_animations": {
+    "message": "Isključi animacije"
+  },
+  "max_deleted_tabs": {
+    "message": "Maks. broj obrisanih kartica"
+  },
+  "identify_tabs_by_title": {
+    "message": "Identifikuj kartice po naslovu"
+  },
+  "pause_auto_preserve": {
+    "message": "Pauziraj automatsko čuvanje"
+  },
+  "resume_auto_preserve": {
+    "message": "Nastavi automatsko čuvanje ($1)"
+  },
+  "never_preserve_this_site": {
+    "message": "Nikada ne čuvaj ovaj sajt"
+  },
+  "remove_site_from_whitelist": {
+    "message": "Ukloni sajt iz liste izuzetih"
+  },
+  "never_preserve_this_group": {
+    "message": "Nikada ne čuvaj ovu grupu"
+  },
+  "remove_group_from_whitelist": {
+    "message": "Ukloni grupu iz liste izuzetih"
+  },
+  "ai_group_title": {
+    "message": "Grupisanje kartica pomoću veštačke inteligencije"
+  },
+  "ai_group_description": {
+    "message": "Grupisaćete kartice pomoću AI modela koji analizira naslove i linkove da bi odredio temu.\nPre grupisanja biće kreirana rezervna kopija postojećih kartica, tako da možete vratiti prethodno stanje.\nBroj zahteva je ograničen i zavisi od broja kartica. Možete napraviti otprilike 2 zahteva dnevno za 50 kartica.\nModel nije savršen i može praviti greške. Grupisanje uvek možete ručno korigovati.\nMožete navesti imena grupa koja moraju postojati. Unesite ih svaki u novom redu, na primer:\nPosao\nStudije\nZabava"
+  },
+  "ai_group_select_group": {
+    "message": "Grupiši kartice iz"
+  },
+  "ai_group_error_unauthorized": {
+    "message": "Neautorizovano"
+  },
+  "ai_group_error_no_license": {
+    "message": "Nema licence"
+  },
+  "ai_group_error_quota_exceeded": {
+    "message": "Prekoračen broj zahteva"
+  },
+  "ai_group_error_backup_not_found": {
+    "message": "Rezerva nije pronađena"
+  },
+  "ai_group_error_invalid_data": {
+    "message": "Nevažeći podaci"
+  },
+  "ai_group_error_no_result": {
+    "message": "Nema rezultata"
+  },
+  "ai_group_error_invalid_result": {
+    "message": "Nevažeći rezultat"
+  },
+  "ai_group_error_connection": {
+    "message": "Greška u vezi"
+  },
+  "ai_group_error_unknown": {
+    "message": "Nepoznata greška"
+  },
+  "share_tab_group_title": {
+    "message": "Podeli grupu kartica"
+  },
+  "share_tab_group_description": {
+    "message": "Podelite ovu grupu kartica sa drugim korisnicima. Svi koji imaju link moći će da pregledaju i vrate bilo koju karticu iz grupe. Pregled kartica biće dostupan samo vama.\nAko ažurirate ovu grupu, promene će biti primenjene svim korisnicima koji imaju pristup.\nTakođe možete omogućiti pravo pisanja da bi drugi mogli uređivati grupu."
+  },
+  "share_tab_group_write_permission": {
+    "message": "Dozvola za uređivanje"
+  },
+  "share_tab_group_revoke_access": {
+    "message": "Poništi pristup"
+  },
+  "sign_in_to_share": {
+    "message": "Prijavite se da delite grupe kartica"
+  },
+  "bind_sites_title": {
+    "message": "Poveži sajtove sa grupom kartica"
+  },
+  "bind_sites_description": {
+    "message": "Lista sajtova koji će automatski biti dodati ovoj grupi kartica kada se sačuvaju. Dodajte URL svake stranice koju želite povezati, po jedan po redu. Na primer:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nZa više sajtova u jednoj liniji možete navesti deo URL-a:\ngoogle.com\nTakođe možete koristiti regularne izraze između kosih crta:\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "Hej, pssst..."
+  },
+  "review_dialog_description": {
+    "message": "Koristite ovo proširenje već neko vreme, i izgleda da vam se dopada! Ako jeste, da li biste mogli ostaviti recenziju u prodavnici? To bi mi mnogo pomoglo da ga unapredim. Hvala puno!"
+  },
+  "v_tabs_position": {
+    "message": "Pozicija"
+  },
+  "v_tabs_left": {
+    "message": "Levo"
+  },
+  "v_tabs_right": {
+    "message": "Desno"
+  },
+  "v_tabs_width": {
+    "message": "Širina"
+  },
+  "v_tabs_size": {
+    "message": "Veličina"
+  },
+  "v_tabs_n_more": {
+    "message": "$1 još..."
+  },
+  "v_tabs_list": {
+    "message": "Lista kartica"
+  }
+}

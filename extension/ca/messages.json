@@ -1,1 +1,845 @@
-{}
+{
+  "extension_name": {
+    "message": "Tabber - Organitzador de pestanyes"
+  },
+  "extension_description": {
+    "message": "Simplifica la teva navegació agrupant pestanyes no utilitzades en grups organitzats"
+  },
+  "extension_default_title": {
+    "message": "Tabber – Solució definitiva per organitzar pestanyes"
+  },
+  "theme": {
+    "message": "Tema"
+  },
+  "theme_light": {
+    "message": "Clar"
+  },
+  "theme_dark": {
+    "message": "Fosc"
+  },
+  "theme_system": {
+    "message": "Sistema"
+  },
+  "theme_color": {
+    "message": "Color principal"
+  },
+  "theme_background": {
+    "message": "Fons"
+  },
+  "theme_background_animation": {
+    "message": "Animació de fons"
+  },
+  "theme_background_custom": {
+    "message": "Fons personalitzat"
+  },
+  "use_context_menu": {
+    "message": "Usa el menú contextual"
+  },
+  "double_click_to_restore": {
+    "message": "Doble clic per restaurar"
+  },
+  "close_tab_on_preserve": {
+    "message": "Tanca la pestanya en preservar"
+  },
+  "make_preview_on_preserve": {
+    "message": "Fes una vista prèvia en preservar"
+  },
+  "make_previews_of_inactive_tabs": {
+    "message": "Fes vistes prèvies de les pestanyes inactives"
+  },
+  "show_notification_on_preserve": {
+    "message": "Mostra notificació en preservar"
+  },
+  "delete_tab_on_restore": {
+    "message": "Suprimeix la pestanya en restaurar"
+  },
+  "restore_to_group": {
+    "message": "Restaura la pestanya al grup"
+  },
+  "add_new_tab_to_start": {
+    "message": "Afegeix nova pestanya al principi"
+  },
+  "add_new_tab_to_last_active_group": {
+    "message": "Afegeix nova pestanya a l'últim grup actiu"
+  },
+  "save_previews_to_cloud": {
+    "message": "Desa vistes prèvies al núvol"
+  },
+  "exclusions": {
+    "message": "Exclusions"
+  },
+  "sites_exclusions": {
+    "message": "Exclusions de llocs"
+  },
+  "groups_exclusions": {
+    "message": "Exclusions de grups"
+  },
+  "keyboard_shortcuts": {
+    "message": "Dreceres de teclat"
+  },
+  "vertical_tabs": {
+    "message": "Pestanyes verticals"
+  },
+  "sites_features": {
+    "message": "Funcions dels llocs"
+  },
+  "toolbar_items": {
+    "message": "Elements de la barra d'eines"
+  },
+  "advanced_settings": {
+    "message": "Configuració avançada"
+  },
+  "click_again_to_confirm": {
+    "message": "Fes clic de nou per confirmar"
+  },
+  "save_youtube_timestamps": {
+    "message": "Desa marques de temps de YouTube"
+  },
+  "home_page": {
+    "message": "Tabber | Pàgina d'inici"
+  },
+  "restore_closed_tab": {
+    "message": "Restaura pestanya tancada"
+  },
+  "preserve_all_tabs": {
+    "message": "Preserva totes les pestanyes"
+  },
+  "restore_all_tabs": {
+    "message": "Restaura totes les pestanyes"
+  },
+  "restore_all_tabs_by_group": {
+    "message": "Per grup"
+  },
+  "restore_all_tabs_by_window": {
+    "message": "Per finestra"
+  },
+  "restore_all_tabs_close_after_restore": {
+    "message": "Tanca després de restaurar"
+  },
+  "preserve_all_tabs_close_after_preserve": {
+    "message": "Tanca després de preservar"
+  },
+  "clear_all_data": {
+    "message": "Esborra totes les dades"
+  },
+  "clear_all_data_confirm": {
+    "message": "Estàs segur que vols esborrar totes les dades?"
+  },
+  "clear_all_data_confirm_description": {
+    "message": "Això eliminarà totes les pestanyes i grups desats. Aquesta acció no es pot desfer."
+  },
+  "clean_up_junk": {
+    "message": "Neteja brossa"
+  },
+  "clean_up_junk_confirm": {
+    "message": "Segur que vols netejar la brossa?"
+  },
+  "clean_up_junk_confirm_description": {
+    "message": "Això eliminarà grups de pestanyes buits i pestanyes duplicades. Aquesta acció no es pot desfer."
+  },
+  "cancel": {
+    "message": "Cancel·la"
+  },
+  "ok": {
+    "message": "D'acord"
+  },
+  "save": {
+    "message": "Desa"
+  },
+  "create": {
+    "message": "Crea"
+  },
+  "delete": {
+    "message": "Suprimeix"
+  },
+  "restore": {
+    "message": "Restaura"
+  },
+  "share": {
+    "message": "Comparteix"
+  },
+  "bind_sites": {
+    "message": "Associa llocs"
+  },
+  "merge_with": {
+    "message": "Fusió amb"
+  },
+  "no_tab_groups": {
+    "message": "Sense grups de pestanyes"
+  },
+  "all_tab_groups": {
+    "message": "Tots els grups de pestanyes"
+  },
+  "read_less": {
+    "message": "Llegeix menys"
+  },
+  "read_more": {
+    "message": "Llegeix més"
+  },
+  "name": {
+    "message": "Nom"
+  },
+  "tabs": {
+    "message": "Pestanyes"
+  },
+  "show": {
+    "message": "Mostra"
+  },
+  "other": {
+    "message": "Altres"
+  },
+  "close": {
+    "message": "Tanca"
+  },
+  "allow": {
+    "message": "Permet"
+  },
+  "deny": {
+    "message": "Denega"
+  },
+  "proceed": {
+    "message": "Continua"
+  },
+  "main_tab_group": {
+    "message": "Principal"
+  },
+  "tab_preserved": {
+    "message": "Pestanya preservada"
+  },
+  "tab_group_preserved": {
+    "message": "Grup de pestanyes preservat"
+  },
+  "tab_preserved_message": {
+    "message": "«$1» s'ha preservat"
+  },
+  "tab_group_preserved_message": {
+    "message": "El grup «$1» s'ha preservat"
+  },
+  "preserve_tab": {
+    "message": "Preserva pestanya"
+  },
+  "preserve_tab_group": {
+    "message": "Preserva grup de pestanyes"
+  },
+  "sign_in": {
+    "message": "Inicia sessió"
+  },
+  "sign_up": {
+    "message": "Registra't"
+  },
+  "sign_out": {
+    "message": "Tanca sessió"
+  },
+  "signed_in_successfully": {
+    "message": "Sessió iniciada correctament"
+  },
+  "signed_out_successfully": {
+    "message": "Sessió tancada correctament"
+  },
+  "open_tabber": {
+    "message": "Obre Tabber"
+  },
+  "home_page_title": {
+    "message": "Tabber"
+  },
+  "home_page_subtitle": {
+    "message": "Solució definitiva per organitzar pestanyes"
+  },
+  "home_page_description": {
+    "message": "Simplifica la teva navegació preservant pestanyes no utilitzades en grups virtuals organitzats i sincronitza'ls amb tots els teus dispositius."
+  },
+  "home_page_watch_demo": {
+    "message": "Mira la demostració"
+  },
+  "home_page_scroll_down": {
+    "message": "Desplaça cap avall"
+  },
+  "no_preview_click_to_restore": {
+    "message": "Fes clic per restaurar"
+  },
+  "no_preview_double_click_to_restore": {
+    "message": "Doble clic per restaurar"
+  },
+  "no_preview_faq_q1": {
+    "message": "Per què no hi ha vista prèvia d'aquesta pestanya?"
+  },
+  "no_preview_faq_a1": {
+    "message": "Aquesta pestanya forma part d’un grup preservat."
+  },
+  "no_preview_faq_a2": {
+    "message": "La vista prèvia està desactivada a la configuració."
+  },
+  "no_preview_faq_a3": {
+    "message": "La pestanya s'ha carregat des del núvol, però la vista prèvia es va desar localment. Pots activar el desament al núvol des de la configuració."
+  },
+  "no_preview_faq_a4": {
+    "message": "Alguna cosa ha fallat. Torna a iniciar el navegador i prova de preservar i restaurar la pestanya de nou. Si no funciona, pots activar el desament de vistes prèvies al núvol a la configuració."
+  },
+  "tutorial_preserve_tabs": {
+    "message": "Preservar pestanyes"
+  },
+  "tutorial_via_context_menu": {
+    "message": "Mitjançant el menú contextual"
+  },
+  "tutorial_open_in_new_tab": {
+    "message": "Obre en una pestanya nova"
+  },
+  "tutorial_reload": {
+    "message": "Recarrega"
+  },
+  "tutorial_view_page_source": {
+    "message": "Visualitza el codi font de la pàgina"
+  },
+  "tutorial_or": {
+    "message": "O"
+  },
+  "tutorial_via_extension_popup": {
+    "message": "Mitjançant la finestra emergent de l'extensió"
+  },
+  "tutorial_pin_extension": {
+    "message": "Fixa l’extensió →"
+  },
+  "tutorial_restore_tabs": {
+    "message": "Restaurar pestanyes"
+  },
+  "tutorial_click_on_content": {
+    "message": "Fes clic al contingut"
+  },
+  "tutorial_right_click_on_group": {
+    "message": "Clic dret sobre el grup"
+  },
+  "tutorial_my_group": {
+    "message": "El meu grup"
+  },
+  "tutorial_via_options_menu": {
+    "message": "Mitjançant el menú d'opcions"
+  },
+  "tutorial": {
+    "message": "Tutorial"
+  },
+  "finish": {
+    "message": "Finalitza"
+  },
+  "support": {
+    "message": "Suport"
+  },
+  "about": {
+    "message": "Quant a"
+  },
+  "about_title": {
+    "message": "Tabber – Solució definitiva per organitzar pestanyes v$1"
+  },
+  "about_description": {
+    "message": "Simplifica la teva navegació preservant pestanyes no utilitzades en grups virtuals organitzats i sincronitza'ls amb tots els teus dispositius.\nVisita la pàgina %Quant a Tabber% per a més informació."
+  },
+  "tabber_plus": {
+    "message": "Tabber Plus"
+  },
+  "plus_active": {
+    "message": "Actiu"
+  },
+  "plus_upgrade": {
+    "message": "Actualitza a Plus"
+  },
+  "plus_description": {
+    "message": "Millora la teva experiència de navegació amb Tabber Plus. Digueu adéu al desordre de pestanyes i descobreix eines per augmentar la productivitat que transformaran la manera com treballes en línia."
+  },
+  "plus_feature_title_1": {
+    "message": "Grups de pestanyes il·limitats"
+  },
+  "plus_feature_title_2": {
+    "message": "Model d’IA avançat per a la classificació"
+  },
+  "plus_feature_title_3": {
+    "message": "Sincronització automàtica al núvol"
+  },
+  "plus_feature_title_4": {
+    "message": "Historial complet de sincronització"
+  },
+  "plus_feature_title_5": {
+    "message": "Fons personalitzat"
+  },
+  "plus_feature_title_6": {
+    "message": "Suport prioritari"
+  },
+  "plus_feature_title_7": {
+    "message": "Publicacions exclusives a Patreon"
+  },
+  "plus_feature_desc_1": {
+    "message": "Ja no hi ha límits en el nombre de pestanyes que pots agrupar."
+  },
+  "plus_feature_desc_2": {
+    "message": "Model d’IA millorat i límits d’ús més alts."
+  },
+  "plus_feature_desc_3": {
+    "message": "Les teves pestanyes es sincronitzen automàticament amb tots els teus dispositius."
+  },
+  "plus_feature_desc_4": {
+    "message": "Accedeix a tot l’historial de sincronització i recupera qualsevol còpia de seguretat."
+  },
+  "plus_feature_desc_5": {
+    "message": "Aplica un fons personalitzat a les pàgines sense vista prèvia."
+  },
+  "plus_feature_desc_6": {
+    "message": "Tots els dubtes i problemes es resoldran ràpidament per garantir una experiència fluida."
+  },
+  "plus_feature_desc_7": {
+    "message": "Accedeix exclusivament a publicacions, enquestes i novetats de Patreon."
+  },
+  "plus_price": {
+    "message": "Només $1/mes"
+  },
+  "error": {
+    "message": "Error"
+  },
+  "tab_group_limit": {
+    "message": "Actualitza a Tabber Plus per crear més grups de pestanyes"
+  },
+  "sync_to_cloud": {
+    "message": "Sincronitza al núvol"
+  },
+  "sign_in_to_sync": {
+    "message": "Inicia sessió per sincronitzar les pestanyes amb el núvol"
+  },
+  "sync_history": {
+    "message": "Historial de sincronització"
+  },
+  "sync_success": {
+    "message": "Sincronització completada"
+  },
+  "sync_error": {
+    "message": "Error de sincronització"
+  },
+  "file_upload_error": {
+    "message": "Error en pujar el fitxer"
+  },
+  "backup_not_found": {
+    "message": "Còpia de seguretat no trobada"
+  },
+  "sign_in_to_save_previews": {
+    "message": "Inicia sessió per desar les vistes prèvies al núvol"
+  },
+  "sync_from_cloud": {
+    "message": "Sincronitza des del núvol"
+  },
+  "sync_from_cloud_title": {
+    "message": "Sincronitza pestanyes des del núvol"
+  },
+  "sync_from_cloud_description": {
+    "message": "Tens pestanyes desades al núvol. Pots combinar-les amb les pestanyes actuals o reemplaçar-les. Si tries combinar, les pestanyes actuals es fusionaran amb les del núvol, ometent els duplicats. Si tries reemplaçar, es perdran totes les pestanyes actuals."
+  },
+  "sync_from_cloud_merge": {
+    "message": "Combina"
+  },
+  "sync_from_cloud_replace": {
+    "message": "Reemplaça"
+  },
+  "sync_with_merge": {
+    "message": "Restaura amb combinació"
+  },
+  "sync_with_replace": {
+    "message": "Restaura amb reemplaçament"
+  },
+  "all_tabs_preserved": {
+    "message": "Totes les pestanyes preservades"
+  },
+  "all_tabs_preserved_message": {
+    "message": "Totes les pestanyes han estat preservades"
+  },
+  "no_data": {
+    "message": "Sense dades"
+  },
+  "group_tabs": {
+    "message": "Agrupa pestanyes"
+  },
+  "group_tabs_by_domain": {
+    "message": "Per domini"
+  },
+  "group_tabs_with_ai": {
+    "message": "Amb IA"
+  },
+  "sort_tabs": {
+    "message": "Ordena pestanyes"
+  },
+  "sort_tabs_by_title": {
+    "message": "Per títol"
+  },
+  "sort_tabs_by_url": {
+    "message": "Per URL"
+  },
+  "sort_tabs_by_date": {
+    "message": "Per data"
+  },
+  "sort_tabs_asc": {
+    "message": "Ascendent"
+  },
+  "sort_tabs_desc": {
+    "message": "Descendent"
+  },
+  "sort_tabs_only_current_group": {
+    "message": "Només grup actual"
+  },
+  "search_tabs": {
+    "message": "Cerca pestanyes"
+  },
+  "restore_group_error": {
+    "message": "No es pot crear el grup de pestanyes. Potser el teu navegador no admet aquesta funció."
+  },
+  "capture_tab_error": {
+    "message": "No es pot capturar la pestanya. És possible que no hagis concedit els permisos necessaris."
+  },
+  "invalid_regex": {
+    "message": "Expressió regular no vàlida: $1"
+  },
+  "request_permission_title": {
+    "message": "Permís necessari"
+  },
+  "request_permission_description": {
+    "message": "Tabber necessita permís per accedir a les pestanyes del teu navegador. És necessari per generar vistes prèvies. Si no concedeixes aquest permís, aquesta funció quedarà desactivada."
+  },
+  "tutorial_welcome_title": {
+    "message": "Hola"
+  },
+  "tutorial_welcome_description": {
+    "message": "Fem un recorregut pel tutorial de Tabber per entendre millor com funciona."
+  },
+  "tutorial_preserve_tab_title": {
+    "message": "Preservem la teva primera pestanya!"
+  },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Ves a %link% o a qualsevol altre lloc web."
+  },
+  "tutorial_preserve_tab_description_2": {
+    "message": "2. Fes clic a la icona de l'extensió a la cantonada superior dreta del navegador O fes clic dret a la pàgina."
+  },
+  "tutorial_preserve_tab_description_3": {
+    "message": "3. Selecciona <kbd>Preserva pestanya</kbd>."
+  },
+  "tutorial_preserve_tab_description_4": {
+    "message": "4. Torna a Tabber."
+  },
+  "tutorial_preserve_tab_description_5": {
+    "message": "5. Fes clic a la pestanya que has preservat."
+  },
+  "tutorial_preserve_tab_description_6": {
+    "message": "6. Per restaurar la pestanya, només cal fer clic a la seva vista prèvia."
+  },
+  "tutorial_preserve_tab_arrow": {
+    "message": "Fixa l’extensió a la barra d’eines"
+  },
+  "tutorial_create_tab_group_title": {
+    "message": "Crea el teu primer grup de pestanyes!"
+  },
+  "tutorial_create_tab_group_description_1": {
+    "message": "1. Fes clic al botó <kbd>+</kbd>."
+  },
+  "tutorial_create_tab_group_description_2": {
+    "message": "2. Escriu un nom per al grup, tria un color i fes clic a <kbd>Crea</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Ves a %link% o a qualsevol altre lloc i preserva’l."
+  },
+  "tutorial_create_tab_group_description_4": {
+    "message": "4. Torna a Tabber."
+  },
+  "tutorial_create_tab_group_description_5": {
+    "message": "5. Fes clic dret al grup de pestanyes creat i selecciona <kbd>Restaura</kbd>."
+  },
+  "tutorial_create_tab_group_description_6": {
+    "message": "Per moure una pestanya a un altre grup, només cal arrossegar-la."
+  },
+  "tutorial_create_tab_group_description_7": {
+    "message": "Si el teu navegador admet grups de pestanyes, també pots preservar tot un grup fent clic a <kbd>Preserva grup de pestanyes</kbd> des de qualsevol pàgina del grup."
+  },
+  "tutorial_create_tab_group_arrow": {
+    "message": "Aquí tens el botó!"
+  },
+  "tutorial_settings_title": {
+    "message": "Personalitza-ho al teu gust!"
+  },
+  "tutorial_settings_description_1": {
+    "message": "Entra a la pàgina de configuració i adapta l’aparença de Tabber a les teves preferències."
+  },
+  "tutorial_settings_description_2": {
+    "message": "Revisa la secció <kbd>Preservació automàtica</kbd> si vols preservar pestanyes automàticament."
+  },
+  "tutorial_settings_arrow": {
+    "message": "Just aquí!"
+  },
+  "tutorial_shortcuts_title": {
+    "message": "Dreceres útils!"
+  },
+  "tutorial_shortcuts_description_1": {
+    "message": "Pots utilitzar aquestes dreceres de teclat a la pàgina de Tabber:"
+  },
+  "tutorial_shortcuts_description_2": {
+    "message": "1. <kbd>←</kbd> i <kbd>→</kbd> per navegar entre pestanyes."
+  },
+  "tutorial_shortcuts_description_3": {
+    "message": "2. <kbd>↑</kbd> i <kbd>↓</kbd> per navegar entre grups."
+  },
+  "tutorial_shortcuts_description_4": {
+    "message": "3. <kbd>F11</kbd> o <kbd>F</kbd> per obrir Tabber en pantalla completa."
+  },
+  "tutorial_shortcuts_description_5": {
+    "message": "4. <kbd>T</kbd> per restaurar l’última pestanya tancada."
+  },
+  "tutorial_shortcuts_description_6": {
+    "message": "5. <kbd>Ctrl + F</kbd> per cercar pestanyes. (<kbd>Esc</kbd> per sortir)"
+  },
+  "tutorial_shortcuts_description_7": {
+    "message": "6. <kbd>Ctrl + 1</kbd> per obrir Tabber des de qualsevol pàgina."
+  },
+  "tutorial_shortcuts_description_8": {
+    "message": "També pots configurar les teves pròpies dreceres globals a la configuració."
+  },
+  "tutorial_sign_in_title": {
+    "message": "No perdis mai més les teves pestanyes!"
+  },
+  "tutorial_sign_in_description_1": {
+    "message": "Ara pots iniciar sessió al teu compte per habilitar còpies de seguretat al núvol, sincronitzar dades entre dispositius i desar vistes prèvies al núvol sense ocupar la memòria del dispositiu."
+  },
+  "tutorial_sign_in_description_2": {
+    "message": "Això és opcional, encara pots fer servir Tabber sense iniciar sessió."
+  },
+  "tutorial_sign_in_arrow_1": {
+    "message": "Fes clic aquí per iniciar sessió!"
+  },
+  "tutorial_sign_in_arrow_2": {
+    "message": "Fes clic aquí per desar la còpia de seguretat al núvol!"
+  },
+  "tutorial_menu_title": {
+    "message": "Busques funcions avançades?"
+  },
+  "tutorial_menu_description_1": {
+    "message": "Fes clic al menú <kbd>⋮</kbd> per accedir a <b>ordenació</b>, <b>agrupació</b>, <b>cerca</b> i més!"
+  },
+  "tutorial_menu_description_2": {
+    "message": "També pots tornar a veure aquest tutorial en qualsevol moment des del menú."
+  },
+  "tutorial_menu_arrow": {
+    "message": "Aquí el tens!"
+  },
+  "auto_preserve": {
+    "message": "Preservació automàtica"
+  },
+  "auto_preserve_enabled": {
+    "message": "Activat"
+  },
+  "auto_preserve_interval": {
+    "message": "Interval"
+  },
+  "auto_preserve_no_preserve_pinned": {
+    "message": "No preservis pestanyes fixades"
+  },
+  "auto_preserve_no_preserve_audible": {
+    "message": "No preservis pestanyes amb àudio actiu"
+  },
+  "auto_preserve_no_preserve_with_unsaved_form": {
+    "message": "No preservis pestanyes amb formularis sense desar"
+  },
+  "auto_preserve_no_preserve_active": {
+    "message": "No preservis la pestanya activa"
+  },
+  "auto_preserve_no_preserve_when_offline": {
+    "message": "No preservis pestanyes quan el navegador estigui fora de línia"
+  },
+  "auto_sync": {
+    "message": "Sincronització automàtica al núvol"
+  },
+  "auto_sync_enabled": {
+    "message": "Activat"
+  },
+  "auto_sync_interval": {
+    "message": "Interval"
+  },
+  "interval_1_min": {
+    "message": "1 minut"
+  },
+  "interval_5_min": {
+    "message": "5 minuts"
+  },
+  "interval_10_min": {
+    "message": "10 minuts"
+  },
+  "interval_15_min": {
+    "message": "15 minuts"
+  },
+  "interval_30_min": {
+    "message": "30 minuts"
+  },
+  "interval_1_hour": {
+    "message": "1 hora"
+  },
+  "interval_2_hours": {
+    "message": "2 hores"
+  },
+  "interval_4_hours": {
+    "message": "4 hores"
+  },
+  "interval_6_hours": {
+    "message": "6 hores"
+  },
+  "interval_12_hours": {
+    "message": "12 hores"
+  },
+  "interval_1_day": {
+    "message": "1 dia"
+  },
+  "interval_2_days": {
+    "message": "2 dies"
+  },
+  "interval_3_days": {
+    "message": "3 dies"
+  },
+  "interval_1_week": {
+    "message": "1 setmana"
+  },
+  "interval_2_weeks": {
+    "message": "2 setmanes"
+  },
+  "theme_background_title": {
+    "message": "Canvia el fons"
+  },
+  "theme_background_description": {
+    "message": "Selecciona un fons per a les pàgines sense vista prèvia"
+  },
+  "theme_background_adjust": {
+    "message": "Ajusta la brillantor del fons"
+  },
+  "drop_file_here": {
+    "message": "Arrossega el fitxer aquí"
+  },
+  "upload_file_or": {
+    "message": "o"
+  },
+  "upload_file": {
+    "message": "Puja fitxer"
+  },
+  "sites_whitelist_title": {
+    "message": "No preservis pestanyes d’aquests llocs"
+  },
+  "sites_whitelist_description": {
+    "message": "Afegeix la URL de cada pàgina que vulguis excloure en una línia nova. Per exemple:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPer excloure múltiples llocs en una sola línia, pots indicar una part de la URL:\ngoogle.com\nTambé pots fer servir expressions regulars entre barres inclinades:\n/^https:.*google\\.com/"
+  },
+  "groups_whitelist_title": {
+    "message": "No preservis pestanyes d’aquests grups"
+  },
+  "groups_whitelist_description": {
+    "message": "Afegeix el nom de cada grup que vulguis excloure en una línia nova. Per exemple:\nFeina\nEstudi\nOci\nTambé pots seleccionar els colors dels grups que vols excloure."
+  },
+  "dynamic_preview_contrast": {
+    "message": "Contrast dinàmic de vista prèvia"
+  },
+  "disable_animations": {
+    "message": "Desactiva animacions"
+  },
+  "max_deleted_tabs": {
+    "message": "Màxim de pestanyes eliminades"
+  },
+  "identify_tabs_by_title": {
+    "message": "Identifica pestanyes pel títol"
+  },
+  "pause_auto_preserve": {
+    "message": "Pausa la preservació automàtica"
+  },
+  "resume_auto_preserve": {
+    "message": "Reprèn la preservació automàtica ($1)"
+  },
+  "never_preserve_this_site": {
+    "message": "No preservis mai aquest lloc"
+  },
+  "remove_site_from_whitelist": {
+    "message": "Elimina el lloc de la llista blanca"
+  },
+  "never_preserve_this_group": {
+    "message": "No preservis mai aquest grup"
+  },
+  "remove_group_from_whitelist": {
+    "message": "Elimina el grup de la llista blanca"
+  },
+  "ai_group_title": {
+    "message": "Agrupació de pestanyes amb IA"
+  },
+  "ai_group_description": {
+    "message": "Estàs a punt d’agrupar les pestanyes amb IA, que analitzarà els temes basant-se en títols i enllaços.\nAbans d’agrupar, es crearà una còpia de seguretat de les pestanyes actuals, així sempre podràs tornar enrere.\nEl nombre de sol·licituds és limitat i depèn del nombre de pestanyes. Pots fer aproximadament 2 sol·licituds al dia amb 50 pestanyes.\nEl model d’IA no és perfecte i pot cometre errors. Pots corregir l’agrupació manualment quan vulguis.\nPots especificar els noms dels grups que vols que hi siguin. Escriu-los en línies separades, per exemple:\nFeina\nEstudi\nOci"
+  },
+  "ai_group_select_group": {
+    "message": "Agrupa pestanyes de"
+  },
+  "ai_group_error_unauthorized": {
+    "message": "No autoritzat"
+  },
+  "ai_group_error_no_license": {
+    "message": "Sense llicència"
+  },
+  "ai_group_error_quota_exceeded": {
+    "message": "S’ha superat la quota"
+  },
+  "ai_group_error_backup_not_found": {
+    "message": "Còpia de seguretat no trobada"
+  },
+  "ai_group_error_invalid_data": {
+    "message": "Dades no vàlides"
+  },
+  "ai_group_error_no_result": {
+    "message": "Sense resultat"
+  },
+  "ai_group_error_invalid_result": {
+    "message": "Resultat no vàlid"
+  },
+  "ai_group_error_connection": {
+    "message": "Error de connexió"
+  },
+  "ai_group_error_unknown": {
+    "message": "Error desconegut"
+  },
+  "share_tab_group_title": {
+    "message": "Comparteix el grup de pestanyes"
+  },
+  "share_tab_group_description": {
+    "message": "Comparteix aquest grup de pestanyes amb altres persones. Tothom amb l’enllaç podrà veure i restaurar qualsevol pestanya del grup. Les vistes prèvies només estaran disponibles per a tu.\nSi actualitzes aquest grup, els canvis es reflectiran per a tothom qui hi tingui accés.\nTambé pots habilitar el permís d’edició per permetre que altres persones modifiquin el grup."
+  },
+  "share_tab_group_write_permission": {
+    "message": "Permís d’escriptura"
+  },
+  "share_tab_group_revoke_access": {
+    "message": "Revoca l’accés"
+  },
+  "sign_in_to_share": {
+    "message": "Inicia sessió per compartir grups de pestanyes"
+  },
+  "bind_sites_title": {
+    "message": "Associa llocs al grup de pestanyes"
+  },
+  "bind_sites_description": {
+    "message": "Llista de llocs que s’afegiran automàticament a aquest grup quan es preservin. Afegeix la URL de cada pàgina en una línia nova. Per exemple:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPer associar múltiples llocs en una línia, pots indicar una part de la URL:\ngoogle.com\nTambé pots utilitzar expressions regulars entre barres inclinades:\n/^https:.*google\\.com/"
+  },
+  "review_hint": {
+    "message": "Ei, pssst..."
+  },
+  "review_dialog_description": {
+    "message": "Fa temps que fas servir aquesta extensió i sembla que t’agrada! Si és així, et faria res deixar una ressenya a la botiga? Ajudaria molt a seguir millorant-la. Moltes gràcies!"
+  },
+  "v_tabs_position": {
+    "message": "Posició"
+  },
+  "v_tabs_left": {
+    "message": "Esquerra"
+  },
+  "v_tabs_right": {
+    "message": "Dreta"
+  },
+  "v_tabs_width": {
+    "message": "Amplada"
+  },
+  "v_tabs_size": {
+    "message": "Mida"
+  },
+  "v_tabs_n_more": {
+    "message": "$1 més..."
+  },
+  "v_tabs_list": {
+    "message": "Llista de pestanyes"
+  }
+}
