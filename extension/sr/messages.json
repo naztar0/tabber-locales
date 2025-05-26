@@ -506,9 +506,6 @@
   "tutorial_preserve_tab_title": {
     "message": "Hajde da sačuvamo vašu prvu karticu!"
   },
-  "tutorial_preserve_tab_description_1": {
-    "message": "1. Posetite %link% ili bilo koji drugi sajt."
-  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Kliknite na ikonicu ekstenzije u gornjem desnom uglu vašeg pregledača ILI desnim klikom na stranicu."
   },
@@ -535,9 +532,6 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Unesite ime grupe, izaberite boju i kliknite na <kbd>Kreiraj</kbd>."
-  },
-  "tutorial_create_tab_group_description_3": {
-    "message": "3. Posetite %link% ili bilo koji drugi sajt i sačuvajte ga."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Vratite se u Tabber."
