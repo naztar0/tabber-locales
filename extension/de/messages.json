@@ -506,9 +506,6 @@
   "tutorial_preserve_tab_title": {
     "message": "Bewahren Sie Ihren ersten Tab!"
   },
-  "tutorial_preserve_tab_description_1": {
-    "message": "1. Gehen Sie zu %link% oder einer anderen Website."
-  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Klicken Sie auf das Erweiterungssymbol in der oberen rechten Ecke Ihres Browsers ODER klicken Sie mit der rechten Maustaste auf die Seite."
   },
@@ -535,9 +532,6 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Geben Sie einen Namen für Ihre Tab-Gruppe ein, wählen Sie eine Farbe und klicken Sie auf <kbd>Erstellen</kbd>."
-  },
-  "tutorial_create_tab_group_description_3": {
-    "message": "3. Gehen Sie zu %link% oder einer anderen Website und speichern Sie diese."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Kehren Sie zu Tabber zurück."
