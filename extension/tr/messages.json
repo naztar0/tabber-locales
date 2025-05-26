@@ -506,6 +506,9 @@
   "tutorial_preserve_tab_title": {
     "message": "İlk sekmeyi saklayalım!"
   },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. %link% veya başka bir web sitesine gidin."
+  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Tarayıcınızın sağ üst köşesindeki eklenti simgesine tıklayın YA DA sayfaya sağ tıklayın."
   },
@@ -532,6 +535,9 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Sekme grubunuz için bir isim yazın, bir renk seçin ve <kbd>Oluştur</kbd>'a tıklayın."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. %link% veya başka bir web sitesine gidin ve koruyun."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Tabber'a geri dönün."
