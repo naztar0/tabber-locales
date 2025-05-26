@@ -506,9 +506,6 @@
   "tutorial_preserve_tab_title": {
     "message": "最初のタブを保存しましょう！"
   },
-  "tutorial_preserve_tab_description_1": {
-    "message": "1. %link%または他のウェブサイトに移動します。"
-  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. ブラウザーの右上にある拡張機能のアイコンをクリックするか、ページを右クリックします。"
   },
@@ -535,9 +532,6 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. タブグループの名前を入力し、色を選択して<kbd>作成</kbd>をクリックします。"
-  },
-  "tutorial_create_tab_group_description_3": {
-    "message": "3. %link%または他のウェブサイトに移動して保存します。"
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Tabberに戻ります。"
