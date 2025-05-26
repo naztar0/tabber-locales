@@ -506,6 +506,9 @@
   "tutorial_preserve_tab_title": {
     "message": "La oss bevare din første fane!"
   },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Gå til %link% eller en annen nettside."
+  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Klikk på utvidelsesikonet øverst til høyre i nettleseren eller høyreklikk på siden."
   },
@@ -532,6 +535,9 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Skriv inn et navn for fanegruppen, velg en farge og klikk på <kbd>Opprett</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Gå til %link% eller en annen nettside og bevar den."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Gå tilbake til Tabber."
