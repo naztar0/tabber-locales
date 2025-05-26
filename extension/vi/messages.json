@@ -506,6 +506,9 @@
   "tutorial_preserve_tab_title": {
     "message": "Hãy lưu tab đầu tiên của bạn!"
   },
+  "tutorial_preserve_tab_description_1": {
+    "message": "1. Truy cập %link% hoặc bất kỳ trang web nào khác."
+  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. Nhấp vào biểu tượng tiện ích ở góc trên bên phải trình duyệt hoặc nhấp chuột phải vào trang."
   },
@@ -532,6 +535,9 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. Nhập tên cho nhóm, chọn màu và nhấn <kbd>Tạo</kbd>."
+  },
+  "tutorial_create_tab_group_description_3": {
+    "message": "3. Truy cập %link% hoặc bất kỳ trang web nào và lưu nó."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Quay lại Tabber."
