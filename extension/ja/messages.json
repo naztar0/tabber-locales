@@ -720,7 +720,7 @@
     "message": "これらのウェブサイトのタブを保存しない"
   },
   "sites_whitelist_description": {
-    "message": "ホワイトリストに追加したい各ページのURLを新しい行に追加してください。例:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n1行で複数のサイトをホワイトリストに追加するには、URLの一部を指定できます:\ngoogle.com\nまた、テキストをスラッシュで囲んで正規表現を指定することもできます:\n/^https:.*google\\.com/"
+    "message": "ホワイトリストに追加したい各ページのURLを1行ずつ入力してください。例：\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n複数のサイトを1行でまとめて指定したい場合は、URLの一部を指定することもできます：\ngoogle.com\nまた、スラッシュで囲むことで正規表現を使うこともできます：\n/^https:.*google\\.com/"
   },
   "groups_whitelist_title": {
     "message": "これらのグループのタブを保存しない"
@@ -813,7 +813,7 @@
     "message": "サイトをタブグループにバインド"
   },
   "bind_sites_description": {
-    "message": "保存されたときにこのタブグループに自動的に追加されるサイトのリスト。バインドしたい各ページのURLを新しい行に追加してください。例:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n1行で複数のサイトをホワイトリストに追加するには、URLの一部を指定できます:\ngoogle.com\nまた、テキストをスラッシュで囲んで正規表現を指定することもできます:\n/^https:.*google\\.com/"
+    "message": "保存時にこのタブグループに自動的に追加されるサイトのリストです。リンクさせたい各ページのURLを1行ずつ入力してください。例：\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n複数のサイトを1行で指定する場合は、URLの一部だけを指定することも可能です：\ngoogle.com\nまた、スラッシュで囲むことで正規表現を使うこともできます：\n/^https:.*google\\.com/"
   },
   "review_hint": {
     "message": "ねえ、シーッ…"
