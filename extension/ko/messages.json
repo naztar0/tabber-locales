@@ -506,9 +506,6 @@
   "tutorial_preserve_tab_title": {
     "message": "첫 번째 탭을 보존해봅시다!"
   },
-  "tutorial_preserve_tab_description_1": {
-    "message": "1. %link% 또는 다른 웹사이트로 이동하세요."
-  },
   "tutorial_preserve_tab_description_2": {
     "message": "2. 브라우저 우측 상단의 확장 프로그램 아이콘을 클릭하거나 페이지에서 마우스 오른쪽 버튼을 클릭하세요."
   },
@@ -535,9 +532,6 @@
   },
   "tutorial_create_tab_group_description_2": {
     "message": "2. 그룹 이름을 입력하고 색상을 선택한 후 <kbd>생성</kbd>을 클릭하세요."
-  },
-  "tutorial_create_tab_group_description_3": {
-    "message": "3. %link% 또는 다른 웹사이트로 이동해 보존하세요."
   },
   "tutorial_create_tab_group_description_4": {
     "message": "4. Tabber로 돌아오세요."
