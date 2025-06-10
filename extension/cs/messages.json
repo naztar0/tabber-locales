@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "Tímto se odstraní prázdné skupiny karet a duplicitní karty. Tuto akci nelze vrátit zpět."
   },
+  "share": {
+    "message": "Sdílet"
+  },
+  "bind_sites": {
+    "message": "Připojit weby"
+  },
+  "merge_with": {
+    "message": "Sloučit s"
+  },
+  "no_tab_groups": {
+    "message": "Žádné skupiny karet"
+  },
+  "all_tab_groups": {
+    "message": "Všechny skupiny karet"
+  },
   "cancel": {
     "message": "Zrušit"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "Obnovit"
-  },
-  "share": {
-    "message": "Sdílet"
-  },
-  "bind_sites": {
-    "message": "Připojit weby"
-  },
-  "merge_with": {
-    "message": "Sloučit s"
-  },
-  "no_tab_groups": {
-    "message": "Žádné skupiny karet"
-  },
-  "all_tab_groups": {
-    "message": "Všechny skupiny karet"
-  },
-  "read_less": {
-    "message": "Méně"
-  },
-  "read_more": {
-    "message": "Více"
   },
   "name": {
     "message": "Název"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "Pokračovat"
+  },
+  "apply": {
+    "message": "Použít"
+  },
+  "understood": {
+    "message": "Jdeme na to!"
+  },
+  "view_less": {
+    "message": "Zobrazit méně"
+  },
+  "view_more": {
+    "message": "Zobrazit více"
   },
   "main_tab_group": {
     "message": "Hlavní"
@@ -345,45 +351,39 @@
     "message": "Vylepšete si prohlížení s Tabber Plus. Rozlučte se s nepořádkem na kartách a objevte svět nástrojů zvyšujících produktivitu, které změní způsob vaší práce online."
   },
   "plus_feature_title_1": {
-    "message": "Neomezené skupiny karet"
+    "message": "Více výkonu pro AI třídění"
   },
   "plus_feature_title_2": {
-    "message": "Pokročilý AI model pro seskupování"
-  },
-  "plus_feature_title_3": {
     "message": "Automatická cloudová synchronizace"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "Úplná historie synchronizace"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "Vlastní pozadí"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "Prioritní podpora"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "Exkluzivní příspěvky na Patreonu"
   },
   "plus_feature_desc_1": {
-    "message": "Už žádné limity pro počet skupin karet, které můžete vytvořit."
+    "message": "Získejte až 5x vyšší limity pro třídění pomocí AI."
   },
   "plus_feature_desc_2": {
-    "message": "Vylepšený model AI a vyšší limity použití."
-  },
-  "plus_feature_desc_3": {
     "message": "Vaše karty se automaticky synchronizují napříč všemi zařízeními."
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "Přístup k úplné historii synchronizace a možnost obnovení jakékoli zálohy."
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "Použijte vlastní pozadí pro stránky bez náhledu."
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "Vaše dotazy a problémy budou rychle řešeny pro plynulý zážitek."
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "Získejte exkluzivní přístup k příspěvkům, anketám a novinkám na Patreonu."
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "Chyba"
-  },
-  "tab_group_limit": {
-    "message": "Přejděte na Tabber Plus pro vytvoření více skupin karet"
   },
   "sync_to_cloud": {
     "message": "Synchronizovat do cloudu"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "Seskupování karet pomocí AI"
   },
-  "ai_group_description": {
-    "message": "Chystáte se seskupit své karty pomocí AI, která analyzuje jejich témata na základě názvů a odkazů.\nPřed seskupením bude vytvořena záloha, takže se můžete kdykoliv vrátit zpět.\nPočet požadavků je omezen a závisí na počtu vašich karet. Přibližně 2 požadavky denně pro 50 karet.\nModel AI není dokonalý a může se splést. Seskupení můžete vždy upravit ručně.\nMůžete také předem zadat názvy skupin, které mají být v seznamu – oddělte je novými řádky:\nMoje práce\nŠkola\nZábava"
+  "ai_group_help_1": {
+    "message": "Chystáte se seskupit své panely pomocí AI, která analyzuje jejich témata podle názvů a odkazů.\nPřed tříděním bude vytvořena záloha aktuálních panelů, takže se můžete kdykoliv vrátit zpět."
+  },
+  "ai_group_help_2": {
+    "message": "Automatické třídění\nTato metoda sama rozhodne, kolik skupin vytvořit na základě obsahu panelů.\n✅ Není třeba vybírat počet skupin\n✅ Skupiny jsou obvykle přehledné a dobře oddělené\n⚠️ Některé panely mohou zůstat nezařazené, pokud se jednoznačně nehodí do žádné skupiny"
+  },
+  "ai_group_help_3": {
+    "message": "Pevné třídění\nTato metoda umožňuje zvolit, kolik skupin chcete. Všechny panely budou zařazeny do nějaké skupiny, i když nebude shoda dokonalá.\n✅ Každý panel bude určitě ve skupině\n⚠️ Třídění může být méně přesné, pokud jsou panely příliš rozdílné"
+  },
+  "ai_group_help_4": {
+    "message": "Počet požadavků je omezený a závisí na počtu panelů.\nSpotřebu můžete výrazně snížit, pokud vypnete generování názvů skupin. Nejdříve najděte nejlepší způsob třídění bez názvů, a pak to zopakujte s jejich generováním."
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "Automatické"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "Pevné"
+  },
+  "ai_group_clusters_count": {
+    "message": "±$1 skupin"
+  },
+  "ai_group_generate_names": {
+    "message": "Generovat názvy"
   },
   "ai_group_select_group": {
     "message": "Seskupit karty z"
   },
+  "ai_group_remaining": {
+    "message": "Zbývá dnes"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "Zvolte nejlepší možnost pro vás"
+  },
+  "ai_group_error_sign_in": {
+    "message": "Pro použití AI třídění se musíte přihlásit"
+  },
   "ai_group_error_unauthorized": {
     "message": "Neautorizováno"
-  },
-  "ai_group_error_no_license": {
-    "message": "Chybí licence"
   },
   "ai_group_error_quota_exceeded": {
     "message": "Překročena kvóta"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "Seznam karet"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1 skupin panelů"
+  },
+  "tab_groups_count_one": {
+    "message": "$1 skupina panelů"
+  },
+  "tab_groups_count_two": {
+    "message": "$1 skupiny panelů"
+  },
+  "tab_groups_count_few": {
+    "message": "$1 skupiny panelů"
+  },
+  "tab_groups_count_many": {
+    "message": "$1 skupin panelů"
+  },
+  "tab_groups_count_other": {
+    "message": "$1 skupin panelů"
   }
 }

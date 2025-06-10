@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "Questo eliminerà i gruppi di schede vuoti e i duplicati. Questa azione è irreversibile."
   },
+  "share": {
+    "message": "Condividi"
+  },
+  "bind_sites": {
+    "message": "Associa siti"
+  },
+  "merge_with": {
+    "message": "Unisci con"
+  },
+  "no_tab_groups": {
+    "message": "Nessun gruppo di schede"
+  },
+  "all_tab_groups": {
+    "message": "Tutti i gruppi di schede"
+  },
   "cancel": {
     "message": "Annulla"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "Ripristina"
-  },
-  "share": {
-    "message": "Condividi"
-  },
-  "bind_sites": {
-    "message": "Associa siti"
-  },
-  "merge_with": {
-    "message": "Unisci con"
-  },
-  "no_tab_groups": {
-    "message": "Nessun gruppo di schede"
-  },
-  "all_tab_groups": {
-    "message": "Tutti i gruppi di schede"
-  },
-  "read_less": {
-    "message": "Leggi meno"
-  },
-  "read_more": {
-    "message": "Leggi di più"
   },
   "name": {
     "message": "Nome"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "Procedi"
+  },
+  "apply": {
+    "message": "Applica"
+  },
+  "understood": {
+    "message": "Andiamo!"
+  },
+  "view_less": {
+    "message": "Mostra meno"
+  },
+  "view_more": {
+    "message": "Mostra di più"
   },
   "main_tab_group": {
     "message": "Principale"
@@ -345,45 +351,39 @@
     "message": "Migliora la tua esperienza di navigazione con Tabber Plus. Dì addio al disordine di schede e scopri un mondo di strumenti per aumentare la produttività che trasformeranno il tuo modo di lavorare online."
   },
   "plus_feature_title_1": {
-    "message": "Gruppi di schede illimitati"
+    "message": "Più potenza all'IA"
   },
   "plus_feature_title_2": {
-    "message": "Modello IA avanzato per la raggruppazione"
-  },
-  "plus_feature_title_3": {
     "message": "Sincronizzazione automatica nel cloud"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "Cronologia completa delle sincronizzazioni"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "Sfondo personalizzato"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "Supporto prioritario"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "Post esclusivi su Patreon"
   },
   "plus_feature_desc_1": {
-    "message": "Nessun limite al numero di schede che puoi raggruppare."
+    "message": "Ottieni fino a 5 volte più limiti per il raggruppamento delle schede tramite IA."
   },
   "plus_feature_desc_2": {
-    "message": "Modello IA potenziato e limiti di utilizzo più alti."
-  },
-  "plus_feature_desc_3": {
     "message": "Le tue schede vengono sincronizzate automaticamente su tutti i tuoi dispositivi."
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "Accedi alla cronologia completa delle sincronizzazioni e ripristina qualsiasi backup."
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "Applica uno sfondo personalizzato alle pagine senza anteprime."
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "Domande e problemi verranno gestiti tempestivamente per garantirti un'esperienza fluida."
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "Ottieni accesso esclusivo ai post su Patreon, sondaggi e resta aggiornato su novità, suggerimenti e trucchi."
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "Errore"
-  },
-  "tab_group_limit": {
-    "message": "Aggiorna a Tabber Plus per creare altri gruppi di schede"
   },
   "sync_to_cloud": {
     "message": "Sincronizza nel cloud"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "Raggruppamento schede con IA"
   },
-  "ai_group_description": {
-    "message": "Stai per raggruppare le tue schede usando l'IA, che analizzerà i titoli e i link per determinare gli argomenti.\nPrima del raggruppamento, verrà creato un backup delle schede attuali, così potrai sempre tornare indietro.\nIl numero di richieste è limitato e dipende dal numero di schede, puoi fare circa 2 richieste al giorno con 50 schede.\nIl modello IA non è perfetto e può commettere errori. Puoi correggere manualmente la suddivisione in gruppi.\nPuoi specificare i nomi dei gruppi che devono essere presenti, separandoli con una nuova riga. Ad esempio:\nLavoro\nStudio\nIntrattenimento"
+  "ai_group_help_1": {
+    "message": "Stai per raggruppare le tue schede usando l'IA, che analizzerà i loro contenuti in base a titoli e link.\nPrima del raggruppamento, verrà creato un backup delle schede attuali, così potrai sempre tornare indietro."
+  },
+  "ai_group_help_2": {
+    "message": "Raggruppamento automatico\nQuesto metodo decide automaticamente quante gruppi creare in base al contenuto delle schede.\n✅ Non serve scegliere il numero di gruppi\n✅ I gruppi sono solitamente ordinati e ben separati\n⚠️ Alcune schede potrebbero non essere raggruppate se non corrispondono chiaramente a nessun gruppo"
+  },
+  "ai_group_help_3": {
+    "message": "Raggruppamento fisso\nQuesto metodo ti consente di scegliere il numero esatto di gruppi che desideri. Tutte le schede saranno incluse in qualche gruppo, anche se la corrispondenza non è perfetta.\n✅ Ogni scheda sarà sicuramente inserita in un gruppo\n⚠️ Il raggruppamento potrebbe essere meno preciso se le schede sono molto diverse tra loro"
+  },
+  "ai_group_help_4": {
+    "message": "Il numero di richieste è limitato e dipende da quante schede hai.\nPuoi ridurre di molto l'utilizzo saltando la generazione dei nomi dei gruppi. Trova prima il miglior metodo di raggruppamento senza nomi, poi eseguilo di nuovo con i nomi."
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "Automatico"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "Fisso"
+  },
+  "ai_group_clusters_count": {
+    "message": "±$1 gruppi"
+  },
+  "ai_group_generate_names": {
+    "message": "Genera nomi"
   },
   "ai_group_select_group": {
     "message": "Raggruppa le schede da"
   },
+  "ai_group_remaining": {
+    "message": "Rimanenti oggi"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "Scegli l'opzione migliore per te"
+  },
+  "ai_group_error_sign_in": {
+    "message": "Devi accedere per usare il raggruppamento IA"
+  },
   "ai_group_error_unauthorized": {
     "message": "Non autorizzato"
-  },
-  "ai_group_error_no_license": {
-    "message": "Nessuna licenza"
   },
   "ai_group_error_quota_exceeded": {
     "message": "Quota superata"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "Elenco delle schede"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1 gruppi di schede"
+  },
+  "tab_groups_count_one": {
+    "message": "$1 gruppo di schede"
+  },
+  "tab_groups_count_two": {
+    "message": "$1 gruppi di schede"
+  },
+  "tab_groups_count_few": {
+    "message": "$1 gruppi di schede"
+  },
+  "tab_groups_count_many": {
+    "message": "$1 gruppi di schede"
+  },
+  "tab_groups_count_other": {
+    "message": "$1 gruppi di schede"
   }
 }

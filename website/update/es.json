@@ -100,5 +100,39 @@
         "Se añadió un color predeterminado al selector de color."
       ]
     }
+  },
+  "1.9": {
+    "title": "Tabber actualizado a la versión 1.9",
+    "subtitle": "Descubre las últimas funciones y mejoras",
+    "content_main": [
+      {
+        "title": "Agrupación con IA 2.0",
+        "description": [
+          "La agrupación de pestañas ha sido completamente rediseñada.",
+          "Elige entre dos métodos según tus necesidades y haz seguimiento de tu uso diario con el nuevo contador. ¡No más pestañas sin agrupar!"
+        ],
+        "image": "/static/update/1.9/tabs-grouping.jpg"
+      },
+      {
+        "title": "Nuevo diseño de vistas previas",
+        "description": [
+          "El historial de copias de seguridad ahora admite cuatro diseños: vista de lista y tres tipos de cuadrícula."
+        ],
+        "image": "/static/update/1.9/previews-design.jpg"
+      },
+      {
+        "title": "Ahora disponible en 30 idiomas",
+        "description": [
+          "¿Encontraste un error de traducción? Ahora puedes sugerir correcciones en [Crowdin](https://crowdin.com/project/tabber)."
+        ],
+        "image": "/static/update/1.9/crowdin.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "Otras mejoras",
+      "description": [
+        "Sin más límites: ¡los usuarios gratuitos ahora pueden crear tantos grupos como deseen!"
+      ]
+    }
   }
 }

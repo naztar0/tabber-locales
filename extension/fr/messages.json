@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "Cela supprimera les groupes d'onglets vides et les onglets en double. Cette action ne peut pas être annulée."
   },
+  "share": {
+    "message": "Partager"
+  },
+  "bind_sites": {
+    "message": "Lier des sites"
+  },
+  "merge_with": {
+    "message": "Fusionner avec"
+  },
+  "no_tab_groups": {
+    "message": "Aucun groupe d'onglets"
+  },
+  "all_tab_groups": {
+    "message": "Tous les groupes d'onglets"
+  },
   "cancel": {
     "message": "Annuler"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "Restaurer"
-  },
-  "share": {
-    "message": "Partager"
-  },
-  "bind_sites": {
-    "message": "Lier des sites"
-  },
-  "merge_with": {
-    "message": "Fusionner avec"
-  },
-  "no_tab_groups": {
-    "message": "Aucun groupe d'onglets"
-  },
-  "all_tab_groups": {
-    "message": "Tous les groupes d'onglets"
-  },
-  "read_less": {
-    "message": "Afficher moins"
-  },
-  "read_more": {
-    "message": "Afficher plus"
   },
   "name": {
     "message": "Nom"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "Procéder"
+  },
+  "apply": {
+    "message": "Appliquer"
+  },
+  "understood": {
+    "message": "C'est parti !"
+  },
+  "view_less": {
+    "message": "Voir moins"
+  },
+  "view_more": {
+    "message": "Voir plus"
   },
   "main_tab_group": {
     "message": "Principal"
@@ -345,45 +351,39 @@
     "message": "Améliorez votre expérience de navigation avec Tabber Plus. Dites adieu au désordre des onglets et découvrez un monde d'outils augmentant la productivité qui transformeront votre façon de travailler en ligne."
   },
   "plus_feature_title_1": {
-    "message": "Groupes d'onglets illimités"
+    "message": "Plus de puissance d'IA"
   },
   "plus_feature_title_2": {
-    "message": "Modèle d'IA avancé pour le regroupement"
-  },
-  "plus_feature_title_3": {
     "message": "Synchronisation automatique avec le cloud"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "Historique complet de synchronisation"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "Arrière-plan personnalisé"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "Support prioritaire"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "Publications exclusives sur Patreon"
   },
   "plus_feature_desc_1": {
-    "message": "Plus de limites sur le nombre d'onglets que vous pouvez grouper."
+    "message": "Profitez de limites jusqu'à 5 fois plus élevées pour le regroupement d'onglets par IA."
   },
   "plus_feature_desc_2": {
-    "message": "Modèle d'IA amélioré et limites d'utilisation accrues."
-  },
-  "plus_feature_desc_3": {
     "message": "Vos onglets sont automatiquement synchronisés sur tous vos appareils."
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "Accédez à votre historique complet de synchronisations et restaurez n'importe quelle sauvegarde."
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "Appliquez un arrière-plan personnalisé aux pages sans prévisualisation."
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "Toutes les questions et préoccupations seront traitées rapidement, assurant une expérience fluide."
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "Accès exclusif aux publications sur Patreon, sondages et restez informé des dernières mises à jour, astuces et conseils."
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "Erreur"
-  },
-  "tab_group_limit": {
-    "message": "Mettez à niveau vers Tabber Plus pour créer plus de groupes d'onglets"
   },
   "sync_to_cloud": {
     "message": "Synchroniser avec le cloud"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "Regroupement des onglets par IA"
   },
-  "ai_group_description": {
-    "message": "Vous allez regrouper vos onglets en utilisant l'IA, qui analysera leurs sujets en se basant sur les titres et les liens.\nAvant le regroupement, une sauvegarde de vos onglets actuels sera créée, vous pouvez donc toujours revenir en arrière.\nLe nombre de requêtes est limité et dépend du nombre de vos onglets. Vous pouvez faire environ 2 requêtes par jour avec 50 onglets.\nLe modèle d'IA n'est pas parfait et peut commettre des erreurs. Vous pouvez toujours corriger manuellement le regroupement.\nVous pouvez spécifier les noms de groupe qui doivent être présents. Spécifiez-les séparés par des sauts de ligne, par exemple :\nMon travail\nÉtudes\nDivertissement"
+  "ai_group_help_1": {
+    "message": "Vous allez regrouper vos onglets à l'aide de l'IA, qui analysera leurs sujets en fonction des titres et des liens.\nAvant le regroupement, une sauvegarde de vos onglets actuels sera créée afin que vous puissiez toujours revenir en arrière."
+  },
+  "ai_group_help_2": {
+    "message": "Regroupement automatique\nCette méthode détermine automatiquement combien de groupes créer en fonction du contenu de vos onglets.\n✅ Pas besoin de choisir le nombre de groupes\n✅ Les groupes sont généralement clairs et bien séparés\n⚠️ Certains onglets peuvent rester non groupés s’ils ne correspondent clairement à aucun groupe"
+  },
+  "ai_group_help_3": {
+    "message": "Regroupement fixe\nCette méthode vous permet de choisir combien de groupes vous souhaitez. Tous les onglets seront inclus dans un groupe, même si la correspondance n’est pas parfaite.\n✅ Chaque onglet est garanti d’être regroupé\n⚠️ Le regroupement peut être moins précis si les onglets sont très différents"
+  },
+  "ai_group_help_4": {
+    "message": "Le nombre de requêtes est limité et dépend du nombre d’onglets que vous avez.\nVous pouvez considérablement réduire l’utilisation en désactivant la génération de noms de groupe. Commencez par trouver la meilleure façon de regrouper sans noms, puis relancez avec les noms."
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "Automatique"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "Fixe"
+  },
+  "ai_group_clusters_count": {
+    "message": "±$1 groupes"
+  },
+  "ai_group_generate_names": {
+    "message": "Générer les noms"
   },
   "ai_group_select_group": {
     "message": "Grouper les onglets de"
   },
+  "ai_group_remaining": {
+    "message": "Restant aujourd’hui"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "Choisissez l’option qui vous convient le mieux"
+  },
+  "ai_group_error_sign_in": {
+    "message": "Vous devez vous connecter pour utiliser le regroupement par IA"
+  },
   "ai_group_error_unauthorized": {
     "message": "Non autorisé"
-  },
-  "ai_group_error_no_license": {
-    "message": "Pas de licence"
   },
   "ai_group_error_quota_exceeded": {
     "message": "Quota dépassé"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "Liste des onglets"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1 groupes d’onglets"
+  },
+  "tab_groups_count_one": {
+    "message": "$1 groupe d’onglets"
+  },
+  "tab_groups_count_two": {
+    "message": "$1 groupes d’onglets"
+  },
+  "tab_groups_count_few": {
+    "message": "$1 groupes d’onglets"
+  },
+  "tab_groups_count_many": {
+    "message": "$1 groupes d’onglets"
+  },
+  "tab_groups_count_other": {
+    "message": "$1 groupes d’onglets"
   }
 }

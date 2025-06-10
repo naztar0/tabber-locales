@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "Detta tar bort tomma flikgrupper och dubbletter. Denna åtgärd kan inte ångras."
   },
+  "share": {
+    "message": "Dela"
+  },
+  "bind_sites": {
+    "message": "Länka webbplatser"
+  },
+  "merge_with": {
+    "message": "Sammanfoga med"
+  },
+  "no_tab_groups": {
+    "message": "Inga flikgrupper"
+  },
+  "all_tab_groups": {
+    "message": "Alla flikgrupper"
+  },
   "cancel": {
     "message": "Avbryt"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "Återställ"
-  },
-  "share": {
-    "message": "Dela"
-  },
-  "bind_sites": {
-    "message": "Länka webbplatser"
-  },
-  "merge_with": {
-    "message": "Sammanfoga med"
-  },
-  "no_tab_groups": {
-    "message": "Inga flikgrupper"
-  },
-  "all_tab_groups": {
-    "message": "Alla flikgrupper"
-  },
-  "read_less": {
-    "message": "Läs mindre"
-  },
-  "read_more": {
-    "message": "Läs mer"
   },
   "name": {
     "message": "Namn"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "Fortsätt"
+  },
+  "apply": {
+    "message": "Verkställ"
+  },
+  "understood": {
+    "message": "Nu kör vi!"
+  },
+  "view_less": {
+    "message": "Visa mindre"
+  },
+  "view_more": {
+    "message": "Visa mer"
   },
   "main_tab_group": {
     "message": "Huvud"
@@ -345,45 +351,39 @@
     "message": "Uppgradera din webbsurfning med Tabber Plus. Säg hejdå till flikkaos och upptäck en värld av produktivitetshöjande verktyg som förändrar hur du arbetar online."
   },
   "plus_feature_title_1": {
-    "message": "Obegränsade flikgrupper"
+    "message": "Mer AI-kraft för grupper"
   },
   "plus_feature_title_2": {
-    "message": "Avancerad AI-modell för gruppering"
-  },
-  "plus_feature_title_3": {
     "message": "Automatisk molnsynkronisering"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "Fullständig synkhistorik"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "Anpassad bakgrund"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "Prioriterad support"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "Exklusiva Patreon-inlägg"
   },
   "plus_feature_desc_1": {
-    "message": "Inga fler begränsningar för hur många flikar du kan gruppera."
+    "message": "Få upp till 5x högre gränser för AI-gruppering."
   },
   "plus_feature_desc_2": {
-    "message": "Förbättrad AI-modell och högre användningsgränser."
-  },
-  "plus_feature_desc_3": {
     "message": "Dina flikar synkroniseras automatiskt mellan alla dina enheter."
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "Få tillgång till hela synkhistoriken och återställ vilken säkerhetskopia som helst."
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "Använd en egen bakgrund på sidor utan förhandsvisning."
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "Alla frågor och funderingar hanteras snabbt för att säkerställa en smidig upplevelse."
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "Få exklusiv tillgång till Patreon-inlägg, omröstningar och håll dig uppdaterad med de senaste nyheterna, tipsen och trixen."
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "Fel"
-  },
-  "tab_group_limit": {
-    "message": "Uppgradera till Tabber Plus för att skapa fler flikgrupper"
   },
   "sync_to_cloud": {
     "message": "Synkronisera till molnet"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "AI-baserad flikgruppering"
   },
-  "ai_group_description": {
-    "message": "Du kommer att gruppera dina flikar med hjälp av AI, som analyserar deras innehåll baserat på titlar och länkar.\nInnan gruppering skapas en säkerhetskopia av dina aktuella flikar, så att du alltid kan ångra.\nAntalet förfrågningar är begränsat och beror på hur många flikar du har. Du kan göra ungefär 2 förfrågningar per dag med 50 flikar.\nAI-modellen är inte perfekt och kan göra misstag. Du kan alltid justera grupperingen manuellt.\nDu kan ange gruppnamn som måste finnas med. Skriv dem separerade med radbrytningar, exempelvis:\nMitt arbete\nStudier\nUnderhållning"
+  "ai_group_help_1": {
+    "message": "Du kommer att gruppera dina flikar med hjälp av AI, som analyserar deras ämnen baserat på titlar och länkar.\nInnan grupperingen görs en säkerhetskopia av dina aktuella flikar, så att du alltid kan återställa."
+  },
+  "ai_group_help_2": {
+    "message": "Automatisk gruppering\nDen här metoden avgör automatiskt hur många grupper som ska skapas baserat på innehållet i dina flikar.\n✅ Du behöver inte välja antal grupper\n✅ Grupperna är oftast tydliga och väl åtskilda\n⚠️ Vissa flikar kan bli ogrupperade om de inte tydligt passar in i någon grupp"
+  },
+  "ai_group_help_3": {
+    "message": "Fast gruppering\nDen här metoden låter dig välja hur många grupper du vill ha. Alla flikar kommer att ingå i någon grupp, även om de inte passar perfekt.\n✅ Varje flik placeras garanterat i en grupp\n⚠️ Grupperingen kan bli mindre exakt om flikarna skiljer sig mycket åt"
+  },
+  "ai_group_help_4": {
+    "message": "Antalet förfrågningar är begränsat och beror på hur många flikar du har.\nDu kan minska användningen mycket genom att hoppa över namn generering. Hitta först den bästa grupperingstekniken utan namn, och kör sedan igen med namn."
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "Automatisk"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "Fast"
+  },
+  "ai_group_clusters_count": {
+    "message": "±$1 grupper"
+  },
+  "ai_group_generate_names": {
+    "message": "Generera namn"
   },
   "ai_group_select_group": {
     "message": "Gruppera flikar från"
   },
+  "ai_group_remaining": {
+    "message": "Kvar idag"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "Välj det alternativ som passar dig bäst"
+  },
+  "ai_group_error_sign_in": {
+    "message": "Du måste logga in för att använda AI-gruppering"
+  },
   "ai_group_error_unauthorized": {
     "message": "Ej auktoriserad"
-  },
-  "ai_group_error_no_license": {
-    "message": "Ingen licens"
   },
   "ai_group_error_quota_exceeded": {
     "message": "Kvot överskriden"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "Fliklista"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1 flikgrupper"
+  },
+  "tab_groups_count_one": {
+    "message": "$1 flikgrupp"
+  },
+  "tab_groups_count_two": {
+    "message": "$1 flikgrupper"
+  },
+  "tab_groups_count_few": {
+    "message": "$1 flikgrupper"
+  },
+  "tab_groups_count_many": {
+    "message": "$1 flikgrupper"
+  },
+  "tab_groups_count_other": {
+    "message": "$1 flikgrupper"
   }
 }

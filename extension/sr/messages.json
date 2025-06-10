@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "Ovo će izbrisati prazne grupe kartica i duplikate. Ova radnja se ne može opozvati."
   },
+  "share": {
+    "message": "Podeli"
+  },
+  "bind_sites": {
+    "message": "Poveži sajtove"
+  },
+  "merge_with": {
+    "message": "Spoji sa"
+  },
+  "no_tab_groups": {
+    "message": "Nema grupa kartica"
+  },
+  "all_tab_groups": {
+    "message": "Sve grupe kartica"
+  },
   "cancel": {
     "message": "Otkaži"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "Vrati"
-  },
-  "share": {
-    "message": "Podeli"
-  },
-  "bind_sites": {
-    "message": "Poveži sajtove"
-  },
-  "merge_with": {
-    "message": "Spoji sa"
-  },
-  "no_tab_groups": {
-    "message": "Nema grupa kartica"
-  },
-  "all_tab_groups": {
-    "message": "Sve grupe kartica"
-  },
-  "read_less": {
-    "message": "Prikaži manje"
-  },
-  "read_more": {
-    "message": "Prikaži više"
   },
   "name": {
     "message": "Naziv"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "Nastavi"
+  },
+  "apply": {
+    "message": "Primeni"
+  },
+  "understood": {
+    "message": "Krenimo!"
+  },
+  "view_less": {
+    "message": "Prikaži manje"
+  },
+  "view_more": {
+    "message": "Prikaži više"
   },
   "main_tab_group": {
     "message": "Glavna"
@@ -345,45 +351,39 @@
     "message": "Unapredite svoje pretraživanje uz Tabber Plus. Recite zbogom haosu kartica i otkrijte svet alata za povećanje produktivnosti koji će promeniti način na koji radite online."
   },
   "plus_feature_title_1": {
-    "message": "Neograničene grupe kartica"
+    "message": "Još više moći veštačke inteligencije"
   },
   "plus_feature_title_2": {
-    "message": "Napredni AI model za grupisanje"
-  },
-  "plus_feature_title_3": {
     "message": "Automatska sinhronizacija sa oblakom"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "Kompletna istorija sinhronizacije"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "Prilagođena pozadina"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "Prioritetna podrška"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "Ekskluzivne objave na Patreonu"
   },
   "plus_feature_desc_1": {
-    "message": "Više nema ograničenja u broju grupa koje možete kreirati."
+    "message": "Dobijte i do 5 puta veće limite za grupisanje pomoću veštačke inteligencije."
   },
   "plus_feature_desc_2": {
-    "message": "Poboljšani AI model i viši limiti korišćenja."
-  },
-  "plus_feature_desc_3": {
     "message": "Vaše kartice se automatski sinhronizuju sa svim vašim uređajima."
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "Pristup kompletnoj istoriji sinhronizacije i vraćanju bilo koje kopije."
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "Postavite prilagođenu pozadinu za stranice bez pregleda."
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "Vaša pitanja i problemi biće brzo rešeni, za nesmetano iskustvo."
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "Dobijte ekskluzivan pristup objavama, anketama i novostima na Patreonu."
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "Greška"
-  },
-  "tab_group_limit": {
-    "message": "Nadogradite na Tabber Plus da biste kreirali više grupa kartica"
   },
   "sync_to_cloud": {
     "message": "Sinhronizuj u oblak"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "Grupisanje kartica pomoću veštačke inteligencije"
   },
-  "ai_group_description": {
-    "message": "Grupisaćete kartice pomoću AI modela koji analizira naslove i linkove da bi odredio temu.\nPre grupisanja biće kreirana rezervna kopija postojećih kartica, tako da možete vratiti prethodno stanje.\nBroj zahteva je ograničen i zavisi od broja kartica. Možete napraviti otprilike 2 zahteva dnevno za 50 kartica.\nModel nije savršen i može praviti greške. Grupisanje uvek možete ručno korigovati.\nMožete navesti imena grupa koja moraju postojati. Unesite ih svaki u novom redu, na primer:\nPosao\nStudije\nZabava"
+  "ai_group_help_1": {
+    "message": "Grupišete svoje kartice pomoću veštačke inteligencije koja analizira njihove teme na osnovu naslova i linkova.\nPre grupisanja će biti napravljena rezervna kopija trenutnih kartica, tako da uvek možete da se vratite unazad."
+  },
+  "ai_group_help_2": {
+    "message": "Automatsko grupisanje\nOva metoda automatski određuje koliko grupa treba napraviti na osnovu sadržaja kartica.\n✅ Nema potrebe da birate broj grupa\n✅ Grupe su obično jasne i dobro razdvojene\n⚠️ Neke kartice mogu ostati negrupisane ako se ne uklapaju jasno ni u jednu grupu"
+  },
+  "ai_group_help_3": {
+    "message": "Fiksno grupisanje\nOva metoda vam omogućava da odredite tačan broj grupa. Sve kartice će biti uključene u neku grupu, čak i ako podudaranje nije savršeno.\n✅ Svaka kartica će sigurno biti grupisana\n⚠️ Grupisanje može biti manje precizno ako su kartice veoma različite"
+  },
+  "ai_group_help_4": {
+    "message": "Broj zahteva je ograničen i zavisi od broja kartica koje imate.\nMožete značajno uštedeti ako preskočite generisanje imena grupa. Prvo pronađite najbolji način grupisanja bez imena, pa zatim ponovite sa njima."
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "Automatsko"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "Fiksno"
+  },
+  "ai_group_clusters_count": {
+    "message": "±$1 grupa"
+  },
+  "ai_group_generate_names": {
+    "message": "Generiši imena"
   },
   "ai_group_select_group": {
     "message": "Grupiši kartice iz"
   },
+  "ai_group_remaining": {
+    "message": "Preostalo danas"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "Izaberite opciju koja vam najviše odgovara"
+  },
+  "ai_group_error_sign_in": {
+    "message": "Morate se prijaviti da biste koristili grupisanje pomoću veštačke inteligencije"
+  },
   "ai_group_error_unauthorized": {
     "message": "Neautorizovano"
-  },
-  "ai_group_error_no_license": {
-    "message": "Nema licence"
   },
   "ai_group_error_quota_exceeded": {
     "message": "Prekoračen broj zahteva"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "Lista kartica"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1 grupa kartica"
+  },
+  "tab_groups_count_one": {
+    "message": "$1 grupa kartica"
+  },
+  "tab_groups_count_two": {
+    "message": "$1 grupe kartica"
+  },
+  "tab_groups_count_few": {
+    "message": "$1 grupe kartica"
+  },
+  "tab_groups_count_many": {
+    "message": "$1 grupa kartica"
+  },
+  "tab_groups_count_other": {
+    "message": "$1 grupa kartica"
   }
 }

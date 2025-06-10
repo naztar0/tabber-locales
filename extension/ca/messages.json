@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "Això eliminarà grups de pestanyes buits i pestanyes duplicades. Aquesta acció no es pot desfer."
   },
+  "share": {
+    "message": "Comparteix"
+  },
+  "bind_sites": {
+    "message": "Associa llocs"
+  },
+  "merge_with": {
+    "message": "Fusió amb"
+  },
+  "no_tab_groups": {
+    "message": "Sense grups de pestanyes"
+  },
+  "all_tab_groups": {
+    "message": "Tots els grups de pestanyes"
+  },
   "cancel": {
     "message": "Cancel·la"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "Restaura"
-  },
-  "share": {
-    "message": "Comparteix"
-  },
-  "bind_sites": {
-    "message": "Associa llocs"
-  },
-  "merge_with": {
-    "message": "Fusió amb"
-  },
-  "no_tab_groups": {
-    "message": "Sense grups de pestanyes"
-  },
-  "all_tab_groups": {
-    "message": "Tots els grups de pestanyes"
-  },
-  "read_less": {
-    "message": "Llegeix menys"
-  },
-  "read_more": {
-    "message": "Llegeix més"
   },
   "name": {
     "message": "Nom"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "Continua"
+  },
+  "apply": {
+    "message": "Aplica"
+  },
+  "understood": {
+    "message": "Som-hi!"
+  },
+  "view_less": {
+    "message": "Mostra'n menys"
+  },
+  "view_more": {
+    "message": "Mostra'n més"
   },
   "main_tab_group": {
     "message": "Principal"
@@ -345,45 +351,39 @@
     "message": "Millora la teva experiència de navegació amb Tabber Plus. Digueu adéu al desordre de pestanyes i descobreix eines per augmentar la productivitat que transformaran la manera com treballes en línia."
   },
   "plus_feature_title_1": {
-    "message": "Grups de pestanyes il·limitats"
+    "message": "Més potència d'agrupació amb IA"
   },
   "plus_feature_title_2": {
-    "message": "Model d’IA avançat per a la classificació"
-  },
-  "plus_feature_title_3": {
     "message": "Sincronització automàtica al núvol"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "Historial complet de sincronització"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "Fons personalitzat"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "Suport prioritari"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "Publicacions exclusives a Patreon"
   },
   "plus_feature_desc_1": {
-    "message": "Ja no hi ha límits en el nombre de pestanyes que pots agrupar."
+    "message": "Obtén fins a 5 vegades més límit per a l'agrupació de pestanyes amb IA."
   },
   "plus_feature_desc_2": {
-    "message": "Model d’IA millorat i límits d’ús més alts."
-  },
-  "plus_feature_desc_3": {
     "message": "Les teves pestanyes es sincronitzen automàticament amb tots els teus dispositius."
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "Accedeix a tot l’historial de sincronització i recupera qualsevol còpia de seguretat."
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "Aplica un fons personalitzat a les pàgines sense vista prèvia."
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "Tots els dubtes i problemes es resoldran ràpidament per garantir una experiència fluida."
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "Accedeix exclusivament a publicacions, enquestes i novetats de Patreon."
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "Error"
-  },
-  "tab_group_limit": {
-    "message": "Actualitza a Tabber Plus per crear més grups de pestanyes"
   },
   "sync_to_cloud": {
     "message": "Sincronitza al núvol"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "Agrupació de pestanyes amb IA"
   },
-  "ai_group_description": {
-    "message": "Estàs a punt d’agrupar les pestanyes amb IA, que analitzarà els temes basant-se en títols i enllaços.\nAbans d’agrupar, es crearà una còpia de seguretat de les pestanyes actuals, així sempre podràs tornar enrere.\nEl nombre de sol·licituds és limitat i depèn del nombre de pestanyes. Pots fer aproximadament 2 sol·licituds al dia amb 50 pestanyes.\nEl model d’IA no és perfecte i pot cometre errors. Pots corregir l’agrupació manualment quan vulguis.\nPots especificar els noms dels grups que vols que hi siguin. Escriu-los en línies separades, per exemple:\nFeina\nEstudi\nOci"
+  "ai_group_help_1": {
+    "message": "Estàs a punt d’agrupar les pestanyes amb l’ajuda de la IA, que analitzarà els temes segons els títols i els enllaços.\nAbans de començar, es crearà una còpia de seguretat de les pestanyes actuals, així sempre podràs tornar enrere."
+  },
+  "ai_group_help_2": {
+    "message": "Agrupació Automàtica\nAquest mètode decideix automàticament quants grups crear segons el contingut de les pestanyes.\n✅ No cal triar el nombre de grups\n✅ Els grups solen estar ben separats i clars\n⚠️ Algunes pestanyes podrien quedar fora si no encaixen clarament en cap grup"
+  },
+  "ai_group_help_3": {
+    "message": "Agrupació Fixa\nAquest mètode et permet triar quants grups vols. Totes les pestanyes seran incloses en algun grup, encara que la coincidència no sigui perfecta.\n✅ Totes les pestanyes es col·locaran en algun grup\n⚠️ L'agrupació pot ser menys precisa si les pestanyes són molt diferents"
+  },
+  "ai_group_help_4": {
+    "message": "El nombre de sol·licituds és limitat i depèn de quantes pestanyes tinguis.\nPots reduir molt el consum si omets la generació de noms dels grups. Primer prova la millor manera d’agrupar sense noms i després repeteix amb noms."
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "Automàtica"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "Fixa"
+  },
+  "ai_group_clusters_count": {
+    "message": "±$1 grups"
+  },
+  "ai_group_generate_names": {
+    "message": "Genera noms"
   },
   "ai_group_select_group": {
     "message": "Agrupa pestanyes de"
   },
+  "ai_group_remaining": {
+    "message": "Restants avui"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "Tria l’opció que et vagi millor"
+  },
+  "ai_group_error_sign_in": {
+    "message": "Has d’iniciar sessió per usar l’agrupació amb IA"
+  },
   "ai_group_error_unauthorized": {
     "message": "No autoritzat"
-  },
-  "ai_group_error_no_license": {
-    "message": "Sense llicència"
   },
   "ai_group_error_quota_exceeded": {
     "message": "S’ha superat la quota"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "Llista de pestanyes"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1 grups de pestanyes"
+  },
+  "tab_groups_count_one": {
+    "message": "$1 grup de pestanyes"
+  },
+  "tab_groups_count_two": {
+    "message": "$1 grups de pestanyes"
+  },
+  "tab_groups_count_few": {
+    "message": "$1 grups de pestanyes"
+  },
+  "tab_groups_count_many": {
+    "message": "$1 grups de pestanyes"
+  },
+  "tab_groups_count_other": {
+    "message": "$1 grups de pestanyes"
   }
 }

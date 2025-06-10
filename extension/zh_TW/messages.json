@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "這將刪除空的分頁群組和重複的分頁。此操作無法撤銷。"
   },
+  "share": {
+    "message": "分享"
+  },
+  "bind_sites": {
+    "message": "綁定網站"
+  },
+  "merge_with": {
+    "message": "合併至"
+  },
+  "no_tab_groups": {
+    "message": "沒有分頁群組"
+  },
+  "all_tab_groups": {
+    "message": "所有分頁群組"
+  },
   "cancel": {
     "message": "取消"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "恢復"
-  },
-  "share": {
-    "message": "分享"
-  },
-  "bind_sites": {
-    "message": "綁定網站"
-  },
-  "merge_with": {
-    "message": "合併至"
-  },
-  "no_tab_groups": {
-    "message": "沒有分頁群組"
-  },
-  "all_tab_groups": {
-    "message": "所有分頁群組"
-  },
-  "read_less": {
-    "message": "收合"
-  },
-  "read_more": {
-    "message": "展開更多"
   },
   "name": {
     "message": "名稱"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "繼續"
+  },
+  "apply": {
+    "message": "套用"
+  },
+  "understood": {
+    "message": "開始吧！"
+  },
+  "view_less": {
+    "message": "顯示較少"
+  },
+  "view_more": {
+    "message": "顯示更多"
   },
   "main_tab_group": {
     "message": "主標籤組"
@@ -345,45 +351,39 @@
     "message": "通過 Tabber Plus 提升您的瀏覽體驗。告別標籤混亂，發現提升生產力的工具，改變您在線工作的方式。"
   },
   "plus_feature_title_1": {
-    "message": "無限制的標籤組"
+    "message": "更強大的 AI 分組功能"
   },
   "plus_feature_title_2": {
-    "message": "高級分組AI模型"
-  },
-  "plus_feature_title_3": {
     "message": "自動雲同步"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "完整的同步歷史"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "自訂背景"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "優先支持"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "獨家 Patreon 帖子"
   },
   "plus_feature_desc_1": {
-    "message": "您可以對任意數量的標籤進行分組，沒有限制。"
+    "message": "AI 分組上限提升至 5 倍。"
   },
   "plus_feature_desc_2": {
-    "message": "強化的AI模型和更高的使用限制。"
-  },
-  "plus_feature_desc_3": {
     "message": "您的標籤會自動在所有設備上同步。"
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "訪問您的完整同步歷史並恢復任何備份。"
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "對沒有預覽的頁面應用自訂背景。"
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "任何問題和關切都將得到及時解決，確保流暢的體驗。"
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "獨家訪問 Patreon 帖子、投票，並隨時了解最新更新、技巧和竅門。"
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "錯誤"
-  },
-  "tab_group_limit": {
-    "message": "升級到 Tabber Plus 以創建更多標籤組"
   },
   "sync_to_cloud": {
     "message": "與雲同步"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "AI 分頁分組"
   },
-  "ai_group_description": {
-    "message": "您將使用 AI 分組分頁,它會根據標題和連結分析主題。\n分組前會建立目前分頁的備份,您隨時可以復原。\n請求次數有限,取決於您的分頁數量。大約每天可以對 50 個分頁發出 2 次請求。\nAI 模型並不完美,可能會出錯。您可以隨時手動矯正分組。\n您可以指定必須存在的分組名稱。請使用換行符分隔,例如:\n我的工作\n學習\n娛樂"
+  "ai_group_help_1": {
+    "message": "您即將使用 AI 來分組分頁，AI 將根據標題與連結分析其主題內容。\n在分組前會先備份目前的分頁，因此您隨時可以還原。"
+  },
+  "ai_group_help_2": {
+    "message": "自動分組\n此方法會根據分頁內容自動決定建立多少個群組。\n✅ 無需手動設定群組數量\n✅ 分組通常清楚且分類合理\n⚠️ 若某些分頁與任何群組皆無明確關聯，可能會被排除在外"
+  },
+  "ai_group_help_3": {
+    "message": "固定分組\n此方法允許您指定要建立的群組數量。即使匹配不完美，所有分頁都會被歸入某個群組。\n✅ 每個分頁都保證被分組\n⚠️ 若分頁內容差異過大，分組準確度可能下降"
+  },
+  "ai_group_help_4": {
+    "message": "可用的請求次數有限，並依您擁有的分頁數量而定。\n若略過群組命名步驟，可大幅減少用量。建議先找出最佳的分組方式，再執行包含命名的分組程序。"
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "自動"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "固定"
+  },
+  "ai_group_clusters_count": {
+    "message": "±$1 個群組"
+  },
+  "ai_group_generate_names": {
+    "message": "產生名稱"
   },
   "ai_group_select_group": {
     "message": "從以下來源分組頁籤"
   },
+  "ai_group_remaining": {
+    "message": "今日剩餘次數"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "選擇最適合您的方案"
+  },
+  "ai_group_error_sign_in": {
+    "message": "請先登入以使用 AI 分組功能"
+  },
   "ai_group_error_unauthorized": {
     "message": "未獲授權"
-  },
-  "ai_group_error_no_license": {
-    "message": "無授權"
   },
   "ai_group_error_quota_exceeded": {
     "message": "超出配額"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "分頁清單"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1 個分頁群組"
+  },
+  "tab_groups_count_one": {
+    "message": "$1 個分頁群組"
+  },
+  "tab_groups_count_two": {
+    "message": "$1 個分頁群組"
+  },
+  "tab_groups_count_few": {
+    "message": "$1 個分頁群組"
+  },
+  "tab_groups_count_many": {
+    "message": "$1 個分頁群組"
+  },
+  "tab_groups_count_other": {
+    "message": "$1 個分頁群組"
   }
 }

@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "Tämä poistaa tyhjät välilehtiryhmät ja kaksoiskappaleet. Tätä toimintoa ei voi peruuttaa."
   },
+  "share": {
+    "message": "Jaa"
+  },
+  "bind_sites": {
+    "message": "Sido sivustot"
+  },
+  "merge_with": {
+    "message": "Yhdistä"
+  },
+  "no_tab_groups": {
+    "message": "Ei välilehtiryhmiä"
+  },
+  "all_tab_groups": {
+    "message": "Kaikki välilehtiryhmät"
+  },
   "cancel": {
     "message": "Peruuta"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "Palauta"
-  },
-  "share": {
-    "message": "Jaa"
-  },
-  "bind_sites": {
-    "message": "Sido sivustot"
-  },
-  "merge_with": {
-    "message": "Yhdistä"
-  },
-  "no_tab_groups": {
-    "message": "Ei välilehtiryhmiä"
-  },
-  "all_tab_groups": {
-    "message": "Kaikki välilehtiryhmät"
-  },
-  "read_less": {
-    "message": "Näytä vähemmän"
-  },
-  "read_more": {
-    "message": "Lue lisää"
   },
   "name": {
     "message": "Nimi"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "Jatka"
+  },
+  "apply": {
+    "message": "Käytä"
+  },
+  "understood": {
+    "message": "Mennään!"
+  },
+  "view_less": {
+    "message": "Näytä vähemmän"
+  },
+  "view_more": {
+    "message": "Näytä lisää"
   },
   "main_tab_group": {
     "message": "Pääryhmä"
@@ -345,45 +351,39 @@
     "message": "Paranna verkkoselailukokemustasi Tabber Plus -versiolla. Sano hyvästit välilehtikaaokselle ja tutustu tuottavuutta parantaviin työkaluihin, jotka muuttavat tapasi työskennellä verkossa."
   },
   "plus_feature_title_1": {
-    "message": "Rajoittamattomat välilehtiryhmät"
+    "message": "Enemmän tekoälyvoimaa"
   },
   "plus_feature_title_2": {
-    "message": "Kehittynyt tekoälyryhmittely"
-  },
-  "plus_feature_title_3": {
     "message": "Automaattinen pilvisynkronointi"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "Täysi synkronointihistoria"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "Mukautettu tausta"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "Prioriteettituki"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "Eksklusiiviset Patreon-julkaisut"
   },
   "plus_feature_desc_1": {
-    "message": "Ei enää rajoituksia välilehtiryhmien määrälle."
+    "message": "Saat jopa 5 kertaa suuremmat rajat tekoälypohjaiseen välilehtien ryhmittelyyn."
   },
   "plus_feature_desc_2": {
-    "message": "Parannettu tekoälymalli ja korkeammat käyttörajat."
-  },
-  "plus_feature_desc_3": {
     "message": "Välilehtesi synkronoidaan automaattisesti kaikille laitteillesi."
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "Pääsy täyteen synkronointihistoriaan ja minkä tahansa varmuuskopion palauttaminen."
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "Aseta mukautettu tausta esikatseluttomille sivuille."
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "Kaikki kysymyksesi ja huolesi käsitellään nopeasti, jotta käyttökokemus olisi mahdollisimman sujuva."
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "Saat eksklusiivisen pääsyn Patreonin julkaisuihin, kyselyihin ja pysyt ajan tasalla uusimmista päivityksistä, vinkeistä ja nikseistä."
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "Virhe"
-  },
-  "tab_group_limit": {
-    "message": "Päivitä Tabber Plussaan luodaksesi lisää välilehtiryhmiä"
   },
   "sync_to_cloud": {
     "message": "Synkronoi pilveen"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "Tekoälyllä toimiva välilehtiryhmittely"
   },
-  "ai_group_description": {
-    "message": "Olet ryhmittelemässä välilehtiäsi tekoälyllä, joka analysoi niiden aiheen otsikoiden ja linkkien perusteella.\nEnnen ryhmittelyä luodaan varmuuskopio nykyisistä välilehdistäsi, jotta voit aina palauttaa ne.\nPyyntöjen määrä on rajallinen ja riippuu välilehtien lukumäärästä. Voit tehdä noin 2 pyyntöä päivässä 50 välilehdellä.\nTekoälymalli ei ole täydellinen ja voi tehdä virheitä. Voit aina korjata ryhmittelyn manuaalisesti.\nVoit määrittää ryhmien nimet, jotka haluat ehdottomasti mukaan. Erottele nimet rivinvaihdoilla, esimerkiksi:\nTyöni\nOpiskelu\nViihde"
+  "ai_group_help_1": {
+    "message": "Olet ryhmittelemässä välilehtiä tekoälyn avulla, joka analysoi niiden aiheet otsikoiden ja linkkien perusteella.\nEnnen ryhmittelyä luodaan varmuuskopio nykyisistä välilehdistä, joten voit aina palauttaa tilanteen."
+  },
+  "ai_group_help_2": {
+    "message": "Automaattinen ryhmittely\nTämä menetelmä päättää automaattisesti ryhmien määrän välilehtien sisällön perusteella.\n✅ Ei tarvitse valita ryhmien määrää\n✅ Ryhmät ovat yleensä selkeitä ja hyvin jäsenneltyjä\n⚠️ Jotkin välilehdet voivat jäädä ryhmittelyn ulkopuolelle, jos ne eivät sovi mihinkään ryhmään"
+  },
+  "ai_group_help_3": {
+    "message": "Kiinteä ryhmittely\nTässä menetelmässä valitset itse, montako ryhmää haluat. Kaikki välilehdet sijoitetaan johonkin ryhmään, vaikka ne eivät täydellisesti sopisikaan.\n✅ Jokainen välilehti kuuluu varmasti johonkin ryhmään\n⚠️ Ryhmittely voi olla epätarkempaa, jos välilehdet eroavat toisistaan paljon"
+  },
+  "ai_group_help_4": {
+    "message": "Pyyntöjen määrä on rajoitettu ja riippuu välilehtien määrästä.\nVoit säästää huomattavasti, jos jätät ryhmien nimien luomisen pois. Kokeile ensin paras ryhmittely ilman nimiä ja lisää ne vasta sitten."
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "Automaattinen"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "Kiinteä"
+  },
+  "ai_group_clusters_count": {
+    "message": "±$1 ryhmää"
+  },
+  "ai_group_generate_names": {
+    "message": "Luo nimet"
   },
   "ai_group_select_group": {
     "message": "Ryhmittele välilehdet ryhmästä"
   },
+  "ai_group_remaining": {
+    "message": "Tänään jäljellä"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "Valitse sinulle paras vaihtoehto"
+  },
+  "ai_group_error_sign_in": {
+    "message": "Sinun on kirjauduttava sisään käyttääksesi tekoälyryhmittelyä"
+  },
   "ai_group_error_unauthorized": {
     "message": "Ei valtuutettu"
-  },
-  "ai_group_error_no_license": {
-    "message": "Ei lisenssiä"
   },
   "ai_group_error_quota_exceeded": {
     "message": "Kiintiö ylitetty"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "Välilehtien lista"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1 välilehtiryhmää"
+  },
+  "tab_groups_count_one": {
+    "message": "$1 välilehtiryhmä"
+  },
+  "tab_groups_count_two": {
+    "message": "$1 välilehtiryhmää"
+  },
+  "tab_groups_count_few": {
+    "message": "$1 välilehtiryhmää"
+  },
+  "tab_groups_count_many": {
+    "message": "$1 välilehtiryhmää"
+  },
+  "tab_groups_count_other": {
+    "message": "$1 välilehtiryhmää"
   }
 }

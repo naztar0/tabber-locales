@@ -100,5 +100,39 @@
         "カラーピッカーにデフォルトカラーが追加されました。"
       ]
     }
+  },
+  "1.9": {
+    "title": "Tabber がバージョン 1.9 にアップデートされました",
+    "subtitle": "最新の機能と改善点をご紹介",
+    "content_main": [
+      {
+        "title": "AI グループ化 2.0",
+        "description": [
+          "タブのグループ化が完全に再設計されました。",
+          "ニーズに応じて 2 つの方法から選択でき、新しいカウンターで毎日の使用状況を追跡できます。未整理のタブはもうありません！"
+        ],
+        "image": "/static/update/1.9/tabs-grouping.jpg"
+      },
+      {
+        "title": "新しいプレビュー デザイン",
+        "description": [
+          "バックアップ履歴は、リストビューと 3 種類のグリッドを含む 4 つのレイアウトに対応しました。"
+        ],
+        "image": "/static/update/1.9/previews-design.jpg"
+      },
+      {
+        "title": "30言語に対応",
+        "description": [
+          "翻訳ミスを見つけましたか？[Crowdin](https://crowdin.com/project/tabber) で修正を提案できます。"
+        ],
+        "image": "/static/update/1.9/crowdin.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "その他の改善",
+      "description": [
+        "制限なし — 無料ユーザーでも好きなだけグループを作成できます！"
+      ]
+    }
   }
 }

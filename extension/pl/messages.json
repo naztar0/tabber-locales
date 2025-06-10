@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "To usunie puste grupy kart i zduplikowane karty. Tej operacji nie można cofnąć."
   },
+  "share": {
+    "message": "Udostępnij"
+  },
+  "bind_sites": {
+    "message": "Powiąż strony"
+  },
+  "merge_with": {
+    "message": "Scal z"
+  },
+  "no_tab_groups": {
+    "message": "Brak grup kart"
+  },
+  "all_tab_groups": {
+    "message": "Wszystkie grupy kart"
+  },
   "cancel": {
     "message": "Anuluj"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "Przywróć"
-  },
-  "share": {
-    "message": "Udostępnij"
-  },
-  "bind_sites": {
-    "message": "Powiąż strony"
-  },
-  "merge_with": {
-    "message": "Scal z"
-  },
-  "no_tab_groups": {
-    "message": "Brak grup kart"
-  },
-  "all_tab_groups": {
-    "message": "Wszystkie grupy kart"
-  },
-  "read_less": {
-    "message": "Czytaj mniej"
-  },
-  "read_more": {
-    "message": "Czytaj więcej"
   },
   "name": {
     "message": "Nazwa"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "Kontynuuj"
+  },
+  "apply": {
+    "message": "Zastosuj"
+  },
+  "understood": {
+    "message": "Zaczynamy!"
+  },
+  "view_less": {
+    "message": "Pokaż mniej"
+  },
+  "view_more": {
+    "message": "Pokaż więcej"
   },
   "main_tab_group": {
     "message": "Główna"
@@ -345,45 +351,39 @@
     "message": "Ulepsz swoje przeglądanie sieci dzięki Tabber Plus. Pożegnaj bałagan z kartami i odkryj świat narzędzi zwiększających produktywność, które zmienią Twój sposób pracy online."
   },
   "plus_feature_title_1": {
-    "message": "Nieograniczone grupy kart"
+    "message": "Więcej mocy AI"
   },
   "plus_feature_title_2": {
-    "message": "Zaawansowany model AI do grupowania"
-  },
-  "plus_feature_title_3": {
     "message": "Automatyczna synchronizacja z chmurą"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "Pełna historia synchronizacji"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "Własne tło"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "Priorytetowe wsparcie"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "Ekskluzywne posty na Patreonie"
   },
   "plus_feature_desc_1": {
-    "message": "Brak ograniczeń liczby grupowanych kart."
+    "message": "Nawet 5x większe limity dla grupowania kart przez AI."
   },
   "plus_feature_desc_2": {
-    "message": "Ulepszony model AI i wyższe limity użycia."
-  },
-  "plus_feature_desc_3": {
     "message": "Twoje karty są automatycznie synchronizowane na wszystkich urządzeniach."
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "Dostęp do pełnej historii synchronizacji i możliwość przywrócenia dowolnej kopii zapasowej."
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "Ustaw własne tło dla stron bez podglądów."
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "Wszelkie pytania i problemy będą rozwiązywane szybko, zapewniając płynne działanie."
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "Uzyskaj ekskluzywny dostęp do postów na Patreonie, ankiet oraz bądź na bieżąco z aktualizacjami, wskazówkami i trikami."
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "Błąd"
-  },
-  "tab_group_limit": {
-    "message": "Uaktualnij do Tabber Plus, aby tworzyć więcej grup kart"
   },
   "sync_to_cloud": {
     "message": "Synchronizuj z chmurą"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "Grupowanie kart z pomocą AI"
   },
-  "ai_group_description": {
-    "message": "Zamierzasz pogrupować swoje karty za pomocą AI, które przeanalizuje ich tematykę na podstawie tytułów i linków.\nPrzed grupowaniem zostanie utworzona kopia zapasowa aktualnych kart, dzięki czemu zawsze możesz cofnąć zmiany.\nLiczba zapytań jest ograniczona i zależy od liczby kart. Możesz wykonać około 2 zapytań dziennie przy 50 kartach.\nModel AI nie jest doskonały i może popełniać błędy. Grupowanie zawsze możesz poprawić ręcznie.\nMożesz określić nazwy grup, które muszą się pojawić. Podaj je oddzielone znakami nowej linii, na przykład:\nMoja praca\nNauka\nRozrywka"
+  "ai_group_help_1": {
+    "message": "Zamierzasz pogrupować swoje karty za pomocą AI, które przeanalizuje ich tematykę na podstawie tytułów i linków.\nPrzed grupowaniem zostanie utworzona kopia zapasowa bieżących kart, dzięki czemu zawsze możesz cofnąć zmiany."
+  },
+  "ai_group_help_2": {
+    "message": "Automatyczne grupowanie\nTa metoda sama decyduje, ile grup utworzyć, na podstawie zawartości twoich kart.\n✅ Nie musisz wybierać liczby grup\n✅ Grupy są zwykle uporządkowane i dobrze rozdzielone\n⚠️ Niektóre karty mogą pozostać nieprzydzielone, jeśli nie pasują wyraźnie do żadnej grupy"
+  },
+  "ai_group_help_3": {
+    "message": "Stałe grupowanie\nTa metoda pozwala określić, ile grup chcesz utworzyć. Wszystkie karty zostaną przypisane do jakiejś grupy, nawet jeśli dopasowanie nie będzie idealne.\n✅ Każda karta trafi do jakiejś grupy\n⚠️ Grupowanie może być mniej dokładne, jeśli karty są bardzo różnorodne"
+  },
+  "ai_group_help_4": {
+    "message": "Liczba zapytań jest ograniczona i zależy od liczby kart.\nMożesz znacznie ograniczyć zużycie, pomijając generowanie nazw grup. Najpierw znajdź optymalny sposób grupowania bez nazw, a potem uruchom ponownie z ich generowaniem."
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "Automatyczne"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "Stałe"
+  },
+  "ai_group_clusters_count": {
+    "message": "±$1 grup"
+  },
+  "ai_group_generate_names": {
+    "message": "Wygeneruj nazwy"
   },
   "ai_group_select_group": {
     "message": "Grupuj karty z"
   },
+  "ai_group_remaining": {
+    "message": "Pozostało na dziś"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "Wybierz najlepszą opcję dla siebie"
+  },
+  "ai_group_error_sign_in": {
+    "message": "Musisz się zalogować, aby skorzystać z grupowania AI"
+  },
   "ai_group_error_unauthorized": {
     "message": "Brak autoryzacji"
-  },
-  "ai_group_error_no_license": {
-    "message": "Brak licencji"
   },
   "ai_group_error_quota_exceeded": {
     "message": "Przekroczony limit zapytań"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "Lista kart"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1 grup kart"
+  },
+  "tab_groups_count_one": {
+    "message": "$1 grupa kart"
+  },
+  "tab_groups_count_two": {
+    "message": "$1 grupy kart"
+  },
+  "tab_groups_count_few": {
+    "message": "$1 grupy kart"
+  },
+  "tab_groups_count_many": {
+    "message": "$1 grup kart"
+  },
+  "tab_groups_count_other": {
+    "message": "$1 grup kart"
   }
 }

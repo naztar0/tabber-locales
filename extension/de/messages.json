@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "Dies wird leere Tab-Gruppen und doppelte Tabs löschen. Diese Aktion kann nicht rückgängig gemacht werden."
   },
+  "share": {
+    "message": "Teilen"
+  },
+  "bind_sites": {
+    "message": "Seiten binden"
+  },
+  "merge_with": {
+    "message": "Zusammenführen mit"
+  },
+  "no_tab_groups": {
+    "message": "Keine Tab-Gruppen"
+  },
+  "all_tab_groups": {
+    "message": "Alle Tab-Gruppen"
+  },
   "cancel": {
     "message": "Abbrechen"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "Wiederherstellen"
-  },
-  "share": {
-    "message": "Teilen"
-  },
-  "bind_sites": {
-    "message": "Seiten binden"
-  },
-  "merge_with": {
-    "message": "Zusammenführen mit"
-  },
-  "no_tab_groups": {
-    "message": "Keine Tab-Gruppen"
-  },
-  "all_tab_groups": {
-    "message": "Alle Tab-Gruppen"
-  },
-  "read_less": {
-    "message": "Weniger anzeigen"
-  },
-  "read_more": {
-    "message": "Mehr anzeigen"
   },
   "name": {
     "message": "Name"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "Fortfahren"
+  },
+  "apply": {
+    "message": "Anwenden"
+  },
+  "understood": {
+    "message": "Los geht's!"
+  },
+  "view_less": {
+    "message": "Weniger anzeigen"
+  },
+  "view_more": {
+    "message": "Mehr anzeigen"
   },
   "main_tab_group": {
     "message": "Default"
@@ -345,45 +351,39 @@
     "message": "Verbessern Sie Ihr Browsing-Erlebnis mit Tabber Plus. Verabschieden Sie sich von Tab-Chaos und entdecken Sie eine Welt von produktivitätssteigernden Tools, die Ihre Online-Arbeitsweise verändern werden."
   },
   "plus_feature_title_1": {
-    "message": "Unbegrenzte Tab-Gruppen"
+    "message": "Mehr KI-Gruppierungsleistung"
   },
   "plus_feature_title_2": {
-    "message": "Erweitertes KI-Modell für Gruppierungen"
-  },
-  "plus_feature_title_3": {
     "message": "Automatische Cloud-Synchronisierung"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "Voller Synchronisationsverlauf"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "Benutzerdefinierter Hintergrund"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "Priorisierter Support"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "Exklusive Patreon-Beiträge"
   },
   "plus_feature_desc_1": {
-    "message": "Keine Grenzen mehr für die Anzahl der Tabs, die Sie gruppieren können."
+    "message": "Erhalte bis zu 5x höhere Limits für die KI-Tab-Gruppierung."
   },
   "plus_feature_desc_2": {
-    "message": "Verbessertes KI-Modell und höhere Nutzungslimits."
-  },
-  "plus_feature_desc_3": {
     "message": "Ihre Tabs werden automatisch über alle Ihre Geräte hinweg synchronisiert."
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "Zugriff auf Ihren vollständigen Synchronisationsverlauf und Wiederherstellung jeder Sicherung."
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "Wenden Sie einen benutzerdefinierten Hintergrund auf Seiten ohne Vorschauen an."
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "Alle Fragen und Anliegen werden umgehend bearbeitet und gewährleisten ein reibungsloses Erlebnis."
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "Exklusiver Zugang zu Patreon-Beiträgen, Umfragen und bleiben Sie auf dem Laufenden mit den neuesten Updates, Tipps und Tricks."
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "Fehler"
-  },
-  "tab_group_limit": {
-    "message": "Upgraden Sie auf Tabber Plus, um mehr Tab-Gruppen zu erstellen"
   },
   "sync_to_cloud": {
     "message": "Mit der Cloud synchronisieren"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "KI-gestützte Tabs-Gruppierung"
   },
-  "ai_group_description": {
-    "message": "Sie werden Ihre Tabs mit Hilfe von KI gruppieren, die ihre Themen basierend auf Titeln und Links analysiert.\nVor der Gruppierung wird eine Sicherungskopie Ihrer aktuellen Tabs erstellt, sodass Sie jederzeit zurücksetzen können.\nDie Anzahl der Anfragen ist begrenzt und hängt von der Anzahl Ihrer Tabs ab. Sie können ungefähr 2 Anfragen pro Tag mit 50 Tabs machen.\nDas KI-Modell ist nicht perfekt und kann Fehler machen. Sie können die Gruppierung manuell korrigieren.\nSie können die Gruppennamen angeben, die vorhanden sein müssen. Geben Sie sie durch Zeilenumbrüche getrennt an, zum Beispiel:\nMeine Arbeit\nStudium\nUnterhaltung"
+  "ai_group_help_1": {
+    "message": "Du wirst deine Tabs mithilfe von KI gruppieren, die deren Themen basierend auf Titeln und Links analysiert.\nVor der Gruppierung wird ein Backup deiner aktuellen Tabs erstellt, sodass du jederzeit zurückkehren kannst."
+  },
+  "ai_group_help_2": {
+    "message": "Automatische Gruppierung\nDiese Methode entscheidet automatisch, wie viele Gruppen erstellt werden, basierend auf dem Inhalt deiner Tabs.\n✅ Keine Notwendigkeit, die Anzahl der Gruppen auszuwählen\n✅ Gruppen sind in der Regel übersichtlich und gut getrennt\n⚠️ Einige Tabs bleiben eventuell ungruppiert, wenn sie keiner Gruppe klar zugeordnet werden können"
+  },
+  "ai_group_help_3": {
+    "message": "Feste Gruppierung\nMit dieser Methode kannst du die gewünschte Anzahl an Gruppen festlegen. Alle Tabs werden einer Gruppe zugewiesen, auch wenn die Übereinstimmung nicht perfekt ist.\n✅ Jeder Tab wird garantiert gruppiert\n⚠️ Die Gruppierung kann ungenauer sein, wenn Tabs sehr unterschiedlich sind"
+  },
+  "ai_group_help_4": {
+    "message": "Die Anzahl der Anfragen ist begrenzt und hängt von der Anzahl deiner Tabs ab.\nDu kannst die Nutzung stark reduzieren, indem du die Namensgenerierung für Gruppen überspringst. Finde zuerst die beste Gruppierung ohne Namen, und führe sie dann mit Namen erneut aus."
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "Automatisch"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "Festgelegt"
+  },
+  "ai_group_clusters_count": {
+    "message": "±$1 Gruppen"
+  },
+  "ai_group_generate_names": {
+    "message": "Namen generieren"
   },
   "ai_group_select_group": {
     "message": "Tabs gruppieren von"
   },
+  "ai_group_remaining": {
+    "message": "Heute verbleibend"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "Wähle die beste Option für dich"
+  },
+  "ai_group_error_sign_in": {
+    "message": "Du musst dich anmelden, um die KI-Gruppierung zu nutzen"
+  },
   "ai_group_error_unauthorized": {
     "message": "Nicht autorisiert"
-  },
-  "ai_group_error_no_license": {
-    "message": "Keine Lizenz"
   },
   "ai_group_error_quota_exceeded": {
     "message": "Kontingent überschritten"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "Liste der Tabs"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1 Tab-Gruppen"
+  },
+  "tab_groups_count_one": {
+    "message": "$1 Tab-Gruppe"
+  },
+  "tab_groups_count_two": {
+    "message": "$1 Tab-Gruppen"
+  },
+  "tab_groups_count_few": {
+    "message": "$1 Tab-Gruppen"
+  },
+  "tab_groups_count_many": {
+    "message": "$1 Tab-Gruppen"
+  },
+  "tab_groups_count_other": {
+    "message": "$1 Tab-Gruppen"
   }
 }

@@ -100,5 +100,39 @@
         "Renk seçiciye varsayılan renk eklendi."
       ]
     }
+  },
+  "1.9": {
+    "title": "Tabber 1.9 sürümüne güncellendi",
+    "subtitle": "En son özellikleri ve geliştirmeleri keşfedin",
+    "content_main": [
+      {
+        "title": "Yapay Zeka Gruplama 2.0",
+        "description": [
+          "Sekme gruplama tamamen yeniden tasarlandı.",
+          "İhtiyacınıza göre iki yöntemden birini seçin ve yeni sayaç ile günlük kullanımınızı takip edin. Artık dağınık sekme yok!"
+        ],
+        "image": "/static/update/1.9/tabs-grouping.jpg"
+      },
+      {
+        "title": "Yeni önizleme tasarımı",
+        "description": [
+          "Yedekleme geçmişi artık dört düzeni destekliyor — liste görünümü ve üç farklı ızgara tipi."
+        ],
+        "image": "/static/update/1.9/previews-design.jpg"
+      },
+      {
+        "title": "Artık 30 dilde mevcut",
+        "description": [
+          "Bir çeviri hatası mı buldunuz? Artık [Crowdin](https://crowdin.com/project/tabber) üzerinden düzeltme önerebilirsiniz."
+        ],
+        "image": "/static/update/1.9/crowdin.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "Diğer Geliştirmeler",
+      "description": [
+        "Artık sınır yok — ücretsiz kullanıcılar istedikleri kadar grup oluşturabilir!"
+      ]
+    }
   }
 }

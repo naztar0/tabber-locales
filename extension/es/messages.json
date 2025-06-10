@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "Esto eliminará grupos de pestañas vacías y pestañas duplicadas. Esta acción no se puede deshacer."
   },
+  "share": {
+    "message": "Compartir"
+  },
+  "bind_sites": {
+    "message": "Vincular sitios"
+  },
+  "merge_with": {
+    "message": "Fusionar con"
+  },
+  "no_tab_groups": {
+    "message": "Sin grupos de pestañas"
+  },
+  "all_tab_groups": {
+    "message": "Todos los grupos de pestañas"
+  },
   "cancel": {
     "message": "Cancelar"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "Restaurar"
-  },
-  "share": {
-    "message": "Compartir"
-  },
-  "bind_sites": {
-    "message": "Vincular sitios"
-  },
-  "merge_with": {
-    "message": "Fusionar con"
-  },
-  "no_tab_groups": {
-    "message": "Sin grupos de pestañas"
-  },
-  "all_tab_groups": {
-    "message": "Todos los grupos de pestañas"
-  },
-  "read_less": {
-    "message": "Leer menos"
-  },
-  "read_more": {
-    "message": "Leer más"
   },
   "name": {
     "message": "Nombre"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "Proceder"
+  },
+  "apply": {
+    "message": "Aplicar"
+  },
+  "understood": {
+    "message": "¡Vamos allá!"
+  },
+  "view_less": {
+    "message": "Ver menos"
+  },
+  "view_more": {
+    "message": "Ver más"
   },
   "main_tab_group": {
     "message": "Principal"
@@ -345,45 +351,39 @@
     "message": "Mejora tu experiencia de navegación con Tabber Plus. Despídete del desorden de pestañas y descubre un mundo de herramientas que mejoran la productividad y transformarán tu forma de trabajar en línea."
   },
   "plus_feature_title_1": {
-    "message": "Grupos de pestañas ilimitados"
+    "message": "Más potencia de agrupación con IA"
   },
   "plus_feature_title_2": {
-    "message": "Modelo avanzado de IA para agrupación"
-  },
-  "plus_feature_title_3": {
     "message": "Sincronización automática en la nube"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "Historial completo de sincronización"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "Fondo Personalizado"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "Soporte prioritario"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "Publicaciones exclusivas en Patreon"
   },
   "plus_feature_desc_1": {
-    "message": "Sin límites en el número de pestañas que puedes agrupar."
+    "message": "Obtén hasta 5 veces más límite para la agrupación de pestañas con IA."
   },
   "plus_feature_desc_2": {
-    "message": "Modelo de IA mejorado y límites de uso más altos."
-  },
-  "plus_feature_desc_3": {
     "message": "Tus pestañas se sincronizan automáticamente en todos tus dispositivos."
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "Accede a tu historial completo de sincronizaciones y restaura cualquier copia de seguridad."
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "Aplica un fondo personalizado a páginas sin vistas previas."
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "Cualquier pregunta o inquietud será atendida con prontitud, asegurando una experiencia fluida."
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "Accede exclusivamente a publicaciones en Patreon, encuestas y mantente al tanto de las últimas actualizaciones, consejos y trucos."
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "Error"
-  },
-  "tab_group_limit": {
-    "message": "Actualiza a Tabber Plus para crear más grupos de pestañas"
   },
   "sync_to_cloud": {
     "message": "Sincronizar con la nube"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "Agrupación de pestañas con IA"
   },
-  "ai_group_description": {
-    "message": "Vas a agrupar tus pestañas usando IA, que analizará sus temas basándose en los títulos y enlaces.\nAntes de agrupar, se creará una copia de seguridad de tus pestañas actuales, para que siempre puedas revertir los cambios.\nEl número de solicitudes está limitado y depende del número de tus pestañas. Puedes hacer aproximadamente 2 solicitudes por día con 50 pestañas.\nEl modelo de IA no es perfecto y puede cometer errores. Puedes corregir la agrupación manualmente.\nPuedes especificar los nombres de grupo que deben estar presentes. Especifícalos separados por saltos de línea, por ejemplo:\nMi Trabajo\nEstudios\nEntretenimiento"
+  "ai_group_help_1": {
+    "message": "Vas a agrupar tus pestañas con ayuda de IA, que analizará sus temas en base a títulos y enlaces.\nAntes de agrupar, se hará una copia de seguridad de tus pestañas actuales, para que siempre puedas deshacer los cambios."
+  },
+  "ai_group_help_2": {
+    "message": "Agrupación automática\nEste método decide automáticamente cuántos grupos crear según el contenido de tus pestañas.\n✅ No necesitas elegir el número de grupos\n✅ Los grupos suelen estar bien definidos y separados\n⚠️ Algunas pestañas pueden quedar sin agrupar si no encajan claramente en ningún grupo"
+  },
+  "ai_group_help_3": {
+    "message": "Agrupación fija\nEste método te permite elegir cuántos grupos quieres. Todas las pestañas se incluirán en algún grupo, incluso si la coincidencia no es perfecta.\n✅ Todas las pestañas estarán agrupadas\n⚠️ La agrupación puede ser menos precisa si las pestañas son muy distintas entre sí"
+  },
+  "ai_group_help_4": {
+    "message": "El número de solicitudes es limitado y depende de cuántas pestañas tengas.\nPuedes reducir mucho el uso si omites la generación de nombres de grupo. Primero encuentra la mejor forma de agrupar sin nombres y luego vuelve a ejecutar con ellos."
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "Automática"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "Fija"
+  },
+  "ai_group_clusters_count": {
+    "message": "±$1 grupos"
+  },
+  "ai_group_generate_names": {
+    "message": "Generar nombres"
   },
   "ai_group_select_group": {
     "message": "Agrupar pestañas de"
   },
+  "ai_group_remaining": {
+    "message": "Restante hoy"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "Elige la mejor opción para ti"
+  },
+  "ai_group_error_sign_in": {
+    "message": "Debes iniciar sesión para usar la agrupación con IA"
+  },
   "ai_group_error_unauthorized": {
     "message": "No autorizado"
-  },
-  "ai_group_error_no_license": {
-    "message": "Sin licencia"
   },
   "ai_group_error_quota_exceeded": {
     "message": "Cuota excedida"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "Lista de pestañas"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1 grupos de pestañas"
+  },
+  "tab_groups_count_one": {
+    "message": "$1 grupo de pestañas"
+  },
+  "tab_groups_count_two": {
+    "message": "$1 grupos de pestañas"
+  },
+  "tab_groups_count_few": {
+    "message": "$1 grupos de pestañas"
+  },
+  "tab_groups_count_many": {
+    "message": "$1 grupos de pestañas"
+  },
+  "tab_groups_count_other": {
+    "message": "$1 grupos de pestañas"
   }
 }

@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "비어 있는 탭 그룹과 중복 탭이 삭제됩니다. 이 작업은 되돌릴 수 없습니다."
   },
+  "share": {
+    "message": "공유"
+  },
+  "bind_sites": {
+    "message": "사이트 연결"
+  },
+  "merge_with": {
+    "message": "다음과 병합"
+  },
+  "no_tab_groups": {
+    "message": "탭 그룹 없음"
+  },
+  "all_tab_groups": {
+    "message": "모든 탭 그룹"
+  },
   "cancel": {
     "message": "취소"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "복원"
-  },
-  "share": {
-    "message": "공유"
-  },
-  "bind_sites": {
-    "message": "사이트 연결"
-  },
-  "merge_with": {
-    "message": "다음과 병합"
-  },
-  "no_tab_groups": {
-    "message": "탭 그룹 없음"
-  },
-  "all_tab_groups": {
-    "message": "모든 탭 그룹"
-  },
-  "read_less": {
-    "message": "간략히"
-  },
-  "read_more": {
-    "message": "자세히 보기"
   },
   "name": {
     "message": "이름"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "진행"
+  },
+  "apply": {
+    "message": "적용"
+  },
+  "understood": {
+    "message": "시작하기!"
+  },
+  "view_less": {
+    "message": "간략히 보기"
+  },
+  "view_more": {
+    "message": "더 보기"
   },
   "main_tab_group": {
     "message": "메인"
@@ -345,45 +351,39 @@
     "message": "Tabber Plus로 웹 브라우징 경험을 향상하세요. 탭 혼란을 없애고 생산성을 높이는 도구들을 통해 온라인 작업 방식이 완전히 달라집니다."
   },
   "plus_feature_title_1": {
-    "message": "무제한 탭 그룹"
+    "message": "더 강력해진 AI 그룹화"
   },
   "plus_feature_title_2": {
-    "message": "고급 AI 그룹핑 모델"
-  },
-  "plus_feature_title_3": {
     "message": "자동 클라우드 동기화"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "전체 동기화 기록"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "맞춤 배경"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "우선 지원"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "Patreon 독점 게시물"
   },
   "plus_feature_desc_1": {
-    "message": "그룹으로 묶을 수 있는 탭 수에 제한이 없습니다."
+    "message": "AI 탭 그룹화 한도가 최대 5배 증가합니다."
   },
   "plus_feature_desc_2": {
-    "message": "향상된 AI 모델과 더 높은 사용 한도."
-  },
-  "plus_feature_desc_3": {
     "message": "모든 기기에서 탭이 자동으로 동기화됩니다."
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "전체 동기화 기록에 접근하고 어떤 백업이든 복원할 수 있습니다."
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "미리보기가 없는 페이지에 사용자 지정 배경을 적용하세요."
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "문의 사항과 문제가 신속히 처리되어 원활한 사용 경험을 보장합니다."
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "Patreon의 독점 게시물, 설문조사, 최신 업데이트와 팁들을 확인하세요."
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "오류"
-  },
-  "tab_group_limit": {
-    "message": "더 많은 탭 그룹을 만들려면 Tabber Plus로 업그레이드하세요"
   },
   "sync_to_cloud": {
     "message": "클라우드로 동기화"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "AI 기반 탭 그룹화"
   },
-  "ai_group_description": {
-    "message": "AI가 탭의 제목과 링크를 분석하여 주제를 파악하고 그룹화합니다.\n그룹화 전에 현재 탭의 백업이 생성되어 언제든지 되돌릴 수 있습니다.\n요청 횟수는 제한되어 있으며 탭 수에 따라 달라집니다. 약 50개의 탭으로 하루에 약 2회 요청할 수 있습니다.\nAI 모델은 완벽하지 않으며 오류가 발생할 수 있습니다. 수동으로 그룹화를 조정할 수 있습니다.\n필수로 포함되어야 할 그룹 이름을 줄 바꿈으로 입력할 수 있습니다. 예:\n내 작업\n학습\n엔터테인먼트"
+  "ai_group_help_1": {
+    "message": "AI를 사용해 탭을 주제별로 그룹화합니다. 제목과 링크를 분석하여 그룹이 생성됩니다.\n그룹화 전에 현재 탭의 백업이 생성되므로 언제든지 되돌릴 수 있습니다."
+  },
+  "ai_group_help_2": {
+    "message": "자동 그룹화\n이 방법은 탭의 내용을 기반으로 그룹 수를 자동으로 결정합니다.\n✅ 그룹 수를 선택할 필요 없음\n✅ 그룹이 일반적으로 깔끔하게 정리됨\n⚠️ 명확한 주제가 없는 탭은 그룹에서 제외될 수 있음"
+  },
+  "ai_group_help_3": {
+    "message": "고정 그룹화\n이 방법은 원하는 그룹 수를 직접 선택할 수 있습니다. 모든 탭은 일부 그룹에 포함되며, 일치도가 완벽하지 않아도 그룹화됩니다.\n✅ 모든 탭이 반드시 그룹에 포함됨\n⚠️ 탭 간 주제가 너무 다르면 정확도가 떨어질 수 있음"
+  },
+  "ai_group_help_4": {
+    "message": "요청 횟수는 제한되어 있으며, 탭 수에 따라 달라집니다.\n그룹 이름 생성을 건너뛰면 사용량을 크게 줄일 수 있습니다. 먼저 이름 없이 최적의 그룹화를 찾은 뒤, 다시 실행해 이름을 생성하세요."
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "자동"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "고정"
+  },
+  "ai_group_clusters_count": {
+    "message": "±$1개의 그룹"
+  },
+  "ai_group_generate_names": {
+    "message": "이름 생성"
   },
   "ai_group_select_group": {
     "message": "다음에서 탭 그룹화"
   },
+  "ai_group_remaining": {
+    "message": "오늘 남은 횟수"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "가장 적합한 옵션을 선택하세요"
+  },
+  "ai_group_error_sign_in": {
+    "message": "AI 그룹화를 사용하려면 로그인해야 합니다"
+  },
   "ai_group_error_unauthorized": {
     "message": "인증되지 않음"
-  },
-  "ai_group_error_no_license": {
-    "message": "라이선스 없음"
   },
   "ai_group_error_quota_exceeded": {
     "message": "쿼터 초과"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "탭 목록"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1개의 탭 그룹"
+  },
+  "tab_groups_count_one": {
+    "message": "$1개의 탭 그룹"
+  },
+  "tab_groups_count_two": {
+    "message": "$1개의 탭 그룹"
+  },
+  "tab_groups_count_few": {
+    "message": "$1개의 탭 그룹"
+  },
+  "tab_groups_count_many": {
+    "message": "$1개의 탭 그룹"
+  },
+  "tab_groups_count_other": {
+    "message": "$1개의 탭 그룹"
   }
 }

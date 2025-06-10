@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "Hành động này sẽ xóa các nhóm tab trống và tab trùng lặp. Không thể hoàn tác."
   },
+  "share": {
+    "message": "Chia sẻ"
+  },
+  "bind_sites": {
+    "message": "Liên kết trang"
+  },
+  "merge_with": {
+    "message": "Gộp với"
+  },
+  "no_tab_groups": {
+    "message": "Không có nhóm tab nào"
+  },
+  "all_tab_groups": {
+    "message": "Tất cả nhóm tab"
+  },
   "cancel": {
     "message": "Hủy"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "Khôi phục"
-  },
-  "share": {
-    "message": "Chia sẻ"
-  },
-  "bind_sites": {
-    "message": "Liên kết trang"
-  },
-  "merge_with": {
-    "message": "Gộp với"
-  },
-  "no_tab_groups": {
-    "message": "Không có nhóm tab nào"
-  },
-  "all_tab_groups": {
-    "message": "Tất cả nhóm tab"
-  },
-  "read_less": {
-    "message": "Thu gọn"
-  },
-  "read_more": {
-    "message": "Xem thêm"
   },
   "name": {
     "message": "Tên"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "Tiếp tục"
+  },
+  "apply": {
+    "message": "Áp dụng"
+  },
+  "understood": {
+    "message": "Bắt đầu thôi!"
+  },
+  "view_less": {
+    "message": "Hiển thị ít hơn"
+  },
+  "view_more": {
+    "message": "Hiển thị thêm"
   },
   "main_tab_group": {
     "message": "Chính"
@@ -345,45 +351,39 @@
     "message": "Nâng cao trải nghiệm duyệt web của bạn với Tabber Plus. Tạm biệt tình trạng lộn xộn tab và khám phá các công cụ nâng cao hiệu suất sẽ thay đổi cách bạn làm việc trực tuyến."
   },
   "plus_feature_title_1": {
-    "message": "Không giới hạn nhóm tab"
+    "message": "Sức mạnh nhóm AI vượt trội"
   },
   "plus_feature_title_2": {
-    "message": "Mô hình AI nâng cao để nhóm"
-  },
-  "plus_feature_title_3": {
     "message": "Tự động đồng bộ đám mây"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "Lịch sử đồng bộ đầy đủ"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "Nền tùy chỉnh"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "Hỗ trợ ưu tiên"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "Bài viết độc quyền trên Patreon"
   },
   "plus_feature_desc_1": {
-    "message": "Không còn giới hạn số lượng tab bạn có thể nhóm lại."
+    "message": "Tăng giới hạn nhóm tab bằng AI lên gấp 5 lần."
   },
   "plus_feature_desc_2": {
-    "message": "Mô hình AI nâng cao và giới hạn sử dụng cao hơn."
-  },
-  "plus_feature_desc_3": {
     "message": "Các tab của bạn sẽ tự động được đồng bộ trên tất cả thiết bị."
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "Truy cập lịch sử đồng bộ đầy đủ và khôi phục mọi bản sao lưu."
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "Áp dụng nền tùy chỉnh cho các trang không có bản xem trước."
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "Mọi câu hỏi và vấn đề sẽ được xử lý nhanh chóng, đảm bảo trải nghiệm mượt mà."
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "Truy cập độc quyền các bài viết trên Patreon, khảo sát và cập nhật mẹo mới nhất."
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "Lỗi"
-  },
-  "tab_group_limit": {
-    "message": "Nâng cấp lên Tabber Plus để tạo thêm nhóm tab"
   },
   "sync_to_cloud": {
     "message": "Đồng bộ lên đám mây"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "Nhóm tab bằng AI"
   },
-  "ai_group_description": {
-    "message": "Bạn sắp nhóm các tab của mình bằng AI, hệ thống sẽ phân tích chủ đề dựa trên tiêu đề và liên kết.\nTrước khi nhóm, một bản sao lưu sẽ được tạo để bạn có thể hoàn tác.\nSố lần yêu cầu có giới hạn và phụ thuộc vào số lượng tab. Khoảng 2 lần mỗi ngày với 50 tab.\nAI không hoàn hảo và có thể sai. Bạn luôn có thể chỉnh sửa nhóm thủ công.\nBạn có thể chỉ định tên nhóm bắt buộc, mỗi tên trên một dòng. Ví dụ:\nCông việc\nHọc tập\nGiải trí"
+  "ai_group_help_1": {
+    "message": "Bạn sắp nhóm các tab của mình bằng AI, công cụ này sẽ phân tích chủ đề của tab dựa trên tiêu đề và liên kết.\nTrước khi nhóm, một bản sao lưu các tab hiện tại sẽ được tạo, vì vậy bạn luôn có thể quay lại."
+  },
+  "ai_group_help_2": {
+    "message": "Nhóm Tự Động\nPhương pháp này sẽ tự quyết định số lượng nhóm cần tạo dựa trên nội dung của các tab.\n✅ Không cần chọn số lượng nhóm\n✅ Các nhóm thường rõ ràng và được phân chia hợp lý\n⚠️ Một số tab có thể không được nhóm nếu chúng không phù hợp rõ ràng với nhóm nào"
+  },
+  "ai_group_help_3": {
+    "message": "Nhóm Cố Định\nPhương pháp này cho phép bạn chọn số lượng nhóm mong muốn. Tất cả các tab sẽ được đưa vào một nhóm nào đó, ngay cả khi việc phân loại không hoàn hảo.\n✅ Mỗi tab đều chắc chắn sẽ được nhóm\n⚠️ Việc nhóm có thể kém chính xác nếu các tab quá khác nhau"
+  },
+  "ai_group_help_4": {
+    "message": "Số lượng yêu cầu bị giới hạn và phụ thuộc vào số lượng tab bạn có.\nBạn có thể tiết kiệm đáng kể bằng cách bỏ qua việc tạo tên nhóm. Trước tiên, hãy tìm cách nhóm phù hợp mà không cần tên, sau đó chạy lại với tên."
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "Tự động"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "Cố định"
+  },
+  "ai_group_clusters_count": {
+    "message": "±$1 nhóm"
+  },
+  "ai_group_generate_names": {
+    "message": "Tạo tên nhóm"
   },
   "ai_group_select_group": {
     "message": "Nhóm tab từ"
   },
+  "ai_group_remaining": {
+    "message": "Còn lại hôm nay"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "Chọn phương án phù hợp nhất với bạn"
+  },
+  "ai_group_error_sign_in": {
+    "message": "Bạn cần đăng nhập để sử dụng tính năng nhóm bằng AI"
+  },
   "ai_group_error_unauthorized": {
     "message": "Chưa được xác thực"
-  },
-  "ai_group_error_no_license": {
-    "message": "Không có giấy phép"
   },
   "ai_group_error_quota_exceeded": {
     "message": "Vượt quá giới hạn"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "Danh sách tab"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1 nhóm tab"
+  },
+  "tab_groups_count_one": {
+    "message": "$1 nhóm tab"
+  },
+  "tab_groups_count_two": {
+    "message": "$1 nhóm tab"
+  },
+  "tab_groups_count_few": {
+    "message": "$1 nhóm tab"
+  },
+  "tab_groups_count_many": {
+    "message": "$1 nhóm tab"
+  },
+  "tab_groups_count_other": {
+    "message": "$1 nhóm tab"
   }
 }

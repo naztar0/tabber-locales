@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "这将删除空的标签组和重复的标签。此操作无法撤销。"
   },
+  "share": {
+    "message": "分享"
+  },
+  "bind_sites": {
+    "message": "绑定网站"
+  },
+  "merge_with": {
+    "message": "合并到"
+  },
+  "no_tab_groups": {
+    "message": "没有标签组"
+  },
+  "all_tab_groups": {
+    "message": "所有标签组"
+  },
   "cancel": {
     "message": "取消"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "恢复"
-  },
-  "share": {
-    "message": "分享"
-  },
-  "bind_sites": {
-    "message": "绑定网站"
-  },
-  "merge_with": {
-    "message": "合并到"
-  },
-  "no_tab_groups": {
-    "message": "没有标签组"
-  },
-  "all_tab_groups": {
-    "message": "所有标签组"
-  },
-  "read_less": {
-    "message": "收起"
-  },
-  "read_more": {
-    "message": "查看更多"
   },
   "name": {
     "message": "名称"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "继续"
+  },
+  "apply": {
+    "message": "应用"
+  },
+  "understood": {
+    "message": "开始吧！"
+  },
+  "view_less": {
+    "message": "显示较少"
+  },
+  "view_more": {
+    "message": "显示更多"
   },
   "main_tab_group": {
     "message": "主标签组"
@@ -345,45 +351,39 @@
     "message": "通过 Tabber Plus 提升您的浏览体验。告别标签混乱，发现提升生产力的工具，改变您在线工作的方式。"
   },
   "plus_feature_title_1": {
-    "message": "无限制的标签组"
+    "message": "更强大的 AI 分组能力"
   },
   "plus_feature_title_2": {
-    "message": "高级分组AI模型"
-  },
-  "plus_feature_title_3": {
     "message": "自动云同步"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "完整的同步历史"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "自定义背景"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "优先支持"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "独家 Patreon 帖子"
   },
   "plus_feature_desc_1": {
-    "message": "您可以对任意数量的标签进行分组，没有限制。"
+    "message": "AI 标签分组上限提升至 5 倍。"
   },
   "plus_feature_desc_2": {
-    "message": "增强的AI模型和更高的使用限制。"
-  },
-  "plus_feature_desc_3": {
     "message": "您的标签会自动在所有设备上同步。"
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "访问您的完整同步历史并恢复任何备份。"
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "为没有预览的页面应用自定义背景。"
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "任何问题和关切都将得到及时解决，确保流畅的体验。"
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "独家访问 Patreon 帖子、投票，并随时了解最新更新、技巧和窍门。"
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "错误"
-  },
-  "tab_group_limit": {
-    "message": "升级到 Tabber Plus 以创建更多标签组"
   },
   "sync_to_cloud": {
     "message": "与云同步"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "AI 标签页分组"
   },
-  "ai_group_description": {
-    "message": "您将使用 AI 分组标签页,它会根据标题和链接分析主题。\n分组前会创建当前标签页的备份,您随时可以恢复。\n请求次数有限,取决于您的标签页数量。大约每天可以对 50 个标签页发出 2 次请求。\nAI 模型并不完美,可能会出错。您可以随时手动纠正分组。\n您可以指定必须存在的分组名称。请使用换行符分隔,例如:\n我的工作\n学习\n娱乐"
+  "ai_group_help_1": {
+    "message": "您将使用 AI 对标签页进行分组，AI 会根据标题和链接分析它们的主题内容。\n在分组开始前，将会创建当前标签页的备份，您随时可以恢复。"
+  },
+  "ai_group_help_2": {
+    "message": "自动分组\n此方法会根据标签内容自动决定要创建多少个分组。\n✅ 无需手动选择分组数量\n✅ 分组通常清晰、分明\n⚠️ 如果某些标签不明显属于某个分组，它们可能不会被分组"
+  },
+  "ai_group_help_3": {
+    "message": "固定分组\n此方法允许您自定义所需的分组数量。所有标签都会被分到某个分组，即使不完全匹配。\n✅ 每个标签都一定会被分组\n⚠️ 如果标签内容差异较大，分组可能不够精确"
+  },
+  "ai_group_help_4": {
+    "message": "请求次数有限，具体取决于您拥有的标签页数量。\n如果跳过生成分组名称，可大幅减少使用次数。建议先尝试不带名称的分组方式，确定最佳方案后再生成名称。"
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "自动"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "固定"
+  },
+  "ai_group_clusters_count": {
+    "message": "约 $1 个分组"
+  },
+  "ai_group_generate_names": {
+    "message": "生成名称"
   },
   "ai_group_select_group": {
     "message": "从以下来源分组标签页"
   },
+  "ai_group_remaining": {
+    "message": "今日剩余次数"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "选择最适合您的选项"
+  },
+  "ai_group_error_sign_in": {
+    "message": "您需要登录才能使用 AI 分组功能"
+  },
   "ai_group_error_unauthorized": {
     "message": "未授权"
-  },
-  "ai_group_error_no_license": {
-    "message": "无许可证"
   },
   "ai_group_error_quota_exceeded": {
     "message": "超出配额"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "标签页列表"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1 个标签组"
+  },
+  "tab_groups_count_one": {
+    "message": "$1 个标签组"
+  },
+  "tab_groups_count_two": {
+    "message": "$1 个标签组"
+  },
+  "tab_groups_count_few": {
+    "message": "$1 个标签组"
+  },
+  "tab_groups_count_many": {
+    "message": "$1 个标签组"
+  },
+  "tab_groups_count_other": {
+    "message": "$1 个标签组"
   }
 }

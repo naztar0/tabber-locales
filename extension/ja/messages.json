@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "これにより、空のタブグループや重複したタブが削除されます。この操作は元に戻せません。"
   },
+  "share": {
+    "message": "共有"
+  },
+  "bind_sites": {
+    "message": "サイトをバインド"
+  },
+  "merge_with": {
+    "message": "マージ先"
+  },
+  "no_tab_groups": {
+    "message": "タブグループがありません"
+  },
+  "all_tab_groups": {
+    "message": "すべてのタブグループ"
+  },
   "cancel": {
     "message": "キャンセル"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "復元"
-  },
-  "share": {
-    "message": "共有"
-  },
-  "bind_sites": {
-    "message": "サイトをバインド"
-  },
-  "merge_with": {
-    "message": "マージ先"
-  },
-  "no_tab_groups": {
-    "message": "タブグループがありません"
-  },
-  "all_tab_groups": {
-    "message": "すべてのタブグループ"
-  },
-  "read_less": {
-    "message": "閉じる"
-  },
-  "read_more": {
-    "message": "もっと見る"
   },
   "name": {
     "message": "名前"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "進む"
+  },
+  "apply": {
+    "message": "適用"
+  },
+  "understood": {
+    "message": "さあ始めよう！"
+  },
+  "view_less": {
+    "message": "表示を減らす"
+  },
+  "view_more": {
+    "message": "もっと見る"
   },
   "main_tab_group": {
     "message": "主要"
@@ -345,45 +351,39 @@
     "message": "Tabber Plusでブラウジング体験をアップグレード。タブの混乱から解放され、オンラインでの作業方法を変える生産性向上ツールの世界を発見しましょう。"
   },
   "plus_feature_title_1": {
-    "message": "無制限のタブグループ"
+    "message": "AIグループ化のパワーアップ"
   },
   "plus_feature_title_2": {
-    "message": "グループ化のための高度なAIモデル"
-  },
-  "plus_feature_title_3": {
     "message": "自動クラウド同期"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "完全な同期履歴"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "カスタム背景"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "優先サポート"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "Patreonの独占投稿"
   },
   "plus_feature_desc_1": {
-    "message": "グループ化できるタブの数に制限はありません。"
+    "message": "AIによるタブグループ化の上限が最大5倍に増加。"
   },
   "plus_feature_desc_2": {
-    "message": "強化されたAIモデルとより高い使用制限。"
-  },
-  "plus_feature_desc_3": {
     "message": "タブがすべてのデバイスで自動的に同期されます。"
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "完全な同期履歴にアクセスして、バックアップを復元できます。"
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "プレビューなしのページにカスタム背景を適用します。"
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "質問や懸念事項は迅速に対応し、スムーズな体験を提供します。"
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "Patreonの投稿、アンケートへの独占アクセスと、最新のアップデート、ヒント、トリックを常に把握。"
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "エラー"
-  },
-  "tab_group_limit": {
-    "message": "Tabber Plusにアップグレードして、より多くのタブグループを作成"
   },
   "sync_to_cloud": {
     "message": "クラウドと同期"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "AI 搭載のタブグループ化"
   },
-  "ai_group_description": {
-    "message": "タイトルとリンクに基づいてトピックを解析する AI を使用してタブをグループ化します。\nグループ化する前に、現在のタブのバックアップが作成されるため、いつでも元に戻すことができます。\nリクエスト数はタブの数に応じて制限されています。50 個のタブで 1 日に約 2 回のリクエストが可能です。\nAI モデルは完全ではなく、間違いを起こす可能性があります。手動で修正できます。\n存在する必要のあるグループ名を指定できます。次のように改行で区切って指定してください。\n私の仕事\n勉強\nエンターテインメント"
+  "ai_group_help_1": {
+    "message": "AIを使ってタブをグループ化します。タイトルとリンクから内容を分析します。\nグループ化の前に現在のタブのバックアップが作成されるため、いつでも元に戻すことができます。"
+  },
+  "ai_group_help_2": {
+    "message": "自動グループ化\nこの方法では、タブの内容に基づいてAIが自動的にグループ数を決定します。\n✅ グループ数を指定する必要なし\n✅ グループは通常、きれいに分けられます\n⚠️ 内容に合わないタブはグループ外になる場合があります"
+  },
+  "ai_group_help_3": {
+    "message": "固定グループ化\nこの方法では、作成するグループ数を自分で決められます。すべてのタブがどれかのグループに必ず含まれますが、内容に完全に一致しない場合もあります。\n✅ すべてのタブが必ずグループ化される\n⚠️ タブの内容が異なりすぎると精度が下がる可能性があります"
+  },
+  "ai_group_help_4": {
+    "message": "リクエスト数には上限があり、タブ数に応じて変動します。\nグループ名の生成を省略することで、大幅に使用量を削減できます。まずは名前なしで最適な方法を探し、その後名前付きで再実行しましょう。"
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "自動"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "固定"
+  },
+  "ai_group_clusters_count": {
+    "message": "±$1 グループ"
+  },
+  "ai_group_generate_names": {
+    "message": "名前を生成"
   },
   "ai_group_select_group": {
     "message": "タブのグループ元"
   },
+  "ai_group_remaining": {
+    "message": "本日残り"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "最適なオプションを選択してください"
+  },
+  "ai_group_error_sign_in": {
+    "message": "AIグループ化を使用するにはサインインが必要です"
+  },
   "ai_group_error_unauthorized": {
     "message": "認証されていません"
-  },
-  "ai_group_error_no_license": {
-    "message": "ライセンスがありません"
   },
   "ai_group_error_quota_exceeded": {
     "message": "割り当て量を超えました"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "タブリスト"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1 件のタブグループ"
+  },
+  "tab_groups_count_one": {
+    "message": "$1 件のタブグループ"
+  },
+  "tab_groups_count_two": {
+    "message": "$1 件のタブグループ"
+  },
+  "tab_groups_count_few": {
+    "message": "$1 件のタブグループ"
+  },
+  "tab_groups_count_many": {
+    "message": "$1 件のタブグループ"
+  },
+  "tab_groups_count_other": {
+    "message": "$1 件のタブグループ"
   }
 }

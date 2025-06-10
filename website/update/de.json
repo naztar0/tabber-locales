@@ -100,5 +100,39 @@
         "Dem Farbwähler wurde eine Standardfarbe hinzugefügt."
       ]
     }
+  },
+  "1.9": {
+    "title": "Tabber wurde auf Version 1.9 aktualisiert",
+    "subtitle": "Entdecken Sie die neuesten Funktionen und Verbesserungen",
+    "content_main": [
+      {
+        "title": "KI-Gruppierung 2.0",
+        "description": [
+          "Die Tab-Gruppierung wurde komplett überarbeitet.",
+          "Wählen Sie je nach Bedarf zwischen zwei Methoden und verfolgen Sie Ihre tägliche Nutzung mit dem neuen Zähler. Keine ungruppierten Tabs mehr!"
+        ],
+        "image": "/static/update/1.9/tabs-grouping.jpg"
+      },
+      {
+        "title": "Neues Vorschau-Design",
+        "description": [
+          "Die Sicherungshistorie unterstützt jetzt vier Layouts – Listenansicht und drei Rastertypen."
+        ],
+        "image": "/static/update/1.9/previews-design.jpg"
+      },
+      {
+        "title": "Jetzt in 30 Sprachen verfügbar",
+        "description": [
+          "Haben Sie einen Übersetzungsfehler gefunden? Sie können jetzt Korrekturen auf [Crowdin](https://crowdin.com/project/tabber) vorschlagen."
+        ],
+        "image": "/static/update/1.9/crowdin.jpg"
+      }
+    ],
+    "content_additional": {
+      "title": "Weitere Verbesserungen",
+      "description": [
+        "Keine Begrenzungen mehr – kostenlose Nutzer können jetzt unbegrenzt viele Gruppen erstellen!"
+      ]
+    }
   }
 }

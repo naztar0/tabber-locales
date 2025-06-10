@@ -137,6 +137,21 @@
   "clean_up_junk_confirm_description": {
     "message": "Aceasta va șterge grupurile de file goale și filele duplicate. Această acțiune nu poate fi anulată."
   },
+  "share": {
+    "message": "Partajează"
+  },
+  "bind_sites": {
+    "message": "Leagă site-uri"
+  },
+  "merge_with": {
+    "message": "Combină cu"
+  },
+  "no_tab_groups": {
+    "message": "Niciun grup de file"
+  },
+  "all_tab_groups": {
+    "message": "Toate grupurile de file"
+  },
   "cancel": {
     "message": "Anulează"
   },
@@ -154,27 +169,6 @@
   },
   "restore": {
     "message": "Restaurează"
-  },
-  "share": {
-    "message": "Partajează"
-  },
-  "bind_sites": {
-    "message": "Leagă site-uri"
-  },
-  "merge_with": {
-    "message": "Combină cu"
-  },
-  "no_tab_groups": {
-    "message": "Niciun grup de file"
-  },
-  "all_tab_groups": {
-    "message": "Toate grupurile de file"
-  },
-  "read_less": {
-    "message": "Citește mai puțin"
-  },
-  "read_more": {
-    "message": "Citește mai mult"
   },
   "name": {
     "message": "Nume"
@@ -199,6 +193,18 @@
   },
   "proceed": {
     "message": "Continuă"
+  },
+  "apply": {
+    "message": "Aplică"
+  },
+  "understood": {
+    "message": "Să începem!"
+  },
+  "view_less": {
+    "message": "Vezi mai puțin"
+  },
+  "view_more": {
+    "message": "Vezi mai mult"
   },
   "main_tab_group": {
     "message": "Principal"
@@ -345,45 +351,39 @@
     "message": "Îmbunătățește-ți experiența de navigare cu Tabber Plus. Spune adio haosului de file și descoperă un univers de instrumente care îți sporesc productivitatea și îți transformă modul de lucru online."
   },
   "plus_feature_title_1": {
-    "message": "Grupuri de file nelimitate"
+    "message": "Mai multă putere AI pentru grupare"
   },
   "plus_feature_title_2": {
-    "message": "Model AI avansat pentru grupare"
-  },
-  "plus_feature_title_3": {
     "message": "Sincronizare automată în cloud"
   },
-  "plus_feature_title_4": {
+  "plus_feature_title_3": {
     "message": "Istoric complet de sincronizări"
   },
-  "plus_feature_title_5": {
+  "plus_feature_title_4": {
     "message": "Fundal personalizat"
   },
-  "plus_feature_title_6": {
+  "plus_feature_title_5": {
     "message": "Suport prioritar"
   },
-  "plus_feature_title_7": {
+  "plus_feature_title_6": {
     "message": "Postări exclusive pe Patreon"
   },
   "plus_feature_desc_1": {
-    "message": "Fără limite pentru numărul de file pe care le poți grupa."
+    "message": "Beneficiezi de limite de până la 5 ori mai mari pentru gruparea cu AI a filelor."
   },
   "plus_feature_desc_2": {
-    "message": "Model AI îmbunătățit și limite de utilizare extinse."
-  },
-  "plus_feature_desc_3": {
     "message": "Filele tale sunt sincronizate automat pe toate dispozitivele."
   },
-  "plus_feature_desc_4": {
+  "plus_feature_desc_3": {
     "message": "Accesează istoricul complet de sincronizări și restaurează orice backup."
   },
-  "plus_feature_desc_5": {
+  "plus_feature_desc_4": {
     "message": "Aplică un fundal personalizat paginilor fără previzualizări."
   },
-  "plus_feature_desc_6": {
+  "plus_feature_desc_5": {
     "message": "Întrebările și problemele tale vor fi tratate prompt pentru o experiență lină."
   },
-  "plus_feature_desc_7": {
+  "plus_feature_desc_6": {
     "message": "Obține acces exclusiv la postările și sondajele Patreon și rămâi la curent cu cele mai noi actualizări, sfaturi și trucuri."
   },
   "plus_price": {
@@ -391,9 +391,6 @@
   },
   "error": {
     "message": "Eroare"
-  },
-  "tab_group_limit": {
-    "message": "Upgradează la Tabber Plus pentru a crea mai multe grupuri de file"
   },
   "sync_to_cloud": {
     "message": "Sincronizează în cloud"
@@ -761,17 +758,47 @@
   "ai_group_title": {
     "message": "Grupare file cu AI"
   },
-  "ai_group_description": {
-    "message": "Urmează să grupezi filele cu ajutorul AI-ului, care va analiza tematica lor pe baza titlurilor și linkurilor.\nÎnainte de grupare, va fi creat un backup al filelor curente, astfel încât să poți reveni oricând.\nNumărul de cereri este limitat și depinde de câte file ai. Poți face aproximativ 2 cereri pe zi cu 50 de file.\nModelul AI nu este perfect și poate greși. Poți corecta gruparea manual.\nPoți specifica denumiri de grupuri care trebuie neapărat incluse. Introdu-le separate prin linii noi, de exemplu:\nServiciu\nStudii\nDivertisment"
+  "ai_group_help_1": {
+    "message": "Urmează să grupezi filele folosind AI, care va analiza tematica lor pe baza titlurilor și linkurilor.\nÎnainte de grupare, va fi creat un backup al filelor tale actuale, astfel încât să poți reveni oricând."
+  },
+  "ai_group_help_2": {
+    "message": "Grupare automată\nAceastă metodă decide automat câte grupuri să creeze, în funcție de conținutul filelor tale.\n✅ Nu trebuie să alegi numărul de grupuri\n✅ Grupurile sunt, de obicei, clare și bine separate\n⚠️ Unele file pot rămâne negrupate dacă nu se potrivesc clar cu niciun grup"
+  },
+  "ai_group_help_3": {
+    "message": "Grupare fixă\nAceastă metodă îți permite să alegi câte grupuri dorești. Toate filele vor fi incluse într-un grup, chiar dacă potrivirea nu este perfectă.\n✅ Fiecare filă va fi inclusă garantat într-un grup\n⚠️ Gruparea poate fi mai puțin precisă dacă filele sunt foarte diferite"
+  },
+  "ai_group_help_4": {
+    "message": "Numărul de cereri este limitat și depinde de câte file ai.\nPoți reduce considerabil consumul dacă sari peste generarea numelor grupurilor. Întâi găsește cea mai bună variantă de grupare fără nume, apoi rulează din nou cu nume."
+  },
+  "ai_group_algorithm_automatic": {
+    "message": "Automată"
+  },
+  "ai_group_algorithm_fixed": {
+    "message": "Fixă"
+  },
+  "ai_group_clusters_count": {
+    "message": "±$1 grupuri"
+  },
+  "ai_group_generate_names": {
+    "message": "Generează nume"
   },
   "ai_group_select_group": {
     "message": "Grupează filele din"
   },
+  "ai_group_remaining": {
+    "message": "Rămase astăzi"
+  },
+  "ai_group_remaining_data": {
+    "message": "$1%"
+  },
+  "ai_group_choose_result_option": {
+    "message": "Alege opțiunea cea mai bună pentru tine"
+  },
+  "ai_group_error_sign_in": {
+    "message": "Trebuie să te autentifici pentru a folosi gruparea cu AI"
+  },
   "ai_group_error_unauthorized": {
     "message": "Neautorizat"
-  },
-  "ai_group_error_no_license": {
-    "message": "Fără licență"
   },
   "ai_group_error_quota_exceeded": {
     "message": "Limită depășită"
@@ -841,5 +868,23 @@
   },
   "v_tabs_list": {
     "message": "Listă de file"
+  },
+  "tab_groups_count_zero": {
+    "message": "$1 grupuri de file"
+  },
+  "tab_groups_count_one": {
+    "message": "$1 grup de file"
+  },
+  "tab_groups_count_two": {
+    "message": "$1 grupuri de file"
+  },
+  "tab_groups_count_few": {
+    "message": "$1 grupuri de file"
+  },
+  "tab_groups_count_many": {
+    "message": "$1 grupuri de file"
+  },
+  "tab_groups_count_other": {
+    "message": "$1 grupuri de file"
   }
 }
