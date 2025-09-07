@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "זיהוי לשוניות לפי כותרת"
   },
+  "advanced_tab_grouping": {
+    "message": "קיבוץ מתקדם של כרטיסיות [β]"
+  },
   "pause_auto_preserve": {
     "message": "השהה שמירה אוטומטית"
   },

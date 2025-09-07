@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Identifikuj kartice po naslovu"
   },
+  "advanced_tab_grouping": {
+    "message": "Napredno grupisanje kartica [β]"
+  },
   "pause_auto_preserve": {
     "message": "Pauziraj automatsko čuvanje"
   },

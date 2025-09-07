@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Fülek azonosítása cím alapján"
   },
+  "advanced_tab_grouping": {
+    "message": "Speciális lapcsoportosítás [β]"
+  },
   "pause_auto_preserve": {
     "message": "Automatikus megőrzés szüneteltetése"
   },

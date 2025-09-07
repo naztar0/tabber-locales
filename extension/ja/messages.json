@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "タイトルでタブを識別"
   },
+  "advanced_tab_grouping": {
+    "message": "高度なタブグループ化 [β]"
+  },
   "pause_auto_preserve": {
     "message": "自動保存を一時停止"
   },

@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Identifica schede per titolo"
   },
+  "advanced_tab_grouping": {
+    "message": "Raggruppamento avanzato delle schede [β]"
+  },
   "pause_auto_preserve": {
     "message": "Metti in pausa la conservazione automatica"
   },

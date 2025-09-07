@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Identifier les onglets par titre"
   },
+  "advanced_tab_grouping": {
+    "message": "Regroupement avancé des onglets [β]"
+  },
   "pause_auto_preserve": {
     "message": "Mettre en pause la préservation automatique"
   },

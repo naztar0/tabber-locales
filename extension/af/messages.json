@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Identifiseer oortjies volgens titel"
   },
+  "advanced_tab_grouping": {
+    "message": "Gevorderde oortjie-groepering [β]"
+  },
   "pause_auto_preserve": {
     "message": "Pouseer outo-bewaar"
   },

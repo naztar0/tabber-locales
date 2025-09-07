@@ -261,6 +261,7 @@
   "disable_animations": { "message": "Disable animations" },
   "max_deleted_tabs": { "message": "Max deleted tabs" },
   "identify_tabs_by_title": { "message": "Identify tabs by title" },
+  "advanced_tab_grouping": { "message": "Advanced tab grouping [β]" },
 
   "pause_auto_preserve": { "message": "Pause auto preserve" },
   "resume_auto_preserve": { "message": "Resume auto preserve ($1)" },

@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "제목으로 탭 식별"
   },
+  "advanced_tab_grouping": {
+    "message": "고급 탭 그룹화 [β]"
+  },
   "pause_auto_preserve": {
     "message": "자동 보존 일시 중지"
   },

@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Sekmeleri başlığa göre tanımlayın"
   },
+  "advanced_tab_grouping": {
+    "message": "Gelişmiş sekme gruplama [β]"
+  },
   "pause_auto_preserve": {
     "message": "Otomatik korumayı duraklat"
   },

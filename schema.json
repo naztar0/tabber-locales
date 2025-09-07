@@ -283,6 +283,7 @@
     "disable_animations": { "$ref": "#/definitions/translationEntry" },
     "max_deleted_tabs": { "$ref": "#/definitions/translationEntry" },
     "identify_tabs_by_title": { "$ref": "#/definitions/translationEntry" },
+    "advanced_tab_grouping": { "$ref": "#/definitions/translationEntry" },
 
     "pause_auto_preserve": { "$ref": "#/definitions/translationEntry" },
     "resume_auto_preserve": { "$ref": "#/definitions/translationEntry" },
@@ -607,6 +608,7 @@
     "disable_animations",
     "max_deleted_tabs",
     "identify_tabs_by_title",
+    "advanced_tab_grouping",
 
     "pause_auto_preserve",
     "resume_auto_preserve",

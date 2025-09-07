@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "通過標題識別標籤頁"
   },
+  "advanced_tab_grouping": {
+    "message": "進階分頁分組 [β]"
+  },
   "pause_auto_preserve": {
     "message": "暫停自動保存"
   },

@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Identificar abas pelo título"
   },
+  "advanced_tab_grouping": {
+    "message": "Agrupamento avançado de abas [β]"
+  },
   "pause_auto_preserve": {
     "message": "Pausar preservação automática"
   },

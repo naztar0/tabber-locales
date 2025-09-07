@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Идентифицировать вкладки по названию"
   },
+  "advanced_tab_grouping": {
+    "message": "Продвинутая группировка вкладок [β]"
+  },
   "pause_auto_preserve": {
     "message": "Приостановить автосохранение"
   },

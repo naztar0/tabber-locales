@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Identificar pestañas por título"
   },
+  "advanced_tab_grouping": {
+    "message": "Agrupación avanzada de pestañas [β]"
+  },
   "pause_auto_preserve": {
     "message": "Pausar preservación automática"
   },

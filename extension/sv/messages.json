@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Identifiera flikar via titel"
   },
+  "advanced_tab_grouping": {
+    "message": "Avancerad flikgruppering [β]"
+  },
   "pause_auto_preserve": {
     "message": "Pausa automatiskt bevarande"
   },

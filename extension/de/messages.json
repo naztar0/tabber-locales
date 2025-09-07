@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Tabs anhand des Titels identifizieren"
   },
+  "advanced_tab_grouping": {
+    "message": "Erweiterte Tab-Gruppierung [β]"
+  },
   "pause_auto_preserve": {
     "message": "Automatische Beibehaltung pausieren"
   },

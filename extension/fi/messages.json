@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Tunnista välilehdet otsikon mukaan"
   },
+  "advanced_tab_grouping": {
+    "message": "Edistynyt välilehtien ryhmittely [β]"
+  },
   "pause_auto_preserve": {
     "message": "Keskeytä automaattinen tallennus"
   },

@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Identifică filele după titlu"
   },
+  "advanced_tab_grouping": {
+    "message": "Grupare avansată a filelor [β]"
+  },
   "pause_auto_preserve": {
     "message": "Pauzează păstrarea automată"
   },

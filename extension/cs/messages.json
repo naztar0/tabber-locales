@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Identifikovat karty podle názvu"
   },
+  "advanced_tab_grouping": {
+    "message": "Pokročilé seskupování karet [β]"
+  },
   "pause_auto_preserve": {
     "message": "Pozastavit automatické ukládání"
   },

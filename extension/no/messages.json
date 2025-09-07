@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Identifiser faner etter tittel"
   },
+  "advanced_tab_grouping": {
+    "message": "Avansert fanegruppering [β]"
+  },
   "pause_auto_preserve": {
     "message": "Pause auto-bevaring"
   },

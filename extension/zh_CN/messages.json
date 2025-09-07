@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "通过标题识别标签页"
   },
+  "advanced_tab_grouping": {
+    "message": "高级标签分组 [β]"
+  },
   "pause_auto_preserve": {
     "message": "暂停自动保存"
   },

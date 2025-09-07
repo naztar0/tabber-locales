@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Identyfikuj karty po tytule"
   },
+  "advanced_tab_grouping": {
+    "message": "Zaawansowane grupowanie kart [β]"
+  },
   "pause_auto_preserve": {
     "message": "Wstrzymaj automatyczne zachowanie"
   },

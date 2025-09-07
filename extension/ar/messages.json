@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "تمييز التبويبات حسب العنوان"
   },
+  "advanced_tab_grouping": {
+    "message": "تجميع علامات التبويب المتقدم [β]"
+  },
   "pause_auto_preserve": {
     "message": "إيقاف الحفظ التلقائي مؤقتًا"
   },

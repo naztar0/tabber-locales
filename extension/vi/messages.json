@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Nhận diện tab theo tiêu đề"
   },
+  "advanced_tab_grouping": {
+    "message": "Nhóm tab nâng cao [β]"
+  },
   "pause_auto_preserve": {
     "message": "Tạm dừng tự động lưu"
   },

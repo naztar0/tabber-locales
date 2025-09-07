@@ -737,6 +737,9 @@
   "identify_tabs_by_title": {
     "message": "Αναγνώριση καρτελών με βάση τον τίτλο"
   },
+  "advanced_tab_grouping": {
+    "message": "Προηγμένη ομαδοποίηση καρτελών [β]"
+  },
   "pause_auto_preserve": {
     "message": "Παύση αυτόματης αποθήκευσης"
   },
