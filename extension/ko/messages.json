@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "우선 지원"
   },
-  "plus_feature_title_6": {
-    "message": "Patreon 독점 게시물"
-  },
   "plus_feature_desc_1": {
     "message": "AI 탭 그룹화 한도가 최대 5배 증가합니다."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "문의 사항과 문제가 신속히 처리되어 원활한 사용 경험을 보장합니다."
-  },
-  "plus_feature_desc_6": {
-    "message": "Patreon의 독점 게시물, 설문조사, 최신 업데이트와 팁들을 확인하세요."
   },
   "plus_price": {
     "message": "월 $1만으로 이용 가능"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "이 그룹에 보존 시 자동으로 추가될 사이트 목록입니다. 각 페이지의 URL을 줄 바꿈으로 입력하세요. 예:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n여러 사이트를 한 줄에 입력하려면 URL 일부를 지정하세요:\ngoogle.com\n정규식을 사용하려면 슬래시로 감싸세요:\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "이봐요, 잠깐만요..."
-  },
-  "review_dialog_description": {
-    "message": "이 확장 프로그램을 꽤 오랫동안 사용 중이시네요. 마음에 드신다면 스토어에 리뷰를 남겨주실 수 있을까요? 덕분에 더 나은 확장을 만들 수 있습니다. 정말 감사합니다!"
   },
   "v_tabs_position": {
     "message": "위치"
