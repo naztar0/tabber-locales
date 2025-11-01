@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "Prioritaire ondersteuning"
   },
-  "plus_feature_title_6": {
-    "message": "Exclusieve Patreon-berichten"
-  },
   "plus_feature_desc_1": {
     "message": "Tot 5x hogere limieten voor AI-tabblaggroepering."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "Vragen en problemen worden snel afgehandeld voor een soepele ervaring."
-  },
-  "plus_feature_desc_6": {
-    "message": "Krijg exclusieve toegang tot Patreon-berichten, polls en blijf op de hoogte van updates, tips en trucs."
   },
   "plus_price": {
     "message": "Slechts $1/maand"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "Lijst van sites die automatisch aan deze tabgroep worden toegevoegd bij het bewaren. Voeg de URL van elke pagina toe op een nieuwe regel. Bijvoorbeeld:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nOm meerdere sites op één regel te koppelen kun je een deel van de URL opgeven:\ngoogle.com\nJe kunt ook een regex gebruiken tussen schuine strepen:\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "Hé, psst..."
-  },
-  "review_dialog_description": {
-    "message": "Je gebruikt deze extensie al een tijdje en het lijkt erop dat je hem fijn vindt! Zou je een beoordeling in de store willen achterlaten? Dat helpt enorm bij verdere ontwikkeling. Hartelijk dank!"
   },
   "v_tabs_position": {
     "message": "Positie"
