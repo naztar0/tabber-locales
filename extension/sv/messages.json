@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "Prioriterad support"
   },
-  "plus_feature_title_6": {
-    "message": "Exklusiva Patreon-inlägg"
-  },
   "plus_feature_desc_1": {
     "message": "Få upp till 5x högre gränser för AI-gruppering."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "Alla frågor och funderingar hanteras snabbt för att säkerställa en smidig upplevelse."
-  },
-  "plus_feature_desc_6": {
-    "message": "Få exklusiv tillgång till Patreon-inlägg, omröstningar och håll dig uppdaterad med de senaste nyheterna, tipsen och trixen."
   },
   "plus_price": {
     "message": "Bara $1/månad"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "Lista över webbplatser som automatiskt kommer att läggas till i denna flikgrupp när de bevaras. Lägg till varje URL på en ny rad. Exempel:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nFör att länka flera sidor i en rad kan du ange en del av URL:en istället:\ngoogle.com\nDu kan även använda regex genom att omge texten med snedstreck:\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "Hej, psst..."
-  },
-  "review_dialog_description": {
-    "message": "Du har använt detta tillägg ett tag nu, och det verkar som att du gillar det! I så fall – skulle du vilja lämna en recension i butiken? Det skulle verkligen hjälpa mig att fortsätta förbättra det. Tack så mycket!"
   },
   "v_tabs_position": {
     "message": "Position"
