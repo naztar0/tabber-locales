@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "Support prioritaire"
   },
-  "plus_feature_title_6": {
-    "message": "Publications exclusives sur Patreon"
-  },
   "plus_feature_desc_1": {
     "message": "Profitez de limites jusqu'à 5 fois plus élevées pour le regroupement d'onglets par IA."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "Toutes les questions et préoccupations seront traitées rapidement, assurant une expérience fluide."
-  },
-  "plus_feature_desc_6": {
-    "message": "Accès exclusif aux publications sur Patreon, sondages et restez informé des dernières mises à jour, astuces et conseils."
   },
   "plus_price": {
     "message": "Seulement $1/mois"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "Liste des sites qui seront automatiquement ajoutés à ce groupe d'onglets lorsqu'ils seront conservés. Ajoutez l'URL de chaque page que vous souhaitez lier sur une nouvelle ligne. Par exemple :\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPour ajouter plusieurs sites sur une seule ligne, vous pouvez spécifier une partie de l'URL :\ngoogle.com\nVous pouvez également spécifier des expressions régulières en enfermant le texte entre des barres obliques :\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "Hé, psst..."
-  },
-  "review_dialog_description": {
-    "message": "Tu utilises cette extension depuis un moment, et il semble qu’elle te plaise ! Si c’est le cas, pourrais-tu laisser un avis sur la boutique ? Cela m’aiderait vraiment à continuer à l’améliorer. Un grand merci !"
   },
   "v_tabs_position": {
     "message": "Position"
