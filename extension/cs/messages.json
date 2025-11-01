@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "Prioritní podpora"
   },
-  "plus_feature_title_6": {
-    "message": "Exkluzivní příspěvky na Patreonu"
-  },
   "plus_feature_desc_1": {
     "message": "Získejte až 5x vyšší limity pro třídění pomocí AI."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "Vaše dotazy a problémy budou rychle řešeny pro plynulý zážitek."
-  },
-  "plus_feature_desc_6": {
-    "message": "Získejte exkluzivní přístup k příspěvkům, anketám a novinkám na Patreonu."
   },
   "plus_price": {
     "message": "Jen 1 $/měsíc"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "Seznam webů, které se automaticky přidají do této skupiny při jejich uložení. Uveďte každou adresu na nový řádek. Například:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPro více webů můžete uvést část adresy:\ngoogle.com\nTaké lze použít regulární výrazy uzavřené ve:\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "Hele, psst..."
-  },
-  "review_dialog_description": {
-    "message": "Používáte toto rozšíření už nějakou dobu a vypadá to, že se vám líbí! Pokud ano, mohli byste prosím zanechat recenzi v obchodě? Hodně by mi to pomohlo s dalším vývojem. Moc díky!"
   },
   "v_tabs_position": {
     "message": "Pozice"
