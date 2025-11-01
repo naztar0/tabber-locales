@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "Priorisierter Support"
   },
-  "plus_feature_title_6": {
-    "message": "Exklusive Patreon-Beiträge"
-  },
   "plus_feature_desc_1": {
     "message": "Erhalte bis zu 5x höhere Limits für die KI-Tab-Gruppierung."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "Alle Fragen und Anliegen werden umgehend bearbeitet und gewährleisten ein reibungsloses Erlebnis."
-  },
-  "plus_feature_desc_6": {
-    "message": "Exklusiver Zugang zu Patreon-Beiträgen, Umfragen und bleiben Sie auf dem Laufenden mit den neuesten Updates, Tipps und Tricks."
   },
   "plus_price": {
     "message": "Nur $1/Monat"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "Liste der Seiten, die automatisch zu dieser Tab-Gruppe hinzugefügt werden, wenn sie gespeichert werden. Fügen Sie die URL jeder Seite, die Sie binden möchten, in eine neue Zeile ein. Beispiel:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nUm mehrere Sites in einer Zeile freizugeben, können Sie einen Teil der URL angeben:\ngoogle.com\nSie können auch Regex angeben, indem Sie den Text in Schrägstriche einschließen:\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "Hey, psst..."
-  },
-  "review_dialog_description": {
-    "message": "Du nutzt diese Erweiterung schon eine Weile, und es sieht so aus, als würdest du sie mögen! Falls das so ist, würdest du vielleicht eine Bewertung im Store hinterlassen? Das würde mir wirklich helfen, sie weiter zu verbessern. Vielen Dank!"
   },
   "v_tabs_position": {
     "message": "Position"
