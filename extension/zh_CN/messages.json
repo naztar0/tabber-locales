@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "优先支持"
   },
-  "plus_feature_title_6": {
-    "message": "独家 Patreon 帖子"
-  },
   "plus_feature_desc_1": {
     "message": "AI 标签分组上限提升至 5 倍。"
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "任何问题和关切都将得到及时解决，确保流畅的体验。"
-  },
-  "plus_feature_desc_6": {
-    "message": "独家访问 Patreon 帖子、投票，并随时了解最新更新、技巧和窍门。"
   },
   "plus_price": {
     "message": "仅需每月 $1"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "保存时将自动添加到此标签组的网站列表。将您要绑定的每个页面的 URL 添加到新行。例如：\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n要在一行上加入多个站点，您可以指定URL的一部分：\ngoogle.com\n您还可以通过用斜杠括起文本来指定正则表达式：\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "嘿，嘘..."
-  },
-  "review_dialog_description": {
-    "message": "你已经使用这个扩展一段时间了，看来你挺喜欢的！如果是这样，你能在商店里留个评价吗？这对我改进它会有很大帮助。非常感谢！"
   },
   "v_tabs_position": {
     "message": "位置"
