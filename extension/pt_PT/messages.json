@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "Suporte prioritário"
   },
-  "plus_feature_title_6": {
-    "message": "Publicações exclusivas no Patreon"
-  },
   "plus_feature_desc_1": {
     "message": "Obtém até 5x mais limite para agrupamento de separadores com IA."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "Qualquer dúvida ou preocupação será atendida prontamente, garantindo uma experiência suave."
-  },
-  "plus_feature_desc_6": {
-    "message": "Acesso exclusivo a publicações no Patreon, enquetes e mantenha-se atualizado com as últimas atualizações, dicas e truques."
   },
   "plus_price": {
     "message": "Apenas $1/mês"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "Lista de sites que serão automaticamente adicionados a este grupo de abas quando forem preservados. Adicione a URL de cada página que deseja vincular em uma nova linha. Por exemplo:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPara incluir vários sites em uma linha, você pode especificar parte da URL:\ngoogle.com\nVocê também pode especificar regex cercando o texto com barras:\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "Ei, psst..."
-  },
-  "review_dialog_description": {
-    "message": "Tens usado esta extensão há algum tempo e parece que gostas dela! Se for o caso, poderias deixar uma avaliação na loja? Isso ajudaria imenso a melhorá-la ainda mais. Muito obrigado!"
   },
   "v_tabs_position": {
     "message": "Posição"
