@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "優先サポート"
   },
-  "plus_feature_title_6": {
-    "message": "Patreonの独占投稿"
-  },
   "plus_feature_desc_1": {
     "message": "AIによるタブグループ化の上限が最大5倍に増加。"
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "質問や懸念事項は迅速に対応し、スムーズな体験を提供します。"
-  },
-  "plus_feature_desc_6": {
-    "message": "Patreonの投稿、アンケートへの独占アクセスと、最新のアップデート、ヒント、トリックを常に把握。"
   },
   "plus_price": {
     "message": "月額$1のみ"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "保存時にこのタブグループに自動的に追加されるサイトのリストです。リンクさせたい各ページのURLを1行ずつ入力してください。例：\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n複数のサイトを1行で指定する場合は、URLの一部だけを指定することも可能です：\ngoogle.com\nまた、スラッシュで囲むことで正規表現を使うこともできます：\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "ねえ、シーッ…"
-  },
-  "review_dialog_description": {
-    "message": "この拡張機能をしばらく使っているみたいだけど、気に入ってるのかな？ もしそうなら、ストアでレビューを書いてもらえない？ 改善を続けるためにとても助かるんだ。ありがとう！"
   },
   "v_tabs_position": {
     "message": "位置"
