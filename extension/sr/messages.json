@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "Prioritetna podrška"
   },
-  "plus_feature_title_6": {
-    "message": "Ekskluzivne objave na Patreonu"
-  },
   "plus_feature_desc_1": {
     "message": "Dobijte i do 5 puta veće limite za grupisanje pomoću veštačke inteligencije."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "Vaša pitanja i problemi biće brzo rešeni, za nesmetano iskustvo."
-  },
-  "plus_feature_desc_6": {
-    "message": "Dobijte ekskluzivan pristup objavama, anketama i novostima na Patreonu."
   },
   "plus_price": {
     "message": "Samo $1/mesec"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "Lista sajtova koji će automatski biti dodati ovoj grupi kartica kada se sačuvaju. Dodajte URL svake stranice koju želite povezati, po jedan po redu. Na primer:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nZa više sajtova u jednoj liniji možete navesti deo URL-a:\ngoogle.com\nTakođe možete koristiti regularne izraze između kosih crta:\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "Hej, pssst..."
-  },
-  "review_dialog_description": {
-    "message": "Koristite ovo proširenje već neko vreme, i izgleda da vam se dopada! Ako jeste, da li biste mogli ostaviti recenziju u prodavnici? To bi mi mnogo pomoglo da ga unapredim. Hvala puno!"
   },
   "v_tabs_position": {
     "message": "Pozicija"
