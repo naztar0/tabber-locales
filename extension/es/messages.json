@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "Soporte prioritario"
   },
-  "plus_feature_title_6": {
-    "message": "Publicaciones exclusivas en Patreon"
-  },
   "plus_feature_desc_1": {
     "message": "Obtén hasta 5 veces más límite para la agrupación de pestañas con IA."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "Cualquier pregunta o inquietud será atendida con prontitud, asegurando una experiencia fluida."
-  },
-  "plus_feature_desc_6": {
-    "message": "Accede exclusivamente a publicaciones en Patreon, encuestas y mantente al tanto de las últimas actualizaciones, consejos y trucos."
   },
   "plus_price": {
     "message": "Solo $1/mes"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "Lista de sitios que se agregarán automáticamente a este grupo de pestañas cuando se guarden. Agregue la URL de cada página que desea vincular en una nueva línea. Por ejemplo:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPara incluir varios sitios en una línea, puede especificar parte de la URL:\ngoogle.com\nTambién puede especificar expresiones regulares encerrando el texto entre barras diagonales:\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "Ey, pssst..."
-  },
-  "review_dialog_description": {
-    "message": "Has estado usando esta extensión por un tiempo, ¡y parece que te gusta! Si es así, ¿te importaría dejar una reseña en la tienda? Me ayudaría mucho a seguir mejorándola. ¡Muchas gracias!"
   },
   "v_tabs_position": {
     "message": "Posición"
