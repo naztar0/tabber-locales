@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "Suport prioritar"
   },
-  "plus_feature_title_6": {
-    "message": "Postări exclusive pe Patreon"
-  },
   "plus_feature_desc_1": {
     "message": "Beneficiezi de limite de până la 5 ori mai mari pentru gruparea cu AI a filelor."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "Întrebările și problemele tale vor fi tratate prompt pentru o experiență lină."
-  },
-  "plus_feature_desc_6": {
-    "message": "Obține acces exclusiv la postările și sondajele Patreon și rămâi la curent cu cele mai noi actualizări, sfaturi și trucuri."
   },
   "plus_price": {
     "message": "Doar $1/lună"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "Listă de site-uri care vor fi adăugate automat în acest grup de file când sunt păstrate. Adaugă URL-ul fiecărei pagini pe o linie nouă. De exemplu:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPentru mai multe site-uri într-o linie, poți specifica o parte din URL:\ngoogle.com\nPoți folosi și expresii regulate încadrând textul între slash-uri:\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "Hei, Pssst..."
-  },
-  "review_dialog_description": {
-    "message": "Folosești extensia de ceva vreme și pare că îți place! Dacă da, ai putea lăsa o recenzie în magazinul de extensii? M-ar ajuta mult să o îmbunătățesc. Mulțumesc mult!"
   },
   "v_tabs_position": {
     "message": "Poziție"
