@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "Suport prioritari"
   },
-  "plus_feature_title_6": {
-    "message": "Publicacions exclusives a Patreon"
-  },
   "plus_feature_desc_1": {
     "message": "Obtén fins a 5 vegades més límit per a l'agrupació de pestanyes amb IA."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "Tots els dubtes i problemes es resoldran ràpidament per garantir una experiència fluida."
-  },
-  "plus_feature_desc_6": {
-    "message": "Accedeix exclusivament a publicacions, enquestes i novetats de Patreon."
   },
   "plus_price": {
     "message": "Només $1/mes"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "Llista de llocs que s’afegiran automàticament a aquest grup quan es preservin. Afegeix la URL de cada pàgina en una línia nova. Per exemple:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPer associar múltiples llocs en una línia, pots indicar una part de la URL:\ngoogle.com\nTambé pots utilitzar expressions regulars entre barres inclinades:\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "Ei, pssst..."
-  },
-  "review_dialog_description": {
-    "message": "Fa temps que fas servir aquesta extensió i sembla que t’agrada! Si és així, et faria res deixar una ressenya a la botiga? Ajudaria molt a seguir millorant-la. Moltes gràcies!"
   },
   "v_tabs_position": {
     "message": "Posició"
