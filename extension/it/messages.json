@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "Supporto prioritario"
   },
-  "plus_feature_title_6": {
-    "message": "Post esclusivi su Patreon"
-  },
   "plus_feature_desc_1": {
     "message": "Ottieni fino a 5 volte più limiti per il raggruppamento delle schede tramite IA."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "Domande e problemi verranno gestiti tempestivamente per garantirti un'esperienza fluida."
-  },
-  "plus_feature_desc_6": {
-    "message": "Ottieni accesso esclusivo ai post su Patreon, sondaggi e resta aggiornato su novità, suggerimenti e trucchi."
   },
   "plus_price": {
     "message": "Solo $1/mese"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "Elenco dei siti che saranno automaticamente aggiunti a questo gruppo quando vengono conservati. Aggiungi l'URL di ogni pagina su una nuova riga. Ad esempio:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPer associare più siti in una riga, puoi specificare parte dell'URL:\ngoogle.com\nPuoi anche usare espressioni regolari racchiudendo il testo tra barre:\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "Ehi, pssst..."
-  },
-  "review_dialog_description": {
-    "message": "Hai usato questa estensione per un po', e sembra che ti piaccia! Se è così, ti andrebbe di lasciare una recensione nello store? Mi aiuterebbe molto a migliorarla. Grazie mille!"
   },
   "v_tabs_position": {
     "message": "Posizione"
