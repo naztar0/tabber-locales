@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Lijst van sites die automatisch aan deze tabgroep worden toegevoegd bij het bewaren. Voeg de URL van elke pagina toe op een nieuwe regel. Bijvoorbeeld:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nOm meerdere sites op één regel te koppelen kun je een deel van de URL opgeven:\ngoogle.com\nJe kunt ook een regex gebruiken tussen schuine strepen:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Hé, psst..."
+  "hint_title_review": {
+    "message": "Hé, psst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Je gebruikt deze extensie al een tijdje en het lijkt erop dat je hem fijn vindt! Zou je een beoordeling in de store willen achterlaten? Dat helpt enorm bij verdere ontwikkeling. Hartelijk dank!"
+  "hint_description_review": {
+    "message": "Je gebruikt deze extensie al een tijdje en het lijkt erop dat je hem fijn vindt! Zou je een beoordeling in de store willen achterlaten? Dat helpt enorm bij verdere ontwikkeling. Hartelijk dank! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "Een nieuwe extensie! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Hoi, Tabber-ontwikkelaar hier! Ik heb onlangs een extensie gemaakt voor mensen die ChatGPT gebruiken. Misschien vind je het handig — bekijk de volledige beschrijving op de winkelpagina. Bedankt voor je steun! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Positie"

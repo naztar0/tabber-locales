@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Korunduğunda bu sekme grubuna otomatik olarak eklenecek sitelerin listesi. Bağlamak istediğiniz her sayfanın URL'sini yeni bir satıra ekleyin. Örneğin:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nAynı satırda birden fazla siteyi beyaz listeye almak için URL'nin bir kısmını belirleyebilirsiniz:\ngoogle.com\nAyrıca metni eğik çizgiler arasına alarak regex belirleyebilirsiniz:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Hey, psst..."
+  "hint_title_review": {
+    "message": "Hey, psst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Bu uzantıyı bir süredir kullanıyorsun ve belli ki hoşuna gidiyor! Öyleyse, mağazada bir yorum bırakır mısın? Geliştirmeye devam edebilmem için gerçekten çok yardımcı olur. Çok teşekkürler!"
+  "hint_description_review": {
+    "message": "Bu uzantıyı bir süredir kullanıyorsun ve belli ki hoşuna gidiyor! Öyleyse, mağazada bir yorum bırakır mısın? Geliştirmeye devam edebilmem için gerçekten çok yardımcı olur. Çok teşekkürler! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "Yeni bir eklenti! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Merhaba, Tabber geliştiricisi burada! Yakın zamanda ChatGPT kullananlar için bir eklenti oluşturdum. Faydalı bulabilirsiniz — mağaza sayfasındaki tam açıklamaya göz atın. Desteğiniz için teşekkürler! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Konum"

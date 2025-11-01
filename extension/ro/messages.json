@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Listă de site-uri care vor fi adăugate automat în acest grup de file când sunt păstrate. Adaugă URL-ul fiecărei pagini pe o linie nouă. De exemplu:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPentru mai multe site-uri într-o linie, poți specifica o parte din URL:\ngoogle.com\nPoți folosi și expresii regulate încadrând textul între slash-uri:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Hei, Pssst..."
+  "hint_title_review": {
+    "message": "Hei, Pssst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Folosești extensia de ceva vreme și pare că îți place! Dacă da, ai putea lăsa o recenzie în magazinul de extensii? M-ar ajuta mult să o îmbunătățesc. Mulțumesc mult!"
+  "hint_description_review": {
+    "message": "Folosești extensia de ceva vreme și pare că îți place! Dacă da, ai putea lăsa o recenzie în magazinul de extensii? M-ar ajuta mult să o îmbunătățesc. Mulțumesc mult! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "O nouă extensie! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Salut, aici dezvoltatorul Tabber! Recent am creat o extensie pentru cei care folosesc ChatGPT. Poate ți se va părea utilă — verifică descrierea completă pe pagina magazinului. Mulțumesc pentru sprijin! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Poziție"

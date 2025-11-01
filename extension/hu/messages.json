@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "A felsorolt webhelyek automatikusan ehhez a fülcsoporthoz kerülnek mentéskor. Adja meg az URL-eket külön sorokban, például:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nTöbb oldal esetén használhatja az URL részleteit is:\ngoogle.com\nReguláris kifejezést is megadhat per jelek közé zárva:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Hé, pszt..."
+  "hint_title_review": {
+    "message": "Hé, pszt... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Már egy ideje használja ezt a bővítményt, és úgy tűnik, elégedett vele! Ha így van, kérjük, hagyjon egy értékelést az áruházban. Nagyon sokat segítene a fejlesztésében. Köszönjük!"
+  "hint_description_review": {
+    "message": "Már egy ideje használja ezt a bővítményt, és úgy tűnik, elégedett vele! Ha így van, kérjük, hagyjon egy értékelést az áruházban. Nagyon sokat segítene a fejlesztésében. Köszönjük! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "Új bővítmény! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Szia, itt a Tabber fejlesztője! Nemrég készítettem egy bővítményt azoknak, akik a ChatGPT-t használják. Lehet, hogy hasznosnak találod — nézd meg a teljes leírást az áruház oldalán. Köszönöm a támogatást! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Pozíció"

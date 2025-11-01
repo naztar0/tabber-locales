@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Llista de llocs que s’afegiran automàticament a aquest grup quan es preservin. Afegeix la URL de cada pàgina en una línia nova. Per exemple:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPer associar múltiples llocs en una línia, pots indicar una part de la URL:\ngoogle.com\nTambé pots utilitzar expressions regulars entre barres inclinades:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Ei, pssst..."
+  "hint_title_review": {
+    "message": "Ei, pssst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Fa temps que fas servir aquesta extensió i sembla que t’agrada! Si és així, et faria res deixar una ressenya a la botiga? Ajudaria molt a seguir millorant-la. Moltes gràcies!"
+  "hint_description_review": {
+    "message": "Fa temps que fas servir aquesta extensió i sembla que t’agrada! Si és així, et faria res deixar una ressenya a la botiga? Ajudaria molt a seguir millorant-la. Moltes gràcies! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "Una nova extensió! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Hola, sóc el desenvolupador de Tabber! He creat recentment una extensió per a les persones que fan servir ChatGPT. Potser et resultarà útil — dona un cop d’ull a la descripció completa a la pàgina de la botiga. Gràcies pel teu suport! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Posició"

@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "רשימת אתרים שיתווספו אוטומטית לקבוצת הלשוניות הזו כאשר הם נשמרים. הוסף את כתובת ה-URL של כל עמוד שברצונך לקשר בשורה נפרדת. לדוגמה:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nכדי לקשר מספר אתרים בשורה אחת, ניתן לציין חלק מהכתובת בלבד:\ngoogle.com\nניתן גם לציין ביטוי רגולרי בתוך סלאשים:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "היי, פסס..."
+  "hint_title_review": {
+    "message": "היי, פסס... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "אתה משתמש בתוסף הזה כבר זמן מה, ונראה שאתה מרוצה! אם כך, האם תוכל להשאיר ביקורת בחנות? זה ממש יעזור לי להמשיך ולשפר אותו. תודה רבה!"
+  "hint_description_review": {
+    "message": "אתה משתמש בתוסף הזה כבר זמן מה, ונראה שאתה מרוצה! אם כך, האם תוכל להשאיר ביקורת בחנות? זה ממש יעזור לי להמשיך ולשפר אותו. תודה רבה! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "תוסף חדש! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "היי, כאן המפתח של Tabber! לאחרונה יצרתי תוסף עבור מי שמשתמשים ב-ChatGPT. ייתכן שתמצא אותו שימושי — עיין בתיאור המלא בעמוד החנות. תודה על התמיכה! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "מיקום"

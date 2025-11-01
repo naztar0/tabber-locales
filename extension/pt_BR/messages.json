@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Lista de sites que serão automaticamente adicionados a este grupo de abas quando forem preservados. Adicione a URL de cada página que deseja vincular em uma nova linha. Por exemplo:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPara incluir vários sites em uma linha, você pode especificar parte da URL:\ngoogle.com\nVocê também pode especificar regex cercando o texto com barras:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Ei, psst..."
+  "hint_title_review": {
+    "message": "Ei, psst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Tens usado esta extensão há algum tempo e parece que gostas dela! Se for o caso, poderias deixar uma avaliação na loja? Isso ajudaria imenso a melhorá-la ainda mais. Muito obrigado!"
+  "hint_description_review": {
+    "message": "Tens usado esta extensão há algum tempo e parece que gostas dela! Se for o caso, poderias deixar uma avaliação na loja? Isso ajudaria imenso a melhorá-la ainda mais. Muito obrigado! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "Uma nova extensão! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Olá, aqui é o desenvolvedor do Tabber! Recentemente criei uma extensão para quem usa o ChatGPT. Talvez você ache útil — confira a descrição completa na página da loja. Obrigado pelo apoio! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Posição"

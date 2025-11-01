@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Liste des sites qui seront automatiquement ajoutés à ce groupe d'onglets lorsqu'ils seront conservés. Ajoutez l'URL de chaque page que vous souhaitez lier sur une nouvelle ligne. Par exemple :\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPour ajouter plusieurs sites sur une seule ligne, vous pouvez spécifier une partie de l'URL :\ngoogle.com\nVous pouvez également spécifier des expressions régulières en enfermant le texte entre des barres obliques :\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Hé, psst..."
+  "hint_title_review": {
+    "message": "Hé, psst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Tu utilises cette extension depuis un moment, et il semble qu’elle te plaise ! Si c’est le cas, pourrais-tu laisser un avis sur la boutique ? Cela m’aiderait vraiment à continuer à l’améliorer. Un grand merci !"
+  "hint_description_review": {
+    "message": "Tu utilises cette extension depuis un moment, et il semble qu’elle te plaise ! Si c’est le cas, pourrais-tu laisser un avis sur la boutique ? Cela m’aiderait vraiment à continuer à l’améliorer. Un grand merci ! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "Une nouvelle extension ! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Salut, ici le développeur de Tabber ! J’ai récemment créé une extension pour ceux qui utilisent ChatGPT. Elle pourrait t’être utile — consulte la description complète sur la page du store. Merci pour ton soutien ! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Position"

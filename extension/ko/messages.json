@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "이 그룹에 보존 시 자동으로 추가될 사이트 목록입니다. 각 페이지의 URL을 줄 바꿈으로 입력하세요. 예:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n여러 사이트를 한 줄에 입력하려면 URL 일부를 지정하세요:\ngoogle.com\n정규식을 사용하려면 슬래시로 감싸세요:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "이봐요, 잠깐만요..."
+  "hint_title_review": {
+    "message": "이봐요, 잠깐만요... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "이 확장 프로그램을 꽤 오랫동안 사용 중이시네요. 마음에 드신다면 스토어에 리뷰를 남겨주실 수 있을까요? 덕분에 더 나은 확장을 만들 수 있습니다. 정말 감사합니다!"
+  "hint_description_review": {
+    "message": "이 확장 프로그램을 꽤 오랫동안 사용 중이시네요. 마음에 드신다면 스토어에 리뷰를 남겨주실 수 있을까요? 덕분에 더 나은 확장을 만들 수 있습니다. 정말 감사합니다! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "새로운 확장 프로그램! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "안녕하세요, Tabber 개발자입니다! 최근 ChatGPT를 사용하는 분들을 위해 확장 프로그램을 만들었습니다. 유용할 수도 있으니 스토어 페이지에서 전체 설명을 확인해 보세요. 지원해 주셔서 감사합니다! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "위치"

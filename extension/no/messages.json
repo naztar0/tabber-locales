@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Liste over nettsteder som automatisk vil bli lagt til denne fanegruppen når de bevares. Legg til en URL per linje. For eksempel:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nFor å legge til flere samtidig kan du bruke deler av URL-en:\ngoogle.com\nDu kan også bruke regex ved å omslutte mønsteret med skråstreker:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Hei, psst..."
+  "hint_title_review": {
+    "message": "Hei, psst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Du har brukt denne utvidelsen en stund, og det ser ut til at du liker den! Hvis det stemmer, vil du vurdere å legge igjen en anmeldelse i butikken? Det vil hjelpe meg stort med å forbedre den. Tusen takk!"
+  "hint_description_review": {
+    "message": "Du har brukt denne utvidelsen en stund, og det ser ut til at du liker den! Hvis det stemmer, vil du vurdere å legge igjen en anmeldelse i butikken? Det vil hjelpe meg stort med å forbedre den. Tusen takk! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "En ny utvidelse! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Hei, dette er Tabber-utvikleren! Jeg har nylig laget en utvidelse for folk som bruker ChatGPT. Kanskje du synes den er nyttig — sjekk hele beskrivelsen på butikksiden. Takk for støtten! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Posisjon"

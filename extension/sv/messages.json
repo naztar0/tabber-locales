@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Lista över webbplatser som automatiskt kommer att läggas till i denna flikgrupp när de bevaras. Lägg till varje URL på en ny rad. Exempel:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nFör att länka flera sidor i en rad kan du ange en del av URL:en istället:\ngoogle.com\nDu kan även använda regex genom att omge texten med snedstreck:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Hej, psst..."
+  "hint_title_review": {
+    "message": "Hej, psst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Du har använt detta tillägg ett tag nu, och det verkar som att du gillar det! I så fall – skulle du vilja lämna en recension i butiken? Det skulle verkligen hjälpa mig att fortsätta förbättra det. Tack så mycket!"
+  "hint_description_review": {
+    "message": "Du har använt detta tillägg ett tag nu, och det verkar som att du gillar det! I så fall – skulle du vilja lämna en recension i butiken? Det skulle verkligen hjälpa mig att fortsätta förbättra det. Tack så mycket! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "Ett nytt tillägg! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Hej, det här är utvecklaren av Tabber! Jag har nyligen skapat ett tillägg för dem som använder ChatGPT. Du kanske tycker det är användbart — kolla in hela beskrivningen på butikssidan. Tack för stödet! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Position"

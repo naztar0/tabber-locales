@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Lista sajtova koji će automatski biti dodati ovoj grupi kartica kada se sačuvaju. Dodajte URL svake stranice koju želite povezati, po jedan po redu. Na primer:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nZa više sajtova u jednoj liniji možete navesti deo URL-a:\ngoogle.com\nTakođe možete koristiti regularne izraze između kosih crta:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Hej, pssst..."
+  "hint_title_review": {
+    "message": "Hej, pssst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Koristite ovo proširenje već neko vreme, i izgleda da vam se dopada! Ako jeste, da li biste mogli ostaviti recenziju u prodavnici? To bi mi mnogo pomoglo da ga unapredim. Hvala puno!"
+  "hint_description_review": {
+    "message": "Koristite ovo proširenje već neko vreme, i izgleda da vam se dopada! Ako jeste, da li biste mogli ostaviti recenziju u prodavnici? To bi mi mnogo pomoglo da ga unapredim. Hvala puno! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "Novo proširenje! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Zdravo, ovde Tabber developer! Nedavno sam napravio proširenje za one koji koriste ChatGPT. Možda će ti biti korisno — pogledaj ceo opis na stranici prodavnice. Hvala na podršci! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Pozicija"

@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Seznam webů, které se automaticky přidají do této skupiny při jejich uložení. Uveďte každou adresu na nový řádek. Například:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPro více webů můžete uvést část adresy:\ngoogle.com\nTaké lze použít regulární výrazy uzavřené ve:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Hele, psst..."
+  "hint_title_review": {
+    "message": "Hele, psst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Používáte toto rozšíření už nějakou dobu a vypadá to, že se vám líbí! Pokud ano, mohli byste prosím zanechat recenzi v obchodě? Hodně by mi to pomohlo s dalším vývojem. Moc díky!"
+  "hint_description_review": {
+    "message": "Používáte toto rozšíření už nějakou dobu a vypadá to, že se vám líbí! Pokud ano, mohli byste prosím zanechat recenzi v obchodě? Hodně by mi to pomohlo s dalším vývojem. Moc díky! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "Nové rozšíření! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Ahoj, tady vývojář Tabberu! Nedávno jsem vytvořil rozšíření pro ty, kdo používají ChatGPT. Možná se ti bude hodit — podívej se na celý popis na stránce obchodu. Díky za podporu! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Pozice"

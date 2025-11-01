@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "保存时将自动添加到此标签组的网站列表。将您要绑定的每个页面的 URL 添加到新行。例如：\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n要在一行上加入多个站点，您可以指定URL的一部分：\ngoogle.com\n您还可以通过用斜杠括起文本来指定正则表达式：\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "嘿，嘘..."
+  "hint_title_review": {
+    "message": "嘿，嘘... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "你已经使用这个扩展一段时间了，看来你挺喜欢的！如果是这样，你能在商店里留个评价吗？这对我改进它会有很大帮助。非常感谢！"
+  "hint_description_review": {
+    "message": "你已经使用这个扩展一段时间了，看来你挺喜欢的！如果是这样，你能在商店里留个评价吗？这对我改进它会有很大帮助。非常感谢！ <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "新的扩展程序！ <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "你好，我是 Tabber 的开发者！我最近为使用 ChatGPT 的用户制作了一个扩展程序。也许你会觉得有用，可以在商店页面查看完整介绍。感谢支持！ <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "位置"

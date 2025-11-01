@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Luettelo sivustoista, jotka lisätään automaattisesti tähän välilehtiryhmään, kun ne tallennetaan. Lisää jokaisen sivun URL uudelle riville. Esimerkiksi:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nVoit määritellä useita sivustoja yhdellä rivillä kirjoittamalla osan URL-osoitteesta:\ngoogle.com\nVoit myös käyttää säännöllisiä lausekkeita ympäröimällä tekstin kauttaviivoilla:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Hei, psst..."
+  "hint_title_review": {
+    "message": "Hei, psst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Olet käyttänyt tätä laajennusta jo jonkin aikaa ja näyttää siltä, että pidät siitä! Jos näin on, jättäisitkö arvostelun kauppaan? Se auttaisi minua parantamaan laajennusta. Suuret kiitokset!"
+  "hint_description_review": {
+    "message": "Olet käyttänyt tätä laajennusta jo jonkin aikaa ja näyttää siltä, että pidät siitä! Jos näin on, jättäisitkö arvostelun kauppaan? Se auttaisi minua parantamaan laajennusta. Suuret kiitokset! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "Uusi laajennus! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Hei, täällä Tabberin kehittäjä! Olen hiljattain tehnyt laajennuksen ChatGPT:n käyttäjille. Saatat pitää sitä hyödyllisenä — käy lukemassa koko kuvaus kaupan sivulta. Kiitos tuestasi! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Sijainti"

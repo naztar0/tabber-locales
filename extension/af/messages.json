@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Lys van webwerwe wat outomaties by hierdie groep gevoeg sal word wanneer dit bewaar word. Voeg die URL van elke bladsy wat jy wil bind op 'n nuwe reël by. Byvoorbeeld:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nOm verskeie webwerwe in een reël te spesifiseer, kan jy net 'n deel van die URL gebruik:\ngoogle.com\nJy kan ook regex gebruik deur die teks tussen skuinsstrepe te plaas:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Haai, Pssst..."
+  "hint_title_review": {
+    "message": "Haai, Pssst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Jy gebruik hierdie uitbreiding al 'n rukkie, en dit lyk of jy daarvan hou! As dit so is, sal jy asseblief 'n resensie in die winkel los? Dit sal my regtig help om dit verder te verbeter. Baie dankie!"
+  "hint_description_review": {
+    "message": "Jy gebruik hierdie uitbreiding al 'n rukkie, en dit lyk of jy daarvan hou! As dit so is, sal jy asseblief 'n resensie in die winkel los? Dit sal my regtig help om dit verder te verbeter. Baie dankie! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "Nuwe uitbreiding! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Hallo, Tabber-ontwikkelaar hier! Ek het onlangs ’n uitbreiding gemaak vir mense wat ChatGPT gebruik. Jy mag dit nuttig vind — kyk gerus na die volledige beskrywing op die winkelblad. Dankie vir jou ondersteuning! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Posisie"

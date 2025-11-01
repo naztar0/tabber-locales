@@ -327,8 +327,10 @@
     "bind_sites_title": { "$ref": "#/definitions/translationEntry" },
     "bind_sites_description": { "$ref": "#/definitions/translationEntry" },
 
-    "review_hint": { "$ref": "#/definitions/translationEntry" },
-    "review_dialog_description": { "$ref": "#/definitions/translationEntry" },
+    "hint_title_review": { "$ref": "#/definitions/translationEntry" },
+    "hint_description_review": { "$ref": "#/definitions/translationEntry" },
+    "hint_title_cgt": { "$ref": "#/definitions/translationEntry" },
+    "hint_description_cgt": { "$ref": "#/definitions/translationEntry" },
 
     "v_tabs_position": { "$ref": "#/definitions/translationEntry" },
     "v_tabs_left": { "$ref": "#/definitions/translationEntry" },
@@ -652,8 +654,10 @@
     "bind_sites_title",
     "bind_sites_description",
 
-    "review_hint",
-    "review_dialog_description",
+    "hint_title_review",
+    "hint_description_review",
+    "hint_title_cgt",
+    "hint_description_cgt",
 
     "v_tabs_position",
     "v_tabs_left",

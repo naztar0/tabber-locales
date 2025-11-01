@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Elenco dei siti che saranno automaticamente aggiunti a questo gruppo quando vengono conservati. Aggiungi l'URL di ogni pagina su una nuova riga. Ad esempio:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPer associare più siti in una riga, puoi specificare parte dell'URL:\ngoogle.com\nPuoi anche usare espressioni regolari racchiudendo il testo tra barre:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Ehi, pssst..."
+  "hint_title_review": {
+    "message": "Ehi, pssst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Hai usato questa estensione per un po', e sembra che ti piaccia! Se è così, ti andrebbe di lasciare una recensione nello store? Mi aiuterebbe molto a migliorarla. Grazie mille!"
+  "hint_description_review": {
+    "message": "Hai usato questa estensione per un po', e sembra che ti piaccia! Se è così, ti andrebbe di lasciare una recensione nello store? Mi aiuterebbe molto a migliorarla. Grazie mille! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "Una nuova estensione! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Ciao, sono lo sviluppatore di Tabber! Ho creato di recente un’estensione per chi usa ChatGPT. Potrebbe esserti utile: dai un’occhiata alla descrizione completa sulla pagina dello store. Grazie per il supporto! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Posizione"

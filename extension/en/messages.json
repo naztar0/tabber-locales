@@ -305,8 +305,10 @@
   "bind_sites_title": { "message": "Bind sites to tab group" },
   "bind_sites_description": { "message": "List of sites that will be automatically added to this tab group when they are preserved. Add the URL of each page you want to bind on a new line. For example:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nTo bind multiple sites in one line you can specify part of the url instead:\ngoogle.com\nYou can also specify regex by enclosing the text in forward slashes:\n/^https:.*google\\.com/" },
 
-  "review_hint": { "message": "Hey, Pssst..." },
-  "review_dialog_description": { "message": "You've been using this extension for a while now, and it seems like you like it! If that's the case, would you mind leaving a review in the store? It would really help me keep improving it. Thanks a lot!" },
+  "hint_title_review": { "message": "Hey, Pssst... <icon:eyes>" },
+  "hint_description_review": { "message": "You've been using this extension for a while now, and it seems like you like it! If that's the case, would you mind leaving a review in the store? It would really help me keep improving it. Thanks a lot! <icon:moom_blush>" },
+  "hint_title_cgt": { "message": "A new extension! <icon:AgADICUAAlcFaEo>" },
+  "hint_description_cgt": { "message": "Hello, Tabber developer here! I recently created an extension for folks using ChatGPT. You might find it useful, check out the full description on the store page. Thanks for the support! <icon:AgADwQwAAgbs8VA>" },
 
   "v_tabs_position": { "message": "Position" },
   "v_tabs_left": { "message": "Left" },

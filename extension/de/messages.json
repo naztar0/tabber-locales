@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Liste der Seiten, die automatisch zu dieser Tab-Gruppe hinzugefügt werden, wenn sie gespeichert werden. Fügen Sie die URL jeder Seite, die Sie binden möchten, in eine neue Zeile ein. Beispiel:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nUm mehrere Sites in einer Zeile freizugeben, können Sie einen Teil der URL angeben:\ngoogle.com\nSie können auch Regex angeben, indem Sie den Text in Schrägstriche einschließen:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Hey, psst..."
+  "hint_title_review": {
+    "message": "Hey, psst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Du nutzt diese Erweiterung schon eine Weile, und es sieht so aus, als würdest du sie mögen! Falls das so ist, würdest du vielleicht eine Bewertung im Store hinterlassen? Das würde mir wirklich helfen, sie weiter zu verbessern. Vielen Dank!"
+  "hint_description_review": {
+    "message": "Du nutzt diese Erweiterung schon eine Weile, und es sieht so aus, als würdest du sie mögen! Falls das so ist, würdest du vielleicht eine Bewertung im Store hinterlassen? Das würde mir wirklich helfen, sie weiter zu verbessern. Vielen Dank! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "Eine neue Erweiterung! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Hallo, hier ist der Entwickler von Tabber! Ich habe vor Kurzem eine Erweiterung für alle erstellt, die ChatGPT verwenden. Vielleicht findest du sie nützlich — sieh dir die vollständige Beschreibung auf der Store-Seite an. Danke für deine Unterstützung! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Position"

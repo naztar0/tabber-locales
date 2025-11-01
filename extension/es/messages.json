@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Lista de sitios que se agregarán automáticamente a este grupo de pestañas cuando se guarden. Agregue la URL de cada página que desea vincular en una nueva línea. Por ejemplo:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nPara incluir varios sitios en una línea, puede especificar parte de la URL:\ngoogle.com\nTambién puede especificar expresiones regulares encerrando el texto entre barras diagonales:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Ey, pssst..."
+  "hint_title_review": {
+    "message": "Ey, pssst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Has estado usando esta extensión por un tiempo, ¡y parece que te gusta! Si es así, ¿te importaría dejar una reseña en la tienda? Me ayudaría mucho a seguir mejorándola. ¡Muchas gracias!"
+  "hint_description_review": {
+    "message": "Has estado usando esta extensión por un tiempo, ¡y parece que te gusta! Si es así, ¿te importaría dejar una reseña en la tienda? Me ayudaría mucho a seguir mejorándola. ¡Muchas gracias! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "¡Nueva extensión! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "¡Hola! Soy el desarrollador de Tabber. Recientemente creé una extensión para quienes usan ChatGPT. Puede que te resulte útil; echa un vistazo a la descripción completa en la página de la tienda. ¡Gracias por tu apoyo! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Posición"

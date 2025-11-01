@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "Danh sách các trang web sẽ được tự động thêm vào nhóm tab này khi bạn lưu chúng. Thêm URL của từng trang bạn muốn liên kết vào một dòng riêng. Ví dụ:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nĐể liên kết nhiều trang cùng lúc, bạn có thể chỉ cần ghi một phần URL, ví dụ:\ngoogle.com\nBạn cũng có thể sử dụng biểu thức chính quy bằng cách đặt chúng giữa hai dấu gạch chéo:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "Này, pssst..."
+  "hint_title_review": {
+    "message": "Này, pssst... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "Bạn đã dùng tiện ích này một thời gian rồi và có vẻ bạn thích nó! Nếu đúng, bạn có thể để lại đánh giá trên cửa hàng không? Điều đó sẽ giúp mình rất nhiều để cải tiến thêm. Cảm ơn bạn rất nhiều!"
+  "hint_description_review": {
+    "message": "Bạn đã dùng tiện ích này một thời gian rồi và có vẻ bạn thích nó! Nếu đúng, bạn có thể để lại đánh giá trên cửa hàng không? Điều đó sẽ giúp mình rất nhiều để cải tiến thêm. Cảm ơn bạn rất nhiều! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "Tiện ích mở rộng mới! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "Xin chào, nhà phát triển Tabber đây! Gần đây tôi đã tạo một tiện ích mở rộng dành cho những người sử dụng ChatGPT. Có thể bạn sẽ thấy nó hữu ích — hãy xem mô tả đầy đủ trên trang cửa hàng. Cảm ơn bạn đã ủng hộ! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "Vị trí"

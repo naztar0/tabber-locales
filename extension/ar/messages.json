@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "قائمة المواقع التي سيتم إضافتها تلقائيًا إلى هذه المجموعة عند حفظها. أضف عنوان URL لكل موقع في سطر جديد. على سبيل المثال:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nيمكنك أيضًا استخدام جزء من الرابط:\ngoogle.com\nأو استخدام تعبير نمطي محاط بشرطتين مائلتين:\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "مرحبًا، لحظة فقط..."
+  "hint_title_review": {
+    "message": "مرحبًا، لحظة فقط... <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "لقد كنت تستخدم هذا الامتداد منذ فترة، ويبدو أنه يعجبك! إن كان كذلك، هل يمكنك ترك تقييم في المتجر؟ هذا سيساعدني كثيرًا في تحسينه. شكرًا جزيلًا!"
+  "hint_description_review": {
+    "message": "لقد كنت تستخدم هذا الامتداد منذ فترة، ويبدو أنه يعجبك! إن كان كذلك، هل يمكنك ترك تقييم في المتجر؟ هذا سيساعدني كثيرًا في تحسينه. شكرًا جزيلًا! <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "إضافة جديدة! <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "مرحبًا، أنا مطوّر Tabber! أنشأت مؤخرًا إضافة لمستخدمي ChatGPT. قد تجدها مفيدة، اطّلع على الوصف الكامل في صفحة المتجر. شكرًا على دعمك! <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "الموضع"

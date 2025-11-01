@@ -845,11 +845,17 @@
   "bind_sites_description": {
     "message": "保存時にこのタブグループに自動的に追加されるサイトのリストです。リンクさせたい各ページのURLを1行ずつ入力してください。例：\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n複数のサイトを1行で指定する場合は、URLの一部だけを指定することも可能です：\ngoogle.com\nまた、スラッシュで囲むことで正規表現を使うこともできます：\n/^https:.*google\\.com/"
   },
-  "review_hint": {
-    "message": "ねえ、シーッ…"
+  "hint_title_review": {
+    "message": "ねえ、シーッ… <icon:eyes>"
   },
-  "review_dialog_description": {
-    "message": "この拡張機能をしばらく使っているみたいだけど、気に入ってるのかな？ もしそうなら、ストアでレビューを書いてもらえない？ 改善を続けるためにとても助かるんだ。ありがとう！"
+  "hint_description_review": {
+    "message": "この拡張機能をしばらく使っているみたいだけど、気に入ってるのかな？ もしそうなら、ストアでレビューを書いてもらえない？ 改善を続けるためにとても助かるんだ。ありがとう！ <icon:moom_blush>"
+  },
+  "hint_title_cgt": {
+    "message": "新しい拡張機能！ <icon:AgADICUAAlcFaEo>"
+  },
+  "hint_description_cgt": {
+    "message": "こんにちは、Tabberの開発者です！最近、ChatGPTを使う人のために拡張機能を作りました。役に立つかもしれませんので、ストアページで詳しい説明をご覧ください。ご支援ありがとうございます！ <icon:AgADwQwAAgbs8VA>"
   },
   "v_tabs_position": {
     "message": "位置"
