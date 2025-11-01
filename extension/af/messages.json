@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "Prioriteitsondersteuning"
   },
-  "plus_feature_title_6": {
-    "message": "Eksklusiewe Patreon-plasings"
-  },
   "plus_feature_desc_1": {
     "message": "Kry tot 5x hoër limiete vir KI-vouergroepering."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "Vrae en bekommernisse word vinnig aangespreek, vir 'n gladde ervaring."
-  },
-  "plus_feature_desc_6": {
-    "message": "Kry eksklusiewe toegang tot Patreon-plasings, meningspeilings en die nuutste wenke en opdaterings."
   },
   "plus_price": {
     "message": "Slegs $1/maand"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "Lys van webwerwe wat outomaties by hierdie groep gevoeg sal word wanneer dit bewaar word. Voeg die URL van elke bladsy wat jy wil bind op 'n nuwe reël by. Byvoorbeeld:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nOm verskeie webwerwe in een reël te spesifiseer, kan jy net 'n deel van die URL gebruik:\ngoogle.com\nJy kan ook regex gebruik deur die teks tussen skuinsstrepe te plaas:\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "Haai, Pssst..."
-  },
-  "review_dialog_description": {
-    "message": "Jy gebruik hierdie uitbreiding al 'n rukkie, en dit lyk of jy daarvan hou! As dit so is, sal jy asseblief 'n resensie in die winkel los? Dit sal my regtig help om dit verder te verbeter. Baie dankie!"
   },
   "v_tabs_position": {
     "message": "Posisie"
