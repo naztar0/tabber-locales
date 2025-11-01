@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "Elsőbbségi támogatás"
   },
-  "plus_feature_title_6": {
-    "message": "Exkluzív Patreon tartalmak"
-  },
   "plus_feature_desc_1": {
     "message": "Akár 5x nagyobb korlát az MI-alapú fülcsoportosításhoz."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "Kérdéseit és problémáit gyorsan megválaszoljuk, biztosítva a zökkenőmentes használatot."
-  },
-  "plus_feature_desc_6": {
-    "message": "Exkluzív hozzáférés Patreon posztokhoz, szavazásokhoz, és a legfrissebb hírekhez, tippekhez és trükkökhöz."
   },
   "plus_price": {
     "message": "Csak $1/hónap"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "A felsorolt webhelyek automatikusan ehhez a fülcsoporthoz kerülnek mentéskor. Adja meg az URL-eket külön sorokban, például:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nTöbb oldal esetén használhatja az URL részleteit is:\ngoogle.com\nReguláris kifejezést is megadhat per jelek közé zárva:\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "Hé, pszt..."
-  },
-  "review_dialog_description": {
-    "message": "Már egy ideje használja ezt a bővítményt, és úgy tűnik, elégedett vele! Ha így van, kérjük, hagyjon egy értékelést az áruházban. Nagyon sokat segítene a fejlesztésében. Köszönjük!"
   },
   "v_tabs_position": {
     "message": "Pozíció"
