@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "優先支持"
   },
-  "plus_feature_title_6": {
-    "message": "獨家 Patreon 帖子"
-  },
   "plus_feature_desc_1": {
     "message": "AI 分組上限提升至 5 倍。"
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "任何問題和關切都將得到及時解決，確保流暢的體驗。"
-  },
-  "plus_feature_desc_6": {
-    "message": "獨家訪問 Patreon 帖子、投票，並隨時了解最新更新、技巧和竅門。"
   },
   "plus_price": {
     "message": "僅需每月 $1"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "保存時將自動添加到此標籤組的網站列表。將您要綁定的每個頁面的 URL 添加到新行。例如：\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\n要在一行上加入多個站點，您可以指定 URL 的一部分：\ngoogle.com\n您還可以通過用斜槓括起文本來指定正則表達式：\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "嘿，噓..."
-  },
-  "review_dialog_description": {
-    "message": "你已經使用這個擴充功能一段時間了，看起來你挺喜歡的！如果是這樣，你可以在商店裡留個評論嗎？這對我改進它會有很大幫助。非常感謝！"
   },
   "v_tabs_position": {
     "message": "位置"
