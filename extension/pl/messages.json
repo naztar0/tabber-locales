@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "Priorytetowe wsparcie"
   },
-  "plus_feature_title_6": {
-    "message": "Ekskluzywne posty na Patreonie"
-  },
   "plus_feature_desc_1": {
     "message": "Nawet 5x większe limity dla grupowania kart przez AI."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "Wszelkie pytania i problemy będą rozwiązywane szybko, zapewniając płynne działanie."
-  },
-  "plus_feature_desc_6": {
-    "message": "Uzyskaj ekskluzywny dostęp do postów na Patreonie, ankiet oraz bądź na bieżąco z aktualizacjami, wskazówkami i trikami."
   },
   "plus_price": {
     "message": "Tylko 1$/miesiąc"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "Lista stron, które będą automatycznie dodawane do tej grupy podczas ich zachowania. Dodaj adres URL każdej strony w nowej linii. Na przykład:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nAby powiązać wiele stron w jednej linii, możesz podać fragment adresu URL:\ngoogle.com\nMożesz także użyć wyrażenia regularnego, umieszczając tekst między ukośnikami:\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "Hej, pssst..."
-  },
-  "review_dialog_description": {
-    "message": "Korzystasz z tego rozszerzenia już od jakiegoś czasu i wygląda na to, że Ci się podoba! Jeśli tak, czy mógłbyś zostawić opinię w sklepie? Bardzo pomoże mi to w dalszym rozwoju. Dzięki wielkie!"
   },
   "v_tabs_position": {
     "message": "Pozycja"
