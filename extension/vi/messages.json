@@ -365,9 +365,6 @@
   "plus_feature_title_5": {
     "message": "Hỗ trợ ưu tiên"
   },
-  "plus_feature_title_6": {
-    "message": "Bài viết độc quyền trên Patreon"
-  },
   "plus_feature_desc_1": {
     "message": "Tăng giới hạn nhóm tab bằng AI lên gấp 5 lần."
   },
@@ -382,9 +379,6 @@
   },
   "plus_feature_desc_5": {
     "message": "Mọi câu hỏi và vấn đề sẽ được xử lý nhanh chóng, đảm bảo trải nghiệm mượt mà."
-  },
-  "plus_feature_desc_6": {
-    "message": "Truy cập độc quyền các bài viết trên Patreon, khảo sát và cập nhật mẹo mới nhất."
   },
   "plus_price": {
     "message": "Chỉ $1/tháng"
@@ -841,12 +835,6 @@
   },
   "bind_sites_description": {
     "message": "Danh sách các trang web sẽ được tự động thêm vào nhóm tab này khi bạn lưu chúng. Thêm URL của từng trang bạn muốn liên kết vào một dòng riêng. Ví dụ:\nhttps://www.youtube.com/feed/subscriptions\nhttps://mail.google.com\nĐể liên kết nhiều trang cùng lúc, bạn có thể chỉ cần ghi một phần URL, ví dụ:\ngoogle.com\nBạn cũng có thể sử dụng biểu thức chính quy bằng cách đặt chúng giữa hai dấu gạch chéo:\n/^https:.*google\\.com/"
-  },
-  "review_hint": {
-    "message": "Này, pssst..."
-  },
-  "review_dialog_description": {
-    "message": "Bạn đã dùng tiện ích này một thời gian rồi và có vẻ bạn thích nó! Nếu đúng, bạn có thể để lại đánh giá trên cửa hàng không? Điều đó sẽ giúp mình rất nhiều để cải tiến thêm. Cảm ơn bạn rất nhiều!"
   },
   "v_tabs_position": {
     "message": "Vị trí"
